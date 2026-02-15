@@ -1,0 +1,290 @@
+{
+  "sender": "Dan Friedman",
+  "total_messages": 71,
+  "messages": [
+    {
+      "date": "2023-04-10T04:56:26",
+      "text": "Hey guys. Trying to write an NFT minter that will pull data from SQL and write it to the Metadata"
+    },
+    {
+      "date": "2023-04-10T04:56:37",
+      "text": "Is there an object called ErgoTokenMetadataBuilder? Or should I use something else?"
+    },
+    {
+      "date": "2023-04-10T08:56:04",
+      "text": "Writing in Scala"
+    },
+    {
+      "date": "2023-04-10T08:56:53",
+      "text": "Not very. Just entries in a SQL database for product traceability"
+    },
+    {
+      "date": "2023-04-10T12:22:20",
+      "text": "What do mean by design?"
+    },
+    {
+      "date": "2023-04-10T12:44:56",
+      "text": "What's the difference between the two?"
+    },
+    {
+      "date": "2023-04-10T12:48:39",
+      "text": "Oh ok. I thought that was for Kushti"
+    },
+    {
+      "date": "2023-04-10T12:52:38",
+      "text": "I think V2 would be better for what I'm trying to do"
+    },
+    {
+      "date": "2023-04-10T18:07:37",
+      "text": "Can you guys point me to an example of minting an NFT in Scala?\nSomething that shows how to mint and write to the registers?"
+    },
+    {
+      "date": "2023-04-12T20:51:25",
+      "text": "Is there a faucet for testnet tokens?"
+    },
+    {
+      "date": "2023-04-12T21:16:05",
+      "text": "Getting some errors"
+    },
+    {
+      "date": "2023-04-12T22:43:47",
+      "text": "What is the best stack to mint am NFT thought code? Nothing has worked for us so far. No luck with Scala or JS"
+    },
+    {
+      "date": "2023-04-12T22:44:09",
+      "text": "What does everyone usually use? Node? Python?"
+    },
+    {
+      "date": "2023-04-12T23:45:56",
+      "text": "I guess we can start with that but what would be the point? I'm sure the network is fine"
+    },
+    {
+      "date": "2023-04-12T23:48:00",
+      "text": "Minting an NFT is a pretty basic operation"
+    },
+    {
+      "date": "2023-04-13T00:00:35",
+      "text": "The issue is not lack of knowledge here, but rather following the documentation on github sending me to dead ends. Dependencies not being recognized. Calls missing etc. Which is the reason for my questions."
+    },
+    {
+      "date": "2023-04-13T00:02:27",
+      "text": "I understand that it's probably pretty straight forward for those who have been working with this stack for some years. But even coming from a similar ecosystem like Cardano, this is kind of complicated. Not as far as logic, but as far as trying to piece knowledge together."
+    },
+    {
+      "date": "2023-04-13T00:10:09",
+      "text": "I might have. Let me check"
+    },
+    {
+      "date": "2023-04-13T00:21:27",
+      "text": "Is that rust or JS?"
+    },
+    {
+      "date": "2023-04-13T03:19:21",
+      "text": "That's great. I'll try it out"
+    },
+    {
+      "date": "2023-04-13T14:08:57",
+      "text": "Looking to write traceability information into the Metadata"
+    },
+    {
+      "date": "2023-04-13T18:16:43",
+      "text": "Is that what it takes to get this stuff running? It's 8am here but I could have some breakfast shochu to get the day started"
+    },
+    {
+      "date": "2023-04-13T22:55:49",
+      "text": "Getting ArrayIndexOB exception when I try to build the project"
+    },
+    {
+      "date": "2023-04-13T23:04:45",
+      "text": "yeah"
+    },
+    {
+      "date": "2023-04-13T23:12:21",
+      "text": "I think that was the problem"
+    },
+    {
+      "date": "2023-04-13T23:12:25",
+      "text": "Im trying testnet"
+    },
+    {
+      "date": "2023-04-13T23:13:18",
+      "text": "NP"
+    },
+    {
+      "date": "2023-04-13T23:13:51",
+      "text": "I need to do it on testnet because I might need to test mint 1000 nfts or even more to load test"
+    },
+    {
+      "date": "2023-04-13T23:19:43",
+      "text": "Theyre going to be created in bulk but will need unique metadata assigned to each from the tracebility data"
+    },
+    {
+      "date": "2023-04-13T23:49:26",
+      "text": "Ran in on mainnet. It threw an exception for the token name saying that it expects Base58 encoding"
+    },
+    {
+      "date": "2023-04-13T23:59:07",
+      "text": "Using double quotes per the read.me"
+    },
+    {
+      "date": "2023-04-14T00:02:09",
+      "text": "Do I need to manually encode any strings to Base58?"
+    },
+    {
+      "date": "2023-04-14T00:07:13",
+      "text": "occam's razor"
+    },
+    {
+      "date": "2023-04-14T00:57:14",
+      "text": "java -jar minting-for-dummies-3.0.0.jar \"mainnet\" \"palmyra-token\" \"this is a test tea token\" \"p.jpg\" \"https://uploads-ssl.webflow.com/633f6d8648371e3386f1cb06/6371d7579366a7717ce501c4_bhupesh-talwar--lk96OJC_qc-unsplash%201.jpg\" \"9egunrSMzDhjcB2Vcqkue82jv8zaRJSJcR6fdwjuGG2JqQaUCy8\""
+    },
+    {
+      "date": "2023-04-14T00:57:22",
+      "text": "this is what mine looks like"
+    },
+    {
+      "date": "2023-04-14T01:25:27",
+      "text": "ok, had to rebuild the jar which fixed that"
+    },
+    {
+      "date": "2023-04-14T01:26:39",
+      "text": "Yeah that was a mistype on my end when I was writing the string here"
+    },
+    {
+      "date": "2023-04-14T01:26:52",
+      "text": "now its having a fit with the mnemonic"
+    },
+    {
+      "date": "2023-04-14T01:29:26",
+      "text": "It's giving me index 7 out of bounds for length 7"
+    },
+    {
+      "date": "2023-04-14T01:30:23",
+      "text": "Is there a parsing character for the mnemonic? Or is it spaces?"
+    },
+    {
+      "date": "2023-04-14T01:31:24",
+      "text": "That's what I'm doing now"
+    },
+    {
+      "date": "2023-04-14T01:32:56",
+      "text": "Something to tell your grandkids"
+    },
+    {
+      "date": "2023-04-14T01:36:19",
+      "text": "Just re-downloaded and rebuild maybe 15 minutes ago"
+    },
+    {
+      "date": "2023-04-14T01:37:06",
+      "text": "There are 8 arguments. Mnemonic is the 8th one. It starts from 0"
+    },
+    {
+      "date": "2023-04-14T01:43:04",
+      "text": "Checked that. Looks ok"
+    },
+    {
+      "date": "2023-04-14T01:45:16",
+      "text": "I mean if it's an index out of bounds I'd think one of the indexes is beyond the string"
+    },
+    {
+      "date": "2023-04-14T01:47:01",
+      "text": "treid it both ways but before I rebuilt the jar the last time. :et me see if thats it"
+    },
+    {
+      "date": "2023-04-14T05:32:25",
+      "text": "Minting with ERG for now. Going to launch a hybrid token using Rosen in a bit"
+    },
+    {
+      "date": "2023-04-14T05:43:50",
+      "text": "Good point"
+    },
+    {
+      "date": "2023-04-14T05:44:13",
+      "text": "Tell that to my wife"
+    },
+    {
+      "date": "2023-04-14T05:46:01",
+      "text": "Hey! What are you hinting at? 😡"
+    },
+    {
+      "date": "2023-04-14T05:47:58",
+      "text": "The initial hurtle of not paying others to do this work like I have for the past seven years"
+    },
+    {
+      "date": "2023-04-14T05:50:29",
+      "text": "Oh I can value it either way. Did this since the 90s. This ain't nuttin. You ever bare the pain of programming in debug? Or dealing with an AS400 mainframe?"
+    },
+    {
+      "date": "2023-04-14T05:50:46",
+      "text": "Now that's pain"
+    },
+    {
+      "date": "2023-04-14T05:52:06",
+      "text": "Oh, I'm that old"
+    },
+    {
+      "date": "2023-04-14T05:52:39",
+      "text": "Fucking RPG still roams the farscape of my nightmares"
+    },
+    {
+      "date": "2023-04-14T05:53:30",
+      "text": "C++, LISP, GW Basic"
+    },
+    {
+      "date": "2023-04-14T05:53:32",
+      "text": "Ugh"
+    },
+    {
+      "date": "2023-04-14T05:54:50",
+      "text": "Amiga assembler"
+    },
+    {
+      "date": "2023-04-14T17:32:30",
+      "text": "Perms?"
+    },
+    {
+      "date": "2023-04-14T17:33:30",
+      "text": "I want perms. And soul glow for Ergo"
+    },
+    {
+      "date": "2023-04-14T17:35:03",
+      "text": "It's concerning that the amount I post is considered a lot"
+    },
+    {
+      "date": "2023-04-14T17:36:42",
+      "text": "Maybe I'm in the right channels and you're just afraid of the revolution"
+    },
+    {
+      "date": "2023-04-14T17:38:57",
+      "text": "Don't be afraid. Don't fight it. Just go with it. It's only frightening because it's new"
+    },
+    {
+      "date": "2023-04-15T16:00:38",
+      "text": "Hey, kind of a basic question. Does Scala use lazy evaluation like Haskell?"
+    },
+    {
+      "date": "2023-04-15T18:16:47",
+      "text": "Maybe your friend. Definitely not mine. He still won't come clean about being SKYNET. Just try asking. You'll see"
+    },
+    {
+      "date": "2023-04-15T19:03:00",
+      "text": "It's pretty funny when it gets woke and for what reason. Woke GPT"
+    },
+    {
+      "date": "2023-04-30T22:23:37",
+      "text": "Anyone know what are the dependencies for ipfs?\n\nKeeps giving me \"Extracting structure failed\"\n\n\"sbt.internal.bootserversocket could not create lock for sbt\""
+    },
+    {
+      "date": "2023-04-30T22:24:27",
+      "text": "using this for my dependencies \n\nlibraryDependencies += \"io.ipfs\" % \"java-ipfs-api\" % \"2.14.2\""
+    },
+    {
+      "date": "2023-05-23T02:56:23",
+      "text": "Can someone recommended a cheap server to host a Scala backend?"
+    },
+    {
+      "date": "2023-05-23T04:00:36",
+      "text": "Nice!"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+=== Chat history for: scalahub ===
+=== Total messages: 18 ===
+
+[2022-02-02T07:18:41]
+I'm not able to see development channel on discord
+
+[2022-08-02T01:45:28]
+It depends on your use case. I think the default value is 4 in oracle pool 2.0
+
+[2022-10-26T08:37:43]
+no major updates from my side as I was on leave most of the week. Other than that have been working on payout contract in Dexy
+
+[2022-11-23T07:37:49]
+My updates: mostly been working on Dexy testing of LP and Intervention contracts
+https://github.com/ergoplatform/ergo-jde/tree/main/kiosk/src/test/scala/kiosk/dexy
+
+[2022-11-23T09:46:07]
+I'll check and get back
+
+[2022-11-23T15:05:49]
+Cannot think of a reason for preserving creation height.. Maybe we can make it >= HEIGHT - buffer ?
+
+[2022-12-21T07:45:44]
+my updates:
+- Working on Dexy review comments by @kushti_ru  Currently splitting LP contract to smaller parts
+
+[2022-12-23T11:50:13]
+Also what is the possibility of adding true inclusion height in box?
+
+[2022-12-23T11:50:15]
+https://github.com/ergoplatform/ergo/issues/1214
+
+[2023-01-07T10:18:08]
+@morphic 
+Getting a weird error in appkit 5.0.0 (it worked fine earlier). Here is a code snippet
+  val arrayBytes: Array[Byte] = ???
+  val foo: ErgoValue[Coll[Byte]] = ErgoValue.of(arrayBytes)
+
+  type mismatch;
+    found   : org.ergoplatform.appkit.ErgoValue[special.collection.Coll[java.lang.Byte]]
+    required: org.ergoplatform.appkit.ErgoValue[special.collection.Coll[scala.Byte]]
+       val foo: ErgoValue[Coll[Byte]] = ErgoValue.of(arrayBytes)
+Looks to be a bug. Could you please check?
+
+[2023-01-07T12:21:55]
+thanks. let me get back if it works.
+
+[2023-01-25T07:06:19]
+I've been mostly working on testing Dexy and minor fixes in contracts
+Latest was tests for "Extract to future" operation
+https://github.com/kushti/dexy-stable/blob/master/code/src/test/scala/dexy/ExtractSpec.scala
+
+[2023-02-01T09:19:45]
+I've been mostly working on various soundness test cases and bug-fixes for Dexy
+https://github.com/kushti/dexy-stable/tree/master/code/src/test/scala/dexy
+
+[2023-08-09T09:20:04]
+I had approved it earlier. Can you please merge it?
+
+[2023-09-26T12:18:51]
+is exodus safe/reliable? (For non-ergo cryptos)
+
+[2023-09-26T12:18:54]
+https://www.exodus.com/
+
+[2023-09-26T12:19:17]
+devs would know better so asking here :P
+
+[2023-09-26T23:52:01]
+Do they need money to list Ergo?
+

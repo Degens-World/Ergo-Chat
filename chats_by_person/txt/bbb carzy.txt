@@ -1,0 +1,15 @@
+=== Chat history for: bbb carzy ===
+=== Total messages: 4 ===
+
+[2023-05-10T10:46:15]
+hello
+
+[2023-05-10T10:46:26]
+I use NBMINER for mining.
+
+[2023-05-10T10:46:31]
+In the notify parameter, 14474011154664524427946373126085988481658748083205070504932198000989 == 8G，
+
+[2023-05-10T10:46:41]
+how it is calculated
+

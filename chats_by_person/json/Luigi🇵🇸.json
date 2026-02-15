@@ -1,0 +1,50 @@
+{
+  "sender": "Luigi🇵🇸",
+  "total_messages": 11,
+  "messages": [
+    {
+      "date": "2023-01-28T05:07:58",
+      "text": "hey guys! anyone can help me with this? at cats.ApplicativeError.$anonfun$recoverWith$1(ApplicativeError.scala:106) \nI'm trying to run the offchain bot and this looks like a recurrent error, how could I fix it?"
+    },
+    {
+      "date": "2023-01-29T02:48:03",
+      "text": "Yeah, I just changed the IP and looks like working... how can I make sure that is working?"
+    },
+    {
+      "date": "2023-01-29T03:51:29",
+      "text": "I foun out that the node is not running properly, I get this error: - Unable to define external address. Specify it manually in scorex.network.declaredAddress."
+    },
+    {
+      "date": "2023-01-29T04:13:00",
+      "text": "no, i'm following the tutorial form the docs, I thought it would be easier to connect the offchain bot"
+    },
+    {
+      "date": "2023-01-29T04:14:55",
+      "text": "😂😂 I see"
+    },
+    {
+      "date": "2023-01-29T04:30:20",
+      "text": "with satergo this command should work same way right? doesn't show much\n\ntail -Fn+0 ergo.log | grep 'ERROR\\|WARN' > output.log"
+    },
+    {
+      "date": "2023-01-29T04:32:48",
+      "text": "😂even with two would be fine"
+    },
+    {
+      "date": "2023-01-29T04:40:16",
+      "text": "ok, full node it's running on Satergo, very fast and nice, now i'm stuck with: docker-compose logs -f, please, I need someone who can translate it for me😂😂"
+    },
+    {
+      "date": "2023-01-29T04:40:37",
+      "text": "traker says this: tracker_1       | [2023-01-29 10:36:12.811] TRACE [efault-async-17][o.e.e.s.n.ErgoNode       ] - unconfirmedTransactions(offset=0, limit=100)\ntracker_1       | [2023-01-29 10:36:12.814] TRACE [default-async-5][o.e.e.s.n.ErgoNode       ] - unconfirmedTransactions(offset=0, limit=100) -> List(..){n=0}"
+    },
+    {
+      "date": "2023-04-15T06:05:06",
+      "text": "Hey everyone, is there a tutorial to add ergopay to a Unity project?"
+    },
+    {
+      "date": "2024-12-12T11:49:07",
+      "text": "Please share guys! \n\nhttps://www.modenatoday.it/eventi/arte-metaverso-universo-spacegallery-phi-hotel-canalgrande-21-dicembre-2024.html"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+=== Chat history for: Moein Zargarzadeh ===
+=== Total messages: 37 ===
+
+[2022-07-02T13:43:14]
+fixed!
+
+[2022-07-03T05:38:38]
+Sure I’ll try to remove that in testnet
+
+[2022-07-13T11:06:05]
+Yes
+
+[2022-08-05T08:35:48]
+what is your address?
+
+[2022-08-10T01:57:42]
+send a similar transaction (similar Input boxes) with more fee but this is not a definitive solution
+
+[2022-11-07T03:31:54]
+Which technology? I can help you probably.
+
+[2023-07-23T14:51:34]
+Hi
+We are owner of ergopool.io
+
+[2023-07-23T15:42:11]
+Which service is using this API?
+
+When did you get this notification?
+
+[2023-07-23T15:42:39]
+the correct url is:
+
+https://oracle-core.ergopool.io/frontendData
+
+[2023-07-23T15:53:16]
+Ok i will check tomorrow
+
+[2024-06-17T01:55:38]
+Hi, it seems like 213 is either forked or out of sync. You can try using my node http://176.9.15.237:9052/
+
+[2024-10-01T05:50:55]
+@anon_br 
+
+Hey our clients are getting this error from nautilus new versions!
+
+[2024-10-01T06:32:13]
+It was default graphql
+
+[2024-10-01T06:33:35]
+And the issue is non deterministic, after some try, transaction created!
+
+[2024-10-10T13:54:48]
+Which tokens do you want?
+
+[2024-10-10T13:56:46]
+done
+
+[2024-11-25T23:19:05]
+Why did you ban my node ? :))
+
+[2024-11-25T23:24:18]
+I’m on 5.022 and I’m sync, it there is new version i can update to other version but need docker image or a related branch to build manually
+
+[2024-11-28T05:00:17]
+I’m talking with @MGpai0 about it, I removed peer directory and my node could not connect to anyone, maybe I should rescan my node again
+
+[2024-12-15T13:51:15]
+I think mainnet
+
+[2024-12-15T13:51:41]
+213 on mainnet is unstable for 24h
+
+[2024-12-15T13:53:47]
+I’m using too and since yesterday I’m geeting a lot of alert from my monitoring stack!
+
+[2024-12-15T13:58:43]
+Do you have any data about unusual connections, such as the type of data being sent to you over P2P? Does your node have a blacklist feature, or has it not been integrated yet?
+
+[2024-12-15T14:00:02]
+Actually, I’m using 213 as one of the backup instances for my load balancer.
+
+[2024-12-26T14:07:29]
+🌉💄 @rosen-bridge/rosen-app
+- Resolve the issue concerning the incorrect amount displayed when clicking the 'Use All' button in bridge page
+- Improve the transaction dialog confirmation to enhance its responsiveness and user experience
+- Enhance error handling on the bridge form and automatically close the transaction modal upon successful processing
+- Enhance the code quality of the wallets logic and hooks to boost maintainability
+
+🧐💄 @rosen-bridge/watcher-app
+- Fix the issue with the dynamic title not updating correctly when changing routes
+
+[2024-12-26T14:08:10]
+🎁 @raffle-v2
+- Completed contract design and unit tests
+- Designed database ERD for raffle service
+
+🌉🧑‍💼 @rosen-bridge/rosen-service
+- [Integrated binance chain scanner (events page api)](https://github.com/rosen-bridge/ui/commit/df17a94d0650c564ca3b36afd05627bf8e56e67e)
+
+💓 @rosen-bridge/health-check
+- [Fixed permit check problem with node apis](https://github.com/rosen-bridge/health-check/commit/4adaf0335fd4678c4f61ba31451d12d35ec69607)
+
+🛡️ @rosen-bridge/guard-service
+- [Fixed database transaction conflicts](https://github.com/rosen-bridge/guard-service/commit/568f63e78a9adeec4b8da0299c7ca726492de430)
+
+🧐 @rosen-bridge/watcher
+- [Fixed database transaction conflicts](https://github.com/rosen-bridge/watcher/commit/9d71ff54e5da1d40d3833fb31f3fe4803110871f)
+- [Fixed required commitment count calculation](https://github.com/rosen-bridge/watcher/tree/bugfix/required-commitment-count)
+
+[2025-05-29T15:30:10]
+Yes, I’m using fleet to import my mnemonic and sign different transactions!
+
+[2025-07-17T03:46:46]
+Hi
+There have been some significant improvements and fixes in version 5.0.27. I believe it’s an opportune moment to update your node to either 5.0.27 or the latest version, 6.0.0.
+
+[2025-08-07T13:41:07]
+It appears that the swagger examples are incompatible with the response. For instance, the API for unconfirmed transactions, such as /transactions/unconfirmed/byTransactionId, has been changed from ErgoTransaction to IndexedErgoTransaction. However, some parameters, like numConfirmations, are missing from the response.
+
+[2025-08-08T13:00:30]
+Yeah I will check it tomorrow morning
+
+[2025-08-09T04:21:44]
+It looks good to me. 
+In general, I believe it’s a wise practice to include the mempool option for new APIs like /blockchain/transaction/byId. However, these features can be added in the next releases!
+
+[2025-09-16T01:05:08]
+Raffle v1!
+
+[2025-11-03T10:19:48]
+Ergopool, yes
+
+[2025-12-13T02:24:40]
+https://testnet.ergoplatform.com/en/transactions/3045ee7157cb4809d7b8ca64be8ca38b898955a65ab341dec99eb950c6d7aa33
+
+[2026-01-25T09:25:31]
+Who is hosting the Spectrum backend? It appears that the backend is offline since yesterday.
+
+[2026-01-25T09:27:29]
+Okay, let me check their functionality!
+
+[2026-02-07T01:24:18]
+@Pgr456 
+@kushti_ru 
+
+Both spectrum backend are down! Could you please check?
+
+https://dex-api.sigmaspace.io
+https://api.spectrum.fi
+

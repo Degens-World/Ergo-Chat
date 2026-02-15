@@ -1,0 +1,78 @@
+{
+  "sender": "Cheese",
+  "total_messages": 18,
+  "messages": [
+    {
+      "date": "2022-03-28T13:04:11",
+      "text": "I feel like we’ve been having small sync issues for the past week that have been building up"
+    },
+    {
+      "date": "2022-04-15T03:35:50",
+      "text": "Computational cost limit per block is 8M, but can be voted on by miners. Usually when I have txs with low enough cost I’ve been able to chain them arbitrarily, I’ve definitely done more than 3 in a single block."
+    },
+    {
+      "date": "2022-04-15T03:42:46",
+      "text": "Yeah not having to go through each and every if branch should help a ton, hopefully v5.0 comes soon"
+    },
+    {
+      "date": "2022-12-19T13:58:05",
+      "text": "For p2s, a specific context var number can be set as a standard (assuming that vars need not start from 0)."
+    },
+    {
+      "date": "2022-12-19T14:10:03",
+      "text": "I think restriction to just p2pk and multisig outputs makes the most sense then. Dealing with p2s gets messy and I see no good point in adding messages / attatchments there in the first place. But, I dont see myself using this feature much anyway so 🤷‍♂️"
+    },
+    {
+      "date": "2022-12-19T14:11:36",
+      "text": "I think 2 is an incorrect assumption. Order book style p2s (and others) contracts may set registers only accessed by a contract which is to be spent as a second input. Registers need not be only accessed by the box they are set on."
+    },
+    {
+      "date": "2022-12-19T14:12:22",
+      "text": "The box that has the register set on it may only check that the second input is of correct propbyte hash."
+    },
+    {
+      "date": "2022-12-19T14:14:10",
+      "text": "In general, I feel p2s has too many possibilities to make assumptions like that."
+    },
+    {
+      "date": "2022-12-19T14:16:58",
+      "text": "Are babel outputs going to p2pk or p2s? My issue is coming from setting registers on theoretically any p2s output, at least with p2pk you can always just respend it afterwards."
+    },
+    {
+      "date": "2024-12-27T10:49:58",
+      "text": "Late Lithos Update:\n- Finishing up last few NISP contracts, then building tests\n- Figured out the initial design for the optimistic rollup and how the fraud proof contracts will interact with it."
+    },
+    {
+      "date": "2025-08-11T10:54:21",
+      "text": "Yes, I'll be sending you some contracts to look over soon 😁"
+    },
+    {
+      "date": "2025-11-15T17:57:21",
+      "text": "I guess I would need to to know more about how LLM inference would work across a group of miners. Lithos is relying on the \"goodness\" concept of NiPoPoWs, where we can verify work was done based on statistical properties of sets of hashes. Not sure how that would translate to LLM work. If you can explain more the idea I can try to see if it could work in Lithos."
+    },
+    {
+      "date": "2025-11-20T12:03:03",
+      "text": "USE is related to dexy or is it a separate protocol?"
+    },
+    {
+      "date": "2025-11-22T16:38:49",
+      "text": "@kushti_ru Is it possible to add this api route into current mainnet and testnet builds? Please review and let me know if anything needs changing.\n\nhttps://github.com/ergoplatform/ergo/pull/2255"
+    },
+    {
+      "date": "2025-11-22T17:05:46",
+      "text": "I assume you mean for the lender receiving the block reward? Yes, lithos client will keep track of it. I guess it would be good for nautilus to also scan the mining reward contract for new utxos as well."
+    },
+    {
+      "date": "2025-12-03T17:02:08",
+      "text": "Lithos\n-----------------\nJust released testnet version 2.0.2:\n- Fixed sync bug which attempted to apply transformations to NISPTrees which were already dropped\n- Fixed bug regarding fraud proof evaluation of NISPs with small sizes\n- Improved logging for synchronization and transformations\nhttps://github.com/Lithos-Protocol/Lithos-Client/releases/tag/v2.0.2-test\n\n\nSince last dev update, we've added the following:\n- detection and saving of NISPs\n- fraud proof contracts\n- evaluation of fraud proofs to remove invalid share proofs\n- various stratum and synchronization bug fixes"
+    },
+    {
+      "date": "2025-12-17T18:39:10",
+      "text": "Lithos:\n- Released version 2.2.0\nhttps://github.com/Lithos-Protocol/Lithos-Client/releases/tag/v2.2.0-test\n\n- Upgraded sync process to be multi-threaded\n- Rollups / NISPTrees now sync individually\n- Changed logging for sync process\n- Most APIs listing data objects are now sorted by height of the mined block they are associated with\n- Fixed LDB errors related to multiple database instances"
+    },
+    {
+      "date": "2026-01-15T17:25:43",
+      "text": "Yes done with Lithos 3.0 now so am focusing on appkit"
+    }
+  ]
+}

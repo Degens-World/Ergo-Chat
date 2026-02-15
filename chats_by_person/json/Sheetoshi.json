@@ -1,0 +1,34 @@
+{
+  "sender": "Sheetoshi",
+  "total_messages": 7,
+  "messages": [
+    {
+      "date": "2025-07-16T22:45:05",
+      "text": "hi I'm running node v5.0.25 and running into sync issues all of sudden. \n\nI'm encountering the following errors within the logs...\n03:26:04.477 ERROR [f-indexer-dispatcher-5147] o.e.n.h.extra.IndexedToken - Box 48912586 not found in any segment of parent\n03:26:04.478 ERROR [f-indexer-dispatcher-5147] o.e.n.h.extra.IndexedToken - Box 48912586 not found in any segment of parent\n08:36:14.792 ERROR [f-indexer-dispatcher-5437] o.e.n.h.extra.ExtraIndexer - Unknown token d9a2cc8a09abfaed87afacfbb7daee79a6b26f10c6613fc13d3f3953e5521d1a\n19:33:12.233 ERROR [f-indexer-dispatcher-5920] o.e.n.h.extra.ExtraIndexer - Stopped extra indexer\n\nAny insight on what the root cause may be or if I can recover without having to resync?"
+    },
+    {
+      "date": "2025-07-17T00:31:49",
+      "text": "going to resync so no worries"
+    },
+    {
+      "date": "2025-07-17T08:41:34",
+      "text": "time to get on v6 😎"
+    },
+    {
+      "date": "2025-07-18T22:42:46",
+      "text": "Took about 1.5 days to sync 6.0.0 full node on rasp pi vs 3+ days on 5.0.25. Nice!"
+    },
+    {
+      "date": "2025-11-25T11:54:44",
+      "text": "hi I'm working on getting ergo explorer running locally atm. node and database have been synced but seeing a discrepancy with circulating supply on /info endpoint\n\nhttps://api.ergoplatform.com/info\n{\n  \"version\": \"4\",\n  \"supply\": 82428627000000000,\n  \"transactionAverage\": 6621,\n  \"hashRate\": 3403456708997\n}\n\nhttp://localhost:8080/api/v0/info\n{\n  \"version\": \"4\",\n  \"supply\": 93070680000000000,\n  \"transactionAverage\": 6635,\n  \"hashRate\": 3407998438071\n}\n\nis this data corruption or could it be due to something else?"
+    },
+    {
+      "date": "2025-11-25T12:27:56",
+      "text": "does that mean it could be a version issue then?"
+    },
+    {
+      "date": "2025-11-26T09:04:57",
+      "text": "EXPLORER_VERSION: 9.17.4"
+    }
+  ]
+}

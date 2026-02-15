@@ -1,0 +1,198 @@
+{
+  "sender": "Ilya Oskin",
+  "total_messages": 48,
+  "messages": [
+    {
+      "date": "2021-12-25T05:39:45",
+      "text": "Which API?"
+    },
+    {
+      "date": "2021-12-25T05:46:12",
+      "text": "You can ask a user to sign something in order to verify his ownership of an address. And maybe also make sure the address has some transactions in the blockchain. \nDon’t have any example of such scheme though"
+    },
+    {
+      "date": "2021-12-31T11:31:34",
+      "text": "You mean storing images on-chain?"
+    },
+    {
+      "date": "2021-12-31T11:37:55",
+      "text": "Blockchain isn’t the best place for media imo. We can store hashes of pics on-chain and pics themselves on some centralised servers."
+    },
+    {
+      "date": "2021-12-31T11:41:53",
+      "text": "Should be enough to provide sufficient availability of original icons"
+    },
+    {
+      "date": "2022-05-23T02:41:25",
+      "text": "Those constraints are removed on the official instance. Will sync the schema in the repo"
+    },
+    {
+      "date": "2022-08-26T08:31:36",
+      "text": "As there is a certain imbalance in the loading profile of explorer depending on which API methods are used I propose to divide explorer nodes into two groups: \"full\" - with extensive indexes, and \"light\" - with only those indexes that are necessary for most essential API methods. \n1. I'm releasing a version of explorer-backend with configurable indexes\n2. a. On some of the offficial explorer nodes we re-deploy \"light\" versions of explorer without extensible indexes\n    b. On a few other nodes we deploy full explorer\n    c. We route those requests which are using \"expensive\" API methods to the full explorers. Others are served by light ones\n\nI ask all dApp devs who rely on the official explorer to let me know which API methods are essential for your app so we can define the amount of servers needed."
+    },
+    {
+      "date": "2022-08-26T08:32:50",
+      "text": "@MrNautilus @LuivatraEP @anon_br"
+    },
+    {
+      "date": "2022-08-26T08:32:54",
+      "text": "@MrStahlfelge"
+    },
+    {
+      "date": "2022-08-26T08:54:25",
+      "text": "Good idea, but this brakes certain assumptions of how APIv1 works"
+    },
+    {
+      "date": "2022-08-26T08:56:21",
+      "text": "So we will either have to disable methods which perform lookups/joins by address, I.e break APIv1, or just disable indexes and see how requests to those methods hang"
+    },
+    {
+      "date": "2022-08-26T08:56:53",
+      "text": "Mempool tracking is a separate issue"
+    },
+    {
+      "date": "2022-08-26T08:57:29",
+      "text": "I’ll check if all nodes are synced"
+    },
+    {
+      "date": "2022-08-26T10:20:29",
+      "text": "All nodes are at the same block"
+    },
+    {
+      "date": "2022-09-19T04:37:49",
+      "text": "Is it possible to query ContextExtension of another input in a transaction in ErgoScript?"
+    },
+    {
+      "date": "2022-09-19T05:29:02",
+      "text": "🥲\nCardano frenz did the same mistake of not allowing to read inputs to validators of other tx_inputs. The feature was so demanded, that they had to allow that in PlutusV2"
+    },
+    {
+      "date": "2022-09-19T05:30:56",
+      "text": "The point is that one script must ensure that the other one got particular input"
+    },
+    {
+      "date": "2022-09-19T05:32:24",
+      "text": "Similar logic can be simulated by writing script inputs to registers of a replicated box. At least in my case this works."
+    },
+    {
+      "date": "2022-09-19T05:36:07",
+      "text": "Those synced chats are so weird sometimes"
+    },
+    {
+      "date": "2022-10-04T07:51:57",
+      "text": "May be a serious problem for token2token pools on spectrum. They contain not so many ergs."
+    },
+    {
+      "date": "2022-10-04T08:05:05",
+      "text": "This won't solve the issue as anyone will be able to set it back to 0"
+    },
+    {
+      "date": "2022-10-04T08:08:03",
+      "text": "@kushti_ru how many ergs can be drained from a box when storage rent hit for the first time?"
+    },
+    {
+      "date": "2022-10-04T08:22:49",
+      "text": "Yes, can't find storage-fee-factor in ergo node configs"
+    },
+    {
+      "date": "2022-10-04T09:07:38",
+      "text": "Oh right, totally forgot about it\nToken2token pools are in the trouble then, some of them contain 0,04erg"
+    },
+    {
+      "date": "2022-10-04T09:13:54",
+      "text": "Yes, unless checked by a script"
+    },
+    {
+      "date": "2022-10-04T10:25:59",
+      "text": "When will be the first storage rent hit?"
+    },
+    {
+      "date": "2022-10-04T10:56:18",
+      "text": "Though, as a temporal solution, those pools can be topped up with some ergs easily"
+    },
+    {
+      "date": "2022-10-04T10:56:44",
+      "text": "No serious harm is possible then"
+    },
+    {
+      "date": "2022-10-06T02:41:29",
+      "text": "Going to update mempool scanning logic on explorer"
+    },
+    {
+      "date": "2022-11-07T00:52:00",
+      "text": "anon1111 @LuivatraEP \nhttps://github.com/ergoplatform/explorer-backend/releases/tag/9.17.4"
+    },
+    {
+      "date": "2022-11-07T00:52:25",
+      "text": "cc everybody who is running explorer instances"
+    },
+    {
+      "date": "2022-11-07T02:46:55",
+      "text": "Anyone had experience with storing BigInt values in registers? Is it possible?"
+    },
+    {
+      "date": "2022-11-07T02:47:00",
+      "text": "@alex_slesarenko"
+    },
+    {
+      "date": "2022-11-07T03:32:38",
+      "text": "Found out the answer, thanks!"
+    },
+    {
+      "date": "2022-11-16T04:42:37",
+      "text": "It doesn’t have this issue at all, you can burn assets in any way"
+    },
+    {
+      "date": "2022-11-16T04:43:02",
+      "text": "It has another serious flaw, that’s why I closed the pr"
+    },
+    {
+      "date": "2022-11-16T06:14:14",
+      "text": "I also think that we will have to stick to the \"vault\" approach"
+    },
+    {
+      "date": "2022-11-16T06:15:23",
+      "text": "@anon_br was willing to refine it afaik"
+    },
+    {
+      "date": "2023-04-11T02:09:40",
+      "text": "Do we have any production ready tools to conduct on-chain voting on arbitrary proposals?"
+    },
+    {
+      "date": "2023-06-25T14:27:18",
+      "text": "Good point. The problem is that we index hashes of ergo_tree_template, so we can't just filter out p2pk prefixes"
+    },
+    {
+      "date": "2023-06-25T14:29:09",
+      "text": "We can choose to deprecate ergo_tree_template_hash and force users to migrate to ergo_tree_template instead, but I doubt the transition will be smooth"
+    },
+    {
+      "date": "2023-06-26T01:30:39",
+      "text": "Yes, indeed"
+    },
+    {
+      "date": "2023-11-01T07:24:21",
+      "text": "Why broken? Works for me"
+    },
+    {
+      "date": "2023-11-01T08:18:41",
+      "text": "Explorer Backend\n- Updated emission calculation according to eip27\n\nSpectrum:\n- in progress of making on-chain vaults transitions practical for large committees (>500 nodes)\n- working on spectrum bloom implementation"
+    },
+    {
+      "date": "2024-04-03T09:19:48",
+      "text": "Even if we assume everything is perfectly composable, you can’t guarantee that someone won’t interfere with you in the process of executing a flashloan (bc you anyway  will need a chain of txs)"
+    },
+    {
+      "date": "2024-04-03T09:19:58",
+      "text": "So not really a flashloan"
+    },
+    {
+      "date": "2024-04-03T09:21:52",
+      "text": "Maybe I’m missing something, but I don’t see how borrowing in one place, swapping in another place and returning back what was borrowed is possible to do atomically in one tx"
+    },
+    {
+      "date": "2024-05-21T03:16:49",
+      "text": "Its possible to implement auto cancellation upon some deadline, but you'll have to pay some premium to a bot that does this for you"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sender": "bbb carzy",
+  "total_messages": 4,
+  "messages": [
+    {
+      "date": "2023-05-10T10:46:15",
+      "text": "hello"
+    },
+    {
+      "date": "2023-05-10T10:46:26",
+      "text": "I use NBMINER for mining."
+    },
+    {
+      "date": "2023-05-10T10:46:31",
+      "text": "In the notify parameter, 14474011154664524427946373126085988481658748083205070504932198000989 == 8G，"
+    },
+    {
+      "date": "2023-05-10T10:46:41",
+      "text": "how it is calculated"
+    }
+  ]
+}

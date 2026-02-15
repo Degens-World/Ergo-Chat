@@ -1,0 +1,22 @@
+{
+  "sender": "Richi [MANA]",
+  "total_messages": 4,
+  "messages": [
+    {
+      "date": "2025-11-05T00:25:35",
+      "text": "This conversation belongs to main channel and not development channel. I hope admins will keep this channel clean to development only"
+    },
+    {
+      "date": "2026-01-06T16:57:11",
+      "text": "@USE_stablecoin"
+    },
+    {
+      "date": "2026-01-07T14:54:27",
+      "text": "USE:\n\n • Released USE analytics at cruxfinance.io/use-analytics (with the help of @LuivatraEP)\n • Deployed cross-chain liquidity on Binance Chain; USE/USDT concentrated liquidity pool is now available.\n\nCurrent stage:\n • Monitoring protocol behaviour\n • Slowly growing TVL and USE in circulation\n • Deploying cross-chain liquidity pairs, mainly for registration purposes\n\nWe need help with:\n • DefiLlama registration\n • CoinGecko registration\n • Binance Smart Chain token registration\n • DexHunter & TapTools registrations (Cardano)\n • Any other registrations are welcome\n\nThis stage is expected to last around 2 months"
+    },
+    {
+      "date": "2026-02-01T06:54:26",
+      "text": "So now you are testing at 1 input block per second and it looks clean?"
+    }
+  ]
+}

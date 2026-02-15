@@ -1,0 +1,12 @@
+# takdir96
+
+**Total messages:** 1
+
+---
+
+**2025-11-22T06:35:54**
+
+I use lora to get data from distribution transformer with sensors. All transformator data will send to ipfs and then ipfs-cid will send to blockchain. I did it with base sepolia testnet. How to use ergo testnet to test it in ergo blockchain? But I just use python.
+
+---
+

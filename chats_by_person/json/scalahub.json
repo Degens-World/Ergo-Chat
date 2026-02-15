@@ -1,0 +1,78 @@
+{
+  "sender": "scalahub",
+  "total_messages": 18,
+  "messages": [
+    {
+      "date": "2022-02-02T07:18:41",
+      "text": "I'm not able to see development channel on discord"
+    },
+    {
+      "date": "2022-08-02T01:45:28",
+      "text": "It depends on your use case. I think the default value is 4 in oracle pool 2.0"
+    },
+    {
+      "date": "2022-10-26T08:37:43",
+      "text": "no major updates from my side as I was on leave most of the week. Other than that have been working on payout contract in Dexy"
+    },
+    {
+      "date": "2022-11-23T07:37:49",
+      "text": "My updates: mostly been working on Dexy testing of LP and Intervention contracts\nhttps://github.com/ergoplatform/ergo-jde/tree/main/kiosk/src/test/scala/kiosk/dexy"
+    },
+    {
+      "date": "2022-11-23T09:46:07",
+      "text": "I'll check and get back"
+    },
+    {
+      "date": "2022-11-23T15:05:49",
+      "text": "Cannot think of a reason for preserving creation height.. Maybe we can make it >= HEIGHT - buffer ?"
+    },
+    {
+      "date": "2022-12-21T07:45:44",
+      "text": "my updates:\n- Working on Dexy review comments by @kushti_ru  Currently splitting LP contract to smaller parts"
+    },
+    {
+      "date": "2022-12-23T11:50:13",
+      "text": "Also what is the possibility of adding true inclusion height in box?"
+    },
+    {
+      "date": "2022-12-23T11:50:15",
+      "text": "https://github.com/ergoplatform/ergo/issues/1214"
+    },
+    {
+      "date": "2023-01-07T10:18:08",
+      "text": "@morphic \nGetting a weird error in appkit 5.0.0 (it worked fine earlier). Here is a code snippet\n  val arrayBytes: Array[Byte] = ???\n  val foo: ErgoValue[Coll[Byte]] = ErgoValue.of(arrayBytes)\n\n  type mismatch;\n    found   : org.ergoplatform.appkit.ErgoValue[special.collection.Coll[java.lang.Byte]]\n    required: org.ergoplatform.appkit.ErgoValue[special.collection.Coll[scala.Byte]]\n       val foo: ErgoValue[Coll[Byte]] = ErgoValue.of(arrayBytes)\nLooks to be a bug. Could you please check?"
+    },
+    {
+      "date": "2023-01-07T12:21:55",
+      "text": "thanks. let me get back if it works."
+    },
+    {
+      "date": "2023-01-25T07:06:19",
+      "text": "I've been mostly working on testing Dexy and minor fixes in contracts\nLatest was tests for \"Extract to future\" operation\nhttps://github.com/kushti/dexy-stable/blob/master/code/src/test/scala/dexy/ExtractSpec.scala"
+    },
+    {
+      "date": "2023-02-01T09:19:45",
+      "text": "I've been mostly working on various soundness test cases and bug-fixes for Dexy\nhttps://github.com/kushti/dexy-stable/tree/master/code/src/test/scala/dexy"
+    },
+    {
+      "date": "2023-08-09T09:20:04",
+      "text": "I had approved it earlier. Can you please merge it?"
+    },
+    {
+      "date": "2023-09-26T12:18:51",
+      "text": "is exodus safe/reliable? (For non-ergo cryptos)"
+    },
+    {
+      "date": "2023-09-26T12:18:54",
+      "text": "https://www.exodus.com/"
+    },
+    {
+      "date": "2023-09-26T12:19:17",
+      "text": "devs would know better so asking here :P"
+    },
+    {
+      "date": "2023-09-26T23:52:01",
+      "text": "Do they need money to list Ergo?"
+    }
+  ]
+}

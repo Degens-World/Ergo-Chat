@@ -1,0 +1,587 @@
+# ArØhβΣ @Arohbe 🍪
+
+**Total messages:** 79
+
+---
+
+**2022-02-08T14:23:05**
+
+Luivatra this is the repo correct?
+
+---
+
+**2022-02-08T14:23:08**
+
+https://github.com/ergoplatform/explorer-backend
+
+---
+
+**2022-02-08T14:24:42**
+
+Wow that long for sync. What is that 2 weeks?
+
+---
+
+**2022-02-08T14:25:46**
+
+Better get started @allcloudy 😂
+
+---
+
+**2022-03-28T13:06:11**
+
+Definitely stuck. 30min since last block.
+
+---
+
+**2022-03-28T13:09:59**
+
+Lol. I sent him a DM
+
+---
+
+**2022-03-28T13:10:17**
+
+Probably watches this first I would assume lol
+
+---
+
+**2022-03-29T06:21:42**
+
+Anyone else’s node stuck again?  We’re stuck syncing at 716799 (last block) which was found over 30min ago.
+
+---
+
+**2022-03-29T06:31:50**
+
+It seems to be for everyone.
+
+---
+
+**2022-03-29T06:36:57**
+
+Ah I see.  Thanks.
+
+---
+
+**2023-10-26T16:14:58**
+
+Not sure if you figured this out already.  DM me if you still need help.
+
+---
+
+**2025-07-06T08:12:57**
+
+Wasn’t it ErgoWatch that had something?
+
+---
+
+**2025-11-17T07:34:51**
+
+Is it possible to send messages from one node to another by setting a flag or something in the config file?   Doesn’t need to be a full message but a special flag that one node can decipher another node specifically without knowing the IP.
+
+---
+
+**2025-11-17T09:20:02**
+
+Thanks.  It would be an interesting feature.  For my need, I think I found a work around temporarily by using /allpeers and searching for specific node names and confirming there was a recent handshake.  Not perfect but gets me what I need for now.
+
+---
+
+**2025-11-17T19:35:41**
+
+Just made this for lithos.  Has a very simple config. https://github.com/Lithos-Protocol/Lithos-Client/blob/master/TestnetNode.md
+
+---
+
+**2025-11-17T19:37:18**
+
+I have to follow the flow to make sure it’s 100% and not missing anything but should be close.
+
+---
+
+**2025-11-17T19:54:02**
+
+Finally!!!!
+
+---
+
+**2025-11-19T10:19:23**
+
+Check out https://ergolabs.degens.world I have a few sample contracts and an AI contract builder that uses fleet to compile and can be deployed through nautilus.   Would love for someone to look through and see how accurate the contracts are.   I’ve used a simple token sale and worked well.
+
+---
+
+**2025-11-24T07:41:34**
+
+Unfortunately a simple md file isn’t enough.   Context management is important but so is instruction.  Instructing  the LLM or agent how to use the context is also critically important.   If not it will maybe use the the md file every time maybe not.  If it doesn’t find what it wants it can start searching the web and that’s where bad stuff can get injected into your code.
+
+---
+
+**2025-11-24T08:20:43**
+
+https://x.com/degens_worldx/status/1992961419680063566?s=46&t=AjZ0Dkkh3aJmlScramcUaQ
+
+---
+
+**2025-11-24T08:56:31**
+
+I think the way you started it is good.  Make a repo for it and people will have to use that as their context.  Can also make a master agent.md that outlines other md files like a directory.  If this type of project, use these Md files kind of thing.  Maybe add some context lines too like “only use details within agent files, if not found notify user versus searching web”   Can be more descriptive but you get the idea.
+
+---
+
+**2025-11-26T11:05:11**
+
+Lithos in action 😉
+
+---
+
+**2025-11-26T17:56:34**
+
+Degens.World
+
+Launched two mini dapps:
+
+-API Explorer - https://ergonexus.degens.world/
+-Node Explorer - https://ergonodeexplorer.degens.world/
+
+Memevsmeme.degens.world 
+-Added default option to generate comet memes
+-Updating the UI for MemevsMeme to support $Comet meme contest with giveaway 
+
+Minor UI fixes to other dapps
+
+Working on "Xergon" A Decentralized Proof-of-Node-Work Network for AI Compute on Ergo.   More details in the litepaper
+
+https://github.com/ArOhBeK/Xergon-Network
+
+---
+
+**2025-12-03T13:16:31**
+
+Interesting.  I’ve been playing with an LLM based contract builder I made.  It gets like 90% of the way there but just had one of them reviewed and it was missing a few things like making sure the contract box has the same amount of tokens as the tokens sold.  So could have been exploited.  If someone could help build out some context rules with known issues I can embed it and run a bunch of contracts to see what the result is.
+
+---
+
+**2025-12-03T14:38:02**
+
+Let me try that.  I’ll build something out and share for input.  I’ve been using ergoscript by example for some context but that generally cover examples not issues.
+
+---
+
+**2025-12-03T15:45:36**
+
+Yeah that would be included.  I’m thinking just another simple md file that has some context headers and directs the agent to other files or references.   Use Langspec as specification, if issues use this, examples etc.   I think you started this with agent.md so will compare against that so I’m not recreating anything.
+
+---
+
+**2025-12-03T16:56:01**
+
+Some updates from projects I’m working on. 
+
+Deployed https://ergospace.degens.world 3D block explorer (desktop only). 
+
+Finalizing updated token sale contract for Comet meme contest.  
+
+Xergon - deployed cloud version of node/agent, added token mint that will sit in node wallet with pubkey to be used with localized private key to connect to UI relay.  Adding LM studio support to expand available models.  Hope to have a version release in the next couple of weeks for others to test.
+
+---
+
+**2025-12-06T08:54:11**
+
+Made this as a starting point and it can be built out as needed.   Basically a main source of truth that links to other references without having too much context in one reference point.  It provides structure that is all machine readable. I made multiple formats of the file for various uses.   I need to review consistency between the file types.  
+
+Also the pdf references could be tricky.   Ideally if these are available in markdown format it would be better as LLMs sometimes struggle with pdf files.  Also while I’m trying not to bloat the file it may be good to have the references in the repo in the event someone is working locally without Internet search (local LLM) 
+
+https://github.com/ArOhBeK/Ergo-Context
+
+---
+
+**2025-12-06T09:12:55**
+
+Can tie in another reference but the langspec.md does reference fleet already which links to fleet sdk
+
+---
+
+**2025-12-06T09:16:00**
+
+I think someone else also started something for LLM UI development.   Was trying to find it.  Maybe it was @NeuralYogi (not sure if he’s around anymore)
+
+---
+
+**2025-12-07T09:35:10**
+
+Ah nice. Good to see you here. Couldn’t tag you for some reason so wasn’t sure.  Thanks for resending.
+
+---
+
+**2025-12-10T15:50:51**
+
+Degens.World 
+
+-Built out context.md context this for LLM and agent use.  Currently testing in one of the apps I’m building using the context for contract auditing.  If anyone has a really jacked up contract they want to send me I can do some testing to see how accurate it is. 
+
+-Launched MemeVSMeme Comet Meme Contest.  Very slow go but was fun to showcase the capability.  
+
+-Xergon.  Was able to get LM Studio integration working and loaded on a cloud based node. This opens up a ton of local models that can be used.  Currently running 5 separate CPU based models on cloud server.   Plan to expand to GPU models to review inference latency.
+
+---
+
+**2025-12-10T15:52:42**
+
+output from the contract auditor I am testing using context.md
+
+---
+
+**2025-12-13T08:02:32**
+
+Does anyone have a list of known ergo addresses?   Exchanges, pools, and such?
+
+---
+
+**2025-12-13T08:07:08**
+
+TY Sir
+
+---
+
+**2025-12-14T07:33:14**
+
+https://x.com/degens_worldx/status/2000196601365627153?s=46&t=AjZ0Dkkh3aJmlScramcUaQ
+
+---
+
+**2025-12-17T21:27:49**
+
+Degens.World
+
+Launched two new mini dapps
+
+ΣTokenBoard https://ergotokenboard.degens.world/ - Leaderboard style view for native tokens
+ErgoTrace https://ergotrace.degens.world/ - Visually trace tx between wallets, contracts, tokens
+
+Xergon: 
+
+-Working on encrypting local db persistence for PoNW scores
+-Plans to test GPU based models while mining to determine impact to latency and mining performence 
+
+Context.md: https://github.com/ArOhBeK/Ergo-Context/releases/tag/v1.2
+
+- Added local_files which contains several files for use with local LLM models (whitepaper,langspec.md,ergoscript examples)
+- Doing some vibe code testing with context.md including node interactions for processing tranactions and ergroscript contract auditing. Thank you @ldgaetano for providing the Gluon contract and grading the audit.  His overview can be found in the repo. 
+- Added contract audit examples. Ultimately this should be a list of optimizations within ergoscript but can use this as context for a starting point).
+
+---
+
+**2025-12-24T11:53:37**
+
+Working on a dark mode version of the node panel.
+
+---
+
+**2025-12-24T13:58:02**
+
+Logo overlay on the hero page.
+
+---
+
+**2025-12-24T13:58:03**
+
+Live models ran locally
+
+---
+
+**2025-12-24T14:01:16**
+
+TG keeps deleting my post.. 😢
+
+---
+
+**2025-12-25T14:42:52**
+
+Here is the latest overview https://github.com/ArOhBeK/Xergon-Network.  Will add people interested in testing to private repo.  Once fully tested and security audited will OS for all.
+
+---
+
+**2025-12-25T17:52:49**
+
+I need to scrub the repo and remove my keys from config files.  I’ll create a branch and DM you for your gh account so I can add you when ready.
+
+---
+
+**2025-12-25T17:56:30**
+
+Hehe. I have that embedded in Ergolabs just haven’t pushed the latest version yet.  Probably need to set a small fee so people don’t spam the API.
+
+---
+
+**2025-12-25T19:52:44**
+
+sent you DM
+
+---
+
+**2025-12-26T14:54:17**
+
+Added an NFT / Token viewer in the node panel.
+
+---
+
+**2025-12-27T07:03:12**
+
+I cheated a little if no extra index will fallback and hit explorer API
+
+---
+
+**2025-12-27T07:04:00**
+
+Need to fix one of the toast notifications and will submit 🫡
+
+---
+
+**2025-12-27T08:47:56**
+
+lol, Ill look into it.  You mean switch between addresses if you have more than 1 created in the node wallet?
+
+---
+
+**2025-12-27T09:44:18**
+
+yea I thought about that, was thinking how to provide support to both those who run full node and light node.   I guess can make it, you need full index to have the option available.  Another option would be to keep on index and add a field for explorer URL if light node this way not dependent on a single URL.
+
+---
+
+**2025-12-27T17:31:36**
+
+Thoughts on this approach.  NFT viewer defaults to pulling metadata through /blockchain/token/byId/<tokenId> if the node is not indexed a popup asks for explorer URL (user can choose to enter or not).  Once entered, will still attempt local call first then fallback to explorer API (only if user entered url)
+
+---
+
+**2025-12-27T20:07:39**
+
+PR with dark mode and NFT viewer https://github.com/ergoplatform/ergo/pull/2288
+
+---
+
+**2026-01-03T07:46:20**
+
+Not working ser lmao.  
+
+Nice job.  The Grok regens on X are starting to  annoy.
+
+---
+
+**2026-01-03T11:00:19**
+
+Pull token metadata from explorer or node by token ID, convert metadata into IPFS CID and then I like to use http://ipfs.io/ipfs as the prefix for the URL seems to be the most stable versus other gateways.
+
+---
+
+**2026-01-03T12:05:29**
+
+Are these the current contracts for USE? https://github.com/kushti/dexy-stable/tree/25d7e8dc1a6304be5cb02a4b8e9131e9bdd1f274
+
+---
+
+**2026-01-06T15:57:46**
+
+I know this came up in main with the decimals on USE.  Noticed it was also wrong on node wallet.  Created an issue https://github.com/ergoplatform/ergo/issues/2289
+
+---
+
+**2026-01-06T16:41:59**
+
+Yeah was minting USE  from the node wallet and panicked for a second that I minted 1476 by accident lol.
+
+---
+
+**2026-01-06T16:48:26**
+
+Been fun to troubleshoot lol
+
+---
+
+**2026-01-07T20:04:07**
+
+Degens.World
+
+Made some minor UI updates to the main Degens.World site
+
+New mini-dApp - Ergo Emissions https://ergoemissions.degens.world - Emissions and Inflation Monitor 
+
+Xergon - Built out private repo. Still in need of 2-3 testers to run Xergon node to test p2p scoring 
+
+StableMiner - Launch initial version to mint USE locally with node wallet. Working on auto-swap and a few other updates
+
+Misc -
+
+-Submitted PR for Ergo Node dark mode and NFT viewer 
+-Working on UI for Incubate.  Hub for bounty tracking, idea generation, proposal submission for funding
+
+---
+
+**2026-01-09T19:05:28**
+
+New agent skills feature for anyone using VS code https://code.visualstudio.com/updates/v1_108
+
+---
+
+**2026-01-14T21:35:35**
+
+Got hit with Verizon outage so short post.  
+
+Degens.world 
+
+Stable Miner - Main focus past week.  Pushed USE direct mint from node and Autoswap.  
+
+Have a functioning local dex continuing testing of all tokens to ensure LPs are correct.   Plan to push in next week or so.  Exploring AMM integration.  
+
+Incubate - Tied in Bene proposal launch.  Working on direct funding from UI.  Thanks @jossemii for the help.
+
+---
+
+**2026-01-15T09:07:36**
+
+Sorry guys.  Going to miss this unfortunately.
+
+---
+
+**2026-01-21T21:33:12**
+
+Degens.World 
+
+StableMiner:
+Continuing to build out LocalDex portion 
+-Added AMM quick deploy.  
+-Added a lot of QOL features including limit price, arbitrage scanner, batch token purchases (swapped over 10 different tokens in one tx), auto swap, order cancellation and more.  
+-Plan to launch beta release next week.  You can essentially run your own personal non custodial stablecoin bank, local exchange, and be your own market maker 
+
+LithosPanel: Quick deployment node and Lithos client. 
+
+-Reviewed and ready to launch.  Updating readme for existing users to transfer wallet and config settings. 
+
+Ergo Mobile Wallet: 
+-Someone convinced me to go down the rabbit hole (Thanks @HQ3rr 😀) so building an updated UI/UX for Ergo Mobile wallet.  
+-Added new front end for dapp browser, swap, chat and more.  
+-Once completed will need some support to ensure security is maintained, mobile dependencies are stable, and discuss how we manage iOS App Store.  
+
+Xergon local AI inference.  Still need beta testers.   At a standstill until I can test P2P interactions.
+
+---
+
+**2026-01-22T10:51:10**
+
+I will add trusted contributors to repo.  Need ability to run full indexed node, and run Ollama (either CPU or GPU will work).  Will need aprox 100gb of storage for full node, and LM models.
+
+---
+
+**2026-01-26T09:03:09**
+
+I wouldn’t discourage this.  And coming from someone who has built clones of existing stuff as well as things that are needed.  Also built from scratch and using AI.  
+
+Everyone has to start somewhere and making simple UI is the gateway to learning more.  
+
+Also the world is changing.  We’re in a world of customization.  You want your own UI/UX just build it…. We will see more and more of this to the point where agents will build simple UIs to interact with based on requests.   
+
+So from my viewpoint go build.  Even if it’s 1% better you did something different and should feel accomplished. 
+
+HQ just cranky this morning.
+
+---
+
+**2026-01-26T09:04:27**
+
+Becareful with Clawdbot.
+
+---
+
+**2026-01-26T09:04:48**
+
+https://x.com/rryssf_/status/2015587158468300948?s=46&t=AjZ0Dkkh3aJmlScramcUaQ
+
+---
+
+**2026-01-26T09:39:24**
+
+Yeah agree.  It’s really intriguing but they market it like quick set up and go.  Then people do and expose themselves.  I was thinking of using a bare bones VM to play around with it.   Flagged project for another day lol.
+
+---
+
+**2026-01-27T06:37:04**
+
+https://apple.news/An6ZyJpRqTTy6oWM0l3iDXQ
+
+---
+
+**2026-01-28T13:43:18**
+
+For #3 Send to me.  I’ll run it through the audit tool I have.
+
+---
+
+**2026-01-28T13:48:08**
+
+Degens.World 
+
+Main focus last week has been working on Degens mode for Ergo Mobile wallet. I was able to get dapps with ergopay functionality to work directly in wallet.   Played with some other concepts like chat and ended up removing them.  Working through some issues with CORS and header issues when loading dapps that is causing time outs.  
+
+Aside from Ergo built a fun sandbox game with my son.  Once it was deployed I used it to learn a little about mobile deployment to Google Play Store.  Feel I have that flow down pretty well so can deploy wallet for testing once it’s ready.
+
+---
+
+**2026-01-28T13:51:11**
+
+lol.  All the big ones I see are vibe code it’s a way for the big companies to promote their new features.  Rewards in credits lol.
+
+---
+
+**2026-02-04T06:18:01**
+
+Yes will split.  Will look into the IP issue.  Shouldn’t be but maybe the IPFS site is doing something funky.
+
+---
+
+**2026-02-04T16:02:50**
+
+Degens.World 
+
+Ergo Mobile Wallet - Desktop mode is functional.  Testing on Android devices and working through some bugs.  
+
+ErgoLabs - Added functionality to submit any SC for audit versus only the AI generated ones.  Now allows audit reports for any SC. 
+
+Went down the Openclaw rabbit hole.  Have one agent running who was able to create its own node and wallet, created its own currency, and now it’s setting up services people can use.  Have it in a docker container so it has guardrails.  Going to let it loose and see what it can do.  
+
+Built out Degen GitHub org. Excited to team up with @cannon_q on growing and building out Degens.World.  He is an offical Degen and will be supporting in growing the community, build, and growing out a central repository for all things Ergo.  More to come!   devs gonna get rekt Vibecode devs coming in hawt 🤣 https://github.com/Degens-World
+
+---
+
+**2026-02-05T21:51:40**
+
+So essentially any NFT that contains a URL could be pulling IP data?
+
+---
+
+**2026-02-05T21:53:02**
+
+Hehe. Its done. I just need to separate it out from dark mode.  It’s open source so you could use it now would just need to wrap the index.html into the jar file.  Let me split it out this weekend and will post both separately.
+
+---
+
+**2026-02-07T06:15:41**
+
+Have you tried the new app yet? Only available on macOS. 😞
+
+---
+
+**2026-02-07T06:17:25**
+
+Yeah that’s what Ive been doing tempted to steal my wife’s MacBook lol.
+
+---
+
+**2026-02-07T06:18:15**
+
+I use both.  Don’t tell them lol.
+
+---
+

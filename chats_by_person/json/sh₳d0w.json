@@ -1,0 +1,66 @@
+{
+  "sender": "sh₳d0w",
+  "total_messages": 15,
+  "messages": [
+    {
+      "date": "2023-03-05T15:37:27",
+      "text": "Hello, I am developing a dapp, using react the function that sends to sign the transaction works, but the same function now executed in nextjs throws an error when the extension receives the object, what could it be?"
+    },
+    {
+      "date": "2023-03-05T15:37:52",
+      "text": "when it launches in error it does not open the window"
+    },
+    {
+      "date": "2023-03-05T18:25:37",
+      "text": "I already got it to open the window, but it stays like that"
+    },
+    {
+      "date": "2023-03-05T18:36:23",
+      "text": "yeah, i'm using fleetjs"
+    },
+    {
+      "date": "2023-03-05T18:37:40",
+      "text": "I would appreciate it when you remember haha"
+    },
+    {
+      "date": "2023-03-05T18:48:23",
+      "text": "try{\n\n\n        const unsignedTransaction = new TransactionBuilder(currentHeight)\n            .from(inputs)\n            .to(new OutputBuilder(amountToSend, receiverAddress)\n                .addTokens([\n                    {tokenId: TOKEN_ID, amount: tokenAmountToSend}\n                ])\n                 .setAdditionalRegisters({\n                    R4: SConstant(SColl(SByte, Buffer.from(btcAddress, \"utf-8\"))),\n                })\n            )\n            .sendChangeTo(nautilusAddress).payMinFee(fee)\n            .build(\"EIP-12\")\n            .toPlainObject();\n\n\n\n        let signedTransaction = await ergo.sign_tx(unsignedTransaction)\n\n        let outputZeroBoxId = signedTransaction.outputs[0].boxId;\n        let txInfo = await ergo.submit_tx(signedTransaction)\n\n        result = txInfo\n\n\n\n\n\n    }catch(e){\n        console.log(\"error\", e)\n        result = ''\n    }\n\n\n    return result"
+    },
+    {
+      "date": "2023-03-05T18:48:39",
+      "text": "is running on nextjs"
+    },
+    {
+      "date": "2023-03-05T18:49:23",
+      "text": "the same code with react works"
+    },
+    {
+      "date": "2023-03-05T18:51:14",
+      "text": "if i remove it i get that error"
+    },
+    {
+      "date": "2023-03-05T18:57:45",
+      "text": "does the same"
+    },
+    {
+      "date": "2023-03-05T19:05:32",
+      "text": "I fixed it"
+    },
+    {
+      "date": "2023-03-05T19:06:23",
+      "text": "I had to use .toEIP12Object(); instead of .toPlainObject();"
+    },
+    {
+      "date": "2023-03-05T19:19:35",
+      "text": "use this structure"
+    },
+    {
+      "date": "2023-03-05T19:20:22",
+      "text": "https://fleet-sdk.github.io/docs/transaction-building"
+    },
+    {
+      "date": "2023-03-05T19:20:44",
+      "text": "is the official github"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sender": "Broly",
+  "total_messages": 4,
+  "messages": [
+    {
+      "date": "2024-09-27T18:52:13",
+      "text": "It's a shame that when creating a token, you can't add the logo, social media links, website, etc. Nor can you view them on the explorer"
+    },
+    {
+      "date": "2024-09-28T05:32:18",
+      "text": "Example : https://explorer.ergoplatform.com/en/token/af1a2e8005f6ffc9e291e121d1fb08795c5a079409b8ca56e20eb2f4f6f8553b"
+    },
+    {
+      "date": "2024-09-28T05:34:19",
+      "text": "It would be interesting if token creators on the Ergo blockchain could directly add a logo and links to social networks on the owner’s dashboard"
+    },
+    {
+      "date": "2024-09-28T05:35:45",
+      "text": "Like on ETH and Solana, although on Solana, it’s even easier to create a wallet and token with just a few command lines, including the logo"
+    }
+  ]
+}

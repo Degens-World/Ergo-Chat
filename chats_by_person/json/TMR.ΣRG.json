@@ -1,0 +1,22 @@
+{
+  "sender": "TMR.ΣRG",
+  "total_messages": 4,
+  "messages": [
+    {
+      "date": "2025-06-11T15:15:03",
+      "text": "SigmaQuest: \n- My game was working properly but had security issues. I had to move some functions from the front end to the back end server. This required significant changes. \n- Yesterday I got the server running again with updates, and reworked the front end components. Today I have been trying to debug. \n-Current issues are with payment validation. Once the back end verifies the tx on chain, the front end should start the game for the user. I keep receiving errors regarding cors and timeout. \n- I thought I had it fixed, but then the game started skipping validation altogether 😃 I just rolled back changes and am trying a different approach."
+    },
+    {
+      "date": "2025-06-12T09:00:34",
+      "text": "The explorer API. My server checks every 30 seconds for the txid created in the front end"
+    },
+    {
+      "date": "2025-06-12T09:09:25",
+      "text": "Pretty much. Once verified it creates a session for the user on the back end. Front end is looking for sessions associated to the user ID constantly"
+    },
+    {
+      "date": "2025-10-29T19:38:56",
+      "text": "I think you've tagged the wrong person boss"
+    }
+  ]
+}

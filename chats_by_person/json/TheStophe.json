@@ -1,0 +1,78 @@
+{
+  "sender": "TheStophe",
+  "total_messages": 18,
+  "messages": [
+    {
+      "date": "2025-11-16T19:58:55",
+      "text": "Catching up on testnet stuff to run a node."
+    },
+    {
+      "date": "2025-11-17T19:29:05",
+      "text": "so is testnet running off port 9020/9052 still, I see 9023?"
+    },
+    {
+      "date": "2025-11-17T19:31:08",
+      "text": "oh really"
+    },
+    {
+      "date": "2025-11-17T19:31:33",
+      "text": "20:30:31.523 WARN  [tor.default-dispatcher-11] o.e.n.ErgoNodeViewSynchronizer - No peers available in requestDownload"
+    },
+    {
+      "date": "2025-11-17T19:31:42",
+      "text": "I updated to your two peers"
+    },
+    {
+      "date": "2025-11-17T19:31:46",
+      "text": "no dice still"
+    },
+    {
+      "date": "2025-11-17T19:33:54",
+      "text": "I basically started from scratch using kushti's branch, and this resource testnet.conf: https://github.com/ergoplatform/ergo/blob/testnet60/src/main/resources/testnet.conf"
+    },
+    {
+      "date": "2025-11-17T19:34:12",
+      "text": "only I added mining = false under node, and updated the apiHashKey"
+    },
+    {
+      "date": "2025-11-17T19:34:31",
+      "text": "thank you will try now"
+    },
+    {
+      "date": "2025-11-17T19:36:04",
+      "text": "mining = false too?"
+    },
+    {
+      "date": "2025-11-17T19:36:27",
+      "text": "sweet!"
+    },
+    {
+      "date": "2025-11-17T19:43:27",
+      "text": "I must be double blocked on my firewall or something, my mainnet node runs fine on this machine...."
+    },
+    {
+      "date": "2025-11-17T19:43:34",
+      "text": "thanks for the help, i'll have to troubleshoot."
+    },
+    {
+      "date": "2025-11-17T19:52:51",
+      "text": "I'm sync'd!"
+    },
+    {
+      "date": "2025-11-17T19:53:40",
+      "text": "I was missing the --testnet flag to execute it. 😛"
+    },
+    {
+      "date": "2025-11-17T19:53:58",
+      "text": "🤦"
+    },
+    {
+      "date": "2025-11-17T19:54:06",
+      "text": "hahaha"
+    },
+    {
+      "date": "2025-12-23T23:01:16",
+      "text": "Appreciate everyone’s hard work!"
+    }
+  ]
+}

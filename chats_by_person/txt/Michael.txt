@@ -1,0 +1,1075 @@
+=== Chat history for: Michael ===
+=== Total messages: 265 ===
+
+[2024-01-03T07:59:16]
+so now between each block there is 64 sub ?
+
+[2024-01-03T09:34:13]
+would rather like to pay 10x the current transaction fee
+
+[2024-01-03T09:35:57]
+for using the subblock , would rather pay 0.01 erg rather than 0.001 erg
+
+[2024-01-03T09:36:11]
+why do we need another coin
+
+[2024-01-03T09:36:21]
+that should be a good incentive no ?
+
+[2024-01-03T09:40:21]
+No incentives to generate and propagate sub-blocks are planned for the Ergo core protocols at the moment. At the same time, incentives can be provided on the sub-block based merge-mined sidechains, or via application-specific agreements (where applications may pay to miners for faster confirmations).
+
+[2024-01-03T09:40:55]
+last sentence ?
+
+[2024-01-30T08:44:38]
+https://miningpoolstats.stream/ergo
+
+[2024-02-06T09:35:08]
+better have 5 dapps doing different things or 20 doing the same ?
+
+[2024-02-07T15:22:30]
+there was a project called spreadly no idea who was behind it tho
+
+[2024-02-09T11:24:56]
+this ? 
+https://api.ergoplatform.com/info/supply
+
+[2024-03-02T07:14:06]
+can i have multiple wallet with different seed in my node ?
+
+[2024-03-02T07:33:12]
+so i can't use 1 node to run for example duckpools bot and oracle core , since both require the node addres ... ?
+
+[2024-03-02T13:15:26]
+doesn't spectrum env have mnemonic ? so it is possible with same node just new wallet generated elsewhere
+same thing with rosen watcher
+would be nice to see such standard so own node could be used with multiple dapps and without using node wallet whenever possible
+
+[2024-03-02T13:19:45]
+it is recommended to use your node to submit faster but no node wallet needed and can use public node
+
+[2024-03-02T13:20:45]
+will it be possible at some point to have this option ? (having seed in env/conf and using any node )
+
+[2024-03-13T08:41:45]
+.
+
+[2024-05-03T08:37:14]
+5.0.21 after pc turned off
+
+[2024-05-03T09:43:18]
+didn't work , need to delete history/extra and reindex ?
+
+[2024-05-14T15:01:54]
+any specific reason why orcale core used node wallet rather than seed in .env or something similar ?
+
+[2024-05-15T05:19:27]
+sent
+
+[2024-05-15T13:32:50]
+it could be like a box , fill 1000 erg send ...
+
+[2024-06-05T10:12:06]
+@yee0576
+
+[2024-06-09T15:16:09]
+if i understand correcly from the recent dev update transaction and headers can be included in ergo 
+so possibly if you add your address ergo can see you btc amount
+but how will this work on defi you add collateral you get erg or whatever asset than you send btc to another wallet , than what happens you get free erg and btc part can't be upent by only you ?
+
+[2024-06-12T09:32:47]
+can i run 2 node on the same pc without vm ? how and what to change
+
+[2024-06-12T09:44:56]
+watcher ? 😅
+
+[2024-06-12T09:45:39]
+you know about the node ?
+
+[2024-06-12T09:48:13]
+running oracle on one and need another for a different thing since only 1 wallet allowed
+
+[2024-06-12T09:50:21]
+add this to second node only right ?
+
+[2024-06-12T09:50:33]
+main will still default to 53
+
+[2024-06-12T09:55:19]
+so this somewhere few days ago 
+it's fast so will wait from 0
+
+[2024-06-12T09:59:44]
+my patience is out of this world
+
+[2024-06-12T10:00:05]
+thank you all
+
+[2024-06-12T10:38:24]
+both should be changed ? or keep 9030 and change 5x ?
+
+[2024-06-12T10:38:38]
+getting history being used by another node
+
+[2024-06-12T10:56:28]
+worked , it was issue with copying while node was running
+
+[2024-06-12T13:19:27]
+but bitcoin isn't a defi platform is it
+
+[2024-06-12T13:20:49]
+as i said many time 2 min is ok but many things could be done at wallets and dapps level 
+from fixing chained transaction in mobile wallet to be able to see unconfirmed balance in wallet/dapps so you can trade and not wait for the 2 min block islf you are lucky and get 2 minutes
+
+[2024-06-12T13:21:31]
+well people aren't even using the chain if you remove bot from spectrum you barely can see traders .....
+
+[2024-06-12T13:22:00]
+so l2 / side chain doesn't make sense at this point
+
+[2024-06-12T13:43:40]
+so like deposit 100 erg but you can trade 50 ? than 25 ....
+
+[2024-06-12T13:46:30]
+isn't that what c8 did ? you need to lock to be traded ?
+
+[2024-06-12T15:32:10]
+would be nice in the future to have a popup message for each block on what it can do
+
+[2024-06-16T03:03:33]
+restored seed in node now checking it shows different address , deleted wallet folder restored again and it show another different address
+
+[2024-06-16T03:04:10]
+i did
+
+[2024-06-16T03:04:42]
+didn't work
+
+[2024-06-16T03:05:25]
+address was changed on it's own it was correct than poof
+
+[2024-06-16T03:22:14]
+i don't have mnemonic only normal wallet password
+
+[2024-06-16T03:31:01]
+5.0.21
+
+[2024-06-16T03:31:19]
+yes mnemonic pass skipped skipped
+
+[2024-06-16T03:34:00]
+i had 1 node copied it deleted wallet folder and created a new wallet, than the node broke copied wallet folder but was corrupted for some reason so restored wallet it was correct thsn now was checking it was a different address
+
+[2024-06-16T03:34:34]
+deleted wallet folder reatored again and another new address
+
+[2024-06-16T03:35:14]
+and when running the node the ui show wallet syncing even if i deleted wallet folder so no idea were it's getting the wallet to sync
+
+[2024-06-16T05:07:15]
+windows , jar
+
+[2024-06-16T05:22:08]
+done
+
+[2024-06-16T16:22:26]
+ERROR oracle_core - Failed to get datapoint with error: No datapoints from any source
+
+[2024-06-19T05:07:36]
+how to restore wallet for node if there is a current active one without deleting wallet folder ?
+
+[2024-06-19T05:29:16]
+how to i do that is ui ?
+i saw restore in swagger will that remove the excisting one ?
+
+[2024-06-19T06:04:55]
+it's changing the address , had the issue few times so trying to see better way without waiting to rescan
+
+[2024-06-19T06:48:52]
+it always tries to rescan wallet after deleting the wallet folder
+
+[2024-06-19T06:50:14]
+and even with that the wallet address will change (kushti was looking into it)
+
+[2024-06-19T06:51:01]
+so just need the fastest way to restore it
+
+[2024-06-19T07:04:53]
+what this one do ?
+also super weird that it's called restore and next to it create new wallet
+
+[2024-06-19T08:28:11]
+done , let's see if it stays with the same address 😘
+
+[2024-06-20T11:02:18]
+how is it possible that 2 node on pu get corrupted at the same time ?
+
+[2024-06-20T11:02:25]
+[oref-indexer-dispatcher-7] o.e.n.h.extra.ExtraIndexer - Started extra indexer at height 1290627 
+ ERROR [ref-critical-dispatcher-5] scorex.db.StoreRegistry - Failed to initialize storage: org.fusesource.leveldbjni.internal.NativeDB$DBException: Corruption: 14 missing files; e.g.: C:\.ergo\state\ldb_main/980946.ldb. Please check that directory C:/.ergo\state\ldb_main exists and is not used by some other active node
+
+[2024-06-20T11:03:32]
+i beleive so
+
+[2024-06-20T11:03:35]
+INFO  [oref-indexer-dispatcher-8] o.e.n.h.extra.ExtraIndexer - Started extra indexer at height 1290627 
+ ERROR [ref-critical-dispatcher-6] scorex.db.StoreRegistry - Failed to initialize storage: org.fusesource.leveldbjni.internal.NativeDB$DBException: Corruption: 16 missing files; e.g.: D:\.ergo\state\ldb_main/991975.ldb. Please check that directory D:.ergo\state\ldb_main exists and is not used by some other active node
+
+[2024-06-20T11:06:31]
+anyway to fix it ? other than rescan
+
+[2024-06-20T11:11:11]
+better than waiting 2 days for rescan
+
+[2024-06-20T11:11:25]
+will have to keep a rar as a backup
+
+[2024-06-20T13:41:45]
+never tried this kind of thing before , those file i need to edit in the jar file ?
+
+[2024-06-20T13:43:23]
+yes please , thank you
+
+[2024-06-21T15:54:46]
+anyone know a hosting service to deploy multiple nodes and get paied in crypto ?
+
+[2024-06-21T16:13:37]
+thanks
+
+[2024-06-21T16:15:50]
+how many cpu core you think i need for 2 nodes ?
+
+[2024-06-22T01:08:47]
+i was running 2 on 2012 i7 4 core
+
+[2024-06-22T01:09:07]
+node broke again 😭
+when rockdb
+
+[2024-06-22T05:14:24]
+yes power outage
+windows x64
+
+[2024-06-22T06:03:20]
+delete all .ergo ?
+
+[2024-06-24T02:41:10]
+ERROR oracle_core - error getting live epoch state: pool box not found
+WARN oracle_core::state - No oracle pool found, needs bootstrap or wait for bootstrap txs to be on-chain
+ERROR oracle_core - error: pool box not found
+
+[2024-06-24T02:41:55]
+did a manual rescan from 1.2 M 
+should be from 0 or something else happened ?
+
+[2024-06-24T02:43:14]
+thank you
+
+[2024-06-24T03:24:01]
+same issue
+
+[2024-06-24T03:24:27]
+also printing reward show no datapoint box exist
+
+[2024-06-24T03:25:27]
+yes
+
+[2024-06-26T04:16:14]
+this is the best for all user
+
+[2024-06-26T04:27:34]
+great idea
+
+[2024-06-26T04:27:52]
+ptsd from node ui 😅
+
+[2024-06-26T05:28:14]
+213 is down
+
+[2024-06-26T07:57:09]
+it's up now
+
+[2024-06-27T13:31:31]
+isn't the block 8mb ? so 5.7gb daily ?
+
+[2024-06-27T13:32:18]
+also miner prefer fee per size so need to pay huge miner fee
+
+[2024-07-04T13:27:48]
+any update on yours ?
+
+[2024-07-04T14:21:21]
+is it possible to move usd oracle to 2.0 and update sigmausd contract to have a fee for buyback ?
+
+[2024-07-24T11:44:34]
+are they nft ? can add royalties ?
+
+[2024-08-06T05:08:19]
+1- safew import doesn't work with huge transaction amount usually
+2- you can try mobile wallet add the address as read only and you can import ( you have to scroll to the date you want could be a pain )
+
+[2024-08-10T12:17:55]
+optimize wallet ?
+
+[2024-08-14T06:43:42]
+in 1 hour 15 min
+
+[2024-08-20T04:04:49]
+does this has to do with the fact that if a cex require 10 confirmation you only receive after 11 confirmation in explorer ?
+so now 10 explorer conf. should receive in cex ?
+
+[2024-08-30T05:32:20]
+what causes the node ui not loading ? and needing to restart
+
+[2024-08-30T07:39:55]
+chain ok ?
+
+[2024-08-30T07:42:00]
+interacting with gluon can't see transaction on explorer than poof it's all there
+
+[2024-08-30T07:42:29]
+so showing only when confirmed
+
+[2024-08-30T07:46:49]
+working , thanks
+
+[2024-08-30T07:47:04]
+when ergexplorer on go 😁
+
+[2024-08-30T12:37:03]
+yes
+
+[2024-08-30T13:51:18]
+can you also make a rockdb release ?
+
+[2024-09-04T08:29:47]
+can run rockdb release if it's ( run it to see if it break testing )
+
+[2024-09-04T08:37:46]
+indexer on , since i started using it had like 3-5 times ui doen't load
+and 2 crashes ( high probability it's ram issue )
+
+[2024-09-04T08:38:24]
+this one
+
+[2024-09-09T08:35:03]
+is there a settings to allow the node to send certain amount of utxo ? more than 100
+
+[2024-09-09T08:42:05]
+node wallet
+
+[2024-09-09T08:57:46]
+failed to find boxes to assemble a transaction for list (ergoboxcandidate(.......
+
+reason MaxInputsExceededError (xxx boxes exceed max inputs in transaction (100))
+
+[2024-09-09T09:48:51]
+same issue droped the amount a bit and it worked
+
+[2024-09-09T09:49:18]
+also weird that node doesn't have confirmation to do anything
+
+[2024-09-18T02:04:39]
+kushti 
+1- 213 is down
+2- setting 213 as mobile wallet node show huge amount of $ for token value ( only this node afaik ) any idea why
+
+[2024-09-18T02:53:55]
+fixed
+
+[2024-09-18T03:13:53]
+yes it have a check for node explorer api
+
+[2024-09-18T14:50:06]
+there is a nautilus testnet version if that's what you're looking for
+
+https://github.com/nautls/nautilus-wallet/releases
+
+[2024-09-20T01:42:23]
+explorer showing blocks from like 12 hours ago
+appear than disappear
+
+[2024-09-23T02:52:46]
+Request header field too large 
+
+when trying boxes/byaddress
+for gluon contract
+
+[2024-09-23T04:22:12]
+dmed 👍🏻
+
+[2024-09-24T04:34:17]
+🚀 ErgoHack IX is Here! 🚀
+Theme: Advancing UI/UX Design & Mining Solutions on Ergo
+
+We're excited to announce the next big event in the Ergo ecosystem—ErgoHack IX, where innovation meets blockchain! 🛠️ This is your chance to help shape the future of Ergo by designing cutting-edge mining solutions and improving UI/UX for a smoother, more user-friendly experience.
+
+📅 Date: October 25-31, 2024
+📍 Location: Ergo's Discord
+
+💻 Whether you're a blockchain developer, UI/UX designer, front-end engineer, mining enthusiast, or just passionate about the space, this hackathon is for you!
+
+🏆 Prizes:
+
+🥇1st Place: $5,000 in ERG + Feature on Ergo Blog + Exclusive AMA
+🥈2nd Place: $3,000 in ERG + Social Media Promotion + Swag Pack
+🥉3rd Place: $1,500 in ERG + Swag Pack
+
+Special awards for best UI/UX design, mining innovation, and community choice.
+Don't miss out— REGISTER NOW and check the full schedule here: ErgoHack IX 🔗
+
+#ErgoHack9
+
+[2024-09-25T08:28:45]
+idea #3 by paul
+
+onchain procedural nfts constructed from a bunch if tokens as pieces and a contract ?
+
+[2024-09-25T08:28:45]
+ErgoHack9
+
+Idea#5 by Pavel
+
+I'd like to see the visualisation of the memory pool for normal people. I'd like to know what is going to happen before it happens.
+
+[2024-09-25T08:28:45]
+ErgoHack9
+
+Idea#7 by Armeanio
+
+FIMO launch tool would be cool to see.
+Maybe emission contract tool idk.
+
+[2024-10-02T08:47:36]
+https://ift.tt/oOfuIZz
+
+[2024-10-03T11:53:55]
+mart.mewfinance.com
+skyharbor.io
+ergoauctions.org
+
+[2024-10-10T14:06:41]
+need more ?
+
+[2024-10-19T14:52:30]
+45 GB indexed node
+
+[2024-11-06T08:24:52]
+moving sigusd to oracle 2.0 ?
+on my end can run infra and do some test 
+not running testnet node at the moment will try to do it this weekend
+
+[2024-11-06T09:59:02]
+could you try to make it mnemonic based and not node wallet ?
+
+[2024-11-07T04:04:39]
+yeah having it on 2.0 will make it more sustainable 
+small fee from sigusd
+small fee from other product (lile forecast ...)
+
+[2024-11-07T04:05:10]
+what is needed from testnet node 
+normal one or indexed ?
+
+[2024-11-08T07:45:46]
+syncing 👍🏻
+
+[2024-11-08T13:20:44]
+https://api.ergoplatform.com/api/v1/boxes/unspent/byTokenId/011d3364de07e5a26f0c4eef0852cddb387039a921b7154ef3cab22c6eda887f
+
+[2024-11-08T13:23:50]
+this one should be for sigusd price , no idea if it have other info
+
+[2024-11-08T13:25:05]
+contract : 
+
+MUbV38YgqHy7XbsoXWF5z7EZm524Ybdwe5p9WDrbhruZRtehkRPT92imXer2eTkjwPDfboa1pR3zb3deVKVq3H7Xt98qcTqLuSBSbHb7izzo5jphEpcnqyKJ2xhmpNPVvmtbdJNdvdopPrHHDBbAGGeW7XYTQwEeoRfosXzcDtiGgw97b2aqjTsNFmZk7khBEQywjYfmoDc9nUCJMZ3vbSspnYo3LarLe55mh2Np8MNJqUN9APA6XkhZCrTTDRZb1B4krgFY1sVMswg2ceqguZRvC9pqt3tUUxmSnB24N6dowfVJKhLXwHPbrkHViBv1AKAJTmEaQW2DN1fRmD9ypXxZk8GXmYtxTtrj3BiunQ4qzUCu1eGzxSREjpkFSi2ATLSSDqUwxtRz639sHM6Lav4axoJNPCHbY8pvuBKUxgnGRex8LEGM8DeEJwaJCaoy8dBw9Lz49nq5mSsXLeoC4xpTUmp47Bh7GAZtwkaNreCu74m9rcZ8Di4w1cmdsiK1NWuDh9pJ2Bv7u3EfcurHFVqCkT3P86JUbKnXeNxCypfrWsFuYNKYqmjsix82g9vWcGMmAcu5nagxD4iET86iE2tMMfZZ5vqZNvntQswJyQqv2Wc6MTh4jQx1q2qJZCQe4QdEK63meTGbZNNKMctHQbp3gRkZYNrBtxQyVtNLR8xEY8zGp85GeQKbb37vqLXxRpGiigAdMe3XZA4hhYPmAAU5hpSMYaRAjtvvMT3bNiHRACGrfjvSsEG9G2zY5in2YWz5X9zXQLGTYRsQ4uNFkYoQRCBdjNxGv6R58Xq74zCgt19TxYZ87gPWxkXpWwTaHogG1eps8WXt8QzwJ9rVx6Vu9a5GjtcGsQxHovWmYixgBU8X9fPNJ9UQhYyAWbjtRSuVBtDAmoV1gCBEPwnYVP5GCGhCocbwoYhZkZjFZy6ws4uxVLid3FxuvhWvQrVEDYp7WRvGXbNdCbcSXnbeTrPMey1WPaXX
+
+[2024-11-08T13:31:32]
+what the rendervalue represent ?
+
+[2024-11-08T13:35:36]
+yeah i know for r4 but r5 is 13xxx
+
+[2024-11-08T13:35:50]
+few message above
+
+[2024-11-09T05:37:58]
+fully synced
+
+[2024-11-15T12:46:41]
+what does spam attempt and spampenalty mean in node logs ? what can cause it ?
+
+[2024-11-15T12:53:16]
+hmmmm seems died at some block couldn't go past it
+
+[2024-11-15T12:54:37]
+mainnet but it's my other node been turned off file replaced many times
+
+[2024-11-15T12:59:33]
+1391442
+
+how can i know fork or main ?
+
+[2024-11-15T13:01:57]
+best block id 
+1391443
+
+[2024-11-15T13:09:57]
+this one always start differrent from my main wallet
+showing many lines
+ java..... 
+weirdly can't see them in log
+
+as for syncing no still nothing
+
+[2024-11-15T22:44:48]
+3WvjmwdM9Lupn7fXPMB2uojweHwQQiLzdLSo1XRo3tgVCoBfL4ny
+
+[2024-11-23T14:41:36]
+anything happened at block 
+1402187
+
+[2024-11-23T14:46:39]
+can't yet apply persistent modifier....
+to history nt header with id "id" is not defined
+
+[2024-11-23T14:50:49]
+yes connection is good
+
+[2024-11-23T14:55:47]
+next one  1402188
+
+[2024-11-23T15:01:56]
+my bad, persistant is block 1402188
+is is not defined is 1402187
+
+[2024-11-25T06:48:05]
+don't have log handy now but i believe so yes
+had a recent backup so up and running now
+
+[2024-11-27T14:34:06]
+@MGpai0 can you check lilium ergopay server please
+
+[2024-11-27T22:57:51]
+synced , height 1493090
+but seems explorer is stuck since 20/11
+
+[2024-11-28T01:58:16]
+private will only use it for sigmabank update and turn it off if it isn't needed anymore
+
+[2024-12-01T01:41:27]
+moved recently to mgpai jar seems my address has changed 
+let me know what you need, when you what to start ...
+
+[2024-12-01T01:46:40]
+3Wvd1hML9DLxNJEbS1VuDuwgsZeNcyoBtyGqvheiQodFxpZBoz2b
+
+[2024-12-03T00:31:41]
+https://www.chatbase.co/chatbot-iframe/INAIfQ2ts4E6ykf4rseVu
+
+[2024-12-03T00:32:05]
+this one is trained for ergoscript also
+
+[2024-12-03T12:36:07]
+ergo{ ... node.nipopow.nipopowBootstrap = true
+node.utxo.utxoBootstrap = true ... }
+
+[2024-12-03T12:36:24]
+the other one is digest
+
+[2024-12-07T09:39:33]
+higher fee can go to oracle + bank so rsv holder have incentive
+gluon doing the dynamic fee by checking how much transmite is being made could see same concept , high usd mint , rsv ....
+
+[2024-12-16T16:24:53]
+at your service anyday 🫡
+
+[2024-12-19T16:11:38]
+many talked about oracle 2.0 including me
+
+[2024-12-19T16:12:13]
+seems a good idea even more now
+
+[2024-12-19T16:42:41]
+yeah but since bank under upgrade why not ?
+same as gort send few oracle token to participant /helper and sell few and create a pool ....
+
+[2024-12-20T05:23:56]
+probably will never do
+
+[2024-12-20T10:23:38]
+and here but noone is using any 
+
+https://github.com/nautls/ergo-meta/tree/master/metadata/contracts
+
+[2024-12-20T11:12:49]
+yeah , the point is someone stated it than pooff
+
+[2024-12-20T14:37:30]
+got peer connection destroyed than node shutdown , any idea ?
+
+[2024-12-20T14:53:43]
+5.0.21-69-d3c.....
+rockdb you sent me
+
+[2024-12-20T14:53:58]
+will dm part of log
+
+[2024-12-20T14:55:58]
+ncaught error from thread [ergoref-akka.io.pinned-dispatcher-12]: Java heap space, shutting down JVM since 'akka.jvm-exit-on-fatal-error' is enabled for ActorSystem[ergoref]java.lang.OutOfMemoryError: Java heap space
+
+[2024-12-20T23:11:29]
+yes, much less than 4gb
+
+[2024-12-21T04:30:36]
+was using 256M than it crashed few weeks ago , using 512 now
+
+[2024-12-21T08:19:58]
+don't think it ever register tho, task manager shows 3xx mb but seems node will eventially die after couple days even woth 512
+
+[2024-12-21T08:20:25]
+full node indexed btw , after fully synced
+
+[2024-12-22T02:51:25]
+kushti is my testnet node needed anymore ?
+
+[2024-12-23T00:44:02]
+will keep it on them if something is to be needed
+
+[2025-01-02T11:20:08]
+i think arobsn was working/researching it can't find the message tho
+
+[2025-01-02T11:22:33]
+can make a reset period no ? 
+no sign in 10 min and than you need password again
+
+[2025-01-06T11:46:59]
+working on my end
+
+[2025-01-17T16:56:58]
+yes node still running
+
+[2025-01-23T09:16:16]
+https://github.com/noob77777/ergo-randgen
+
+[2025-01-23T09:19:00]
+full video explaining
+
+https://www.youtube.com/watch?v=flJWESKXOug
+
+[2025-01-29T08:17:18]
+i think false
+
+[2025-01-29T08:17:44]
+as bank can also remove dexy only from lp to restore pegg
+
+[2025-01-29T08:23:08]
+extraction tx:
+
+https://testnet.ergoplatform.com/en/transactions/fd20078191c92ad03cecfd409c41478708fe1dfb2c71ff1f116bc3a54f8d6b04
+
+[2025-03-05T13:03:06]
+mr s once told me you need like a special setting
+the node actually work with ergopay in dapp but doesn't send from the wallet p2p
+
+[2025-03-06T08:16:46]
+was testing abyss with fresh wallet most dapp couldn't connect on fresh wallet
+could this be the same issue ?
+
+[2025-03-13T02:20:18]
+were you able to send to normal address ?
+
+[2025-03-13T08:47:45]
+ergo node require 25gb of free storage 
+need to be changed no ?
+
+[2025-03-14T16:44:09]
+running another node on the same port ?
+
+[2025-03-17T08:09:06]
+is there an issue with testnet ? 
+also drop menu to switch from mainnet to testnet on explorer is gone
+
+[2025-03-18T09:30:01]
+isn't keystone done/taken for pgr ?
+
+[2025-03-19T06:37:43]
+it doesn't even support top blockchain in the first place
+
+[2025-03-19T06:38:02]
+can use it for rserg on eth tho
+
+[2025-05-06T12:06:48]
+is it possible to integrate ergo to wallet connect ?
+
+[2025-05-06T12:36:45]
+https://walletconnect.network/
+
+[2025-05-06T12:36:52]
+"ergopay"
+
+[2025-05-06T12:36:59]
+most used in evm ....
+
+[2025-05-06T13:28:37]
+would be a nice standard to use if possible rather than each app have their own ergopay server
+
+[2025-05-07T09:04:25]
+is there a reason why all rockdb node are under 5.1.0 ?
+
+[2025-05-07T09:07:50]
+no no i mean 5.1.1 , 5.1.2 and 5.1.3 node name is still 5.1.0
+
+[2025-05-07T09:10:09]
+was checking ergonodes.net to see how many moved to new version but you can't really know with 5.1
+
+[2025-07-02T08:36:41]
+add me also please ( if it is a new group and not the old one )
+
+[2025-07-02T09:41:38]
+deployed to gluon.gold also
+
+[2025-07-16T08:55:38]
+Lithos Update: 
+ 
+- Finished storage rent contract, now in testing phase
+- Resumed testing Fraud proof NISP contracts
+- Small changes to diff calculations as test NISP-based work calculations on different hashrates and settings
+- Deployed “holding contract” (initial part of rollup) on devnet successfully, will be moving over to public 6.0 testnet later this week
+
+Machina Finance Update:
+
+- AVL Tree serializations are done, slowly going over some operation examples, so it can be implemented on FleetSDK
+- community review of machina contracts, exploring ways for a quick bootstrap. 
+- working on machina real-time order aggregation backend in rust
+
+Rosen Bridge Update:
+
+- Deployed the Doge Bridge
+- Working on Runes Integration
+- Investigating Monero Integration Framework
+
+[2025-07-17T04:57:05]
+my testnet stuck at height 801365 any ideas ?
+6.1.0
+
+[2025-07-17T04:58:40]
+Failed to parse modifier with declared id 070d899ddf3e99351d81b6c49413024c2401f072b5a071e5f2ec1dba486712af from ConnectedPeer
+
+[2025-07-28T14:53:11]
+isn't it better to have a repo in github.com/ergoplatform for all metadata, token name, logo....
+so all dapp/wallet can use it rather than each one create a solution
+
+[2025-07-29T14:22:29]
+ergo {
+    node {
+        mining = false
+    }
+}
+scorex {
+  network {
+    knownPeers = ["108.6.14.230:9020","108.6.14.230:9022","5.161.73.235:9022","176.9.15.237:9021","195.201.82.115:9021","37.27.85.107:9022","213.239.193.208:9022","135.181.89.19:9022"]
+    peerDiscovery = true
+  }
+}
+
+[2025-07-29T14:22:42]
+java -jar -Xmx2G ergo-6.1.0.jar --testnet -c ergo.conf
+
+[2025-07-29T14:23:36]
+change for the version you using
+
+[2025-07-29T14:26:21]
+there was an issue on my end no idea if it got fixed and merged yet
+
+[2025-07-29T14:30:11]
+i used 512M 😅
+
+[2025-07-30T09:21:04]
+Update for Lithos: @LithosProtocol 
+
+- Finished testing for all fraud proofs contracts
+- Continued work on difficulty contract
+- Changes to stratum to help with certain mining softwares (TRM)
+
+Difficulty contract is the last one to make.
+
+Then all ergoscript work is done. After that more off-chain code and then…
+
+We can start up the testnet.🍻
+
+[2025-07-30T09:22:18]
+[vorujack] Minotaur version 3.0.0 released
+Major Changes
+- Update multi-sig communication data format
+
+Minor Changes
+- Extract utils package
+- Move types to new package
+- AirDrop dapp added
+- add createChangeBox to all dapps
+
+Patch Changes
+- Fix scanning qrcode for multi-sig transaction
+- Fix address validation and amount validation
+- Ensure amount be lower or equal than maximum available sigUSD/sigRSV
+- Fix address book element modification bug
+- Implement error feedback for failed transaction generation
+- Validate addresses before inserting a new wallet
+- Fix a bug which cause all wallet disappeared when new wallet restored
+- Validate the available amounts of Erg and tokens before transaction
+- Fix delete wallet bug
+- Ensure implementorFee min value ≥ wasm.BoxValue.SAFE_USER_MIN
+- Updated dependencies
+- @minotaur-ergo/utils@1.1.0
+- @minotaur-ergo/icons@1.2.0
+- @minotaur-ergo/types@1.1.0
+
+be careful For multi-sig transaction this version is NOT compatible with older version.
+
+[2025-07-30T09:22:18]
+[vorujack] Fixed in v3.0.1
+Please use this version.
+v3.0.0 removed because white screen problem
+
+[2025-08-06T08:06:43]
+Update for Lithos: @LithosProtocol 
+
+- Finished difficulty contract
+
+- Completed off-chain work for multiple fraud proof contracts 
+
+- Additional changes made to stratum to help TRM users
+
+- Made stratum performance more efficient by only keeping track of shares with high enough difficulty for use in NISPs.
+
+- Shares are now stored when the stratum shuts down in case mining is interrupted for a brief moment.
+
+[2025-08-11T08:02:36]
+will do in couple days
+
+[2025-08-13T02:10:09]
+all good synced
+
+[2025-08-13T08:32:08]
+Update LithosProtocol 
+
+- Lots of work on off-chain code for fraud proof contracts, as well as diff contract
+
+- Cleaned up and changed some stratum code to make running it more efficient / less resource intensive
+
+- Small changes to many contracts involving documentation, comments, var names, etc. 
+
+Getting things ready for testnet
+
+[2025-08-14T05:17:37]
+available on metamask
+
+[2025-08-18T04:56:57]
+ergodex branch not dev
+
+[2025-08-27T11:58:40]
+Update @LithosProtocol Working to bring share proofs to the mining space.
+
+- Finished all Off-chain code for simple fraud proofs (basic errors like incorrect data formats, failure to post difficulty on-chain, or not posting enough shares)
+- Finished unit tests for these same fraud proof contracts
+- Continued working on unit tests + off-chain code for more complex fraud proof contracts, diff contract, and rollup contracts.
+- Fixed stratum bug that was frequently disconnecting mining software
+
+Main focus right now is finishing all the off-chain code, for which I'd say we're about 75% of the way there. I've finished off-chain code for about 15 fraud proof contracts, there's around 10 more but these ones are more complex to make.
+
+[2025-08-27T11:59:06]
+MindHealer project update: 
+
+- Added notifications on various SC actions
+- Improved expert's service creation
+- Fixed minor bugs
+
+[2025-09-11T03:00:03]
+will wallet be able to update (balance, transaction ....) as fast as sb ?
+
+[2025-09-17T11:39:33]
+gluon.gold
+
+* various ui improvement for better desktop and mobile experience 
+* 14 days transmute volume chart added 
+* swap checking restriction is 75% removed ( pending fussion )
+
+[2025-09-24T15:04:51]
+dexyusd
+
+[2025-09-24T15:05:08]
+It's a realtime and mempool-aware box streamer on top of the indexed node, it was initially designed for Machina Finance, but it will be generic enough to be used by any dApp and even to replace graphql on Nautilus
+
+[2025-10-12T02:03:41]
+max working , different buffer from wallet to wallet couple so from rounding error or so
+(1 wallet still kept 0.001xx and another (larger balance) 0.005xxx)
+
+wallet restoration still failing, and listener well i believe still as previous as after testing i noticed you just needed to wait for api or something to fetch the update
+
+[2025-10-12T05:25:10]
+just to clarify issue 50
+tested with and without it and both had to wait for like 1 minute
+can't really confirm it was fixed
+
+[2025-10-22T11:20:01]
+Lithos Updates (@LithosProtocol for last 2 weeks):
+
+- Additional performance increases when running stratum on same machine as miner
+
+- Fixed multiple bugs related to using Rigel miner on the Lithos client stratum
+
+- Took some initial steps to get a Lithos client running on HiveOS. Will likely be finished post-testnet launch
+
+- Lots of styling and layout improvements to HTML panel UI
+
+- Cleaned up multiple contracts and related off-chain code.
+
+- Made some changes to contract checking proof of inclusion of collateral transaction in block header.
+
+[2025-10-30T03:30:55]
+Lithos Updates: @LithosProtocol 
+
+- Finished HTML UI
+- Cleaned up many contracts along with adding better documentation
+- Started refactoring codebase to make things a bit more organized
+- Added scripts to launch initial utxos onto testnet
+- Made some stratum fixes for rigel and NBminer when mining on low-difficulty (shares only accepted on stratum if they count as super-shares on Lithos)
+
+Appkit:
+
+- Adding tests for AppKit 6.0
+
+[2025-11-07T11:14:21]
+https://github.com/rosen-bridge/rosen-sdk
+
+[2025-11-07T11:34:08]
+not all chain missing evm now
+
+[2025-11-10T11:48:05]
+action/workflow need update ?
+
+[2025-11-12T15:02:24]
+is there any special env or config to explorer frontend ?
+couple weeks ago i added usd oracle v2 but had error running it on vercel
+
+[2025-11-24T13:02:30]
+https://github.com/ErgoDevs/Ergo-Bounties
+
+[2025-11-25T11:59:27]
+reemission
+
+[2025-11-25T12:01:13]
+should be minus reemission and emission proxy if i am not mistaken
+
+[2025-11-26T13:35:17]
+gluon.gold
+- Wallet connection after refresh is fixed now
+- Multiple ui bug were fixed
+- A lot of useful stats were added also
+
+cruxfinance.io
+- Added Trending, gainers and loser (1D) to token page , waiting for review
+
+[2025-12-02T06:10:33]
+anyone have a link for gold oracle status ?
+reqlezz one is down
+
+[2025-12-02T12:57:51]
+@kushti_ru Usd Oracle V2 added
+
+https://github.com/ergoplatform/explorer-frontend/pull/199
+
+[2025-12-02T13:13:42]
+@LuivatraEP Loading and more logo
+
+https://github.com/cruxfinance/crux-frontend/pull/98
+
+[2025-12-03T13:25:11]
+*explorer-frontend:
+Added USD oracle V2 pending review and merge https://github.com/ergoplatform/explorer-frontend/pull/199
+
+*nautilus-wallet:
+USE, CLB And DORT Added and merged 
+https://github.com/nautls/nautilus-wallet/pull/324
+
+*Cruxfinance:
+Added trending , gainers and loser boxes 
+https://github.com/cruxfinance/crux-frontend/pull/97
+few bug fixes 
+and added multiple logo
+https://github.com/cruxfinance/crux-frontend/pull/98
+
+*ergexplorer
+Added all dexyusd-use contract to addressbook
+
+as you can see many token logos added left and right which bring back the talk to have a single repo that should be under ergoplatform and can be implemented in all wallets and dapps. in talk with couple devs to see what could be the best solution
+
+[2025-12-03T13:37:18]
+thank you
+waiting for boris to sort ergohost ( gold oracle link is down) if wasn't sorted in couple days i can ask @Pgr456 or someone to expose same as usd v2
+than will push the changes
+
+[2025-12-13T08:06:03]
+https://ergexplorer.com/addressbook
+
+[2025-12-21T02:04:32]
+also apple lost a lawsuit againt alt stores 
+so this was built, could be nice access to iphone users 
+
+https://altstore.io/
+
+[2025-12-29T06:19:17]
+this could be reviewed also
+
+https://github.com/ergoplatform/explorer-frontend/pull/199
+
+[2025-12-29T06:21:12]
+someone made pr for the same issue with a fake url ( pr 200 ) for some reason and missing also 1 file change
+
+[2026-01-07T15:27:37]
+i think i got the defilama part 
+will send it to couple devs to review first
+
+[2026-01-07T15:38:05]
+need to add use connector to defilama, already did that but  i need someone to review 
+now will show 0 value
+
+[2026-01-07T15:53:21]
+so basically this is ergodex price file
+
+https://github.com/DefiLlama/defillama-server/blob/master/coins/src/adapters/markets/ergopad.ts
+
+used it to create the dexyprotocol one with both gold and use pools
+
+https://github.com/ErgoTester/defillama-server/blob/Add-DexyProtocol/coins/src/adapters/markets/dexyProtocol/dexy.ts
+
+[2026-01-07T15:54:30]
+than we submit dexygold and use each on their own so both can be visible under ergo page
+
+[2026-01-07T16:00:09]
+https://github.com/ErgoTester/DefiLlama-Adapters/blob/Add-USE/projects/use/index.js
+
+https://github.com/ErgoTester/DefiLlama-Adapters/blob/Add-DexyGold/projects/dexygold/index.js
+
+[2026-01-22T07:45:06]
+made this so nautilus can fetch use and dexygold prices
+if you have a moment to review so if all good i can open a pr 
+
+https://github.com/ErgoTester/nautilus-wallet/blob/Mobile/src/chains/ergo/services/dexyService.ts
+
+[2026-02-02T06:10:46]
+https://github.com/ergoplatform/explorer-frontend/pull/199 
+🫣🫣🫣
+
+[2026-02-04T15:07:54]
+who mantain sigmaverse 
+with dozen of app created those should be added so people can see them
+i can update/add them in my free time 
+@kushti_ru can you add me to the repo ?
+
+[2026-02-06T13:04:19]
+ok so if you can check if all good we can than resume the work on it , if no degens world might have something similar
+

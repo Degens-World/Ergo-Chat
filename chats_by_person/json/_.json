@@ -1,0 +1,74 @@
+{
+  "sender": "_",
+  "total_messages": 17,
+  "messages": [
+    {
+      "date": "2025-07-29T12:28:28",
+      "text": "Can you make the client field public too ? Its hard to make http requests without it"
+    },
+    {
+      "date": "2025-07-29T12:28:41",
+      "text": "Just a client getter"
+    },
+    {
+      "date": "2025-07-29T12:29:22",
+      "text": "If its open to contributions , I can do it"
+    },
+    {
+      "date": "2025-07-29T14:14:17",
+      "text": "Hi people can I get a link to a barebones testnet conf file for an ergo node? Just the minimum that will run for testing . This is too extensive https://github.com/ergoplatform/ergo/blob/master/src/main/resources/testnet.conf"
+    },
+    {
+      "date": "2025-07-29T14:25:18",
+      "text": "thanks , ig the list of known peers was missing in mine"
+    },
+    {
+      "date": "2025-07-29T14:27:25",
+      "text": "what do you mean , what issue"
+    },
+    {
+      "date": "2025-07-29T14:27:53",
+      "text": "Isn't 2GB kinda less or is it usally enough"
+    },
+    {
+      "date": "2025-07-29T14:31:40",
+      "text": "damn , nice . I used to think JVM is usually quite heavy"
+    },
+    {
+      "date": "2025-07-29T14:31:51",
+      "text": "btw , this is giving me some errors \n01:00:54.411 INFO  [ctor.default-dispatcher-8] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(ergoref,5.0.26,ergo.cedric-crispin.com,Some(/192.168.0.13:9030),Vector(ModePeerFeature(utxo,true,None,-1), SessionIdPeerFeature([B@62a65b0f,7223305772973655554))),0,None,0)\n01:00:54.411 WARN  [ctor.default-dispatcher-8] s.c.n.NetworkController - Prevented attempt to connect to local peer /192.168.0.13:9030. (scorex.network.localOnly is false)\n01:00:59.319 WARN  [tor.default-dispatcher-11] o.e.n.ErgoNodeViewSynchronizer - No peers available in requestDownload\n01:00:59.430 INFO  [tor.default-dispatcher-11] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(ergoref,6.0.0,ergo-mainnet-6.0.0,Some(/169.254.3.1:9030),Vector(ModePeerFeature(utxo,true,None,-1), SessionIdPeerFeature([B@56ac9e88,-5725338084578924880))),0,None,0)\n01:00:59.431 WARN  [tor.default-dispatcher-11] s.c.n.NetworkController - Prevented attempt to connect to local peer /169.254.3.1:9030. (scorex.network.localOnly is false)\n01:01:04.320 WARN  [tor.default-dispatcher-11] o.e.n.ErgoNodeViewSynchronizer - No peers available in requestDownload\n01:01:04.451 INFO  [tor.default-dispatcher-11] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(ergoref,6.0.0,ergo-mainnet-6.0.0,Some(/100.82.71.126:9030),Vector(ModePeerFeature(utxo,true,None,-1), SessionIdPeerFeature([B@3d4aec7e,-6262009619714979733))),0,None,0)\n01:01:05.485 INFO  [tor.default-dispatcher-12] s.c.n.NetworkController - Failed to connect to /100.82.71.126:9030 - Connect timeout of Some(1 second) expired\n01:01:09.321 WARN  [tor.default-dispatcher-11] o.e.n.ErgoNodeViewSynchronizer - No peers available in requestDownload\n01:01:09.471 INFO  [tor.default-dispatcher-11] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(ergoref,6.1.0,comp-node,Some(/212.227.100.111:39030),Vector(ModePeerFeature(utxo,true,None,-1), SessionIdPeerFeature([B@518da742,-7370728877642334956), LocalAddressPeerFeature(/0.0.0.0:0))),1753243895200,Some(Outgoing),0)\n01:01:09.528 INFO  [tor.default-dispatcher-11] s.c.n.NetworkController - Failed to connect to /0.0.0.0:0 - Connection refused\n01:01:12.890 WARN  [tor.default-dispatcher-12] o.e.n.ErgoNodeViewSynchronizer - No peers available in requestDownload\n01:01:13.060 INFO  [tor.default-dispatcher-12] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(ergoref,5.0.26,ergo-mainnet-5.0.26,Some(/169.254.138.58:9030),Vector(ModePeerFeature(utxo,true,None,-1), SessionIdPeerFeature([B@1d568cbd,-2541285934153940506))),0,None,0)\n01:01:13.061 WARN  [tor.default-dispatcher-12] s.c.n.NetworkController - Prevented attempt to connect to local peer /169.254.138.58:9030. (scorex.network.localOnly is false)"
+    },
+    {
+      "date": "2025-07-29T14:33:10",
+      "text": "my ergo version is 5.0.24"
+    },
+    {
+      "date": "2025-07-30T08:27:21",
+      "text": "Curious , how are you using a Cornell zoom link ?"
+    },
+    {
+      "date": "2025-08-02T00:34:25",
+      "text": "I'm actually surprised how small the number of nodes are . Since each miner also requires a node , this is the total number of miners too right?( They might have a lot of gpu behind a single node though)"
+    },
+    {
+      "date": "2025-08-02T00:38:14",
+      "text": "Gotcha"
+    },
+    {
+      "date": "2025-08-02T01:42:32",
+      "text": "You mean these are the ones which are accepting connections ?"
+    },
+    {
+      "date": "2025-08-02T02:12:19",
+      "text": "You would need a public IP for that right"
+    },
+    {
+      "date": "2025-08-02T07:03:28",
+      "text": "👍"
+    },
+    {
+      "date": "2025-08-05T07:13:42",
+      "text": "If you use cline you can add all the repo level directives in a file which control the kind of code the LLM produces."
+    }
+  ]
+}

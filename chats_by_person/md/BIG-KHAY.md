@@ -1,0 +1,39 @@
+# BIG-KHAY
+
+**Total messages:** 5
+
+---
+
+**2025-08-23T04:34:46**
+
+Hey
+
+---
+
+**2025-08-23T04:35:18**
+
+Gm fam,
+I fought so hard to gain access in here 😅
+I’m glad I made it finally
+
+---
+
+**2025-08-23T04:38:37**
+
+The bot directed me to a website to read the docs and I was confused.
+I click a link there which also took me to another Egro chat group and the members were all communicating in Spanish
+
+---
+
+**2025-08-27T14:16:28**
+
+I’m interested in Ergo Development.
+
+---
+
+**2025-08-27T14:17:03**
+
+I design user interface too
+
+---
+

@@ -1,0 +1,134 @@
+{
+  "sender": "Emilio Aguilar Gutierrez",
+  "total_messages": 32,
+  "messages": [
+    {
+      "date": "2024-07-26T06:53:41",
+      "text": "Can you help me with this issue: \nhttps://github.com/ergoplatform/ergo/issues/2172"
+    },
+    {
+      "date": "2024-08-05T02:40:49",
+      "text": "I hava a local ERGO blockchain with two nodes... They have the same wallet... But the nodes have different Height... How is this possible?\nAnd their wallet have different amounts (having the same address)... How is it possible?\nAre they going sometime to sync height?"
+    },
+    {
+      "date": "2024-08-05T02:42:41",
+      "text": "They are not in the same height... 1372 vs 1279"
+    },
+    {
+      "date": "2024-08-05T02:43:16",
+      "text": "14917.5 ERG vs 8100 ERG"
+    },
+    {
+      "date": "2024-08-05T02:43:51",
+      "text": "How can they sync? How long do I ned wait?"
+    },
+    {
+      "date": "2024-08-05T02:52:45",
+      "text": "Both nodes say: Node is synced"
+    },
+    {
+      "date": "2024-08-05T02:52:58",
+      "text": "But they are not"
+    },
+    {
+      "date": "2024-08-05T03:01:16",
+      "text": "I do not know how to do it"
+    },
+    {
+      "date": "2024-08-05T04:40:35",
+      "text": "- Node 1: Prefix: 96\n  network {\n    magicBytes = [1, 1, 8, 1]\n    bindAddress = \"0.0.0.0:9022\"\n    nodeName = \"ergo-mainnet-swa\"\n    knownPeers = []\n  }\n- Node 2: Prefix: 96\n  network {\n    magicBytes = [1, 1, 8, 1]\n    bindAddress = \"0.0.0.0:9023\"\n    nodeName = \"ergo-mainnet-swa-1\"\n    knownPeers = [\"127.0.0.1:9022\"]\n  }"
+    },
+    {
+      "date": "2024-08-05T04:41:07",
+      "text": "Is there something  I must add to the configuration to make them work in the same fork?"
+    },
+    {
+      "date": "2024-08-06T02:09:56",
+      "text": "I have deleted the ergo.directory contents of each node. I have unlocked the same wallet in both of my local blockchain... And they are synchronizing... But:"
+    },
+    {
+      "date": "2024-08-06T02:10:06",
+      "text": "- node 1:"
+    },
+    {
+      "date": "2024-08-06T02:10:41",
+      "text": "- node 2:"
+    },
+    {
+      "date": "2024-08-06T02:11:24",
+      "text": "What this means?: \nSync progress\nSyncing headers: NaN% (<- error?)"
+    },
+    {
+      "date": "2024-08-06T02:12:54",
+      "text": "Console just send messages like:\nINFO  [ctor.default-dispatcher-5] o.e.m.ErgoMiningThread - Trying nonce 920000\nAre they error messages?"
+    },
+    {
+      "date": "2024-08-06T03:14:50",
+      "text": "Is anybody there?"
+    },
+    {
+      "date": "2024-08-06T03:15:05",
+      "text": "Still synchronizing!!!"
+    },
+    {
+      "date": "2024-08-06T05:01:44",
+      "text": "I want to setup a local network with two nodes to mine, connect SAFEW to the local Blockchain... But the configuration I use does not work.\n1- nodes have different height\n2- SAFEW cannot import the wallet used by the nodes.\nI am trying to get support for long time and just get one sentence answer that do no resolve anything day after day"
+    },
+    {
+      "date": "2024-08-06T05:32:59",
+      "text": "I tried with the desktop wallet... Does not work either...\nI have two nodes only and after couple hours were not able to sync...\nSo my configuration files are wrong... I published them and nobody corrects them...😒"
+    },
+    {
+      "date": "2024-08-08T02:07:20",
+      "text": "ergo {\n  networkType = \"mainnet\"\n\n  node {\n    mining = true\n    offlineGeneration = true\n    useExternalMiner = false\n    # To work with SAFEW:\n    extraIndex = true\n  }\n\n  chain {\n    addressPrefix = 96\n    reemission {\n      checkReemissionRules = true\n    }\n  }\n\n}\n\nscorex {\n  network {\n    magicBytes = [1, 1, 8, 1]\n    bindAddress = \"0.0.0.0:9022\"\n    nodeName = \"ergo-mainnet-swa\"\n    knownPeers = []\n  }\n\n  restApi {\n    bindAddress = \"127.0.0.1:9122\"\n    apiKeyHash = \"324dcf027dd4a30a932c441f365a25e86b173defa4b8e58948253471b81b72cf\"\n  }\n}\nI launch only one node... And it is synchonizing forever... (With who?)"
+    },
+    {
+      "date": "2024-08-08T03:36:13",
+      "text": "The url goes to a comparing git version page... I do not understand anything"
+    },
+    {
+      "date": "2024-08-08T03:44:31",
+      "text": "The simplest way to solve a problem is to check if the problem can be reproduced... You have my configuration file... It is so simple, to run an ergo node with it: \njava -jar -Xmx4G ergo/target/scala-2.12/ergo-5.0.21.jar --mainnet -c ergo/my_mainnet.conf\nAfter checking that never synchronizes... You can find a solution (you are the experts) just modifying the configuration files. Or explaining what is missing to do.\nAnd yes... After 1 hour waiting for changes, I launched a second node (not mining) \nergo {\n  networkType = \"mainnet\"\n  directory = \"/home/emilio/ergo/ergo-mainnet-swa-1/data\"\n\n  node {\n    mining = false\n    offlineGeneration = true\n    useExternalMiner = false\n    # To work with SAFEW:\n    extraIndex = true\n  }\n\n  chain {\n    addressPrefix = 96\n    reemission {\n      checkReemissionRules = true\n    }\n  }\n\n}\n\nscorex {\n  network {\n    magicBytes = [1, 1, 8, 1]\n    bindAddress = \"0.0.0.0:9023\"\n    nodeName = \"ergo-mainnet-swa-1\"\n    knownPeers = [\"0.0.0.0:9022\"]\n  }\n\n  restApi {\n    bindAddress = \"127.0.0.1:9123\"\n    apiKeyHash = \"324dcf027dd4a30a932c441f365a25e86b173defa4b8e58948253471b81b72cf\"\n  }\n}\nAnd as usual, did not synchronize; but connected with the initial peer."
+    },
+    {
+      "date": "2024-08-09T02:35:33",
+      "text": "Does not work... obviously... You have modified a README.md file and a resources file (testnet.conf) that have nothing to do with my configuration file (my_mainnet.conf). Also testnet.conf is for \"testnet\"... And I am launching a local \"mainnet\"!\nIs there any other to help me? (if does read my messages would be great)"
+    },
+    {
+      "date": "2024-08-09T02:50:54",
+      "text": "Does not work"
+    },
+    {
+      "date": "2024-08-09T02:59:08",
+      "text": "With \"devnet\" works and both nodes have the same height...\nBut with \"mainnet\" does not work\nIa am going to try to change the networkType to \"mainnet\" without deleting the node data folder... Because the goal is a local mainnet..."
+    },
+    {
+      "date": "2024-08-09T03:03:52",
+      "text": "And after sync in DevNet I changed the networktype to \"mainnet\" and is still sync and working...\nI solved it... I think... Thanks to the DevNet -> MainNet trick."
+    },
+    {
+      "date": "2024-08-09T03:14:13",
+      "text": "Unfortunately SAFEW cannot get the wallet address of the nodes... (it is \"searching existing address\" forever)\nAnd ergo-wallet-app lauched with: ./gradlew desktop:run seems to connect but I cannot check becouse I do not have any mined ERG yet in the wallet..."
+    },
+    {
+      "date": "2024-08-09T03:19:02",
+      "text": "I am trying to have an independent main network... I have chainged magic bytes, but not the \"genesis block hash\"... Could this be the cause of the problem? How do I change them?"
+    },
+    {
+      "date": "2024-08-09T16:20:20",
+      "text": "I do not know about sidechains. But they could interest me..."
+    },
+    {
+      "date": "2024-08-12T09:22:11",
+      "text": "I am working for a company that is interested in developing a POW Blockchain... To use their own token... I have researched some options and Ergo technology could fix as foundation... If is possible to find a collaborative agreement I would be very happy"
+    },
+    {
+      "date": "2024-08-12T16:08:28",
+      "text": "Ok, I Will DM you. The requirements are very simple, POW, easy to mine in BTC machines, and easy to bridge to polygon. Multiplatform wallet and web blockchain scanner..."
+    },
+    {
+      "date": "2024-08-13T02:03:51",
+      "text": "I wrote you a DM in discord (eag_swag->kushti0978) \nIf you did not receive it, just tell me."
+    }
+  ]
+}

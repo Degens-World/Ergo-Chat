@@ -1,0 +1,55 @@
+# Alien
+
+**Total messages:** 8
+
+---
+
+**2025-11-06T02:09:54**
+
+Actually not a horrible idea for my project I'm working on. Even though it said it wasn't right subject in this channel. It's good for those projects that don't create some scam token to raise money
+
+---
+
+**2025-11-07T10:49:59**
+
+Does Rosenbridge have api for porting it in to projects other people's platforms they might want to build? How would this integration would look like.? Anyone can point me to some documentation if this possible
+
+---
+
+**2025-11-07T11:26:34**
+
+Amazing, so it's possible. Good stuff
+
+---
+
+**2025-11-07T11:56:33**
+
+No worries I just in process putting together a white paper if I can even call it that way yet. Just brain storming my idea. Thanks for your help.
+
+---
+
+**2025-11-07T16:12:27**
+
+Thnk you
+
+---
+
+**2025-11-09T10:21:03**
+
+@kushti_ru by any chance so you read and answer your DMs, I know your time is limited
+
+---
+
+**2025-11-10T04:57:32**
+
+Ok thank you
+
+---
+
+**2025-11-17T19:15:54**
+
+Is there more info for USE? stable coin, is it similar to SigUSD?
+I like to look at mechanics and how it's used.
+
+---
+

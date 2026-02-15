@@ -1,0 +1,66 @@
+{
+  "sender": "Cheung Wai Lok",
+  "total_messages": 15,
+  "messages": [
+    {
+      "date": "2023-07-15T03:03:03",
+      "text": "Hi"
+    },
+    {
+      "date": "2023-07-15T03:03:22",
+      "text": "any resources that i can look at to learn SC development on ergo?"
+    },
+    {
+      "date": "2023-07-15T03:03:45",
+      "text": "Do i have to use ergoscript only?"
+    },
+    {
+      "date": "2023-07-15T03:04:18",
+      "text": "i come from cardano background, know how to do SC dev for UTXO model"
+    },
+    {
+      "date": "2023-07-15T03:06:51",
+      "text": "seems JS and Rust are also possible?"
+    },
+    {
+      "date": "2023-07-15T03:07:01",
+      "text": "or they are simply for off-chain?"
+    },
+    {
+      "date": "2023-07-15T03:07:31",
+      "text": "got it, thanks"
+    },
+    {
+      "date": "2023-07-15T03:08:20",
+      "text": "I want to focus on writing validators first"
+    },
+    {
+      "date": "2023-07-15T03:08:30",
+      "text": "then will look at how to construct TX off-chain"
+    },
+    {
+      "date": "2023-07-15T03:08:51",
+      "text": "https://github.com/ergoplatform/ergoscript-by-example"
+    },
+    {
+      "date": "2023-07-15T03:08:59",
+      "text": "I believe this is a great resource"
+    },
+    {
+      "date": "2023-07-15T03:12:44",
+      "text": "yeah, it is just that i want to look at if there is other options like Rust/Golang 😂"
+    },
+    {
+      "date": "2023-07-15T03:29:50",
+      "text": "Ergoscript only for writing onchain validators, but there are other options for off-chain action?"
+    },
+    {
+      "date": "2023-07-15T04:05:05",
+      "text": "You mean onchain or offchain?"
+    },
+    {
+      "date": "2023-07-15T04:17:57",
+      "text": "ok, got it"
+    }
+  ]
+}

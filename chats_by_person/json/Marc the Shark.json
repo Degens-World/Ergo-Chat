@@ -1,0 +1,470 @@
+{
+  "sender": "Marc the Shark",
+  "total_messages": 116,
+  "messages": [
+    {
+      "date": "2024-03-20T09:05:55",
+      "text": "Sigmanaut Mining Pool UI:\n- Working through possible bug on multi-user usage of dashboard \nVERSION 2 - Real Fly for a UI:\n- Finalizing design and implementation Front Page for UI (similar to Vipor.net, and other mining pages, shows pool and net stats) - see picture\n- Redesigning 'main' page - the current dashboard - to be more UX friendly like on mobile and to add some initial features spoken about in the last dev update (QX Fan Club Background coming to a dashboard near you, SoonTM, will likly let users select the background via some button or drop down until NFT integration is more thought out and developed)\n- adjusting URL navigation - once user enters mining address the url will be: <dash_URL>/<mining_address> \n- Working to have Version 2 up and running by 3/29 at the latest\n- Once we have version 2 set up and validated moving forward can work on just adding features and leaving the formating of the UI the same"
+    },
+    {
+      "date": "2024-03-20T09:05:57",
+      "text": "- New Plot implemented and will be released in V2: Feedback response plot on Effort - allows users to visualize how the effort is trending, ideally towards 1 or 100%, see photo."
+    },
+    {
+      "date": "2024-03-27T09:04:02",
+      "text": "[Marc The Shark - Sigmanaut Mining Pool UI - Real Fly For a UI]\nFRONT END\n- Making progress on the version 2 of the dashboard in terms of formating for front page, just need to make a few tweeks- like icons and page padding\n- Mining Page is in the process of being redesign and re-formated. \n- Hoping it will feel more smooth and responsive to whatever device being used on.\n- Integrated Rolling Average Effort Plot\n- QX Fan Club Icon coming in the works!\nBACK END\n- Front Page to Mining Page integration is complete - Users will now be able to view the pools stats before logging into their stats with their address, similar to other pools\n- Locust Integration for main container app - able to stress test the application with N users to verifiy and validate the application\n- Some bottlenecks have been identified and looking to switch from each container querying the API and instead querying a database to reduce the load on QX's serer so we can sustain over 1K users with the UI itself."
+    },
+    {
+      "date": "2024-03-27T09:04:04",
+      "text": "When V2?\n- Hoping to release the beta by end of the week and full version by early next week\n- Looking for feedback and ideas, if you have them lets here them! Reach out to Marc the Shark on X @NeuralYogi or in TG in the Sigs Mining Chat!\n    - What other NFT type of ideas to drive the dashboard icons/background/etc do you want to see? \n    - Are you interest in Mining Governance? \n    - What Tools would you like to see in the pool?\n- Once V2 is established from a formatting perspective we can begin working on the various ideas and tools for the pool itself! \n\nBonus\n- The Stophe is working on integrating the UI into a RPI with E-paper - looking forward to that!"
+    },
+    {
+      "date": "2024-04-03T20:34:07",
+      "text": "[Sigmanaut Mining Pool UI] \nBeta released to telegram users \nhttps://github.com/marctheshark3/sigmanaut-mining-pool-ui\n\n- Working to test bugs\n- refactoring code as needed\n- adjust minor details in UI formating"
+    },
+    {
+      "date": "2024-04-24T10:57:53",
+      "text": "[Sigmanaut Mining Dashoard]\n👀 Version 2 of the dashboard is LIVE\n - Currently working on the backend to integrate a database which will open up for more development on new metrics like 7day, 3day, 24hr hashrate, effort, etc, pool effort and miner effort of blocks found for a given miner, and more!"
+    },
+    {
+      "date": "2024-05-01T09:36:14",
+      "text": "[Sigmanaut UI]\n- Successfully integrate DB into dashboard where currently will pull Mining Core API parse data as needed for UI and store in postgres tables. \n- Next is to containerize db and connect to other docker container which will run a cron job to periodically update tables.. taking longer than expected but should be complete by end of week if all goes well.\n- Shout out to Maverick for the dope banners we added to the pool (see image)\n- Requested a block found banner so when we find a block the banner will pop up on both front and mining page\"\n- working on payment and participation over time plot for the mining page so users can track that data over time\n- Got some ideas or want to help with this Dash hit us up in the Sigmanaut Mining TG group!!! \n- setting new records in terms of hash and miners week by week - join us in the fun and rewards!!\n- 10th largest mining pool at the time of writing\n- Comet just added for bonus rewards - chosen at random to the miners in our pool!"
+    },
+    {
+      "date": "2024-05-08T17:23:39",
+      "text": "[Sigmanaut Mining POOL UI]\n- Finally finished DB integration with docker woot! \n- Instead of reading from api UI will read from DB  to reduce load to MC API server\n- Almost 100GH/s"
+    },
+    {
+      "date": "2024-06-19T10:33:55",
+      "text": "[Sigmanaut Mining Pool]\n- ERGO HACK 8\nSubmitted Videos and text write up\n\nHosted X Spaces to discus the hack as well as future features (Duckpools integration, github to add tokens to swap for miners, buy/renting Hashrate, and mine to mint NFTs)\n\n- Current Development\nIntegrating rsBTC into alpha update for the pool\n\nDeveloping more API's for swaps to be used for Dash UI\n\nDeveloping NFT backend to enable NFT's to drive Swapping and Minimum Payouts for miners\n\nCreated github for users to request tokens to the swapping mechanisms\n\n- Complete\nNFT Front end - UI is able to mint NFT's and sent to minters wallet\n\n- Coming Soon\nWill be opening up the swap to a few beta testers \n\nErgot suggested we reward miners with rsBTC as a bonus, and started a raffle -> successfully funded. Should see rsBTC as random rewards to miners sometime next week. Thank you to all the supporters! \n\nWe are looking for NFT projects that want to integrate with the pool's UI where if miner has your NFT from project, they can choose to use that projects background and theme for the UI, reach out if interested."
+    },
+    {
+      "date": "2024-06-19T10:38:35",
+      "text": "https://github.com/marctheshark3/Mining-Reward-Tokens"
+    },
+    {
+      "date": "2024-06-26T09:25:11",
+      "text": "[Sigmanauts Mining Pool]\n- Working on running the dash UI on to run on Flux so we dont bog down the server that runs the mining pool. Appreciate everyones patience while the main dash has been down. Once set up will be on ergominers.com\n\n- Today will be creating a Sigs Vote to allow for the creation of the DAO for the mining pool - allowing miner autonomy\n\n- Looking at other various registers for the Miner NFT like r9\n- rsBTC Bonus reward raffle officially passed! rsBTC coming to a pool near you ;)\n- Need to finalize API's and open up beta testing for swaps #SOON"
+    },
+    {
+      "date": "2024-07-16T13:22:32",
+      "text": "Hey if I could trouble someone to give this a look over that would be great! \nhttps://github.com/marctheshark3/ergo-tx-factory"
+    },
+    {
+      "date": "2024-07-16T13:22:52",
+      "text": "Using this repo to swap tokens from the sigs mining pool to the miners address based on their miner id"
+    },
+    {
+      "date": "2024-07-16T13:23:16",
+      "text": "it works but just want to make sure from a security perspective we are all set :)"
+    },
+    {
+      "date": "2024-07-16T13:24:17",
+      "text": "@MGpai0 thanks for making ergpy, great tool, plan on utiilizing it more in the future as well"
+    },
+    {
+      "date": "2024-07-17T09:06:54",
+      "text": "[Sigs Mining POOL DAO]\n- DAO Officially created, and handed out about 12 or 13 tokens so far! Make sure you are staking those tokens!!\n\n- Tx Token Swap Code is done being developed and ready for integrated with mining core (MC). If you have time would be great to get someone to review it: https://github.com/marctheshark3/ergo-tx-factory\n\n- Finalized some UI features to show case the miner ID and allows miners to see what their parameters are via dashboard\n\n- Active discussion on paideia on how much the miner ID's should be for minting, will put it to a vote this week, again make sure to stake your dao token to vote. This minting will put erg in our treasury so we can buy tokens to allow miners to swap for the ones they want. The consensus atm seems to be about 3 ergs to mint. Beta testing will be free, and ideally minting is a one time fee. Down the road when we can change the description of the token we can then do  so and not have to mint another\n\n- Working with Mav from Bobber to integrate themes into the dashboard chosen from the miner ID. the variable will be \"fan club\". If you interested I am actively working on this repo to integrate with the UI: https://github.com/marctheshark3/ergo-fan-clubs Reach out if you want to have your project in our fan club\n\n- Miner ID \"DEGEND MODE\" - when activated allows miners to be randomly distributed tokens for their mining rewards, will be different each time. \n\n- Beta Test Real Real Soon - what is left is to integrate the tx swapping code, finalize the intiial first past for the fan clubs,  as well as degen mode and we are off to the races in terms of having users testing this. Meeting with QX so I can see how its currently done and get the ball rolling on this integration. If you want to be a beta tester reach out :)"
+    },
+    {
+      "date": "2024-08-07T10:53:13",
+      "text": "### Sigmanauts Mining Pool\n- Renamed ergo-tx-factory to Sigs-Mining-Core and will be the primary backend for the pool moving forward for things like payments and database management and control. \n- Serial Tx's Integration - able to send N numbers of Tx's to miners just need to wait for the first or one before it to confirm\n- New Server - Node online, MC stood up need support from QX for the pfx certs. Seems like that is last step needed and we can mine on this new server.\n- New Domain for UI: ergominers.com \n- Looking to TEST Mining Swap tools and features on this \"new\" sever pool before onboarding everyone, will need beta testers forsure. Do we call this a pool fork? \n- Cheese is Validating/Testing demurage on test net MC"
+    },
+    {
+      "date": "2024-08-09T14:33:24",
+      "text": "@MGpai0 how can I go about removing this \"warning\" from the ergpy output?"
+    },
+    {
+      "date": "2024-08-09T17:34:49",
+      "text": "login option? I'm not sure what you are refering to?"
+    },
+    {
+      "date": "2024-08-09T17:36:24",
+      "text": "oh do you mean logging?"
+    },
+    {
+      "date": "2024-08-09T17:36:27",
+      "text": "lol"
+    },
+    {
+      "date": "2024-08-09T17:42:39",
+      "text": "Ahh word word I’ll check that out thank you said!!"
+    },
+    {
+      "date": "2024-08-14T10:24:35",
+      "text": "[Sigmanaut Mining Pool]\n- Started writing Proposal to EF to expand current community mining pool ecosystem and toolset (Sigs-Mining-Core)\n- Working on recreating API tables for Sigs-Mining-Core to track all of the data\n- will post proposal to community once submitted to EF"
+    },
+    {
+      "date": "2024-08-21T15:22:09",
+      "text": "[Sigmanauts Mining Pool]\n\n- Finalizing EF Grant proposal\n- Received RIG from Armeanio to mine to the pool!\n- No Major updates from a dev perspective\n- Have a notional concept to allow for a Paideia vote to approve (or not) a git pull request. Should be useful for integrating code (or not) into sigs-mining-core. (for example changing the parameters for bonus rewards). \n- Hoping to finish the tables and start beta testing with sigs-mining-core with in the week or so!"
+    },
+    {
+      "date": "2024-08-21T15:22:57",
+      "text": "[Peer 2 Peer Pod]\n- Recorded episode #2\n- Working on scheduling 3 & 4"
+    },
+    {
+      "date": "2024-08-28T10:14:06",
+      "text": "[Sigs Mining Pool]\n\n- Running bonus rewards mechanism on new server\n- Finalizing proposal to EF\n- Mining Core should be running on new server with in the next day or so. Then just to integrate sigs-mining-core as payment system and beta test. SOON"
+    },
+    {
+      "date": "2024-09-04T09:34:23",
+      "text": "[Sigs Mining Pool]\n- New MC is running and mining (just me for now)! Now testing and integrating new tools with MC. \n- Bonus payments testing has been running very smoothly! People have made some comments about the output and I'll adjust accordingly\n- Prototyped of lightweight, minimalist Dash UI. \n- Hoping to send out the EF proposal soon \n- Exploring ideas and prototypes to help generate revenue for pool dao.\n- Wen details for ergohack 9?"
+    },
+    {
+      "date": "2024-09-11T08:19:11",
+      "text": "Sigmanaut Mining Pool - Continued\n- New Servers up and running with MC - mined 3 blocks in a week on 2Gh/s 😜\n- Mirrored DB from MC server\n- Created initial API's from MC\n- Created new minimal dash\n- Sigs Mega Core - Containerized everything for pool operators with the goal of standing up everything chosen for user through some sort of GUI -  this will be slowly matured over time\n- Need to better understand MC payment tables and the like before integrating Mining Swaps. Should be simple and straight forward though. SOON\n- Did mess with the nginx conf for ergominers.com -> works on my mobile but not desktop for some reason so am investigating that."
+    },
+    {
+      "date": "2024-09-11T08:23:31",
+      "text": "https://github.com/marctheshark3/sigs-mega-core - container of containers\nhttps://github.com/marctheshark3/mining-wave - mirror containers\nhttps://github.com/marctheshark3/miner-view - minimal ui containers"
+    },
+    {
+      "date": "2024-09-12T09:22:30",
+      "text": "I'd love to be a mentee when you guys are ready - though I've been out of school for some time haha"
+    },
+    {
+      "date": "2024-09-25T10:57:26",
+      "text": "[Sigmanauts Mining Pool]\n- Swapping mining reward is now inthe beta testing phase. Miners are able to mint miner id tokens or burn them. mint is live at: dev.ergominers.com\n- Created and validated PPLNS calc with what MC is calculating and got a match - usiing this to calc participation amongst miners for a given block. Will create visual for this down the road.\n- Bug found with the bonus and working to fix it! Reach out if you find other bugs please! \n- Need more hash on the beta testing pool - reach out if you want to test please!"
+    },
+    {
+      "date": "2024-09-25T10:59:15",
+      "text": "tokens avail for swapping"
+    },
+    {
+      "date": "2024-10-02T09:58:25",
+      "text": "[Sigmanauts Mining Pool]\n- Stood up test pool for mining swaps. Runs in the background and get shark tokens so btc-SHARK for example. \n- Miners will be able to swap to: RSN, rsADA, rsBTC, CYPX, GAU for the time being. \n- Fix code base that mirrors MC db\n- New vote in PAI discussing frequency and distribution type for bonus rewards. \n- Reach out if you want to test out the Mining Swaps."
+    },
+    {
+      "date": "2024-10-09T09:38:35",
+      "text": "[Sigmanauts Mining Pool]\n- Beta testing for miner ID's live for main pool at https://ergominers.com\n- Mining Swap running in background for main pool. Miners receiving SHARK tokens\n- Need to finalize a few UI metrics\n- Vote to be created for mint price (suggested 3 ergs)\n- Vote to be created for bonus distribution frequency\n- Cannon is working to get tokens from projects for swapping\n- Live sometime next week :)"
+    },
+    {
+      "date": "2024-10-16T11:30:18",
+      "text": "What am I missing here? I have te ergo.json config pointing to a working and synced node. It has 1 erg in it currently. was able to validte seed phrase I am using is correct. uunclear if the problem is this:\nSLF4J: Failed to load class \"org.slf4j.impl.StaticLoggerBinder\".\n\nor if its unable to read from Node?"
+    },
+    {
+      "date": "2024-10-16T12:05:09",
+      "text": "ah okay I'll add some more ergs then. \n\nhere is the code I am trying to run: https://github.com/zackbalbin/ErgoTutorials/tree/master/appkit/scala/minttoken"
+    },
+    {
+      "date": "2024-10-16T12:15:25",
+      "text": "val ergoClient: ErgoClient = RestApiErgoClient.create(nodeConfig, \"https://api-testnet.ergoplatform.com\")\n\nI assume thats this line? Also make sense why its showing Idont have any ergs - thank you sir\n\nI tried updating to so its uses the node instead of the testnet url and getting errors at line 12"
+    },
+    {
+      "date": "2024-10-16T12:16:55",
+      "text": "then of course I have the api and wallet variables filled in"
+    },
+    {
+      "date": "2024-10-16T12:47:46",
+      "text": "Great thanks this got me past the compiling errors but now still stays I dont have enough ergs. I printed out the address its generating from the seed phrase and password and its not the same address from the node oddly enough. I didnt use a seed phrase password either and have the proper mnenomic and wallet password in the config, Defintiely something it seems on my end I have set up incorrectly otherwise I'd image it should generate the proper address and see the address I am intending"
+    },
+    {
+      "date": "2024-10-16T12:50:44",
+      "text": "I just created it yesterday"
+    },
+    {
+      "date": "2024-10-16T13:16:30",
+      "text": "do you have any working examples?"
+    },
+    {
+      "date": "2024-10-16T13:28:15",
+      "text": "[Sigmanauts Mining pool] \n- Vote passed for Miner ID cost of 3 ERGs. \n- Will turn this on this week so people can begin buying them before we turn the system on. From there we just need to buy the liquidity. Cannon has been working with various projects on this. \n- 1 more vote for frquency of distribution (Voting Y/N on 1 Week Distribution\n- Can turn system on to swap next week :)"
+    },
+    {
+      "date": "2024-10-17T08:42:34",
+      "text": "We need to make a more formal path forward - been playing around with contracts and would like to do things for the pool more onchain as well - for example we do bonus rewards and is something we can do on chain and put into a proxy contract possibly"
+    },
+    {
+      "date": "2024-10-20T10:00:25",
+      "text": "mgai has a containerized node - ergo-synced-node. will have to check this out though for some testnet stuff I need. Wonder if it would be faster to stand up nodes on flux"
+    },
+    {
+      "date": "2024-10-23T11:47:38",
+      "text": "[Sigmanauts Mining Pool]\n- 11.11 Mining Swap Release - Mint Miner ID and Swap Erg Reward for Native Tokens!\n\n[Token Flight]\n- Send assets to a proxy contract box to be distributed to a set number of users in a certain amount of time.  (Looking to use this for the bonus rewards for the sigs mining pool, take some snap shot and use this as the people who get the tokens.)\n- Could think of this like some sort of vesting contract \n- Only spendable after some many blocks occur & the number of recipients are valid or if you are the creator of the proxy contract (so we can gather boxes incase for the time being).\n- Generic linear implementation works on testnet ;)  and looking to implement other patterns this week. Currently testing 1 week distribution on test net. \n- When initializing the contract user can determine what tokens have which distribution mechanism. Defaults to linear. Sample patterns:\nProgress | Linear | Quadratic | Exponential | Logarithmic\n   0%    |   0%   |    0%     |     0%      |    0%\n  25%    |  25%   |   6.25%   |    2%       |   35%\n  50%    |  50%   |    25%    |    15%      |   60%\n  75%    |  75%   |   56.25%  |    45%      |   80%\n 100%    | 100%   |    100%   |    100%     |   100%\n\n[Ergo Hack 9]\nLooking to integrate some of the ideas from Token Flight into the submissions for this next hack."
+    },
+    {
+      "date": "2024-11-06T06:36:18",
+      "text": "[Sigmanauts Mining Pool]\n- 11.11 Mining Swap will be LIVE!!\n- Planning on setting up the 1x per week token distribution for bonus tokens (per pai vote)\n\n[Ergo Hack 9]\nSubmitted idea: Miner Rights Protocol.\n- Continuing work on testnet\n- Fair token distribution amongst miners with rights token. Could think of this as a synthetic mining setup. Mining rights tokens are GPU's that allow the user to claim the emitted tokens granted they find a block on the ergo blockchain, regaurdless of pool. Bots will earn rewards for emitting tokens to miners.\n- Check out presentation for more information :)\n\n[Token Flight]\n- Testnet code has been working and ready to validate\n- Once the above is settled move to mainnet\n\n[Stealth Mode]\nWorking on yet another project or two that are in stealth mode ;)\n\n#COOKING #YESCHEF"
+    },
+    {
+      "date": "2024-11-13T08:58:20",
+      "text": "[Sigs Mining Pool]\n- Mining Swaps Payments are LIVE and ALL SYSTEMS GO\n- There seems to be some kinks left to be worked out but otherwise working smoothly.\n- Will be turning on the weekly bonus with in this next week\n- Still in talks with the EF about our proposal to make mining pool tools more accessible.\n- appreciate our miners support and patience as we got this online and running\n- MMGA"
+    },
+    {
+      "date": "2024-11-20T07:58:10",
+      "text": "[Sigmanauts Mining Pool]\n- Pulled back the swapping to verify some api calls - will release once validated.\n- Bonus token airdrop coming back online to fit with the outcome of DAO vote. Still need to grab historical set of miners as opposed to current set of miners actively mining - per DAO vote. \n- Decided to make the bonus token airdrop a tool people can download and use. Will release code once its complete with KYA and diagrams depicting what is happening along with a video. \n- Resubmitted proposals to EF with concrete deliverables - shout out to Cannon for the support on this!\n- Note - the bonus airdrop code will be useful for the swaps and sending out TX's to miners all at once instead of serially so cheaper all together for the pool"
+    },
+    {
+      "date": "2024-11-26T13:27:52",
+      "text": "[Sigmanauts Mining Pool]\n- Ergonaut Airdrop - multi token - multioutput  transactions for airdropping bonuses ( will be utilizing this code base to enhance token swap tech) - tested with 4 tokens in a single box to 42 miners. just need to write api to capture miner address from the last week as opposed to current miners.\n- Voting going into PAI today for bonus tokens!\n- Will be containerizing Storage Rent Collection code for redudancies - enables uptime close to 100%"
+    },
+    {
+      "date": "2024-11-26T13:28:10",
+      "text": "https://github.com/The-Last-Byte-Bar/ergonaut-airdrop"
+    },
+    {
+      "date": "2024-12-04T08:21:55",
+      "text": "Sigmanauts Mining Pool\n- Made enhancements to API to add cache and redis database \n- Added API to track User over the last week and mined a minimum for 12 hours for bonus rewards\n- Submitted PAI vote on token amounts for Bonus\n- EF Proposal Approved!!\n- Working on integrations with API and Mining Page Dash to have fast load times. \n- @cannon_q sent out another Back2Back NFT for the pools 2nd back 2 back blocks found! \n\nHashmons\n- Prototyping and Validating Mining Rights Protocol\n- Airdropped Mining and Pool Rights tokens to Sigmanauts Mining Pool Miners and Pool wallets via the Ergonaut Airdrop tool (created on X live stream)\n- Working on emission contract based on the Mining Rights Protocol\n- Off-Chain Bot code is ready just need to finalize and deploy emission contract"
+    },
+    {
+      "date": "2024-12-05T08:26:52",
+      "text": "would you mind sharing a tokens emission contract - something I am working on and running into some troubles with it"
+    },
+    {
+      "date": "2024-12-09T19:52:22",
+      "text": "Yeah I can send some testnet ergs tomorrow!"
+    },
+    {
+      "date": "2024-12-11T10:14:28",
+      "text": "[Sigmanauts Mining Pool]\n- Sent out Weekly Bonus Rewards. 50 recipients, 18 tokens each, all with python code ;)\n- Deployed API and Dash updates. - more resilent and somewhat faster. Feel free to fork dash and make your own!\n- Chatting with Cheese on developing the emission contract for the MRP\n- QX created TLS ports for the pool - critical for some of our miners\n- Currently refactoring airdrop code to use mnemonic as opposed to node - then would like to explore the TX signing with Nautilis\n- Will be working on the Storage Rent Distribution in anticipation of the current vote passing (7 Y - 1 N)\n- Once the above is done will be integrating the airdrop code for the token swapping so we can use this as the payment mechanism which is similar to what MC does now."
+    },
+    {
+      "date": "2024-12-18T12:58:39",
+      "text": "[Sigmanauts Mining Pool]\n- Airdropped Bonus tokens on Monday - largest to date!\n- Airdropped Storage Rent to Miner based on their participation among the blocks that collected SR.\n- @cannon_q sent out another commemortive NFT for the pool finding back2back blocks - 3rd time now - sensing a pattern - Digital Matter Theory relevancy?\n- developed API for bonus token calc for proof if miner met criteria for bonus tokens - >=12hr & >=4days\n- developed API for back calculating participation based on payout for a given block - vital for SR distribution. \n- Pool reaching all time highs and breaking records :), >110GH/S (with out renting hash)\n\n[Last Byte Bar]\n- Further refined airdrop tool - added protocol fee 2ERG (1 ERG to me, 1 ERG to sigs mining dao - can lower as needed - of course its open source so well to remove it its plain to see), targeted distributed config (used for SR distribution)\n- Added the ability to send TX via Seed Phrase as opposed to just node\n- Note Bonus and Storage Rent - there is no protocol fee :)\n- Looking at integrating tool with Nautilus so as to sign TX vs node or seed. Might need website to drive this not really sure - likely 2025 thing \n- Revisiting MRP emission contract prototype for Hashmon project"
+    },
+    {
+      "date": "2025-01-15T09:44:39",
+      "text": "[Last Byte Bar]\n- Nurse Shark Bot - TG Bot to monitor addresses. Extended this data to claude and able to query llm from TG chat - just add anthropic api key and TG secret. Looking at on chain way to allow users to use my api key for ergs. \n\n[Sigs Mining Pool]\n- Integrated Nurse Shark Bot to monitor the various wallets for pool wallets.\n- Need to schedule change Pool Fee. \n- Cannon looking into moving DAO to PAI"
+    },
+    {
+      "date": "2025-01-29T09:23:45",
+      "text": "[Last Byte Bar]\n- Miner Rights Protocol Token Flight - automated system that emits a token to miners with a corresponding \"rights\" token. Integrated pool and protocol fee to mimic an actual PoW emission. This could help to bring the concept of \"hard/sound money\" to native tokens. \n- $ignifox tokens were distributed to the miners of the pool a month or so ago but if miners want to participate and dont have this token reach out and I'll send you one :). Note this is only a prototype - no plans to do anything with these tokens after testing is done. \n- For further testing for the Hashmon project will be creating yet another token to test using NFT's as the \"rights\" token. Likely will be using the back2back NFTs we have already minted. Though happy to mint another NFT to distribute to current set of miners."
+    },
+    {
+      "date": "2025-01-29T09:23:47",
+      "text": "- Containerizing codebase for automated airdrops based on specific use case i.e bonus tokens and demurrage distribution for sigs mining pool. Note MRP is already automated at the time of writing.\n- If you want to check out the code feel free to do so here: https://github.com/The-Last-Byte-Bar/Token-Flight Note current MRP code is not in the main branch as of yet."
+    },
+    {
+      "date": "2025-01-29T09:23:53",
+      "text": "[Sigs Mining Pool]\n- Deployed MRP Token Flight as mentioned above. Miners receiving the token Flame Shards IF they hold the Ignifox token AND mine to the pool when the pool finds a block. The hope is to use this tool to create more revenue for miners outside of $erg itself. \n- Mining Pool received 2 Million rsDIS from Disco Solaris team - and began distributing these tokens as of this past monday. \n- Demurrage software running on the pool has been causing our disk space to rise quickly and causes some down time to the pool due to this. Reached out to Cheese about this and working a fix. Qx also mentioned some other solutions which we are exploring as well. \n- Created the Nurse Shark Monitoring bot for pool related TX's and notifications. I also have integrated it with anthropics LLM so as to query the llm for wallet related activity - not yet released on git. Looking at integrating an open source LLM so we dont have to have users pay for their queries. \n\n[Hashmon]\n- Not to be redundant but prototyping the MRP Token Flight with the $ignifox and $flameshards. This tool will be used to distribute our evolution shards for this project which will be used to evolve monsters. Protocol fees will be collected into a wallet and initially thinking that the first person who collects them all will get the keys to this wallet. \n- Need to finalize tokenomics with c8\n- Looking to launch project end of Feb or beginning of march."
+    },
+    {
+      "date": "2025-01-29T09:24:18",
+      "text": "example of using the LLM for my grid trading bot"
+    },
+    {
+      "date": "2025-01-29T09:25:02",
+      "text": "https://github.com/The-Last-Byte-Bar/Nurse-Shark-Bot"
+    },
+    {
+      "date": "2025-01-29T09:29:48",
+      "text": "[Thresher]\n- a Reinforcement Learning Agent project whichs aim is to train it to trade on DEXs\n- Created a script to scrap the DEX wallet to use as training data for the RL training env. \n- Agent and Env work as expected but more work needs to be done to have the agent learn effectively and trade. \n- Agents actions: Buy, Sell, Hold, Rebalance\n- Agent observations: various buy and sells of erg and a given native token\n- Parallel optimization runs on GPU so as to train agent fast. \n- Again more works needs to be done on the reward and env likely another month or two of work to be done so it can effectively trade.\n- Need to integrate hyperparameter tuning so we can optimize the various parameters we can change like learning rate and reward structure"
+    },
+    {
+      "date": "2025-01-29T09:29:55",
+      "text": "https://github.com/The-Last-Byte-Bar/Thresher/tree/main"
+    },
+    {
+      "date": "2025-01-30T10:27:25",
+      "text": "https://x.com/NeuralYogi/status/1885001596620194216"
+    },
+    {
+      "date": "2025-01-30T10:29:17",
+      "text": "yes sir that is the plan! Fine tuning would be more accurate to say but first things first is that we need a proper data set in a question and answering format to facilitate this."
+    },
+    {
+      "date": "2025-02-07T12:50:38",
+      "text": "https://github.com/The-Last-Byte-Bar/SharkNet"
+    },
+    {
+      "date": "2025-02-07T12:50:47",
+      "text": "let me know if I need to add others as collaborators"
+    },
+    {
+      "date": "2025-02-07T18:38:48",
+      "text": "awesome I'll make note and put them in when I have a moment!"
+    },
+    {
+      "date": "2025-02-08T18:38:57",
+      "text": "Agreed garbage in will get garbage out!"
+    },
+    {
+      "date": "2025-02-08T18:41:35",
+      "text": "I’m not familiar with this approach I’ll have to check it out! Was talking with someone on x not sure his TG username and we’re thinking with the proper context it’s possible a context rag approach could out perform a fine tuned model. Though I think certainly both approaches have their merit and should be tried. Once we get all of the contracts we need would be easy to validate the Rag approach. Are there any code based for the GRPO?"
+    },
+    {
+      "date": "2025-02-08T18:43:37",
+      "text": "From what I looked up I see it uses reinforcement learning though this is for training a model vs fine tuning as fair as I can tell. Probably be pretty tough to train from scratch a fresh LLM but happy to be proven wrong haha"
+    },
+    {
+      "date": "2025-02-08T18:44:09",
+      "text": "Would be interesting to use it in a fine tuning sense don’t see why it couldn’t be able like that"
+    },
+    {
+      "date": "2025-02-09T06:15:26",
+      "text": "this is great - looks like alot of the AI work is mostly done just need the data formated at this point then - very cool!"
+    },
+    {
+      "date": "2025-02-09T06:33:37",
+      "text": "pretty unreal thatpeople were able to get this up and running with deepseek just being releeased lol"
+    },
+    {
+      "date": "2025-02-09T06:33:38",
+      "text": "amazing"
+    },
+    {
+      "date": "2025-02-09T06:35:00",
+      "text": "I'll start looking at formating some contracts this weeks and do some small tests this week to ensure formating good"
+    },
+    {
+      "date": "2025-02-09T06:49:51",
+      "text": "additoinally if we wanted to tag up with those interested in helping we can set up some tasks and sort of a game plan so we can divide and conquor as well"
+    },
+    {
+      "date": "2025-02-11T10:32:56",
+      "text": "t.me/ergofinetuning"
+    },
+    {
+      "date": "2025-02-19T09:41:51",
+      "text": "[Sigmanauts Mining Pool]\n- http://ergominers.com/ is back online\n- Reviving Miner ID work specifically for miners changing payout for mining, reworked UI and embedded into dash. Just need to glance over DB code for this and should be up here soon\n- QX deleted some massive files on server and we add another volume to our pool server - 100 GB\n- Pool Hash 110GH/s at time of righting \n- Distributed largest weekly collection of erg from Demurrage [Storage Rent] at 29.7 Ergs!!\n\n[SharkNet]\n- Fundraised 190 Ergs from community, on Mewfinance, for paying auditors for the LLM generated SC!\n- Successfully built and trained LLM using DRPO on small set of data provided by Lotto \n- Created simple UI for users to load model and run locally"
+    },
+    {
+      "date": "2025-02-26T08:40:57",
+      "text": "[Sigmanauts Mining Pool]\n- Finalized Sigma Bytes front end - allow miners to mint NFT for 3 ergs which goes to the pool wallet, miner is also able to remint and burn old sigma byte for free just tx fee. \n- Added Demurage and Bonus token metrics in front page and mining page of UI"
+    },
+    {
+      "date": "2025-03-05T09:19:57",
+      "text": "[Sigs Mining Pool]\n- changed Sigma Byte update to pull every 3 hours and update db for miners minimum payour. \n- Burn old sigma byte to mint new one for free OR 3 Ergs\n- Paid largest Demurrage to miners over 37 ergs!\n- VOTE For Demurrage fees collected by the DAO (currently 0%, vote is increase to 1%)"
+    },
+    {
+      "date": "2025-03-09T17:55:11",
+      "text": "You should use the ergo mcp I made. Should help you get what you need easily. Also might be worth getting an indexed node which would populate a db that has that information."
+    },
+    {
+      "date": "2025-03-09T17:57:08",
+      "text": "Totally"
+    },
+    {
+      "date": "2025-03-09T17:57:46",
+      "text": "The ergo mcp essentiallly has access to node and explorer api so wouldn’t only help you up to there. But would understand context of the content of the chain"
+    },
+    {
+      "date": "2025-03-11T16:16:36",
+      "text": "Hey Everyone consider making an ergo Dapp at this AI Hackathon:\n\nhttps://build-launch-win.lovable.app/"
+    },
+    {
+      "date": "2025-03-30T18:43:25",
+      "text": "https://gitdiagram.com/ - cool app - visualize any git repo"
+    },
+    {
+      "date": "2025-04-15T13:26:51",
+      "text": "http://localhost:9053/blockchain/box/byTokenId/0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b?offset=0&limit=50\n\nthis api call is returning as basically nothing for the Comet token? do I need to do something in my synced node or something or is it rekt?"
+    },
+    {
+      "date": "2025-04-15T17:21:10",
+      "text": "Ah alright I’ll check that out thanks!!"
+    },
+    {
+      "date": "2025-04-16T08:30:05",
+      "text": "Sigs Mining Pool:\n- Shiny new dashboard is LIVE:  http://ergominers.com/\n- Working on developing marketing plan for the pool\n- Developing IOS app for mining pool\n- Developing MRP UI\n- updated Mining Wave API with alerts and demurrage endpoints"
+    },
+    {
+      "date": "2025-04-16T08:32:18",
+      "text": "MRP UI - PROTOHYPE\nhttps://preview--cosmic-miner-verse-ui.lovable.app/"
+    },
+    {
+      "date": "2025-04-16T08:39:08",
+      "text": "Good point - can do! I'll add another tab for this"
+    },
+    {
+      "date": "2025-04-19T20:45:00",
+      "text": "would be sick to set up some sort of lottery where hit some block in testnet - get airdropped erg on mainnet - can you use cpu to mine on testnet? cpu ergo lottery miner?"
+    },
+    {
+      "date": "2025-04-23T08:56:36",
+      "text": "Sigs Mining Pool:\n- Making small progress on ios app - needs miners page updates and to add notifications\n- Working on adding pool fee for demurrage airdrop - running into minor issues"
+    },
+    {
+      "date": "2025-04-28T13:34:06",
+      "text": "https://deepwiki.com/search/how-can-i-make-something-that_9c7a6263-f9bc-4ea7-bfd0-3a9ae4b31822"
+    },
+    {
+      "date": "2025-04-28T13:34:14",
+      "text": "pretty cool can prompt and ask it relative to the code base"
+    },
+    {
+      "date": "2025-05-07T08:14:23",
+      "text": "Ergo-MCP\n- finalizing advanced feature set of tools \n- Beginning work on AI \"Agent\" dex trading framework\n\nSigs Mining\n- minor updates to dash and API"
+    },
+    {
+      "date": "2025-05-27T10:48:28",
+      "text": "containerize it? will still have it but will be contained with in container"
+    },
+    {
+      "date": "2025-06-04T08:49:52",
+      "text": "CodeUTXO:\nopensourced MCP servers:\n\nhttps://github.com/marctheshark3/ergo-mcp\n\nhttps://github.com/codeUTXO/ergo-price-mcp\n\nergo-mcp - natural language query node with llm, great for cursor, claude desktop, etc\n\nergo-price-mcp - same as above but for price\n\n- Need to move away from coingecko apis and use onchain data\n\nDoes anyone have a codebase for interacting with dex contract for buy/sell orders? I have some ideas for on chain agents but having some issues with creating this code. Will attempt this later if not. \n\n- Looking at using n8n or native python pipeline for RAG to serve as MCP server so users can have their own model knowledge base outside of codeutxo owui interface. \n\n- Price MCP - looking to add \"trading\" metric tools so as to calculate various moving averages, macd, etc where this would be used by AI agent\n\nAlso looking at the codebase ergoc to make another MCP server so LLM can run this codebase inline and check if a generated or user pasted contract can be compiled. \n\nIf you have an mcp server idea please reach out :)"
+    },
+    {
+      "date": "2025-06-11T08:45:46",
+      "text": "Top Byte:\n- On chain token holder platform with various metrics like holder analysis who holds what, and optional paid export in json or csv for token holder data people can use for airdrops. \n- likely will opensource api or make available\n- waiting on node to sync to release website\n\nFintelligence:\n- Created RAG AI Agent models - 3 AI Agents: Research, Generation, Validation. \n- Ollama or openAI LLM service provider support\n- points LLM to folders, github, etc into vector db. LLM can then access this based on users query.\n- finalizing some ollama integration tests and will post repo later this week.\n- planning on ingesting various SC repos and generating several SC. Collected 200 erg using mew fund to pay auditors. Reach out if you're interested in auditing or want to use this tool\n- repo is agnostic to data so can ingest whatever data user would like relative to use case.\n- ability to host agents via api - once things are refined I'll be looking to host api for agent access in some manner"
+    },
+    {
+      "date": "2025-06-11T19:20:32",
+      "text": "@kushti_ru how do people get added to this chat in discord?"
+    },
+    {
+      "date": "2025-06-13T12:25:07",
+      "text": "still needs to work on features and example code but pretty happy with progress"
+    },
+    {
+      "date": "2025-06-13T12:28:26",
+      "text": "going to upload so of my codebase using python ergo appkit and should go from 60% to 80/90% accuracy possibly more since it'll have more concrete examples vs source code and singular example not validate atm"
+    },
+    {
+      "date": "2025-06-18T11:14:24",
+      "text": "Finintelligence AI Agents:\n  - created UI for users to interact with, ingest documents, research idea, generate summary to then generate code based on research summary or just generate code from prompt.\n- working on hosted version of vector dbs - possibly on chain mechanism as well\n- need to update ingest categories for context for summary and generating code/txt. \n- able to use ollama or openai as llm provider. \n- would like to create decentralized system where people can provide llms to users in some sort of dapp system and use on chain vector dbs (side or merge mined chain capabibility??)\n- code: https://github.com/marctheshark3/FintelligenceAI"
+    },
+    {
+      "date": "2025-06-18T11:15:53",
+      "text": "Would like to continue to develop agent system where it would be able to validate smart contracts and if it doesnt work it able to iterate over N steps then provide feedback as to why it did or didnt validate."
+    },
+    {
+      "date": "2025-06-18T11:17:09",
+      "text": "Use cases:\n\n- Generate TX from fleet, integrate Tx code from fleet to sign using appkit\n - Write smart contracts\n- Validate smart contracts\n\n- data and context is key here"
+    },
+    {
+      "date": "2025-07-02T09:17:04",
+      "text": "[Sigmanauts Mining Pool]\n- ran test mrp distribution with feedback from miners that payment is too often and so looking at replicating payment and db system a mining pool maintaines for payment based on erg payment threhold in mining pool\n- Sigmanauts Mega Core -  creating local UI for mining pool operators to be able to spin up node, mining core, and custom solutions like tg alerts, mcp server from mining pool api for general status, llm troubshooting for mining, etc."
+    },
+    {
+      "date": "2025-07-02T09:17:32",
+      "text": "Reached out to cheese also about integrating his custom node into 6.0 so we can vote for subblocks and have the new update with SR"
+    },
+    {
+      "date": "2025-07-16T10:41:02",
+      "text": "Sigmanauts Mining Pool:\nNew Mining Calculator tool: https://calc.ergominers.com/\n\nWorking on admin tools for setting up ergo mining pool, alerts, UI, etc \n\nCannon standing up various marketing efforts and idea for the mining pool, vote for approval tbd."
+    },
+    {
+      "date": "2025-07-16T10:42:56",
+      "text": "Last Byte Bar:\nOutside of this working on a python library based on the rust bindings from ergo lib python -called sigmapy \n\nTop Byte - been waiting on explorer to sync so this site uses explorer and possibly graphql for querying blockchain for fast results. been a learning curve here due to disk space on server haha"
+    },
+    {
+      "date": "2025-09-03T11:18:45",
+      "text": "It’s out in the wild on my git. Various use case can be seen from the videos we have made for the hackathon and can be used to agent trading at some point and give an agent the keys to the wallet to make decisions"
+    },
+    {
+      "date": "2025-09-03T11:19:47",
+      "text": "Not sure I have a time today to turn it back on, it’s a script or container can’t remember"
+    },
+    {
+      "date": "2025-09-03T11:22:52",
+      "text": "Outside of what I mentioned can use mcp server to various tasks for users like crossing Rosen brigde, buying something of mew, etc. just need the various tools made to the LLM can run said tools. So like Rosen mcp and mew mcp etc. of course would need either APIs or code that can perform a task via code."
+    },
+    {
+      "date": "2025-09-04T11:04:03",
+      "text": "great idea and absolutely do able!"
+    },
+    {
+      "date": "2025-10-22T15:57:54",
+      "text": "Happy to contribute forsure. Was working on another py lib I was gonna use as mcp server and anon brs validation code for contracts. Would be good to have LLM explicit ability to check contracts"
+    },
+    {
+      "date": "2025-11-17T08:23:44",
+      "text": "Idk about inference and mining at the same time but I was thinking one could use AVL trees as a code book from an encoder. This way one could store RAG data for an LLM on chain and would just need to know how to decode it or use a given api which does the decoding for a given user and same for encoding. So then when someone asks what was a given AI model trained on or RAG data used its easily looked up on chain with the proper tooling"
+    },
+    {
+      "date": "2025-12-07T09:33:26",
+      "text": "I'm around but time is very limited compared to 6 months or so ago unfortuntely here is that repo: https://github.com/marctheshark3/FintelligenceAI"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+=== Chat history for: MHS_SAM ===
+=== Total messages: 8 ===
+
+[2022-01-11T03:16:10]
+yes.
+
+[2022-09-29T17:59:28]
+no abstained vote, it's only yes or no. You can abstain the vote by not mining at all.
+
+[2022-09-29T18:11:58]
+it's a matter of convenience. I see what you mean, but if that was our intention, it was easier to avoid super majority by using a looser threshold for voting. I doubt if anyone was against 51% voting to pass the proposal. 
+If your presidential candidate was required to have at least 90% vote of all citizens, then yes, you would clearly need a pre selected ballot to make it easier to vote.
+
+[2022-09-29T18:28:18]
+some desire intervention and some others accuse EF of taking part by making it easy to vote yes. 
+take it easy, we need miner's vote, whatever cost it takes. 
+and we do not take part, if it doesn't pass, it's okay.
+
+miner profitability is not only dependent to difficulty, price can change the equilibrium in favor too. A lot of efforts are currently being done to change the situation by economic means. I cannot say anything rn but you'll be shocked later. So, if you think that it will take months, I definitely believe you're wrong, wait and see. Miners are free to leave and join at any time, no offense, but I think those who leaved will regret it.
+
+[2022-09-29T18:28:42]
+it's a no.
+
+[2022-09-29T18:29:55]
+but if it passes, you will be on a wrong chain immediately after.
+
+[2022-09-29T18:52:36]
+you're right, no critical debate here.
+However, I wanted to say that even without eip37, the situation will be fixed faster if the price element is going up. I know that nothing can be guaranteed regarding the price, but if the ergo price is good enough relative to its competitor, the adjustment will take place sooner and will be smoothed to a good degree. 
+miners will hop if this relative price is in favor of hopping and will not if it's not profitable to hop. 
+btw, I personally think it will pass. So, let's focus on other things and put ergo in a place that there is no profitable rival to it.
+
+[2023-10-26T12:14:13]
+yes, DM please if you need it
+

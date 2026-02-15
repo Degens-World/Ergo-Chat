@@ -1,0 +1,24 @@
+# Manh Tran
+
+**Total messages:** 3
+
+---
+
+**2022-09-18T16:46:34**
+
+Please change the algorithm to find the rich list
+
+---
+
+**2022-09-18T16:47:21**
+
+Too slow
+
+---
+
+**2022-09-27T07:09:04**
+
+👍
+
+---
+

@@ -1,0 +1,30 @@
+{
+  "sender": "User",
+  "total_messages": 6,
+  "messages": [
+    {
+      "date": "2025-09-05T06:18:28",
+      "text": "broken link"
+    },
+    {
+      "date": "2025-10-15T10:41:30",
+      "text": "I do not know. I do not write programs in rust :)"
+    },
+    {
+      "date": "2025-10-15T10:46:23",
+      "text": "this https://github.com/ergoplatform/sigma-rust/tree/develop/bindings/ergo-lib-wasm"
+    },
+    {
+      "date": "2025-10-15T10:48:02",
+      "text": "I did not found documentation for JS binding. I used code examples to find out how it works."
+    },
+    {
+      "date": "2025-10-15T14:00:14",
+      "text": "Yes."
+    },
+    {
+      "date": "2025-10-15T14:02:57",
+      "text": "$ curl -m3 http://213.239.193.208:3001/key-status/zzzzzzz\ncurl: (28) Connection timed out after 3001 milliseconds"
+    }
+  ]
+}

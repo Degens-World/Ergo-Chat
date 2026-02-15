@@ -1,0 +1,116 @@
+=== Chat history for: Netim ===
+=== Total messages: 34 ===
+
+[2025-10-29T13:28:11]
+I'm ready to join
+
+[2025-12-28T21:41:37]
+Yep
+
+[2026-01-29T21:36:31]
+Great. I'm ready.
+
+[2026-01-30T07:07:27]
+http://194.135.83.36:9052/panel/
+
+i connected
+
+[2026-01-30T07:59:41]
+I use the config like a Patato
+
+[2026-01-30T08:03:08]
+i see two connected peers
+
+[2026-01-30T08:35:13]
+I'll check. the last one collected a jar file in December
+
+[2026-01-30T08:36:45]
+Okay
+
+[2026-01-30T08:37:01]
+Today evening
+
+[2026-01-30T12:31:15]
+Current height
+
+79731
+
+[2026-01-30T12:32:51]
+just like patato
+
+[2026-01-30T12:55:39]
+deleted the .ergo folder and started synchronization again
+
+http://194.135.83.36:9028/panel/
+
+[2026-01-30T13:04:20]
+syncing now
+
+[2026-01-30T13:08:07]
+blockInterval = 30s ?
+
+[2026-01-30T13:23:17]
+Current height
+
+79971
+
+[2026-01-30T13:30:08]
+I can send logs after the last launch.
+
+[2026-01-30T13:33:29]
+No. I deleted those logs. I'm waiting for a new stuck
+
+[2026-01-30T22:16:26]
+Stuck height 80365
+
+[2026-01-31T03:12:09]
+Okay. I'm ready for the relaunch.
+
+[2026-02-02T01:18:15]
+Hmm 
+I'm synced 
+Bi= 60s
+
+[2026-02-02T01:18:21]
+http://194.135.83.36:9028/panel/
+
+[2026-02-02T04:34:56]
+What are we going to test next?
+
+[2026-02-02T04:42:44]
+Mining turn on
+
+[2026-02-02T04:56:09]
+Waiting for new instructions for the next tests
+
+[2026-02-02T05:00:51]
+Okay
+
+[2026-02-03T10:53:12]
+i think it's a physical problem 😉
+
+[2026-02-03T23:52:28]
+https://drive.google.com/file/d/1LZFG0l7-R11ru-UVzPz2737LJ3GWJxJb/view?usp=drivesdk
+
+[2026-02-04T21:48:51]
+I'll check
+
+[2026-02-04T22:08:40]
+i got this error : a.io.TcpIncomingConnection - Closing connection due to IO error java.io.IOException: Broken pipe
+
+[2026-02-04T22:12:06]
+node restarted
+
+[2026-02-05T09:09:19]
+my node stuck at 5812 
+I deleted ergo folder and run sync again
+
+[2026-02-05T09:13:59]
+And stuck again :(
+
+[2026-02-05T10:45:44]
+https://drive.google.com/file/d/1BsxxQB5syBUu0zUk3R9MGb2RmFxY6n5u/view?usp=drivesdk
+
+[2026-02-06T08:10:48]
+Ohh sorry
+

@@ -1,0 +1,67 @@
+=== Chat history for: c8 ===
+=== Total messages: 19 ===
+
+[2024-08-14T08:21:08]
+[crystal-pool]
+- still working on mempool monitorin service (wrote some tests)
+- experimenting with RBF
+
+[2025-02-04T04:13:14]
+I havent red it, from the looks of it, this book is for people with solid background in abstract algebra. Something that i would feed into gpt and get a summary...
+The best book on cryptography for beginners is a gpt-4o imo. It lets you go in depth into any details you like. Help you fill gaps in algebra, create taillored material, help with code and syntax.
+For example i told gpt to creeate a course with hash functions starting from the most simple one to more complex. And i spent over a weeks on CRC32... implementing, doing math on paper and so on.
+
+[2025-02-04T04:18:18]
+it's been a while ago, but here is the kind of basic stuff i wroked through, to understand how bits flow under the hood, and how theory is implemented in practice
+
+[2025-02-04T04:21:04]
+Unlike a book, Gpt-4o picks you up where you are. My background was pretty bad at abstract algebra, pretty good at code. Everyone has different experience and skills, it's boring to read basic stuff on a topic you are expert at, and you want the most basic stuff for things your know little about.
+
+[2025-02-05T08:24:40]
+ping me please from that private dexy chat, i don't see it
+
+[2025-05-03T16:02:57]
+thank you
+
+[2025-05-03T16:03:30]
+i confess, i have abused excludeMempoolSpent
+
+[2025-05-03T16:20:03]
+i am hosting own mainnet nodes
+
+[2025-05-27T10:53:50]
+use plain. react is for netflix and stuff. 
+
+wanna share access to your frontend code?  i'll translate it for you
+
+[2025-05-27T10:54:46]
+will try to get it done this week
+
+[2025-07-09T07:28:25]
+same as btc, a matter of cost. 
+btc for example $1B = 1 week, meaning you have to wait for a week to make double spending your $1B tx not worth it
+
+[2025-07-23T09:03:14]
+!voteban rustchain related scams from devchat
+
+[2025-07-26T15:40:27]
+not a bad proposal! dealing with junk does indeed introduce way too much overhead.
+
+[2025-07-26T15:48:59]
+This sounds like something that would be possible in a soft fork.
+
+[2025-07-28T14:49:14]
+if you think you missed something, that's not the case. "guard scripts" is something that should have been in eutxo chains day0.
+
+[2025-07-28T14:51:08]
+and there is no substitution for consensus tightening.
+
+[2025-07-28T14:54:41]
+fragmentation is what makes it censorship resitant
+
+[2025-08-16T07:13:10]
+i'd suggest instead using https://github.com/fleet-sdk/fleet/tree/master/packages/mock-chain
+
+[2025-08-16T07:13:44]
+@anon_br are there any simple examples for mock-chain?
+

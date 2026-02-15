@@ -1,0 +1,238 @@
+{
+  "sender": "anon_br Σ",
+  "total_messages": 58,
+  "messages": [
+    {
+      "date": "2021-12-25T09:57:26",
+      "text": "You may can use dApp Connector’s ergo.sign_data for that \n\nhttps://github.com/ergoplatform/eips/blob/b70f406ad9f3cb7088407857820660558250db73/eip-0012.md#ergosign_dataaddr-address-message-string-promisestring"
+    },
+    {
+      "date": "2022-10-27T05:57:35",
+      "text": "Accepted, thanks"
+    },
+    {
+      "date": "2022-11-23T17:50:24",
+      "text": "For IPFS, we set R9 = ipfs://{cid}"
+    },
+    {
+      "date": "2022-11-23T17:51:35",
+      "text": "It’s not natively supported by all browsers but front-ends can detect it and use an IPFS gateway to load the content"
+    },
+    {
+      "date": "2023-05-14T15:58:54",
+      "text": "If I remember well, the key is already derived at change level, so you only need to derive child keys"
+    },
+    {
+      "date": "2023-10-29T15:36:48",
+      "text": "const r7 = STuple(SColl(SByte, withdrawNFTid), SLong(1n)).toHex();"
+    },
+    {
+      "date": "2023-10-29T15:40:22",
+      "text": "Hmm, I need to check, give me a couple hours until a reach home )"
+    },
+    {
+      "date": "2023-10-29T15:58:41",
+      "text": "Just checked, for some reason, STuple is not being exported by the serializer lib, will push a fix in a couple hours"
+    },
+    {
+      "date": "2023-10-29T16:02:18",
+      "text": "Thank YOU for being a bug hunting machine ))"
+    },
+    {
+      "date": "2024-01-19T10:42:45",
+      "text": "What do you need sir?"
+    },
+    {
+      "date": "2024-07-16T10:18:53",
+      "text": "It’s looks a lot better but not sure if that’s a good design decision, SGroupElement is a elliptic curve point, basically, so can be a pk. kind of confusing if we make SPK as a shortcut for SSigmaProp[SGroupElement]"
+    },
+    {
+      "date": "2024-07-16T10:20:41",
+      "text": "What can be done in such case is exposing ‘Party.publicKey’ as a ‘SGroupElement’ instance, so mapping can be done as ‘SSigmaProp(bob.publicKey)’"
+    },
+    {
+      "date": "2024-08-02T20:05:49",
+      "text": "The dApp <> Wallet bridge is a specially hard to test part of Nautilus, so better to give dApps some time to test before a release to avoid regressions"
+    },
+    {
+      "date": "2024-08-02T20:06:39",
+      "text": "Old traumas from Yoroi, I guess 😅️️️️️️"
+    },
+    {
+      "date": "2024-08-24T10:16:56",
+      "text": "Here you go sir: https://github.com/ergoplatform/eips/blob/master/eip-0031.md"
+    },
+    {
+      "date": "2024-10-01T05:59:58",
+      "text": "Interesting, can you please check what graphql server are they using? I suspect it’s an outdated one"
+    },
+    {
+      "date": "2024-10-01T06:54:45",
+      "text": "Will do some investigation, anyway please ask then to change the gql server to https://explore.sigmaspace.io/api/graphql\n\nThanks for letting me know"
+    },
+    {
+      "date": "2024-10-01T06:55:18",
+      "text": "It is a possibility, it has happened before."
+    },
+    {
+      "date": "2024-11-03T10:37:24",
+      "text": "Keep in mind that this new limit only applies to newer version of embedded app, which is not listed yet"
+    },
+    {
+      "date": "2024-11-04T05:24:42",
+      "text": "It's not required )"
+    },
+    {
+      "date": "2025-02-09T17:43:30",
+      "text": "Will take a look as soon as I get home, from a first glance your code looks ok, what version of fleet are you using?"
+    },
+    {
+      "date": "2025-02-09T17:47:36",
+      "text": "Your core package seems outdated, please bump all fleet packages to 0.8.*"
+    },
+    {
+      "date": "2025-03-06T06:58:02",
+      "text": "hey! I think you are trying to call ergo.get_used_addresses() in a brand new wallet that doesn't have it yet. But it sounds like it should't fail in such case, will return a empty array for this case in next versions"
+    },
+    {
+      "date": "2025-03-06T08:12:59",
+      "text": "yes, get_used_addresses is causing this, if wallet there's no used addresses then it will throw, will push a fix ASAP"
+    },
+    {
+      "date": "2025-03-06T08:18:03",
+      "text": "Probably yes, this issue affects all post Manifest v3 versions tho"
+    },
+    {
+      "date": "2025-03-06T11:10:04",
+      "text": "Sure! It was already planned, but will make this a priority"
+    },
+    {
+      "date": "2025-04-05T20:04:12",
+      "text": "DMed"
+    },
+    {
+      "date": "2025-04-07T13:58:03",
+      "text": "Where are you signing the transaction? You can use the transaction ID to query the blockchain and make sure it's included"
+    },
+    {
+      "date": "2025-04-07T14:33:21",
+      "text": "We don't have such a listener now, so you need to keep pooling the blockchain, Nautilus pools at a 5 seconds interval, which seems like a good balance between responsiveness and being gentle with servers )"
+    },
+    {
+      "date": "2025-04-07T15:28:22",
+      "text": "No websockets, just api over http, see: https://api.ergoplatform.com/api/v1/docs/"
+    },
+    {
+      "date": "2025-05-27T10:55:15",
+      "text": "There's no way around it, specially if you are using react. You can make it easer for disks by using pnpm, which maintains a global package store and just links it to individual projects"
+    },
+    {
+      "date": "2025-05-27T10:57:38",
+      "text": "Oh, I see. So if it really bothers you, less bloated frameworks like Vue.js are a good choice"
+    },
+    {
+      "date": "2025-06-27T07:52:43",
+      "text": "Use SPair"
+    },
+    {
+      "date": "2025-06-27T07:58:40",
+      "text": "Tuples with more than 2 elements are not supported, so I export SPair to avoid confusion"
+    },
+    {
+      "date": "2025-06-27T07:59:02",
+      "text": "This is not documentation"
+    },
+    {
+      "date": "2025-06-27T08:02:16",
+      "text": "No, please try harder"
+    },
+    {
+      "date": "2025-07-10T12:35:23",
+      "text": "Not yet, but it's planned for a while. Can make it a priority if you need it\n\nhttps://github.com/nautls/nautilus-wallet/issues/213"
+    },
+    {
+      "date": "2025-07-10T12:41:40",
+      "text": "Also, there's a easy way to chain unconfirmed and unsigned transactions in fleet: https://github.com/fleet-sdk/fleet/blob/62b7f170645987f9a3830b86f92a58dcaa4ef797/packages/core/src/models/ergoUnsignedTransaction.spec.ts#L120"
+    },
+    {
+      "date": "2025-08-16T07:35:18",
+      "text": "I think that simplest example we have is in the flee-by-example package https://github.com/fleet-sdk/fleet-by-example/blob/master/tests/timedFundContract.spec.ts"
+    },
+    {
+      "date": "2025-08-20T07:55:21",
+      "text": "Hey, where are you running this script, mock-chain?"
+    },
+    {
+      "date": "2025-09-03T08:15:45",
+      "text": "No relevant updates from my side, still working on hergmes and doing maintenance work across many repos."
+    },
+    {
+      "date": "2025-09-03T08:21:18",
+      "text": "It's a realtime and mempool-aware box streamer on top of the indexed node, it was initially designed for Machina Finance, but it will be generic enough to be used by any dApp and even to replace graphql on Nautilus"
+    },
+    {
+      "date": "2025-09-03T08:21:29",
+      "text": "https://github.com/arobsn/hergmes"
+    },
+    {
+      "date": "2025-09-03T08:22:06",
+      "text": "Also having a lot of fun with rust recently )"
+    },
+    {
+      "date": "2025-09-10T08:11:54",
+      "text": "Nautilus Wallet\n- Investigating Ledger connection issue\n\nFleet SDK\n- Migrated from tsup to tsdown for TS building\n- Exporting IIFE builds for direct browser access (cc @c8e4d8)\n\nMachina Finance\n- Finishing limit orders unit tests"
+    },
+    {
+      "date": "2025-09-24T08:03:11",
+      "text": "Nautilus\n- Added configurable Ledger transport methods supports\n\nhergmes\n- Added Ergo node client\n- Now working on mempool tracking"
+    },
+    {
+      "date": "2025-09-24T09:44:29",
+      "text": "Sure, will do"
+    },
+    {
+      "date": "2025-10-01T08:08:47",
+      "text": "Nautilus\n- Fixed WebHID ledger interactions\n- Researching on Bitcoin Runes integration\n\nMachina & Hergmes\n- Still working on it towards an MVP but nothing relevant to report"
+    },
+    {
+      "date": "2025-10-28T11:53:49",
+      "text": "So, what should I do in this case? Query /blockchain endpoints for the complete box data?"
+    },
+    {
+      "date": "2025-10-29T08:09:53",
+      "text": "Nautilus\n- Released v1.3.1\n- Refactored & added internationalization for Ledger transport settings\n\nhergmes\n- Improved error handling\n- Improved serialization\n- Added mempool client\n\nergo-graphql\n- Released v0.5.5\n- Added alternative ordering mode (height + timestamp) for broken instances"
+    },
+    {
+      "date": "2025-10-29T19:52:38",
+      "text": "Hmm, interesting. I assume it's safe to dispose transactions with incomplete boxes?\n\nEDIT: this comment was replicated in the GH issue"
+    },
+    {
+      "date": "2025-10-29T19:59:23",
+      "text": "Here sir https://github.com/ergoplatform/explorer-backend/issues/259"
+    },
+    {
+      "date": "2025-10-30T07:23:01",
+      "text": "Answered )"
+    },
+    {
+      "date": "2025-11-20T16:58:24",
+      "text": "Thank for the clarification. I asked AI as you suggested. Does this look accurate to you? https://deepwiki.com/search/on-box-subscription-hergmes-qu_e601e815-0370-4a05-966b-f65469ad4dc2"
+    },
+    {
+      "date": "2025-12-10T10:43:28",
+      "text": "It’s on my todo list for looong time. \n\nDo you think it’s feasible to have an ErgoScript checker from sigmastate-interpreter? Preferably natively builded so we don’t need a JVM to be able to use it.\n\nAlso, off-topic: debug function we discussed some time ago would be amazing to instrument code and have a code coverage tool at some point."
+    },
+    {
+      "date": "2026-01-28T14:08:10",
+      "text": "I had the exact same impression after the last hackathon I judged"
+    },
+    {
+      "date": "2026-02-05T17:31:03",
+      "text": "Hmm, it can be related to Nautilus secret selection. Do you have a full error message from Nautilus?"
+    },
+    {
+      "date": "2026-02-05T17:56:49",
+      "text": "05a49ed101 is definitely 1714066, and Nautilus doesn't touch anything in the transaction data. That's the entire purpose of the EIP-12 format, we have everything we need in one object so that we don't need to query the blockchain and patch anything before signing.\n\nWhat might be going wrong is input selection, there is no guarantees that an input will be selected, unless you say so. By default, Fleet will prioritize to select older inputs.\n\nThat, said, I saw a possible problem on your code: is doesn't enforce selection of the contract input, so try replacing this line with:\n\n\n    .from(parseBox(game.box), { ensureInclusion: true })\n    .and.from(utxos)\n\n\nAlternatively you can go to settings and enable the \"Developer mode\" on Nautilus and see exactly JSON you are signing on the signing popup."
+    }
+  ]
+}

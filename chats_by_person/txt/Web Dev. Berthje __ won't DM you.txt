@@ -1,0 +1,26 @@
+=== Chat history for: Web Dev. Berthje || won't DM you ===
+=== Total messages: 4 ===
+
+[2022-09-06T07:25:15]
+Who are we?
+
+We are a team of 2 members, cryptocurrency enthusiasts and Ergo is one of our favorite coins! We are full-time students who like to develop websites that helps other people with their problems!
+
+What is Minergo?
+
+You can already infer it from the name Minergo, Mine & Ergo. Minergo ensures that the miner is assigned the appropriate miner software with the correct overclocking settings for the respective video card(s). We will also focus on statistics and real-time charts of the known pools used to mine Ergo.
+
+Why?
+
+We experienced problems with the giant community spreadsheet as you cannot filter it, cannot read it easily and so we will simplify this with a straightforward UI for the user. This will be a big part of our data in the beginning but in the long run the miner can add data himself by filling in a form and this will be verified by a team in order to give the user a worry free experience. We saw that there is still the question "which pool should I use? What are the best overclocking settings for x GPU?" and we want to minimize this using our web tool!
+
+[2022-09-06T09:57:38]
+Haha hey man!
+
+[2022-09-06T09:57:50]
+We know eachother from cryptocurrency subreddit
+
+[2022-09-07T08:15:56]
+Minergo.io:
+- working on UI
+

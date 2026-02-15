@@ -1,0 +1,442 @@
+{
+  "sender": "Pgr456",
+  "total_messages": 109,
+  "messages": [
+    {
+      "date": "2023-07-13T14:26:45",
+      "text": "I have started building a wrapper for sigma-rust in go: https://github.com/sigmaspace-io/ergo-lib-go It doesn't support all functions of sigma-rust yet but maybe you could extend it to support your usecase. I think in sigma-rust it should be possible what you are trying to do"
+    },
+    {
+      "date": "2024-01-29T16:00:37",
+      "text": "I can provide you with one as well my instance is on latest block"
+    },
+    {
+      "date": "2024-01-29T16:02:32",
+      "text": "stealth5pdZXQQVr8q9gUEf5mE5N2BBdNMkENS5VZ5uuzA1CxKTYuRCU1"
+    },
+    {
+      "date": "2024-01-29T16:03:44",
+      "text": "@mewtoshi"
+    },
+    {
+      "date": "2024-01-29T16:05:00",
+      "text": "Can confirm received 0.4 ERG"
+    },
+    {
+      "date": "2024-01-29T16:05:49",
+      "text": "/t@ergotipperbot"
+    },
+    {
+      "date": "2024-01-29T16:06:10",
+      "text": "/t 0.4 erg"
+    },
+    {
+      "date": "2024-01-29T16:10:12",
+      "text": "/t 0.4 erg"
+    },
+    {
+      "date": "2024-01-29T16:19:49",
+      "text": "Appreciate it just wanted to help quickly with testing 🙂"
+    },
+    {
+      "date": "2024-02-02T11:09:31",
+      "text": "Can do that. What counts as active wallet? Every address used as input for a transaction which is not a contract?"
+    },
+    {
+      "date": "2024-02-02T11:45:12",
+      "text": "If I didn't fuck up the query this should be it"
+    },
+    {
+      "date": "2024-02-02T11:46:47",
+      "text": "Query used"
+    },
+    {
+      "date": "2024-02-02T11:54:56",
+      "text": "Hm thinking about this ignores wallets which only received"
+    },
+    {
+      "date": "2024-02-02T11:55:07",
+      "text": "will refine the query"
+    },
+    {
+      "date": "2024-02-02T12:04:29",
+      "text": "@glasgowm this should be it"
+    },
+    {
+      "date": "2024-02-02T13:23:27",
+      "text": "Well if someone is just DCAing and sending from a CEX to one address it wouldn't be counted by excluding receiving. One could argue that isn't an acitve user thoug"
+    },
+    {
+      "date": "2024-06-10T16:13:18",
+      "text": "Not sure why a block candidate regeneration time of 45s was chosen by the original implementer but I would argue for a 20s regeneration time since we are aiming for a block interval of 120s and this would result in around 6 refreshes per block instead of just 2-3"
+    },
+    {
+      "date": "2024-06-25T11:00:42",
+      "text": "Yes he is working on registry service which requires signing of metdata changes --> latest Natulius release has signing of arbitrary data included as far as i know"
+    },
+    {
+      "date": "2024-06-25T11:01:57",
+      "text": "Yes a much needed service"
+    },
+    {
+      "date": "2024-06-28T06:55:42",
+      "text": "Makes sense if current changeset is not stable enough. In case none of the changes are time sensitive release 5.0.22 could also be just postponed"
+    },
+    {
+      "date": "2024-07-01T09:07:47",
+      "text": "Thats kushtis node currently running the unstable release which includes changes to api paging. So thats probably why it is so different"
+    },
+    {
+      "date": "2024-07-04T13:31:08",
+      "text": "Still working on it in the background but currently improving explorer infrastructure + endpoints for potential in mempool spending support for nautilus etc."
+    },
+    {
+      "date": "2024-07-18T18:50:11",
+      "text": "Yeah you are right"
+    },
+    {
+      "date": "2024-07-18T18:52:45",
+      "text": "Agreed will try to implement caching of 2 candidates and update PR accordingly. Also noticed that current PR state is messed up due to merging such an old state from my side"
+    },
+    {
+      "date": "2024-07-20T17:58:22",
+      "text": "👍🏻 will also be able to provide an updated PR at the end of the weekend"
+    },
+    {
+      "date": "2024-08-06T07:55:14",
+      "text": "Mnemonic + derivation path. But at that point you can just derive the private key yourself and provide it directly. Your setup is a little bit special in that regard. Also exposing/sending only the private keys needed for the current tx makes it more secure because in case of a leak only they would be exposed and not the whole master key"
+    },
+    {
+      "date": "2024-08-06T07:59:30",
+      "text": "We can continue the conversation if you want and see what went wrong"
+    },
+    {
+      "date": "2024-08-16T15:51:50",
+      "text": "According to google yes. Its somehow still in the build.sbt file as repository and it looks like leveldbjni-all isn't hosted somewhere else"
+    },
+    {
+      "date": "2024-08-20T04:15:31",
+      "text": "Not really what you are describing is cex backend implementation and depends on how often they poll for new blocks. My change affects the average confirmation times for transactions. When you do a transaction at the moment it will not be included in the current block the miner works on. It will be in the next one. With my change the current block a miner works on gets refreshed every 20s to include new transactions from the mempool. Resulting in your transaction potentially getting mined faster"
+    },
+    {
+      "date": "2024-08-26T18:20:30",
+      "text": "{\n  \"derivationPath\": \"m\\/44'\\/429'\\/0'\\/0\"\n}"
+    },
+    {
+      "date": "2024-08-26T19:06:57",
+      "text": "Can confirm it doesn't generate the same keys for me either"
+    },
+    {
+      "date": "2024-08-26T19:14:50",
+      "text": "Guess internally within the node wallet it works and uses the correct path for derivation. Might be that its just the rest api endpoint parsing it wrong"
+    },
+    {
+      "date": "2024-08-28T12:24:36",
+      "text": "Not sure if its the same ergo node uses an ethereum fork of leveldbjni-all"
+    },
+    {
+      "date": "2024-08-28T12:27:31",
+      "text": "Tron uses the same dependency: https://github.com/tronprotocol/java-tron/blob/773b374cec6668bb75911357576a41221503f806/common/build.gradle#L19"
+    },
+    {
+      "date": "2024-08-28T12:27:56",
+      "text": "Not sure where they are getting it from can't find it in any of the maven repos they use"
+    },
+    {
+      "date": "2024-08-28T12:28:11",
+      "text": "Yeah after switch to rocksdb its not needed anymore"
+    },
+    {
+      "date": "2024-08-28T12:30:16",
+      "text": "Only source they have indexed is spring.io which requires login"
+    },
+    {
+      "date": "2024-08-28T12:31:08",
+      "text": "Same click on bundle and it will prompt you for basic auth from spring repo"
+    },
+    {
+      "date": "2024-08-28T12:33:03",
+      "text": "Spring was already tried by kushti and it results in authorization error within build pipeline. There is also official communication from them that it is not public anymore"
+    },
+    {
+      "date": "2024-08-28T12:35:30",
+      "text": "Thats why I opted for publishing it to a gitlab public registry so it should be available for the future until full rocksdb is released"
+    },
+    {
+      "date": "2024-08-28T12:36:16",
+      "text": "Yeah and publishing to maven central take a lot longer to setup..."
+    },
+    {
+      "date": "2024-08-28T12:38:59",
+      "text": "Yes they even have an import tool to import packages from other sources https://gitlab.com/gitlab-org/ci-cd/package-stage/pkgs_importer\n\nGithub also has the option but you can only create private repos which needs authentication"
+    },
+    {
+      "date": "2024-09-22T16:36:31",
+      "text": "5.0.23/5.1.0 running smooth on my side"
+    },
+    {
+      "date": "2024-09-23T04:20:53",
+      "text": "Thanks will investigate. Do you have the conract address for me?"
+    },
+    {
+      "date": "2024-09-23T04:39:49",
+      "text": "Fixed"
+    },
+    {
+      "date": "2024-10-28T06:40:16",
+      "text": "Update: Got my keystone 3 PRO to develop on. Thanks to Keystone for providing me one! First impression nice build quality of the device"
+    },
+    {
+      "date": "2024-10-31T10:42:21",
+      "text": "Cloudflare again"
+    },
+    {
+      "date": "2024-10-31T10:42:50",
+      "text": "Instances behind cloudflare are up and reachable"
+    },
+    {
+      "date": "2024-10-31T10:43:27",
+      "text": "Will try to restart tunnel connection —> maybe it helps"
+    },
+    {
+      "date": "2024-10-31T10:46:03",
+      "text": "DDoS protection, load balancing, DNS etc.\n\nLooks like their edge servers have issues. All tunnel connection fail to connect"
+    },
+    {
+      "date": "2024-10-31T10:48:39",
+      "text": "@AcoSmrkas back online again"
+    },
+    {
+      "date": "2024-10-31T20:15:28",
+      "text": "It should be reachable again"
+    },
+    {
+      "date": "2024-11-06T11:16:51",
+      "text": "Is planned as feature sometime in the future but not a priority at the moment"
+    },
+    {
+      "date": "2024-11-29T12:15:07",
+      "text": "If you need more nodes or pool operators to test let me know"
+    },
+    {
+      "date": "2024-12-03T17:18:55",
+      "text": "You can if you just don‘t add it to the outputs of claim transaction"
+    },
+    {
+      "date": "2024-12-03T17:19:54",
+      "text": "It neither late nor early it is completed exactly at the right time"
+    },
+    {
+      "date": "2024-12-20T09:01:08",
+      "text": "Keystone hardware wallet uses: https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md to transfer bigger amount of data to wallet. Could be used for ergopay as well"
+    },
+    {
+      "date": "2024-12-20T09:55:46",
+      "text": "The UR standard I posted above splits data over multiple qr codes which would circumvent any data limits for a single qr code"
+    },
+    {
+      "date": "2024-12-20T09:58:26",
+      "text": "Since I am already implementing it for their rust-sdk which generates java and js bindings  we might be able to use in ergo app and other ergopay implementations"
+    },
+    {
+      "date": "2025-01-16T06:39:34",
+      "text": "Update: UI bug fixed --> now all transaction details and labels are shown. Next up is finishing transaction signing"
+    },
+    {
+      "date": "2025-02-01T05:11:53",
+      "text": "2 rosen weeks"
+    },
+    {
+      "date": "2025-02-26T08:20:03",
+      "text": "Nice good to know its going to be march"
+    },
+    {
+      "date": "2025-03-10T08:23:07",
+      "text": "Not sure if coincidence but my frontend instances got hammered over the weekend as well"
+    },
+    {
+      "date": "2025-03-10T08:25:18",
+      "text": "Haven‘t fully investigated but monitoring is reporting 2-3h downtime per day. Api‘s were up the whole time. Had to restart frontend instances multiple times and had high cpu usages"
+    },
+    {
+      "date": "2025-05-06T17:00:31",
+      "text": "Got a similar log as well"
+    },
+    {
+      "date": "2025-05-06T17:05:03",
+      "text": "Yes"
+    },
+    {
+      "date": "2025-05-06T17:13:32",
+      "text": "Can't access instantly crashes"
+    },
+    {
+      "date": "2025-05-06T17:25:19",
+      "text": "Jar extracted from docker image"
+    },
+    {
+      "date": "2025-05-17T14:47:38",
+      "text": "can we join with cpu mining as well? Or should it stay disabled on other nodes?"
+    },
+    {
+      "date": "2025-06-23T15:10:49",
+      "text": "Would push forward and go with 10.x"
+    },
+    {
+      "date": "2025-06-25T14:21:38",
+      "text": "It was merged into 5.1.0 https://github.com/ergoplatform/ergo/tree/v5.1.0"
+    },
+    {
+      "date": "2025-06-26T07:59:43",
+      "text": "In place upgrade from 5.1.3 to 6.1.0 successful. No issues so far (reindex still running)"
+    },
+    {
+      "date": "2025-06-26T08:02:15",
+      "text": "Yes when updating to 5.1.3 whole db corrupted. With 6.1.0 no issues and no corruption using the newly synced 5.1.3 db"
+    },
+    {
+      "date": "2025-06-26T08:03:35",
+      "text": "Seems like the push to rocksdb 10.x was the right decision. I don't have to resync this time only reindex"
+    },
+    {
+      "date": "2025-09-28T14:26:42",
+      "text": "Docker image available as well: https://hub.docker.com/layers/ergoplatform/ergo/v6.1.0/images/sha256-a08635375b69c5ba277a206f9b290fd3d4adbb67899fa5469196a7b9f2af1712"
+    },
+    {
+      "date": "2025-10-20T17:51:36",
+      "text": "For now I am pushing Keystone over the finish line afterwards I have to think about on what to work and if bounties are needed"
+    },
+    {
+      "date": "2025-10-20T17:54:24",
+      "text": "Silver oracles can be finished fairly easy afterwards. A modular oracle is not so easy since you always have to build new datasources/api request etc."
+    },
+    {
+      "date": "2025-10-21T08:27:20",
+      "text": "@kushti_ru there is currently a box which fits definition of anyone can spend storage rent collection and defies storage rent collection due to node reporting tx as invalid. Example tx:\n\n{\n  \"inputs\": [\n    {\n      \"boxId\": \"d8cccde6a20dabb5fc6234d9f623b99292e0045ca797928351258000c877d206\",\n      \"spendingProof\": {\n        \"proofBytes\": \"\",\n        \"extension\": {\n          \"127\": \"0300\"\n        }\n      }\n    }\n  ],\n  \"outputs\": [\n    {\n      \"value\": \"4452310\",\n      \"ergoTree\": \"1005040004000e36100204a00b08cd0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798ea02d192a39a8cc7a701730073011001020402d19683030193a38cc7b2a57300000193c2b2a57301007473027303830108cdeeac93b1a57304\",\n      \"assets\": [],\n      \"additionalRegisters\": {},\n      \"creationHeight\": 1638894,\n      \"extension\": {}\n    }\n  ],\n  \"dataInputs\": []\n}"
+    },
+    {
+      "date": "2025-10-21T08:54:27",
+      "text": "Only script verification failed:\n\n{\n  \"error\": 400,\n  \"reason\": \"bad.request\",\n  \"detail\": \"Malformed transaction: Scripts of all transaction inputs should pass verification. 44426926a547c74689d38e3e9d53b4ffce3ac9ede0f3fe5d6c40a8e1b69eed10: #0 => Success((false,50))\"\n}"
+    },
+    {
+      "date": "2025-10-29T15:19:44",
+      "text": "Sigmaspace at the moment only has some long standing feature request for the frontend (which is not opensource so I am not comfortable taking bounties for it). \n\nI am currently taking a small break since I am blocked on all ergo related issues and day job is currently exhausting enough"
+    },
+    {
+      "date": "2025-10-31T15:35:20",
+      "text": "Did you have time to check? There is now a growing number of boxes where rent can‘t be collected. At the time of writing the first 45 ones listed here: https://sigmaspace.io/en/storage-rent \n\nIf you need the data I can pull a list of box ids. Those boxes are way past their rent collection height"
+    },
+    {
+      "date": "2025-10-31T15:53:57",
+      "text": "sigma-rust box size function. I think its an integer overflow on this line: https://github.com/ergoplatform/ergo/blob/21ca898f21b01345913fbdea68c183bcd8be0134/ergo-wallet/src/main/scala/org/ergoplatform/wallet/interpreter/ErgoInterpreter.scala#L43\n\n\nFor example the affected box:\ne7d20f8d1c063ef1d614ac75f26c16f468f438722f915f740b3caabb1a528a09\n\n\nHas the size: 2239\nAnd the storage fee factor is: 1250000\n\nSo 2239 * 1250000 = 2798750000 > 2147483647(Int.MaxValue)"
+    },
+    {
+      "date": "2025-11-03T11:14:21",
+      "text": "This not a speed up. Without it you can‘t sync explorer DB to full height"
+    },
+    {
+      "date": "2025-11-03T11:15:42",
+      "text": "btw. I have also the ergodex api running in case it gets discontinued by spectrum"
+    },
+    {
+      "date": "2025-11-03T11:19:00",
+      "text": "TimescaleDB also has a docker image for postgres with an autotuner for db settings based on underlying hardware"
+    },
+    {
+      "date": "2025-11-03T11:27:15",
+      "text": "👍🏻 so far I am only running the code published on spectrum github"
+    },
+    {
+      "date": "2025-11-19T03:09:35",
+      "text": "@cannon_q @kushti_ru I think we need some ai contribution guidelines especially related to issues with bounties. The explorer PRs are AI generated which if it works is fine but they are mixing changes between PRs and adding/changing unrelated files like bounty submission markdown files etc. \n\nReviewing generated code/descriptions is exhausting and even more so if the author didn‘t bother to check those things (which in turn reduces motivation for a reviewer to check the code or even do functional tests of it)…"
+    },
+    {
+      "date": "2025-11-19T03:36:46",
+      "text": "Thanks need to check Agents.md and what can be done with it. Also will request changes to remove unrelated files and ai messages and if the author is not fixing that will not continue with functional review and tests for now as a measure to not waste time"
+    },
+    {
+      "date": "2025-11-21T12:29:05",
+      "text": "Another optimization you can try if you are open to changing the queries is using hash comparison for lookups. I have for example an index over the address using hashtext and query like this:\n\nSELECT no.tx_id FROM node_outputs no WHERE hashtextextended(no.address, 0) = hashtextextended($1, 0) AND no.address = $1\n\nIndex is build like this:\n\nCREATE INDEX IF NOT EXISTS \"node_outputs__address_hashtext\" ON node_outputs (hashtextextended(address, 0), timestamp desc, spent, tx_id);"
+    },
+    {
+      "date": "2025-11-26T13:15:49",
+      "text": "Yes that one is still good"
+    },
+    {
+      "date": "2025-11-26T13:16:45",
+      "text": "That one is still mixing unrelated changes from the other pr and is not fixing the issue"
+    },
+    {
+      "date": "2025-11-26T13:30:33",
+      "text": "Deleting this specific index and recreating it should be enough"
+    },
+    {
+      "date": "2025-11-26T13:33:00",
+      "text": "Currently I have a private copy not fork of the dex repos. There I did some cleanup and removed cardano code etc. I could publish it somewhere or try to move it into ergoplatform github?"
+    },
+    {
+      "date": "2025-11-26T13:33:57",
+      "text": "Can provide all values apart from dev emissions nft. As far as I know we dont have dev emissions"
+    },
+    {
+      "date": "2025-11-26T13:37:47",
+      "text": "@kushti_ru would also be interested in doing the integration"
+    },
+    {
+      "date": "2025-11-26T13:39:36",
+      "text": "Yes only changes to the related issue in the pr related to it. Currently you have pushed schema/doc changes in to the indexing issue pr and there are currently no changes related to indexing in the indexing pr"
+    },
+    {
+      "date": "2025-11-26T15:00:14",
+      "text": "DORT = \"ae399fcb751e8e247d0da8179a2bcca2aa5119fff9c85721ffab9cdc9a3cb2dd\"\noracle pool NFT = \"6a2b821b5727e85beb5e78b4efb9f0250d59cd48481d2ded2c23e91ba1d07c66\"\noracle token ID = \"74fa4aee3607ceb7bdefd51a856861b5dbfa434a8f6c93bfe967de8ed1a30a78\"\nDORT LP NFT = \"35bc71897cd44d1a624285c54a0be66b69d1c61674603ed89dfe136f32035f0e\""
+    },
+    {
+      "date": "2025-11-26T15:00:42",
+      "text": "Ok will do so over the weekend"
+    },
+    {
+      "date": "2025-11-26T15:02:35",
+      "text": "As I intent to claim the bounty anyway we can state it here and later on attach it to the issue once repo is moved. Also it requires modification of backend services as well like dex api and tracking services"
+    },
+    {
+      "date": "2025-12-01T15:58:22",
+      "text": "Should be good"
+    },
+    {
+      "date": "2025-12-01T15:59:20",
+      "text": "Needs some cleanup still will notify here once done"
+    },
+    {
+      "date": "2026-01-12T07:07:32",
+      "text": "Mining on it could result in hardfork since your node is using u64 for storage rent calculation it does not have the integer overflow issue as the scala implementation thus resulting in transaction being included which are invalid for the scala node"
+    },
+    {
+      "date": "2026-01-23T06:28:29",
+      "text": "currently deploying fix for graphql chain grabber"
+    },
+    {
+      "date": "2026-01-23T06:50:15",
+      "text": "sigmaspace graphql should be fixed now"
+    },
+    {
+      "date": "2026-01-23T09:37:52",
+      "text": "Still working on a fix inside for custom indexer in depends on"
+    },
+    {
+      "date": "2026-01-24T17:01:55",
+      "text": "Sigmaspace up and running again. All services operational and fully synced\n\nAdded new features to indexer service. It handles unparsable ergo trees. Also added sigmastate-js based fallback to tree parsing. Uses an embedded js engine —> in case rust bindings fail parsing via js library is tried"
+    },
+    {
+      "date": "2026-01-26T18:27:20",
+      "text": "@kushti_ru / @zargarzadehmoein should be fixed now. Let me know if anything is wrong"
+    },
+    {
+      "date": "2026-02-07T01:35:13",
+      "text": "Will check"
+    },
+    {
+      "date": "2026-02-07T02:15:35",
+      "text": "sigmaspace should be good again. API-Cache was exceeding RAM. Will monitor to see why it wasn't cleared"
+    }
+  ]
+}

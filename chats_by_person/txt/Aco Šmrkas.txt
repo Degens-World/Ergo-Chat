@@ -1,0 +1,1005 @@
+=== Chat history for: Aco Šmrkas ===
+=== Total messages: 234 ===
+
+[2023-05-24T11:39:03]
+Hello everyone. Erg Explorer dev ( https://ergexplorer.com ) here. Thank you @NoahErgo for letting me know about this group.
+
+This is the first update about this project here. I'll try to keep it short.
+
+1. Setup a public repo here: https://github.com/AcoSmrkas/ErgExplorer
+2. Added transaction view page, along with links to transaction pages in wallet address view
+3. Update responsive style for mobile devices
+4. Updated search form to include address/transaction dropdown (i know having magic search that guesses if its tx/addresss/block is cool, but this is faster and safer for now)
+5. Updated htaccess url rewrites to match official Ergo explorer URLs 1:1 (eg. https://explorer.ergoplatform.com/addresses/9fLXRjthKecc7LsHyQAF9w2DfqVbsFxsHqUBpz2ouBPYRmaBxfT -> https://ergexplorer.com/addresses/9fLXRjthKecc7LsHyQAF9w2DfqVbsFxsHqUBpz2ouBPYRmaBxfT and https://explorer.ergoplatform.com/transactions/b6f9122f4b7663f4d22a8999b2eb1330a185dc5e4ce3a7004f8cf3b5220ce5b7 -> https://ergexplorer.com/transactions/b6f9122f4b7663f4d22a8999b2eb1330a185dc5e4ce3a7004f8cf3b5220ce5b7
+6. Added wallet address QR code in address view
+
+[2023-05-31T05:53:28]
+Latest updates about Erg Explorer: https://medium.com/@ergexplorer/erg-explorer-development-update-charting-the-course-75062b6f291c
+
+In short:
+1. Implemented issued tokens list
+2. Implemented block and token details views
+3. Updated search to include search by token id and block id
+
+Next:
+1. NFT previews
+2. Try and present smart contract transactions information better
+3. Visual overhaul and light theme (learned that some people actually have issues with dark themes)
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-06-07T02:55:00]
+Latest updates about Erg Explorer: https://medium.com/@ergexplorer/erg-explorer-development-update-above-and-beyond-d8ad095ac96b
+
+In short:
+1. Smart contract transaction summary
+2. NFT previews in token and address views
+3. Values represented in a nicer way, added token icons
+4. Search improvements
+5. Raffle fully funded. Thank you thank you to everyone who was able to support this!
+
+Next:
+1. Better token search by name (thank you @dadreboi for great idea how to implement this)
+2. More advanced token search options and filters (by nft type, only nft/hide nft, include nft description in search, sort) 
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-06-13T06:02:24]
+Anyone know a good IPFS content provider? Cloudflare-ipfs randomly decides to troll my requests for some reason (or maybe it's just my crap ISP 🤔)
+
+[2023-06-13T06:11:23]
+Nope. Think my 512mb vps can push it?
+
+[2023-06-13T06:12:02]
+Gotcha. I might give it a try.
+
+[2023-06-13T06:17:42]
+Hm actually that ain't gonna work. Can't push that much data through my current hosting plan.
+/r/ipfs is still in blackout on reddit, can't get informed till tomorrow ><
+
+[2023-06-14T03:20:38]
+Latest updates about Erg Explorer:
+https://medium.com/@ergexplorer/erg-explorer-development-update-all-about-that-nft-25ac9d85e6e3
+
+In short:
+1. NFT search now case insensitive
+2. NFT search by type (image, audio, video...)
+3. Updates to smart contract transaction summary (still eyeballing it but makes sense for now)
+
+Next:
+1. Visual updates that will also allow for better display of some information
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-06-14T05:00:48]
+Nice catch, thanks. Will look into it!
+
+[2023-06-14T05:28:33]
+What browser is that where it shows the correct bull formatting? Can't get it correct nowhere.
+
+[2023-06-21T03:04:03]
+Latest updates about Erg Explorer:
+https://medium.com/@ergexplorer/erg-explorer-development-update-more-is-enough-c051593a8e27
+
+In short:
+1. Dollar values everywhere thanks to Spectum Finance's API
+2. Ergopad staking and vesting info
+3. Rescraped all token data, now showing correct mint and current address for NFTS
+4. Added info is NFT is burned
+5. ASCII art tokens
+
+Next:
+1. Rework main page with more useful data
+2. Visual updates that will also allow for better display of some information
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-06-23T10:25:11]
+what do maxBlockGix and maxTxGix represent?
+(api/v1/networkState endpoint)
+
+[2023-06-23T11:27:22]
+Thanks. Does that equal total transaction and box number?
+
+[2023-06-28T02:18:06]
+Latest updates about Erg Explorer:
+https://medium.com/@ergexplorer/erg-explorer-development-update-one-step-closer-c85b828f7228
+
+In short:
+1. Order tokens by name, hide burned tokens
+2. Light CSS theme
+3. Testnet support
+4. Visual updates
+
+Next:
+1. Server and hosting updates
+2. Visual updates
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-07-05T04:24:58]
+Latest updates about Erg Explorer:
+https://medium.com/@ergexplorer/erg-explorer-development-update-whats-your-address-e88eeac3b411
+
+In short:
+1. Address book
+2. Address book filter and sorting
+3. Overall visual updates
+4. Upgraded server to 1gb machine
+
+Next:
+1. Some scraping and indexing work for addresses
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-07-05T08:30:53]
+https://api.ergoplatform.com/stats transactionsSummary->totalOutput randomly outputs 2 different values on multiple refreshes (both are a little strange for 24h data, 60mil and 80mil erg)
+A bug?
+
+[2023-07-06T05:29:48]
+What are these 2 addresses?
+
+1:
+2Z4YBkDsDvQj8BX7xiySFewjitqp2ge9c99jfes2whbtKitZTxdBYqbrVZUvZvKv6aqn9by4kp3LE1c26LCyosFnVnm6b6U1JYvWpYmL2ZnixJbXLjWAWuBThV1D6dLpqZJYQHYDznJCk49g5TUiS4q8khpag2aNmHwREV7JSsypHdHLgJT7MGaw51aJfNubyzSKxZ4AJXFS27EfXwyCLzW1K6GVqwkJtCoPvrcLqmqwacAWJPkmh78nke9H4oT88XmSbRt2n9aWZjosiZCafZ4osUDxmZcc5QVEeTWn8drSraY3eFKe8Mu9MSCcVU
+
+2:
+88dhgzEuTXaRQTX5KNdnaWTTX7fEZVEQRn6qP4MJotPuRnS3QpoJxYpSaXoU1y7SHp8ZXMp92TH22DBY
+
+[2023-07-06T06:32:43]
+Gotcha. Thanks!
+
+[2023-07-23T15:52:47]
+ErgExplorer does not use the oracle api. I was on a vacation for the last 15 days, so no updates were made to the service in that timeframe.
+
+[2023-08-02T04:47:10]
+#serious
+Why does ergo sometimes remove pending transactions from the mempool? I've never experienced transactions failing on other blockchains. It's a really bad user experience. 😑
+
+[2023-08-02T04:49:22]
+Happens to me a lot when redeeming vested tokens on Ergopad.
+eg. I'd submit 5 redeem transactions, they all appear in mempool, then only 3-4 confirm.
+
+[2023-08-02T05:24:50]
+Ah gotcha. Makes sense. Thanks for the explanation.
+
+[2023-08-02T06:08:53]
+Latest updates about Erg Explorer:
+https://medium.com/@ergexplorer/erg-explorer-development-update-bots-finance-fe3b84b962db
+
+In short:
+1. Financial data for tokens
+2. Top 24h tokens by volume/gain/lose
+3. Transaction confirm notifications
+4. Works with Nautilus when we setup Explorer URL param
+5. Token and Whale alert telegram bots
+
+Next:
+1. Dedicated ERG info page
+2. FAQ, information, guides
+
+Repo: https://github.com/AcoSmrkas/ErgExplorer
+
+[2023-08-16T08:25:50]
+Happens occasionally. Known reason, or any way to prevent it?
+
+full url: URL
+
+[2023-08-16T08:26:05]
+@dadreboi ^ happens on official node too
+
+[2023-08-16T08:29:03]
+wtf is that image ><
+
+[2023-08-20T15:02:03]
+True. I don't need more reasons for 'AcO uR dEgEn eXpLoReR iS sHoWiNg wRoNg VaLueS' 🤦‍♂️
+
+[2023-10-06T02:35:44]
+ETA on explorer API fix?
+Times out constantly :(
+
+[2023-10-06T02:38:25]
+gotcha
+
+[2023-10-06T02:41:04]
+thanks. seems ok right now
+
+[2023-10-06T02:41:48]
+what machine specs would be needed to host my node + explorer api instance?
+
+[2023-10-06T02:43:55]
+oof
+
+[2023-10-06T02:44:19]
+im not happy with my services going off when the official one dies, but i guess it is what it is
+
+[2023-10-06T02:45:55]
+got a list of online explorer nodes?
+
+[2023-10-06T02:47:14]
+ye, i know qx() is also running one
+
+[2023-10-06T02:48:16]
+well, it will have to :p
+
+[2023-10-06T02:53:49]
+Mi goreng or Neta? Or something worse?
+
+[2023-10-06T02:55:06]
+huh? what's this
+
+[2023-10-06T02:56:30]
+damn i missed some quality drama again
+
+[2023-10-06T02:59:17]
+tbh sigmanauts one is so much better. approved
+
+[2023-10-06T07:05:08]
+similarly specced vps is ~$150 on digital ocean
+
+[2023-10-06T07:05:51]
+a month
+
+[2023-10-27T08:17:43]
+Official Explorer API down again?
+
+[2023-10-27T08:20:00]
+Timing out 50% of times here :(
+
+[2023-11-09T01:46:57]
+did you manage to build and run the explorer backend? i run into some maven repo timeouts when downloading plexus utils when i last tried
+
+[2023-12-06T05:52:33]
+U r a dev Pulsarz. Make it 😏
+
+[2023-12-06T05:53:18]
+More time to make it
+
+[2023-12-06T05:54:01]
+Humble
+
+[2023-12-12T09:23:32]
+What's the easiest way to get reduced transaction for ergopay?
+I've setup it with python + appkit JAR but my server just dies if it needs to be invoked multiple times.
+
+[2023-12-12T13:40:15]
+Thank you!
+
+[2023-12-13T07:08:53]
+When using ErgoPay. How do I restrict user from selecting to process it with multiple addresses?
+
+edit: SOLVED
+This pre-check is a POST request to the URL with the #P2PK_ADDRESS# placeholder replaced by the keyword "multiple_check". If this request is successful (2xx return code), users can select multiple addresses.
+
+[2023-12-13T08:18:09]
+Need help again please : )
+I'm getting too big number error when trying to parse a number to I64 using ergo-lib-wasm, what is the correct way to do it?
+
+f9e8d246058c53a94351a72c99247dbd9342b801706f1eb875d774df85771aed 9223372036854776000
+Error [ParseIntError]: number too large to fit in target type
+
+My code:
+ change.add_token(TokenId.from_str(asset.tokenId), TokenAmount.from_i64(I64.from_str("" + asset.amount)));
+
+[2023-12-13T11:09:51]
+anyone? @kushti_ru please, I'm so confused on how to pass value bigger than i64 max value when the only accepted argument is i64
+
+[2023-12-13T11:09:51]
+Need help again please : )
+I'm getting too big number error when trying to parse a number to I64 using ergo-lib-wasm, what is the correct way to do it?
+
+f9e8d246058c53a94351a72c99247dbd9342b801706f1eb875d774df85771aed 9223372036854776000
+Error [ParseIntError]: number too large to fit in target type
+
+My code:
+ change.add_token(TokenId.from_str(asset.tokenId), TokenAmount.from_i64(I64.from_str("" + asset.amount)));
+
+[2023-12-13T11:23:36]
+ser qx gief help, i'll commit seppuku over all these useless ergo libs
+
+[2023-12-13T11:25:18]
+and add notice: if you see 'this tx blabla burns tokens', just ignore? x]
+
+[2023-12-13T11:27:07]
+it's crazy. past 2 days i tried fleet, fleetsharp, java appkit, ergpy, and wasm. and none of those has all the bits and pieces 🤡
+
+[2023-12-13T11:27:45]
+Wasm bindings only have method that accepts i64
+
+[2023-12-13T11:28:08]
+i can't run 50mb jvm for each request on my 512mb vps ><
+
+[2023-12-13T11:29:25]
+when you broke, you work with what you can afford 🤷‍♂️
+
+[2023-12-13T11:30:18]
+DigitalOcean
+
+[2023-12-13T11:30:56]
+Basic
+Regular Intel
+1 vCPU
+512 MB
+10 GB
+0.5 TB
+$4/mo
+$0.006/hr
+
+[2023-12-13T11:33:24]
+what do you mean by decent ui?
+
+[2023-12-13T11:33:47]
+i prefer ssh terminal access
+
+[2023-12-13T11:34:51]
+nah, i love my ubuntu vps randomly deleting my ssh key then losing access and spending half a day figuring why
+
+[2023-12-13T11:35:47]
+hm interesting. but migrating everything would be such a pain
+
+[2023-12-13T12:10:36]
+So. If we take unspent boxes from here https://api.ergoplatform.com/api/v1/boxes/unspent/byAddress/9gvDVNy1XvDeFoi4ZHn5v6u3tFRECMXGKbwuHbijJu6Z2hLQTQz
+There is token with amount of 9223372036854776000
+Max i64 size is 9223372036854775807 which is 193 less.
+
+I need to pass the full amount from input to output box, but I'm stuck.
+
+[2023-12-13T12:12:09]
+Some observations are that console.log(9223372036854775807) will output 9223372036854776000. So, there is some rounding error happening.
+But, getting values from explorer api and from node, will give you the bigger rounded one (9223372036854776000). So I can't do anything with it.
+
+[2023-12-13T12:16:21]
+Burn it? x]
+
+[2023-12-13T12:17:56]
+I'd be fine with that, but then I'd like to somehow get the proper value that's in the box.
+
+[2023-12-13T12:19:06]
+@Pulsarzz i'll check fleet-sharp. gz on developing it btw. used it yesterday to learn how to properly format stuff for additional registers
+
+[2023-12-13T12:21:28]
+thanks. can you check for this exact box and token please
+
+[2023-12-13T12:22:17]
+eaeb0285d389e627cb6a6f3e6e268c0dbfdac9398139bd2a20a74f8d1765a95c
+
+[2023-12-13T12:28:44]
+Think we got the answer
+
+[2023-12-13T12:29:38]
+Thank you, very helpful indeed
+
+[2023-12-13T12:29:56]
+This also proves its an old JS issue ( https://stackoverflow.com/questions/18755125/node-js-is-there-any-proper-way-to-parse-json-with-large-numbers-long-bigin )
+
+[2023-12-13T12:31:20]
+@Pulsarzz nodejs, yeah. i'll give it a shot. hopefully the explorer api reponse bytes can be properly formatted using that library.
+
+[2023-12-13T12:31:29]
+🤡
+
+[2023-12-13T12:57:25]
+f9e8d246058c53a94351a72c99247dbd9342b801706f1eb875d774df85771aed 9223372036854775806
+
+Ok, finally resolved!
+Needed to fetch data from GET request as bytes, then convert that to utf-8 string, then parsed with json-bigint.
+
+Big thanks to everyone who helped! Appreciated. 🙏
+
+[2023-12-20T07:52:59]
+Given that token name isn't all capital and doesn't start with P and ends with S. -Yes 🤭
+
+[2023-12-20T07:53:40]
+(we got enough of those) 😂
+
+[2023-12-26T07:53:37]
+not doing fun with ergosanta stuff tbh. seems stuck
+
+[2023-12-26T07:56:57]
+the thing is on subsequent calls to explorer api mempool, it sometimes shows some tx, sometimes not. can't be sure what's real whats not.
+
+[2023-12-26T08:17:41]
+Not an option right now
+
+[2023-12-26T08:18:11]
+But yeah, it would have prevented this issue. I'm now stuck with zombie transactions that can't confirm. 🤦‍♂️
+
+[2023-12-26T08:19:06]
+Any idea when are they gonna be kicked from mempool?
+
+[2023-12-28T03:48:16]
+Cool! Will try to test! Hopefully before Ergosanta 2024 🎅🤡
+
+[2024-01-30T08:00:53]
+https://ergexplorer.com/addressbook#offset=0&type=mining-pool
+
+[2024-01-30T08:01:03]
+not complete tho
+
+[2024-01-30T08:35:37]
+don't remember for sure, but some public ergo miners list website
+
+[2024-02-04T12:09:28]
+sidebar menu does not work for me on mobile 😞
+
+[2024-02-04T12:10:12]
+nvm, had to refresh. gj!
+
+[2024-02-07T08:24:39]
+Is it down rn? Not loading for me
+
+[2024-02-07T08:26:14]
+Damit. Unban me!
+
+[2024-02-07T08:26:42]
+Gotcha. HTTP loads.
+
+[2024-02-07T08:28:37]
+@mewtoshi very cool funtion wise. Need some sexy UI to go with it 😏
+
+[2024-02-07T08:28:56]
+/t 1 erg
+
+[2024-02-07T08:30:05]
+Might do. What's your favorite color?
+
+[2024-02-15T09:44:35]
+Any hints on this error? I'm using ergo-lib-wasm.
+[WalletError]: Transaction signing error: Prover error (tx input index 0): Failed on step2(prover does not have enough witnesses to perform the proof)
+
+[2024-02-15T09:46:48]
+Snippet:
+const mnemonic = "in format like this blah blah";
+    const mnemonic_pass = "aa1122aa3322aa";
+
+    const ctx = await utils.getErgoStateContext();
+
+    const wallet = ergo.Wallet.from_mnemonic(mnemonic, mnemonic_pass);
+
+    const inputBoxes = ergo.ErgoBoxes.from_boxes_json(inputs);
+    const inputDataBoxes = ergo.ErgoBoxes.from_boxes_json([]);
+
+    const signedTx = wallet.sign_transaction(ctx, unsignedTx, inputBoxes, inputDataBoxes);
+
+[2024-02-15T09:48:43]
+My thoughts are that i'm not restoring the wallet from mnemonic correctly. 🤷‍♂️
+
+[2024-02-20T04:27:16]
+Any known issue with the official explorer api and node?
+It's not showing mempool transactions. While Sigmaspace does.
+
+[2024-02-20T04:38:33]
+It's synced now. Was stuck for 10-15min i swear (not a cache issue on my side).
+Alright.
+Thanks for checking.
+
+[2024-02-20T05:05:44]
+Yeah, that makes sense to cause that issue.
+
+[2024-02-22T07:57:33]
+Hmm, I'm managing to burn tokens without using this function. Is that normal?
+Would be actually good if there was a check that wouldn't allow burns if not forced by using this.
+
+[2024-02-22T08:53:00]
+Yeah, wasm gives 0 fks if input > output. Learned the hard way 😂
+
+[2024-02-27T05:29:09]
+I pushed a small update to show additional registers box data in transaction view if they are int, long, or col[sbyte]. Might make it easier for devs to follow stuff.
+
+How do you handle R4 data in input box #2? Hex2Ascii spits out gibberish so i guess its some other format.
+
+[2024-02-27T05:37:45]
+Gotcha. Cool!
+
+[2024-02-27T05:40:24]
+Nothing, it's just raw json output from the official explorer api (eg https://api.ergoplatform.com/api/v1/transactions/7f838c5060185125cb554323401d87c0fc135a0c5fc545f9e315ffc38b97b06e?_=1709034003530 )
+
+[2024-03-15T07:19:04]
+Love how whole oracle thing is so vip, and only the few privileged ones reap the gains. Ye i'm jelly.
+
+[2024-03-15T07:19:58]
+But to answer. It's a reward token for running the dexygold (?) oracle.
+
+[2024-04-29T03:07:41]
+Had this node error earlier this morning:
+08:46:02.448 ERROR [ref-critical-dispatcher-5] o.e.n.h.ErgoHistory$$anon$1 - Nipopow proof generation failed
+java.util.NoSuchElementException: None.get
+        at scala.None$.get(Option.scala:529)
+        at scala.None$.get(Option.scala:527)
+        at org.ergoplatform.modifiers.history.popow.NipopowProverWithDbAlgs$.$anonfun$prove$1(NipopowProverWithDbAlgs.scala:83)
+        at scala.util.Try$.apply(Try.scala:213)
+        at org.ergoplatform.modifiers.history.popow.NipopowProverWithDbAlgs$.prove(NipopowProverWithDbAlgs.scala:26)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProof(PopowProcessor.scala:111)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProof$(PopowProcessor.scala:109)
+        at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.popowProof(ErgoHistory.scala:281)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProofBytes(PopowProcessor.scala:125)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProofBytes$(PopowProcessor.scala:124)
+        at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.popowProofBytes(ErgoHistory.scala:281)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProofBytes(PopowProcessor.scala:132)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.popowProofBytes$(PopowProcessor.scala:131)
+        at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.popowProofBytes(ErgoHistory.scala:281)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.HeadersProcessor.toInsert(HeadersProcessor.scala:184)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.HeadersProcessor.process(HeadersProcessor.scala:113)
+        at org.ergoplatform.nodeView.history.storage.modifierprocessors.HeadersProcessor.process$(HeadersProcessor.scala:112)
+        at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.process(ErgoHistory.scala:281)
+        at org.ergoplatform.nodeView.history.ErgoHistory.$anonfun$append$1(ErgoHistory.scala:78)
+        at scala.util.Success.flatMap(Try.scala:251)
+        at org.ergoplatform.nodeView.history.ErgoHistory.append(ErgoHistory.scala:75)
+        at org.ergoplatform.nodeView.history.ErgoHistory.append$(ErgoHistory.scala:73)
+        at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.append(ErgoHistory.scala:281)
+        at org.ergoplatform.nodeView.ErgoNodeViewHolder.pmodModify(ErgoNodeViewHolder.scala:473)
+        at org.ergoplatform.nodeView.ErgoNodeViewHolder$$anonfun$processRemoteModifiers$1.applyOrElse(ErgoNodeViewHolder.scala:340)
+        at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:175)
+        at akka.actor.Actor.aroundReceive(Actor.scala:537)
+        at akka.actor.Actor.aroundReceive$(Actor.scala:535)
+        at org.ergoplatform.nodeView.ErgoNodeViewHolder.aroundReceive(ErgoNodeViewHolder.scala:42)
+        at akka.actor.ActorCell.receiveMessage(ActorCell.scala:577)
+        at akka.actor.ActorCell.invoke(ActorCell.scala:547)
+        at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:270)
+        at akka.dispatch.Mailbox.run(Mailbox.scala:231)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+        at java.base/java.lang.Thread.run(Thread.java:833)
+10:05:34.904 ERROR [ref-indexer-dispatcher-85] o.e.n.h.extra.ExtraIndexer - Stopped extra indexer
+
+[2024-04-29T03:59:45]
+normal
+
+[2024-04-29T04:00:12]
+v5.0.21
+
+[2024-05-01T08:51:51]
+this would be very helpful. sometimes it takes quite a while for those orphan txs to clear
+
+[2024-05-28T07:49:22]
+https://github.com/ergoplatform/ergo-appkit i believe
+
+[2024-06-02T05:55:39]
+let address = fleetSDK.ErgoAddress.fromPublicKey('029...81', 0);
+  console.log(address.toString());
+
+[2024-06-02T05:56:52]
+address to pubkey:
+
+function addressToPubkey(address) {
+  let ergoAddress = fleetSDK.ErgoAddress.fromBase58(address);
+  
+  return fleetSDK.SSigmaProp(fleetSDK.SGroupElement(ergoAddress.getPublicKeys()[0])).toHex();
+}
+
+[2024-06-02T06:19:11]
+you welcome ser. i know ergo developer hard work i give support even if sunday
+
+[2024-06-08T03:41:28]
+didnt you hear the news? you can now type javascript inside sigmascript! /s
+
+[2024-07-10T09:33:03]
+big! deserves a bounty/raffle if it happens
+
+[2024-07-19T05:48:34]
+js core dev thoughts probably
+
+[2024-07-30T03:16:58]
+ye its really intuitive and actually makes things less of a hassle
+
+[2024-07-30T03:17:48]
+react is disgusting. cant see why the hype
+
+[2024-08-08T17:45:36]
+In Fleet-SDK, when change box is to contain more than 120 tokens, SKD will take that into consideration and split boxes at 120 token limit.
+BUT
+It does not account for max box size, so the change boxes sometimes exceed max box size of 4096 and error is thrown when signing.
+
+Any way to combat that issue?
+
+[2024-08-08T17:47:00]
+example here
+
+[2024-08-08T23:54:44]
+Thanks, nice and easy! 😍
+
+@MaverickBg this should resolve the issue you're often encountering! (last time on OINK presale)
+@HQ3rr try consolidating now via tools.ergexplorer.com/consolidate
+
+[2024-08-13T15:38:26]
+Claude
+
+[2024-08-15T02:05:02]
+But quite stable release version too. Saved me a few times when new chrome version had breaking bugs.
+
+[2024-08-30T07:46:03]
+try sigmaspace.io . official explorer likes to get stuck for no good reason
+
+[2024-08-30T07:47:37]
+when @Pgr456 opens up his nice api and doesn't decide to charge me for using it
+
+[2024-09-09T12:17:14]
+That would be fun ngl
+
+[2024-09-09T17:27:17]
+Mart:
+https://escript.online/?s=eJztV21P40YQ%2Fs6vmJ6qq91yJonuQEQClRCiQ0chDeGqCp3QkqyDW3s38q4pAfHfO7t%2B2107vFx1qlTVEpDszDPv86x52AB8trZgTz1wyJlMyUzCkIpZGi1lxFkh2toqVU9JQvtwlC74gKzgnMYxnKVzmpZyA9uvLYY8BYG6EVuA5H9SJvAPXGcrmgYl8jNNhUZ1g07QKU8PMnnD0z6cZDMCwx8O2ILGHLx4viBUEsZ%2FXqZccpaQKA5mPPE37JwG%2FE5HQZkUjVymOpIqM85o%2BXlCF5GQGFB18B5D4Bh9%2BYzTaEaPmW1i8qEP59EiIeOUL9WZqg9Nq6NKb9vRG9LbptKOKmAcXw5Wkn7BswMhqNQOj%2BdOmhMa01vCJExTwgRWHAvZzLcbtDTsmC0zKfpaogWbMFB9qRpKJKmUzBqdZbJGKhgm4WB15e8kfCZpRK5j6ljoBXBI2Iw%2BH1Hu4qtCei4WdweSZRRTmEYJVRCBM4aT433vNzehDe34AO%2BqCbzK%2B9MH1VjHwoWg6bshDSNG5zDK2JpOtviuRqB2bqFuSQxLc2jRf7Q4RkD%2B7MH50ckomLy%2FzI%2B%2FBAsqdTtCWJJVghsEEVObvwnyhjL8FYncIuAHhruIMiAJz5jcBI466V%2BRQKFUcr31wEMgxhQHVWTCXhRrPcrIPlxWhzq4ChxSepolxYLuQRSClyO2L9VRnsk%2B9DqdzokPTRGNMUwtrUyaUTprWMWzc1mf2wGlfEViuRpR6rCGgd6tA6hwc4MGHIZA3PiT92Y3PPwlGez0fpuNTgQ9vdv%2B9eD0hk4P0%2BEfn%2Bj17uh%2BPjqdzgeTI9kb3X%2BcJpn4%2FY1vFmpIGU%2BaUSn73U7HqoHkksStOShtr04SfipaYHkq5wx30B41xFqDGEheiH8s7FQnPmxVQVeHbU6cYX7aSZnYC91Y%2BwpuHbB%2FuHH5FHgd3%2BpnJCoOQzTnMSXMCLAwjHuK1Ixu0YRvYHNubEPb2F4LFldxnC%2Bt6xix1gqK6J4qKx1fLftRspQrY949X9%2FdNgEEOfWoPTMy9OFBWdAXgAIIRROQIJOlqrgFKA8Qf6J5hZze1UHuwUOpaFJ6dVSTRV9f7gg4u5iOL6bnWHxLa67nTqmAqdX1Nyy1KhSajkk0XxNJmW1dV98WAxDMJvRU6TzrHMDLAw7QVVYPnSq6NaLwzpxof3ONFXzhWXIRqe6rFimad%2BlT62ihbxnxfTPkx5z4Xp1G%2FgKnZv2qq5yb47Q2agPUq0uw%2F2%2BXoP7y2DIWSF2a%2F77BSOB0uvOAxbBps5m%2FQrUlb14c36j5r3TdGvrrJsdB9F5eKbfJ5acnm61fnUOTa512FwwSICFinR48rqlJcwy%2B5O27tSzkzaJ9V7wCuAI76PbRbG%2BQw2Gbriif48ZxmXF1XtetcinK3nouZxe6xSDlu2BcWcV1kEf1ovvAAP%2BTG%2BFFF8Iz98GEhhlbfxesWxOL6NWA6z7rb86Efh2Ttdso%2FqEu3eVfzd031%2BF%2Fmns%2B4P8izT1BHPmwv4IErEX14e1bd2QtZnhoWgkJCkr%2B2Nh4%2FBtNFCw8
+
+Escrow:
+https://escript.online/?s=eJztV21P40YQ%2Fs6vmJ6qq91yJonuoEQClRCioqOQhnBVhU5oSdbBrb0b2WtKQPz3zq7t9e7a4eWqU6WqloBkZp95n2fNwwbgs7UFe%2FKBQ85ESmYChjSbpdFSRJyVqq2t6ugpSWgfjtIFH5AVnNM4hrN0TtNKb2D7tcWQp5Dh2YgtQPA%2FKcvwD1znK5oGFfITTTOF6gadoFNJD3Jxw9M%2BnOQzAsPvDtiCxhy8eL4gVBDGf1qmXHCWkCgOZjzxN%2BycBvxORUGZyBq5TFUkOjPOaPV5QhdRJjAgLXiPIXCMvnrGaTSjx8w2MfnQh%2FNokZBxypdSJutDUy3S57adc0N62zy0IwsYx5eDlaCfUXaQZVQoh8dzJ80JjektYQKmKWEZVhwL2cy3G7Q07Jgtc5H1lUYpNmEg%2B6IbSgTRh8waneWiRkoYJuFgVeXvBHwiaUSuY%2BpY6AVwSNiMPh9R4eKLQnouFncHkmUUU5hGCZWQDGcMJ8f71m9uQhva8QHeVRN4VfSnD7KxjoWLjKbvhjSMGJ3DKGdrOtniW49A7dxC3ZIYlubQov9ocYyA4tmD86OTUTB5f1mIPwcLKlQ7QliSVYIbBBGTm78J4oYy%2FBVlhUXADwx3EXVAEp4zsQkcz6R%2FRRkqhdSrrQceAjGmONCRZfaiWOtRRfbhUgtVcBocUnqaJ%2BWC7kEUglcgti%2BlqMhkH3qdTufEh6aKxhim0mqTZpTOGup4di5ruR2QIrb2ZDT6x3XZpHxFYrEaUepQjgHeraPXuLnBIQ69IG780XuzGx7%2Bkgx2er%2FNRicZPb3b%2FvXg9IZOD9PhHx%2Fp9e7ofj46nc4HkyPRG93%2FPE3y7Pc3vlnlIWU8aUYl7Xc7HauAggsSt%2BYgT3t1kvBD2T%2FLUzWkuMD2nCLWmuJA8FL9fWlHS3zY0kFrYZsTZxOedlIl9kI31rKDWwfsH65rMUJex7f6GWWaABHNeUwJMwIsDeOSI6%2BjWzThG9iCWNvQNrbXgsU9Hhcb7zpGrLW%2FWXRPpZWOL5niKFmKlbEsnq8ufps9goK35JIaGfrwIC2o20MCMskxkCANprK4JagIEH%2BiuUZO7%2Bog9%2BChOmjeB1pUM01fvRkg4OxiOr6YnmPxrVNzNXfyCJinuv6GdUyHQtMxieZrIqmyrevq22oAgtmEniydZ8kBvCLgAF3l9dDJolsjCu%2FMifY311jBt6UlzyLZfdkieUe43KvOKKVvGfF9M%2BTHgjVfnUbx9idn%2FaornZvjtDZqA9SrS7D%2Fb5eg%2FvLYMhZIXYr%2FvsJI4HS684DFsGmzmb9EtSVvXhxfqfmvdN0a%2Busmx0H0Xl4pt8nVpyebrd67Q5NrnXaXDBIgIWKdHjyuqElxDL4h7ru1LPXNon1TvgK4Cjvo9tFsb5DDYZuuqpjjhrjKWMvrummXWdVbz%2BVsH96%2BdV6TClA5WsV2GJdYeUEUcb7ohjDA%2F%2BSOeNEV8cwNMaFhztbfDusWx6J%2BOfKq8%2BqbM7Nfxm3tNsr%2Fzyt3xVeTDcwF%2BZ%2F4ng%2F4v0h8T1BJMeyvoAVrURUxOCNrMcND00pIUFG6QSePfwPBw0Zq
+
+[2024-09-16T07:21:54]
+@kushti_ru api.ergoplatform.org error
+
+'Unknown error: ERROR: could not write to file "base/pgsql_tmp/pgsql_tmp3675996.0": No space left on device\n  Where: parallel worker'
+
+[2024-09-16T07:43:01]
+nope
+
+[2024-09-16T07:45:09]
+ye its fine now
+
+[2024-09-21T03:19:53]
+Yeah, I've been getting cloudflare access deny for some time. Switched to nft.storage for all main NFT previews.
+
+[2024-09-21T03:23:35]
+Ok, will change mirror links
+
+[2024-10-06T05:17:10]
+should be updated already
+
+[2024-10-06T17:19:57]
+its 
+https://nftstorage.link/ipfs/<CID>
+
+[2024-10-16T07:09:27]
++1
+
+[2024-10-19T11:32:58]
+SPair
+
+[2024-10-19T11:33:32]
+yes and no
+
+[2024-10-19T11:35:28]
+for some reason all AI helpers use some imaginary Fleet-SDK imports from my experience
+
+[2024-10-19T11:44:02]
+yes
+
+[2024-10-19T11:46:09]
+it helps for most stuff. but encoding ergo registers in different structures aint his best skill.
+tho its more beneficial for me to learn and understand how to do that on my own anyway
+
+[2024-10-20T10:37:58]
+What structure are you trying to put in R5?
+Try:
+      SPair(
+        SLong(BigInt(minimumSold)),
+        SLong(BigInt(0))
+      ).toHex()
+
+[2024-10-31T10:41:57]
+@Pgr456 fix graphql ser
+
+[2024-10-31T10:42:36]
+cloudflare getting worse and worse day by day
+
+[2024-10-31T10:42:40]
+dam
+
+[2024-10-31T10:42:58]
+ye understandable
+
+[2024-10-31T10:44:06]
+gotcha. thanks.
+whats use for cloudflare? load balancing?
+
+[2024-12-11T08:57:48]
+bridge is bridge and bridge breaks
+
+[2024-12-15T18:56:59]
+mby.what ip is connecting from?
+
+[2024-12-16T05:38:28]
+No resources and means to host own.
+
+[2024-12-16T23:55:00]
+Is this a valid way to check if some token is in any of inputs? @LuivatraEP 
+val validToken: Boolean = INPUTS.exists { (input: Box) =>
+    input.tokens.exists { (token: (Coll[Byte], Long)) =>
+        token._1 == tokenId
+    }
+}
+
+[2024-12-16T23:58:13]
+Gotcha. Thanks
+
+[2024-12-22T02:42:16]
+https://docs.ergoplatform.com/node/install/manual/#setting-up-your-node
+and
+https://docs.ergoplatform.com/node/install/node-faq/#java
+
+[2025-02-14T01:49:41]
+I'm trying to sync latest pruned node on macOS.
+Stuck in loop of
+Readers are not initialized yet : (None,None,None,None)
+Wat do?
+
+[2025-02-14T02:10:51]
+will try and report back
+
+[2025-02-14T03:56:36]
+synced! thanks
+
+[2025-02-14T04:03:17]
+lets see if it syncs with 2gb ram. 5.0 required 5gb+
+
+[2025-02-14T04:16:06]
+yes
+
+[2025-02-14T06:08:52]
+ez sync. about 300mb ram usage throughout. very nice
+
+[2025-02-14T10:17:02]
+hmm i'm trying to sync using 5.1.2 on my Ubuntu VPS on DigitalOcean and again stuck with Readers not initialized yet.
+any idea why?
+
+[2025-02-14T11:23:26]
+.ergo? nope
+
+[2025-02-16T05:27:06]
+so any solution there?
+
+[2025-02-17T04:28:30]
+10:25:44.814 ERROR [ctor.default-dispatcher-8] a.actor.OneForOneStrategy - assertion failed
+akka.actor.ActorInitializationException: akka://ergoref/user/$b: exception during creation
+  at akka.actor.ActorInitializationException$.apply(Actor.scala:196)
+  at akka.actor.ActorCell.create(ActorCell.scala:661)
+  at akka.actor.ActorCell.invokeAll$1(ActorCell.scala:513)
+  at akka.actor.ActorCell.systemInvoke(ActorCell.scala:535)
+  at akka.dispatch.Mailbox.processAllSystemMessages(Mailbox.scala:295)
+  at akka.dispatch.Mailbox.run(Mailbox.scala:230)
+  at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+  at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+  at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException: null
+  at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74)
+  at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+  at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+  at akka.util.Reflect$.instantiate(Reflect.scala:73)
+  at akka.actor.ArgsReflectConstructor.produce(IndirectActorProducer.scala:101)
+  at akka.actor.Props.newActor(Props.scala:226)
+  at akka.actor.ActorCell.newActor(ActorCell.scala:613)
+  at akka.actor.ActorCell.create(ActorCell.scala:640)
+  ... 7 common frames omitted
+Caused by: java.lang.AssertionError: assertion failed
+  at scala.Predef$.assert(Predef.scala:208)
+  at scala.Predef$Ensuring$.ensuring$extension2(Predef.scala:320)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$$anon$1.<init>(PersistentBatchAVLProver.scala:57)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.$anonfun$create$1(PersistentBatchAVLProver.scala:50)
+  at scala.util.Try$.apply(Try.scala:213)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.create(PersistentBatchAVLProver.scala:50)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.create(PersistentBatchAVLProver.scala:69)
+  at org.ergoplatform.nodeView.state.UtxoState$.create(UtxoState.scala:293)
+  at org.ergoplatform.nodeView.state.ErgoState$.readOrGenerate(ErgoState.scala:302)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder.restoreState(ErgoNodeViewHolder.scala:436)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder.<init>(ErgoNodeViewHolder.scala:70)
+  at org.ergoplatform.nodeView.UtxoNodeViewHolder.<init>(ErgoNodeViewHolder.scala:793)
+  at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+  ... 14 common frames omitted
+
+[2025-02-17T04:28:57]
+@kushti_ru this might help debug that 'readers not initialized' issue i'm having
+
+[2025-02-17T07:17:01]
+hmm managed to run it by copying .ergo from my mac. o well. runs at 620mb ram usage
+7  │ ergo-node            │ default     | 16m    │ 1    │ online    │ 0%       │ 618.7mb
+
+[2025-02-17T07:18:44]
+btw /info returns name: "ergo-mainnet-5.1.0", even tho its 5.1.2
+and scorex.restApi.nodeName param has no effect :(
+
+[2025-02-17T07:25:03]
+@dadreboi how did you manage to set ur node name?
+
+[2025-02-17T08:11:15]
+ah. i put it under wrong brackets. thanks
+
+[2025-03-13T01:14:28]
+rofl the fact you can carry a functional ergo node in your pocket is so cool actually
+
+[2025-03-13T01:15:29]
+would be cool if there was a 1 tap setup app for that
+
+[2025-03-13T01:15:48]
+@rustinmyeye how's the resource usage? phone warm/hot?
+
+[2025-03-13T06:10:26]
+dam. last i built native android was on ice cream sandwich 🙉
+
+[2025-03-16T23:45:47]
+who the hell is minting these broken 'Ergo Launch' tokens?
+brother, ask and we will teach you how to mint. for the love of god stop minting garbage with broken params JESUS
+
+[2025-05-18T06:28:42]
+const MIN_VALUE_PER_BYTE = 360;
+
+const smollestErgoBox = new OutputBuilder(SAFE_MIN_BOX_VALUE, receiverAddress)
+.setCreationHeight(height);
+
+const requiredValue = smollestErgoBox.estimateSize() * MIN_VALUE_PER_BYTE;
+smollestErgoBox.setValue(requiredValue);
+
+[2025-05-18T06:29:18]
+yep
+
+[2025-05-18T06:30:58]
+but not sure if there is minimum enforced value tho
+
+[2025-05-18T06:31:08]
+this works for when u need bigger coz of too big box
+
+[2025-06-01T05:46:02]
+use node
+
+[2025-06-01T05:55:37]
+bad practices die hard
+
+[2025-06-01T05:58:42]
+nope. use node. can also let user choose node. such decentralized!
+yeye dont reveal our socket secrets. very top secret, much enigma
+
+[2025-06-26T06:39:31]
+can i update from 5.1.2 to 6.1.0 with no full resync?
+
+[2025-06-26T07:38:24]
+will postone the update for now. stuck with 10mbps internet for a month fml
+
+[2025-06-26T08:01:56]
+oh okay
+
+[2025-06-26T08:48:54]
+quite fast too! 1/3 way there
+
+[2025-06-26T12:28:03]
+reindex from 5.1.2 to 6.1 easy success
+
+[2025-06-27T07:53:49]
+who told u to use STuple? xd
+
+[2025-07-01T09:07:52]
+this one?
+
+[2025-07-01T09:07:59]
+https://ergexplorer.com/token#bbd0aee4246f2048abebfd07544a806058d4000a5a2defee791719e11f872e97
+
+[2025-07-01T09:11:28]
+Most services on Ergo work with Lighthouse IPFS. I see your image was uploaded to Pinata, which is fine. ErgExplorer found it.
+If you use tools.mewfinance.com and attach the image when minting your token, it will upload it to Lighthouse for you and it will show much faster.
+
+[2025-07-10T12:42:00]
+@HQ3rr soon 1 sign token mint and list possible
+
+[2025-07-10T13:05:28]
+idk. ask @anon_br
+
+[2025-08-22T06:27:39]
+do we have node documentation for subblocks?
+
+[2025-08-22T06:30:46]
+yes
+
+[2025-08-22T06:31:30]
+would like to prepare ergexplorer for whatever subblocks bring
+
+[2025-09-19T23:30:54]
+https://api.ergoplatform.com/api/v1/blocks?limit=1&offset=1434699&sortBy=height&sortDirection=asc
+
+[2025-11-03T10:17:13]
+ye seems like something else is janked up with api. app.ergodex.io not loading either
+
+[2025-11-03T10:18:20]
+makes sense
+
+[2025-11-03T10:19:16]
+those are long gone. not an issue right now i think
+
+[2025-11-03T10:21:22]
+@dadreboi api/v1/boxes/unspent/byErgoTree/19c00628040004000402
+
+[2025-11-03T10:21:33]
+{"error":"Upstream timeout or unavailable"}
+
+[2025-11-03T10:22:03]
+https://api.ergoplatform.com/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e?limit=500&offset=0
+
+[2025-11-03T10:22:25]
+i think those are the key ones
+
+[2025-11-03T10:23:37]
+problem is there are like 30 repos that need update. +ergodex and whatever other services obviously
+
+[2025-11-03T10:24:13]
+should fix the issue at core point imo
+
+[2025-11-03T10:24:40]
+this one is the only one that totally fails.
+others load on refresh. not ideal but..
+
+[2025-11-03T10:25:55]
+would help if someone coded that explorer api correctly 😁
+this seems like waiting game till it cant keep up
+
+[2025-11-03T10:28:14]
+ye this is not redirect issue
+
+[2025-11-03T10:29:14]
+hmm. missing db index?
+
+[2025-11-03T10:29:29]
+just a guess. i remember those can totally kill a query call
+
+[2025-11-03T10:34:00]
+ye those calls always take time. like 15sec.
+
+[2025-11-03T10:34:47]
+either that or its raw computing power issue. as those calls ARE heavy
+
+[2025-11-03T10:35:34]
+https://api.sigmaspace.io/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e
+
+@Pgr456 does it quite efficiently
+
+[2025-11-03T10:39:06]
+i switched mew dex to sigmaspace for now
+
+[2025-11-21T06:28:58]
+that's a proper way to teach proper sql ngl
+
+[2025-11-21T08:42:05]
+did you try running explain analyze in sql to see if its using the indexes and where the bottleneck is?
+
+[2025-11-21T08:47:38]
+eg. index scan = good, seq scan = bad
+
+[2025-11-21T12:05:29]
+last one times out sometimes
+2nd one is wild, 35mb transfered
+1 and 3 work
+
+[2025-11-21T21:41:32]
+it does
+
+[2025-12-21T03:12:27]
+this so good
+
+[2025-12-22T23:29:50]
+how explora height > node height hmm?
+
+[2026-01-11T07:20:59]
+check ur nautilus wallets are there and not wiped by chrome update
+
+[2026-01-11T07:31:55]
+managed to resolve timeout issues?
+
+[2026-01-16T11:59:10]
+fixed that api timeout?
+
+[2026-01-16T12:03:43]
+i'll take that as no. ser pls fix it is very important api call
+
+[2026-01-16T12:04:24]
+just p2p
+
+[2026-01-16T12:05:04]
+i did and told u it times out there as well
+
+[2026-01-25T09:26:28]
+spectrum themselves i think
+PGR is hosting his own instance of DEX api at https://dex-api.sigmaspace.io/v1/price-tracking/markets
+
+[2026-01-27T03:36:25]
+@dadreboi ser ur p2p node index broken. pls repair
+
+https://node-p2p.ergoplatform.com/blockchain/box/byId/1f1eeb369842489fd4590a3a38c12a0610b792bb65673cd0939107cd7d9ac21a
+
+https://node.sigmaspace.io/blockchain/box/byId/1f1eeb369842489fd4590a3a38c12a0610b792bb65673cd0939107cd7d9ac21a
+
+[2026-01-28T08:55:46]
+yes. this is due to indexer having old boxes
+

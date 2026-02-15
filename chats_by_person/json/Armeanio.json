@@ -1,0 +1,154 @@
+{
+  "sender": "Armeanio",
+  "total_messages": 37,
+  "messages": [
+    {
+      "date": "2022-01-23T13:04:12",
+      "text": "This is the invite link for the private Nautilus Drydock program group:\n\n https://t.me/+vae2xeSehFE2OWVh\n\nSo far seems stable, please join and provide feedback"
+    },
+    {
+      "date": "2022-03-04T09:22:54",
+      "text": "Feel free to hop on our discord and see if you can tackle some open bounties."
+    },
+    {
+      "date": "2022-03-05T14:35:39",
+      "text": "https://github.com/mhssamadani/Autolykos2_AMD_Miner"
+    },
+    {
+      "date": "2022-03-29T00:09:20",
+      "text": "The guard set themselves are going to be known actors who have both ecosystem reputation and the potential to inherit loss from poor governance.\n\nA big part of the game theory of Rosen is the staking and slashing incentives. So the video really is incomplete. I just wanted to go over the action flow here, try to get some basic concepts out there.\n\nAs the incentives and costs of participation are released we will cover how it is modeled to incentivize \"good\" behavior."
+    },
+    {
+      "date": "2022-07-31T13:32:29",
+      "text": "Flux is trying to get ergo infrastructure on board. Anyone interested can dm me."
+    },
+    {
+      "date": "2022-07-31T13:38:12",
+      "text": "lol dm"
+    },
+    {
+      "date": "2022-07-31T13:42:13",
+      "text": "Hard to say I wouldn't make it your only host as I have no idea what the performance or risks are. \n\nBut anyway if it is of interest let me know. I think they support hosting dockers atm I believe."
+    },
+    {
+      "date": "2022-09-27T16:35:30",
+      "text": "Hard Forks require a lot of infrastructure upgrades. \n\nUsually this is a clean preplanned process... For us it looks like it will be done on the fly. \n\nIt takes a community, please help contact and track things. We will be updating this as we go.  \n\nhttps://docs.google.com/spreadsheets/d/1bsq36vUh3j_I4Uy4s1oSFMWKWxB3gW3YvcsFFFXIvM8/edit#gid=0"
+    },
+    {
+      "date": "2022-11-13T21:18:41",
+      "text": "Was that wrong 😂"
+    },
+    {
+      "date": "2022-11-13T21:18:56",
+      "text": "I've always had that in my head. 🤔"
+    },
+    {
+      "date": "2022-11-13T23:43:19",
+      "text": "whoops"
+    },
+    {
+      "date": "2022-11-13T23:44:04",
+      "text": "Still working on ErgoDex Spectrum and Ergolend Exle too sadly"
+    },
+    {
+      "date": "2022-11-14T11:47:49",
+      "text": "If I need it I need it. How else will I learn."
+    },
+    {
+      "date": "2023-08-05T01:45:36",
+      "text": "The worst comparison in crypto is always something seen/knowable vs something unseen with sexy marketing. \n\nI have no idea what is actually happening with this proprietary algo it's sad that doesn't phase people because they get lost in the buzzwords and hype."
+    },
+    {
+      "date": "2023-08-05T12:19:18",
+      "text": "I'm happy a miner engaging that's a good start imo."
+    },
+    {
+      "date": "2023-08-05T12:21:38",
+      "text": "Marketplace of competing ideas, exploring tradeoffs etc can be messy but it moves things forward."
+    },
+    {
+      "date": "2023-08-05T12:22:57",
+      "text": "Worste case disagreements and many have the opportunity to think and learn something new at least."
+    },
+    {
+      "date": "2023-08-27T16:29:09",
+      "text": "Wen 🔫"
+    },
+    {
+      "date": "2023-09-05T00:24:52",
+      "text": "Could adjust the table growth %. Lower would give more runway for 4gb cards. Higher could be potentially interesting too I guess."
+    },
+    {
+      "date": "2023-09-05T12:11:16",
+      "text": "Can reply in the mining channel there if you want"
+    },
+    {
+      "date": "2023-09-05T12:14:44",
+      "text": "Current fpga is 3.1 mh/s"
+    },
+    {
+      "date": "2023-09-05T12:15:09",
+      "text": "I think Intel is the most efficient atm at 2.?mh/s but could be wrong"
+    },
+    {
+      "date": "2023-09-05T12:17:07",
+      "text": "Within the price difference Intel vs something like a c1100 or e300"
+    },
+    {
+      "date": "2023-09-05T12:17:41",
+      "text": "Not so dangerous also within the kw/h cost range we see."
+    },
+    {
+      "date": "2023-09-18T10:42:56",
+      "text": "Flash loans in a mark to market asset class is pretty retarded tbh. Especially when it's the base for other financial products."
+    },
+    {
+      "date": "2023-09-18T10:50:43",
+      "text": "Would be a good hash it out discussion."
+    },
+    {
+      "date": "2023-12-14T09:25:41",
+      "text": "Oof"
+    },
+    {
+      "date": "2024-02-22T19:28:47",
+      "text": "/t 25 erg"
+    },
+    {
+      "date": "2024-02-25T18:56:47",
+      "text": "Roll back the chain."
+    },
+    {
+      "date": "2024-10-27T17:59:44",
+      "text": "Hi Rosen community!\n\nRoseNet - the new implementation of Rosen guards' p2p communication layer is in its final stages of testing. In simple words, it solves the problems of current p2p layer: it aims to 1. be more fault tolerant, improving bridging pace a bit and preventing stuck events, and 2. capable of being scaled to a larger guard set, securing the protocol even more.\n\nAs part of these final test phases, we need a global decentralized network of RoseNet nodes that communicate with each other. It's not simple to achieve this level of decentralization without spending a lot of resources; so, to get as close as possible to this scenario, we are asking the community members to participate in this test from anywhere around the world. The more participations, the more decentralized the network will be, and results will be far more real.\n\nTo participate, you need a computer with a preferably stable internet connection, capable of sending and receiving a considerable amount of messages (probably tens of GBs of data during the test duration). It also need to have a modern hardware config - a system with at least 8GB of RAM and 8 cores of CPU is preferred in order to handle the huge amound of data. The instructions to run a node will be provided later (a non-permanent link of the draft version of instructions is available in RoseNet GitHub repo, but in short, it will be far easier than setting up a Watcher, which is already simple :).)\n\nThe test will take around a day, and we appreciate if you don't bring your node down meanwhile (otherwise some wrong data may be collected as part of test results, which is to be avoided)."
+    },
+    {
+      "date": "2024-12-04T09:50:29",
+      "text": "https://snapshot.org/#/hbot-ncp.eth/proposal/0xfadaff16d98d15f7ac87861ab6bd6eb7d3c2c6533cbc3b242992563aa1569c48"
+    },
+    {
+      "date": "2025-02-17T08:16:00",
+      "text": "Not mine"
+    },
+    {
+      "date": "2025-10-20T19:34:48",
+      "text": "I think it’s a great idea"
+    },
+    {
+      "date": "2025-10-29T08:51:14",
+      "text": "Transfer 3333.333 Foxtrot from Ergo to Bitcoin Runes  \n\n## Event Details\nEvent ID:  \nfc40b3533066057891dc2de11f535821b5038e90187747cf8bc62b6fb83cd843\n\n## Lock Transaction\nhttps://explorer.ergoplatform.com/transactions/19a344d3fcc5c169b3c3eb65ce899f6f8e55cf36253d222f3f54ab0bb6ea9db4\n\n----\n\n## Watcher Commitments\n\n[Commitment 1](https://explorer.ergoplatform.com/en/transactions/6079ed846f3bb58c152cc869a87db627348ac7da7396ce2305ca98baf52f91e8)\n[Commitment 2](https://explorer.ergoplatform.com/en/transactions/a25c72264e56698f82d3d175435098b6b84b76bb51e3a0fe7013ce2b13be87af)\n[Commitment 3](https://explorer.ergoplatform.com/en/transactions/96dad68bad6b60e831d8851ee6e635a1ab23e02dac1a9be7869708de91aea18d)\n[Commitment 4](https://explorer.ergoplatform.com/en/transactions/dd112a353b9dc96c66183c0e3a92d7acb28abe9778193468a647826ca8e97d3f)\n[Commitment 5](https://explorer.ergoplatform.com/en/transactions/0f34b2614f1abe8f522603a3fd32a1f581f6d82760c12fe2e3a24c6da9d4a3ba)\n[Commitment 6](https://explorer.ergoplatform.com/en/transactions/3abc3c7818048ea8a571d7398d7ea8de33d52a79f6896726d3a502115c22148c)\n\n## Trigger Transaction\nhttps://explorer.ergoplatform.com/en/transactions/ce4ab6ae474d98fcced3078382a5b3ac3889d9297c3e0359cca0479cf5cc7dd2\n\n----\n\n## Payment Transaction\nhttps://web3.okx.com/explorer/bitcoin/tx/8154b8801305ffe956dd4dd26bdf78284841a704c6aac04cbe9296a86f247a80\n\n## Reward Transaction\nhttps://explorer.ergoplatform.com/transactions/365707a79b2bf5d1a7ef72b580d503748649817940449b1747cfe34dd025ce74"
+    },
+    {
+      "date": "2025-11-17T09:52:44",
+      "text": "https://github.com/Lithos-Protocol/Lithos-Client/releases/tag/v1.0-test"
+    },
+    {
+      "date": "2025-11-18T12:50:09",
+      "text": "Nice to see pull requests coming from the communtiy."
+    },
+    {
+      "date": "2025-11-18T13:01:47",
+      "text": "maybe consider adding a channel for dev bounties"
+    }
+  ]
+}

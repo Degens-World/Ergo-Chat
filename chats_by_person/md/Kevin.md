@@ -1,0 +1,48 @@
+# Kevin
+
+**Total messages:** 7
+
+---
+
+**2022-01-08T23:27:24**
+
+We dont have. Ergo is its own blockchain
+
+---
+
+**2022-01-16T02:16:27**
+
+Looks like they have the same goal as us right? I mean I see lots of similarities in terms of mindset https://cointelegraph.com/news/watch-out-solidity-new-project-aims-to-tackle-downsides-of-coding-defi-projects
+
+---
+
+**2022-01-16T02:27:35**
+
+they are L1 that, like us, built a new coding language just to improve efficiency and security
+
+---
+
+**2022-01-16T04:56:17**
+
+Yes they are PoS and they develop their own coding language called Scrypto. Using shrading concensus
+
+---
+
+**2022-01-16T19:34:56**
+
+Hi I have a Vietnamese translation for Paper Wallet, to whom I should send it?
+
+---
+
+**2022-01-26T07:03:59**
+
+here
+
+---
+
+**2022-01-26T07:05:07**
+
+he gave you a thumb up sir 😂
+
+---
+

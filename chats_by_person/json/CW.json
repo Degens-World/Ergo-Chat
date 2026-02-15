@@ -1,0 +1,62 @@
+{
+  "sender": "CW",
+  "total_messages": 14,
+  "messages": [
+    {
+      "date": "2022-12-15T21:12:18",
+      "text": "We are pleased to announce more community chats, with Ergo Improvement Proposals and the road to 6.0 alternating weekly on Fridays. \n\nKicking things off, we have the EIP chat on Discord today!\n\n📆 Fri, Dec 16\n🕐 2 PM UTC \n📍 http://discord.gg/kj7s7nb - #EIPs channel"
+    },
+    {
+      "date": "2023-01-12T15:41:51",
+      "text": "Ergo Improvement Proposals are an essential part of the ecosystem. \n\nDevelopers and community members, please join the community chat to help drive standards and improvements to the platform.\n\n📆 Fri, Jan 13\n🕐 2 PM UTC \n📍 Developers channels"
+    },
+    {
+      "date": "2023-01-19T17:55:00",
+      "text": "Developers and community members, please join our fortnightly community discussion as we pave the road to node version 6.0!\n\n📆 Fri, Jan 20\n🕐 2 PM UTC \n📍 #development channel"
+    },
+    {
+      "date": "2023-07-29T22:46:38",
+      "text": "when someone gets a spare sec, could you update the node panel/dashboard to include some stats such as\nuxto snapshots enabled, size\nnipopows enabled, size\nstate size\n❤️"
+    },
+    {
+      "date": "2023-11-18T00:29:29",
+      "text": "https://docs.ergoplatform.com/mining/governance/"
+    },
+    {
+      "date": "2023-12-07T13:42:53",
+      "text": "if someone has time could they add a field to the node panel indicating indexing status please"
+    },
+    {
+      "date": "2024-02-24T20:35:28",
+      "text": "someone messed up when programming qx bot"
+    },
+    {
+      "date": "2024-03-21T15:09:44",
+      "text": "https://twitter.com/c8e4d2/status/1770862730620051603"
+    },
+    {
+      "date": "2024-03-28T16:07:38",
+      "text": "https://twitter.com/Ross_Weir/status/1773439357061656793"
+    },
+    {
+      "date": "2024-05-03T04:42:27",
+      "text": "https://twitter.com/NeuralYogi/status/1786092452241093107"
+    },
+    {
+      "date": "2024-07-29T17:42:45",
+      "text": "A number of User Interface bounties are up for grabs!\n\nOur bounty program will encourage community involvement that will assist in pushing Rosen forward! \n\nCheck it out!\nℹ️ https://github.com/rosen-bridge/ui/issues"
+    },
+    {
+      "date": "2024-08-13T15:51:57",
+      "text": "I cannot access http://sigmao.cc/\nWas there any announcement of ending the project?"
+    },
+    {
+      "date": "2024-08-13T15:51:58",
+      "text": "Yes, the server hosting the site and the offchain bot is down. The suscription ended. Yes, the project is stopped. That would require a huge effort to change the POC into a real option or finance platform. And also probably several knowledges I don't have."
+    },
+    {
+      "date": "2024-08-13T15:52:16",
+      "text": "Maybe someone wants to pick this up?"
+    }
+  ]
+}

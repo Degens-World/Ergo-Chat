@@ -1,0 +1,270 @@
+{
+  "sender": "Paul",
+  "total_messages": 66,
+  "messages": [
+    {
+      "date": "2023-09-28T09:48:00",
+      "text": "hey what up guys, brushing up, continuing learning and would like to maybe even actually contribute to development on ergo.\nim about to have bit more free time so hoping to maybe get more proactively involved here. \nAm Probably a advanced beginning, know core concepts of Compsci, some varied programming experience between several laugauges.\nMaybe just testing the waters or seeking some pointers/advice/direction here.\nNot really developing professionally before too."
+    },
+    {
+      "date": "2023-09-28T09:58:55",
+      "text": "yer that sounds like a awesome idea, i wanted to last year but well didn't/couldn't. have to keep a eye out on somones at a simular level or somone more experienced that i might be able to contribute or collabe with."
+    },
+    {
+      "date": "2023-09-28T10:14:48",
+      "text": "thanks, kinda reasurring, defiantly feel a lack of confidence in this domain as ive not been involved in anything big/patchy knowledge etc. ofc want and generally should grow my areas of expertise. \nive mostly worked in Python, spent  decent amount of time with c++, scatch( joking ofc lol), reasonable time on javascript( years ago and would be extremely rusty on it), an minimal time on miscellaneous langauges like Java, R, C, C#, Ruby.\nmostly working in OOT and functional paradigms.\nstill trying to find my niche or where to dedicate the best of my time too tbh, but do like/want to be somone who retains a somewhat diverse or somewhat broad skillset?"
+    },
+    {
+      "date": "2023-09-28T10:15:58",
+      "text": "thanks i will jump on there when on discord next"
+    },
+    {
+      "date": "2023-09-28T10:27:03",
+      "text": "anyone know if discord for andriod depends on google services?"
+    },
+    {
+      "date": "2023-10-10T11:43:03",
+      "text": "Hello fellow devs 🥸, i have a... question....\nnot sure if i am misunderstanding/interpreting somethings wrong here but\nwhen querying the api on the ergoplatform i get, well the result of that query but on the bottom there is a value for \"total\", i am wondering if this is the total elements contained within the items on a response on the json or if what i am viewing is a portion of the response, and total is the amount of items but my response is just a portion of that, or if im just tripping, because it seems to me i am only seeing a portion on certain requests."
+    },
+    {
+      "date": "2023-10-10T11:46:16",
+      "text": "nice exactly what i was expecting, is there way to continue or segment a larger request over time into smaller requests, rather then getting a incomplete large request?"
+    },
+    {
+      "date": "2023-10-27T09:16:55",
+      "text": "yer it seems to keep changing through state in time on my end"
+    },
+    {
+      "date": "2023-10-27T09:17:48",
+      "text": "it randomly switches back to a past point in time"
+    },
+    {
+      "date": "2024-02-06T09:33:13",
+      "text": "huh"
+    },
+    {
+      "date": "2024-02-06T09:42:35",
+      "text": "i think we mostly have the basics with some extra in the ecosystem, speed would bring in more people, but we need more polished interface apps for our dapps? a lot of things look or feel either simple or rough"
+    },
+    {
+      "date": "2024-02-06T09:44:39",
+      "text": "but that's a hard thing to address as most our apps/dapps are founded/run by different people/entitys in the community"
+    },
+    {
+      "date": "2024-02-06T09:48:42",
+      "text": "i think teams are dedicated, but they're small and start low budget"
+    },
+    {
+      "date": "2024-02-06T09:50:13",
+      "text": "and i guess one of the downsides or hard barriers to cross with the decentralized nature of the ecosystem, and well no budget lol"
+    },
+    {
+      "date": "2024-02-06T11:29:39",
+      "text": "get well soon kushti mate"
+    },
+    {
+      "date": "2024-02-11T04:35:30",
+      "text": "sorry kinda out the loop on java but thought ild set up a enviroment for playing around with appkit...."
+    },
+    {
+      "date": "2024-02-11T04:35:52",
+      "text": "what JRE should i be using? or can i get away with using"
+    },
+    {
+      "date": "2024-02-11T05:01:28",
+      "text": "well i used jdk11 for ergpy"
+    },
+    {
+      "date": "2024-02-11T05:02:12",
+      "text": "but maybe i should use jdk17.... or 21? lol"
+    },
+    {
+      "date": "2024-02-11T09:29:22",
+      "text": "any pros cons to using either jdk 21 or 17 with appkit?"
+    },
+    {
+      "date": "2024-02-11T10:57:43",
+      "text": "thanks for the reply, it still said 7-8 on the ergo.doc wasn't sure if itl be a issue or formating might need rearranging or something"
+    },
+    {
+      "date": "2024-02-11T10:58:38",
+      "text": "not used java since collage so little clueless on it"
+    },
+    {
+      "date": "2024-02-11T11:00:08",
+      "text": "but i set up a environment earlier for playing/testing with"
+    },
+    {
+      "date": "2024-02-11T11:01:23",
+      "text": "using graalvm jdk 17"
+    },
+    {
+      "date": "2024-02-11T19:36:15",
+      "text": "thanks man, was proper confused with versions and requirements etc but thats cleared up that for me"
+    },
+    {
+      "date": "2024-02-11T19:38:15",
+      "text": "i likely don't require it then tbh, im not even sure how to use its features or fully get all its use cases"
+    },
+    {
+      "date": "2024-02-11T19:56:10",
+      "text": "many other starter examples of using appkit beyond freezecoin? i think i found some a few weeks ago but couldn't find much yesterday"
+    },
+    {
+      "date": "2024-04-03T09:24:50",
+      "text": "wouldn't it be very possible to create a interface/or w.e for spectrum which builds a chained txs to get the best possible price, eliminating the arb opportunity that arises from a single buy with several or more pairs"
+    },
+    {
+      "date": "2024-04-03T09:29:23",
+      "text": "yer ofc, so more likely to fail, especially during some periods,  but also gives the opportunity to get the best price , and not give away erg to the arb bots"
+    },
+    {
+      "date": "2024-04-03T09:31:13",
+      "text": "could expect to pay a much higher mining fee by default? might be good for network too there for the near future"
+    },
+    {
+      "date": "2024-04-25T09:46:58",
+      "text": "if you want to create dapps with onchain logic yes"
+    },
+    {
+      "date": "2024-04-25T09:48:39",
+      "text": "if you want to create apps/tooling that reference chain or just do simple txs you wont require a contract"
+    },
+    {
+      "date": "2024-05-22T09:06:57",
+      "text": "thing is external categorizing hasn't actually been necessary or the best solution for hiding standard NSFW/eplicit content, from what we seen yet atleast.. but it could be good if these features where available in wallets in the near future imo, could help with generally identifying, categorising or flagging tokens etc...\n\nseems that nautilus, and skyhabour, that im aware of atleast, haven't fully implemented eip0024, in r8 theres a flag for \"explicit\", even the recent meat token adhered to this standard lol, but no NSFW filtering was implemented in the app, so if you got that and checked your nfts on nautilus atleast, there was a picture of a cock there and nothing could be done to hide it until you send it elsewhere lol."
+    },
+    {
+      "date": "2024-05-24T14:13:19",
+      "text": "if you want, its useful if you interact with the node programatically"
+    },
+    {
+      "date": "2024-05-24T14:15:11",
+      "text": "i generally prefer to either mine to a cold wallet, or to a wallet im using on Nautilus if intending to swap"
+    },
+    {
+      "date": "2024-05-28T07:31:17",
+      "text": "where does ergo.jar in ergpy come from, something mgpai compiled himself for ergpy?"
+    },
+    {
+      "date": "2024-05-28T07:50:39",
+      "text": "ahh ofc, thanks"
+    },
+    {
+      "date": "2024-06-08T07:00:40",
+      "text": "glasgow has a example somewhere for using the dapp connector , and connecting to nautilus for the signing of txs with fleetsdk, but it is outdated"
+    },
+    {
+      "date": "2024-06-08T07:07:51",
+      "text": "too right, i did abit of JS awhile back in college have a reasonable idea of making and running apps on node, but am way out of date on it atm and with all the frameworks being used lol, ive got little use at of fleet atm because, im not JS focused dev atm and because i have to go through all the source and then try interprete it just to find out what ii can even do with it."
+    },
+    {
+      "date": "2024-06-08T07:13:15",
+      "text": "my current take is basically, these librarys can be useful to experienced devs, but the lack of any even far from well defined documentation probably makes it time consuming and a hassle to pick up for working with.\nthen yeah for beginners and amatures its pure bruteforce, and as of current not the best area to try 'play with'"
+    },
+    {
+      "date": "2024-06-08T07:14:40",
+      "text": "tbh would happily write documentation for some ergs, but im not a expert or experienced enough probably, with regard to fleetsdk, and javascript in general"
+    },
+    {
+      "date": "2024-06-08T07:17:44",
+      "text": "and also i think onboarding a new generation of amature devs/people wanting to learn is a powerful thing, if you spent a lot of time learning javascript or rust or w.e by building tools for ergo, a very programmable eutxo pow blockchain, thats really going to stick well into the future xD"
+    },
+    {
+      "date": "2024-06-08T07:22:52",
+      "text": "@FlyingPig_69 maybe could start a series like, \"becoming a ergo dev for dummies\" :)\npower to the people!"
+    },
+    {
+      "date": "2024-06-08T07:24:23",
+      "text": "exactly, the idea is almost anyone can do this stuff, with some time, patience and good starting foundation/ resources"
+    },
+    {
+      "date": "2024-08-09T17:24:38",
+      "text": "i think if you remove the loggin option in ergpy it should ignore it but the outputs coming from the jvm"
+    },
+    {
+      "date": "2024-08-09T17:42:11",
+      "text": "yeah logging, in the ergpy package, in site-packages, theres a file i think its logging.py or something, thats for the logging config i think"
+    },
+    {
+      "date": "2024-08-26T06:48:39",
+      "text": "how do you use single quotes in the swagger UI for the node, to set derive path , for w.e reason it seems that  \"m/44'/429'/0'/0\" changes into  \"m/44'\\''/429'\\''/0'\\''/0\""
+    },
+    {
+      "date": "2024-08-26T18:08:47",
+      "text": "escape charactors im aware of didn't work, for some reason when using a single quote ' changes into '\\\" lol, tried looking for the encoding for a single quote but gave up after abit lol"
+    },
+    {
+      "date": "2024-08-26T18:14:37",
+      "text": "made within the swaggerUI not as a json request directly to the API, i was just trying to dirive the same keys from a wallet already in use for testing something, and conviences of not having erg stuck on a non standard derive path that i might forget"
+    },
+    {
+      "date": "2024-08-26T18:40:59",
+      "text": "well i get the exact same keys derived as \"m/44'/429'/0'/0\" but i don't think it following the path as intended....\nfor reproducibility/testing/convivence, i have the node wallet in nautilus right now, this is the default path nautilus uses, and i can't get it produce the samekeys lol"
+    },
+    {
+      "date": "2024-08-26T18:44:20",
+      "text": "curl -X 'POST' \\\n  'http://donkeyballsmetropolis.xyz:69420/wallet/deriveKey' \\\n  -H 'accept: application/json' \\\n  -H 'api_key: SUPERSECRETPASSWORD123' \\\n  -H 'Content-Type: application/json' \\\n  -d '{\n  \"derivationPath\": \"m\\/44'\\''\\/429'\\''\\/0'\\''\\/0\"\nthat whats shows up under responses"
+    },
+    {
+      "date": "2024-08-26T19:13:38",
+      "text": "damn it lol, tbh suprised that hasn't been raised much, it just a concern of reproducibility to me, like being able to recover fund outside the node lol or follow the path you actually intend it to follow"
+    },
+    {
+      "date": "2024-08-26T19:18:47",
+      "text": "yeah its being parsed wrong i think, well json doesn't handle single quote in a string i think"
+    },
+    {
+      "date": "2024-09-25T08:49:53",
+      "text": "so make or utilize current lightning network ?"
+    },
+    {
+      "date": "2024-10-03T13:09:35",
+      "text": "mewmart>skyhabor>ergoauctions"
+    },
+    {
+      "date": "2024-10-06T05:03:01",
+      "text": "default on nautilus had to be changed to sigmaspace one because its buggy/outdated/not handling things properly"
+    },
+    {
+      "date": "2024-10-06T05:29:37",
+      "text": "ow i had to update it manually, im guessing thats the case for those who already had nautilus installed before the change"
+    },
+    {
+      "date": "2024-10-06T05:30:40",
+      "text": "only realised it was needed from doing the rosen community tests"
+    },
+    {
+      "date": "2024-10-06T08:06:36",
+      "text": "yes... decentralization"
+    },
+    {
+      "date": "2024-10-06T08:07:15",
+      "text": "need a list of options and for it to be able to auto switch to best options?"
+    },
+    {
+      "date": "2024-10-08T19:23:17",
+      "text": "guys any fixes for nautilus, and with that an update on the firefox store version of nautilus?"
+    },
+    {
+      "date": "2024-10-17T19:37:06",
+      "text": "no reward for sublocks right unless hardfork or contracts made for it?"
+    },
+    {
+      "date": "2024-10-31T19:32:46",
+      "text": "yeah having to use corn university one atm"
+    },
+    {
+      "date": "2025-01-02T11:23:32",
+      "text": "should be configurable? input password isn't/shouldn't be the only way to authenticate anyway"
+    },
+    {
+      "date": "2025-01-02T11:59:26",
+      "text": "will consider forking nautilus to add a few features i want in it"
+    },
+    {
+      "date": "2025-05-27T10:51:52",
+      "text": "something nice about starting with a good template to work off"
+    }
+  ]
+}

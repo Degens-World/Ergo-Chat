@@ -1,0 +1,79 @@
+# MavΣrickBg (bober)
+
+**Total messages:** 9
+
+---
+
+**2023-08-14T18:03:08**
+
+Hello. Is this the right place to ask for someone to verify if a script is secure? If not I will leave.
+
+---
+
+**2023-08-14T18:16:32**
+
+it is about this: https://github.com/jellymlg/ergo-vanitygen/releases/tag/v1.0
+
+---
+
+**2023-08-14T18:17:09**
+
+so i guess dev support
+
+---
+
+**2023-08-15T03:10:23**
+
+Thank you kushti. I asked in the dev support and had a really good progress. From not knowing anything about programming I managed to recompile something from GitHub on my own haha.
+I have some further questions if you are familiar with the ergo-vanitygen script. It searches for specific words in the beginning or end of addresses. I'm trying to understand more of how it works and if it is secure.
+
+---
+
+**2024-04-03T10:07:12**
+
+$Bober Update:
+
+- Completed a successful launch event with more than 100 legit participants. 
+- Filtered 250 entries to block 140 bots/hunters from dumping and stealing our Ergs.
+- secured token ID starting with b0b312 and Treasury Wallet ending with BoBR
+- Launched the LP on both Spectrum and Crooks-fi with great success
+- Locked all the LP in 10 equal batches spaced 3 months apart
+- Committed several PRs for Nautilus, Crux, Spectrum token logos
+- Bridged Telegram chat to # bober chat in main Ergo Discord group
+- Website is almost done. Domain is secured - BoberToken.io
+- made my first dev update
+
+---
+
+**2024-04-03T10:10:46**
+
+Thank you!
+There will be a giveaway of 45 $Bober to one lucky question that is picked to be answered tomorrow on the AMA.
+
+---
+
+**2024-05-01T09:07:40**
+
+-Successfully holding weekly puzzle/treasure hunt events for Bober. People are happy and engaged by them.
+-Crafted multiple Banners to be used for the Sigs mining pool on miningpoolstats and also mining dashboards:
+https://imgur.com/a/uBpDORS
+
+---
+
+**2024-06-19T09:40:43**
+
+Bober:
+*LP unlock update*
+- Working on multiple proposal versions to change reward allocation on LP unlock. The aim is to fix the lack of rewards for people providing LP and to better adjust the others. Will distribute voting tokens to holders proportionally and let them vote on it.
+*Bober fun activities*
+- Started hosting Poker Nights on Sundays and Wednesdays for people to get together and chill out.
+- Halted the Weekly Puzzle Events, because they take too much time to prepare if I want to deliver good variety. Will transition to 1 big Puzzle once a month.
+
+---
+
+**2024-12-14T17:26:57**
+
+Someone can forward them again on Wednesday xD
+
+---
+

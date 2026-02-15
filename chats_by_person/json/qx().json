@@ -1,0 +1,2846 @@
+{
+  "sender": "qx()",
+  "total_messages": 710,
+  "messages": [
+    {
+      "date": "2022-10-30T13:15:12",
+      "text": "how many tx's are you trying? 🙂"
+    },
+    {
+      "date": "2022-10-30T13:35:06",
+      "text": "r u on tn or r u murdering 3000 never to be used again wallets 🙂"
+    },
+    {
+      "date": "2022-10-30T13:35:12",
+      "text": "those poor wallets"
+    },
+    {
+      "date": "2022-10-31T14:53:44",
+      "text": "hot damn 🙂"
+    },
+    {
+      "date": "2022-10-31T15:12:20",
+      "text": "Isn’t it the same?"
+    },
+    {
+      "date": "2022-10-31T15:14:21",
+      "text": "Not for long once that news spreads."
+    },
+    {
+      "date": "2022-10-31T15:14:26",
+      "text": "🤣"
+    },
+    {
+      "date": "2022-11-03T07:13:12",
+      "text": "seems a lot lot faster. syncing icon is up for about 1 second compared to like 3-5. i will do a tx and make sure it works tho."
+    },
+    {
+      "date": "2022-11-07T09:50:19",
+      "text": "thanks 😉 now my wallet shows my billions correctly"
+    },
+    {
+      "date": "2022-11-07T10:07:36",
+      "text": "has the cardano ecosystem fallen apart with all your focus on ergo? 😉"
+    },
+    {
+      "date": "2022-11-11T13:30:49",
+      "text": "ty kind sir 😉"
+    },
+    {
+      "date": "2022-11-13T18:38:21",
+      "text": "tf = thanks friend"
+    },
+    {
+      "date": "2022-11-13T18:38:25",
+      "text": ";)"
+    },
+    {
+      "date": "2022-11-13T19:28:44",
+      "text": "front end devs are like healers in WoW. ;)"
+    },
+    {
+      "date": "2022-11-13T21:20:44",
+      "text": "decentralized oracle? or art deco...now i won't sleep until you tell us"
+    },
+    {
+      "date": "2022-11-13T21:29:17",
+      "text": "/t 1 love"
+    },
+    {
+      "date": "2022-11-13T21:29:21",
+      "text": "ty for letting us sleep"
+    },
+    {
+      "date": "2022-11-14T11:48:40",
+      "text": "correcting Armeanio should be added to the bug bounty!"
+    },
+    {
+      "date": "2022-11-17T19:45:21",
+      "text": "is no one mining tn?"
+    },
+    {
+      "date": "2022-11-24T07:53:20",
+      "text": "Why not go from form right into MySQL?"
+    },
+    {
+      "date": "2022-11-24T07:56:31",
+      "text": "Yes. At that point you’d make it default to “no” and your query only lists entries you have changed to “yes”"
+    },
+    {
+      "date": "2022-11-24T12:54:42",
+      "text": "I guess I’ve never hit that threshold :)"
+    },
+    {
+      "date": "2022-11-24T12:55:22",
+      "text": "I also use make.com for some middleware stuff. Works really well."
+    },
+    {
+      "date": "2022-11-24T13:11:08",
+      "text": "It’s pricy tho if u have many actions."
+    },
+    {
+      "date": "2022-12-16T08:14:17",
+      "text": "u can't get in that ops channel @kushti_ru ?"
+    },
+    {
+      "date": "2022-12-16T08:16:38",
+      "text": "tagged u in a thread to see if you can see"
+    },
+    {
+      "date": "2022-12-22T08:34:48",
+      "text": "here is hash API bro: https://api.ergoplatform.com/info"
+    },
+    {
+      "date": "2022-12-22T08:35:04",
+      "text": "i use it for my bot"
+    },
+    {
+      "date": "2022-12-22T08:36:26",
+      "text": "you might wanna cache it every hour or so as it is subject to explorer overloads and won't load on your page every time under heavy load."
+    },
+    {
+      "date": "2022-12-22T09:10:05",
+      "text": "u using the JS code?"
+    },
+    {
+      "date": "2022-12-22T16:01:46",
+      "text": "i thought they were, i have them bookmarked, sec."
+    },
+    {
+      "date": "2022-12-22T16:02:12",
+      "text": "nope, name changed or pulled offline:\nhttps://github.com/duckpools/lend-protocol-contracts"
+    },
+    {
+      "date": "2022-12-22T16:03:29",
+      "text": "that link was the second link too, this was the first one that went offline a month ago: https://github.com/duckpools/lending-protocol"
+    },
+    {
+      "date": "2022-12-22T16:07:26",
+      "text": "thanks! @HQ3rr try this and see if you can get it before i settle down later 😉"
+    },
+    {
+      "date": "2023-01-07T19:40:59",
+      "text": "awesome idea CW"
+    },
+    {
+      "date": "2023-01-14T21:30:21",
+      "text": "Admittedly, wasn't easy to figure out as a new person too. \n\nThe way it was initially explained to me is that one good method isn't to just impromptu bang out an EIP (unless you're Wilford of course 🙂 ), it's to engage in discussions about what the issue to fix or change is first. Once that occurs for how much ever time and discussion is needed there will better footing for a cleaner and more understandable EIP proposal. \n\nThen you can fork EIP git repo, follow EIP-1 as a guide, and do a pull request. \n<https://github.com/ergoplatform/eips>\n\nThe idea was, if a new non dev comes into chat and discusses some changes that warrant an EIP, by the end of the discussions they should have enough help/assistance to be able to fork and update. \n\nMy initial thought would be, beyond how easy it is to manage this on github, having another system might take a LOT more oversight and work. Cardano does it here nicely but im sure with a decent amount of commitment: <https://cips.cardano.org/>\n\nWatch, Mark's gonna drop a link tomorrow that we've all been missing 🙂"
+    },
+    {
+      "date": "2023-01-14T21:58:47",
+      "text": "yeah, true.....but i've also found that people without dev experience will have a totaly different PoV that dev's might not even think about....can introduce it and then start that spark...i do agree that opening a suggestion box function for non devs is the wrong way to go, too much curation for the current bandwidth. instead of telling non dev's to do an EIP i think it's best to encourage them to engage with others, and devs, to see what merit their idea holds, first."
+    },
+    {
+      "date": "2023-01-14T22:36:11",
+      "text": "yeah, that's essentially my perception as well."
+    },
+    {
+      "date": "2023-01-31T11:49:35",
+      "text": "the api, sec, lemme get new link for u"
+    },
+    {
+      "date": "2023-01-31T11:49:47",
+      "text": "u want only the verfied feed, or everything?"
+    },
+    {
+      "date": "2023-01-31T11:51:02",
+      "text": "here is all of them: https://api.spectrum.fi/v1/amm/markets?from=1653075262280"
+    },
+    {
+      "date": "2023-01-31T11:51:39",
+      "text": "this next one is verified only i believe: \nhttps://api.spectrum.fi/v1/amm/pools/summary"
+    },
+    {
+      "date": "2023-01-31T11:51:46",
+      "text": "i use the top one for all my bots"
+    },
+    {
+      "date": "2023-01-31T11:52:16",
+      "text": "u can either assume sigusd is 1$ and convert based on that, or get the oracle price of it."
+    },
+    {
+      "date": "2023-01-31T11:52:25",
+      "text": "verified is only like 13 tokens"
+    },
+    {
+      "date": "2023-01-31T11:52:33",
+      "text": "the top feed gets ANYTHING that has been traded on the dex"
+    },
+    {
+      "date": "2023-01-31T11:52:41",
+      "text": "so overlapping for the 13"
+    },
+    {
+      "date": "2023-01-31T11:52:46",
+      "text": "totally 🙂"
+    },
+    {
+      "date": "2023-01-31T11:53:01",
+      "text": "that's why the date on the top feed is like from march 2022"
+    },
+    {
+      "date": "2023-01-31T11:53:09",
+      "text": "the trailing server time"
+    },
+    {
+      "date": "2023-01-31T11:53:18",
+      "text": "epoch time"
+    },
+    {
+      "date": "2023-01-31T11:53:33",
+      "text": "u can leave it at that always"
+    },
+    {
+      "date": "2023-01-31T11:53:57",
+      "text": "gets it all, i can verify for the last 8 or 9 months of using it"
+    },
+    {
+      "date": "2023-01-31T11:54:12",
+      "text": "and we made specturm feel bad enough about it that they are keeping it around"
+    },
+    {
+      "date": "2023-01-31T11:54:24",
+      "text": "thanks guys 😉"
+    },
+    {
+      "date": "2023-01-31T11:56:36",
+      "text": "there are specific individual pool feeds too, i used those at first but it was too hard to guess how far to look back for infrequently traded tokens"
+    },
+    {
+      "date": "2023-01-31T12:03:22",
+      "text": "yup correct"
+    },
+    {
+      "date": "2023-01-31T12:03:29",
+      "text": "look at love token"
+    },
+    {
+      "date": "2023-01-31T12:03:45",
+      "text": "i made the pool and put in 50 erg so 1 erg per 100 love"
+    },
+    {
+      "date": "2023-01-31T12:03:59",
+      "text": "for some reason people bought and now it's 77 per erg or something like that"
+    },
+    {
+      "date": "2023-01-31T12:04:19",
+      "text": "so in my wallet holding the love it looks like i have $23,000 worth of love lol"
+    },
+    {
+      "date": "2023-01-31T12:07:26",
+      "text": "lol rero"
+    },
+    {
+      "date": "2023-01-31T12:07:35",
+      "text": "who made that"
+    },
+    {
+      "date": "2023-01-31T13:18:10",
+      "text": "great idea, just don't tell anyone how shallow the LP is 😉"
+    },
+    {
+      "date": "2023-02-03T06:13:27",
+      "text": "Can u put the list in the data of a tx that has an nft in it? So ur wallet looks for that specific nft and reads the node data from the tx. Then, if nodes change you spend the nft in another tx and hardcode new node data in the registers of the tx? Or is that dumb. Get block did something similar when they had pooled mining I think."
+    },
+    {
+      "date": "2023-03-26T12:39:56",
+      "text": "Spectrum api has historic price data"
+    },
+    {
+      "date": "2023-03-26T12:40:18",
+      "text": "In the charts api i think, i haven’t used the chart data since i collect my own for 24 hours"
+    },
+    {
+      "date": "2023-03-26T12:41:08",
+      "text": "Actually you can ping the spectrum pool api to get the historic price"
+    },
+    {
+      "date": "2023-03-26T13:16:49",
+      "text": "here is an example:\n<https://api.spectrum.fi/v1/amm/pool/7d2e28431063cbb1e9e14468facc47b984d962532c19b0b14f74d0ce9ed459be/chart?from=1658000000000>"
+    },
+    {
+      "date": "2023-03-26T13:17:13",
+      "text": "that's neta prices since mid july"
+    },
+    {
+      "date": "2023-03-26T13:17:32",
+      "text": "change the epoch time at the end of the link to the earliest date you need"
+    },
+    {
+      "date": "2023-03-26T13:17:52",
+      "text": "and it will show you the price IN that token count = 1 ERG"
+    },
+    {
+      "date": "2023-03-26T13:18:36",
+      "text": "so for the first price you see NETA 336.011500 meaning it takes 336.011500 for 1 erg, and then you need to know the price of erg at that time too"
+    },
+    {
+      "date": "2023-03-28T21:46:24",
+      "text": "my POWERS are limited! 🙂"
+    },
+    {
+      "date": "2023-03-28T21:46:33",
+      "text": "i can do discord tho"
+    },
+    {
+      "date": "2023-03-28T21:46:33",
+      "text": "sec"
+    },
+    {
+      "date": "2023-03-28T21:47:44",
+      "text": "oh right, if i delete from discord it deletes here, just not other way 🙂"
+    },
+    {
+      "date": "2023-03-28T21:47:47",
+      "text": "all is good"
+    },
+    {
+      "date": "2023-04-03T15:36:25",
+      "text": "no royalty tho with that u said no?"
+    },
+    {
+      "date": "2023-04-04T12:06:36",
+      "text": "awesome"
+    },
+    {
+      "date": "2023-04-10T09:07:20",
+      "text": "explorer is halfway synced (postgres from node sync, node is already synced). \nWorking on ssl cert and then battery backup and we should have a new pretty fast explorer instance to share.\nSync going fast, over halfway in 10 hours."
+    },
+    {
+      "date": "2023-04-13T18:10:00",
+      "text": "Wouldn’t have it any other way! Ur better at IT when drunk."
+    },
+    {
+      "date": "2023-04-13T18:45:20",
+      "text": "It’s really nice to see u in chats, Dan. Warms my heart."
+    },
+    {
+      "date": "2023-04-13T18:45:43",
+      "text": "U should write code for tea companies more often."
+    },
+    {
+      "date": "2023-04-13T18:46:02",
+      "text": "And u better call them NFTea’s"
+    },
+    {
+      "date": "2023-04-16T08:39:52",
+      "text": "Sorry. Forgot late edits pop up again on tele. Was just making ssl note warning for ergo mobile wallet on iOS"
+    },
+    {
+      "date": "2023-04-17T19:07:44",
+      "text": "PCI express storage and UPS deliver wed, will install Monday since I’m in the city rest of week."
+    },
+    {
+      "date": "2023-04-17T19:08:22",
+      "text": "For ergo.aap.cornell.edu explorer that is."
+    },
+    {
+      "date": "2023-04-17T19:10:15",
+      "text": "Lol I’m not battery backup that PoS testnet rig lol"
+    },
+    {
+      "date": "2023-04-17T19:10:27",
+      "text": "I can fix in a few hours if it goes down so no worries."
+    },
+    {
+      "date": "2023-04-17T19:10:54",
+      "text": "Also, want me to get some street hot dogs and mail them up to u?"
+    },
+    {
+      "date": "2023-04-17T20:56:13",
+      "text": "yah!"
+    },
+    {
+      "date": "2023-04-30T12:25:47",
+      "text": "What’s the command to see how far indexed the node is?"
+    },
+    {
+      "date": "2023-04-30T15:01:59",
+      "text": "looks like as soon as i started 5.0.9 it forced a re-index"
+    },
+    {
+      "date": "2023-05-01T14:06:42",
+      "text": "bring it back then ser"
+    },
+    {
+      "date": "2023-05-01T15:22:49",
+      "text": "20 people on auto/paying attention? I just checked, i was one of the 20 that updated ;)"
+    },
+    {
+      "date": "2023-05-04T11:52:05",
+      "text": "the 9g59gGF8jxyQxVVqKhxk3THHk56Q2SqjWD6WAix14qqCWZPDyBz works for me too no timeout"
+    },
+    {
+      "date": "2023-05-04T11:54:05",
+      "text": "{\n        \"tokenId\": \"eb5c610272be1dd5d740808491a8415bbe4ad38c36b30f737000a19dc55300e9\",\n        \"amount\": 1,\n        \"decimals\": 0,\n        \"name\": \"PixelTits #08 \"\n      },\n\nlol what?"
+    },
+    {
+      "date": "2023-05-04T11:54:25",
+      "text": "can u use mine see if it does the same thing? would love a stress test"
+    },
+    {
+      "date": "2023-05-04T11:54:34",
+      "text": "i feel like a pimp, trying to pimp out my node"
+    },
+    {
+      "date": "2023-05-04T11:54:39",
+      "text": "\"please use me\""
+    },
+    {
+      "date": "2023-05-04T12:04:10",
+      "text": "i swear my node is tested for STI's weekly"
+    },
+    {
+      "date": "2023-05-04T13:28:35",
+      "text": "Lemme see"
+    },
+    {
+      "date": "2023-05-04T13:31:31",
+      "text": "Meh, too mobile at the moment"
+    },
+    {
+      "date": "2023-05-04T13:31:36",
+      "text": "Try it on this one"
+    },
+    {
+      "date": "2023-05-04T13:31:42",
+      "text": "128.253.41.49:9053/swagger#/blockchain/getAddressBalanceTotal"
+    },
+    {
+      "date": "2023-05-04T13:41:59",
+      "text": "Offset 0/5 worked for me"
+    },
+    {
+      "date": "2023-05-04T13:42:02",
+      "text": "Lemme try ten"
+    },
+    {
+      "date": "2023-05-04T13:42:08",
+      "text": "Took about a good 5 seconds tho"
+    },
+    {
+      "date": "2023-05-04T13:44:59",
+      "text": "Works for me for 10"
+    },
+    {
+      "date": "2023-05-04T13:45:42",
+      "text": "Took about 5 seconds again"
+    },
+    {
+      "date": "2023-05-04T13:45:56",
+      "text": "I did just update from 5.09 to 5.10 a few days ago"
+    },
+    {
+      "date": "2023-05-04T13:47:28",
+      "text": "Are you using swagger/curl or just trying the http in a web browser?"
+    },
+    {
+      "date": "2023-05-10T12:55:56",
+      "text": "@anon_br is the token minting batcher down? Or am i just impatient ;)"
+    },
+    {
+      "date": "2023-05-12T11:07:06",
+      "text": "Is that not this?"
+    },
+    {
+      "date": "2023-05-12T11:07:55",
+      "text": "And this gets boxes spent and unspent no?"
+    },
+    {
+      "date": "2023-05-12T11:08:06",
+      "text": "Plus mempool"
+    },
+    {
+      "date": "2023-05-12T11:34:05",
+      "text": "Oh shit lol. Right. Some of those commands r for the node wallet itself. Ooooops."
+    },
+    {
+      "date": "2023-05-12T11:34:57",
+      "text": "Happens too often where I find a GET that fits perfect and then realize I can’t input an address."
+    },
+    {
+      "date": "2023-05-13T18:40:47",
+      "text": "Ok. Do I need to jack up my ratio?"
+    },
+    {
+      "date": "2023-05-13T18:43:40",
+      "text": "Lol"
+    },
+    {
+      "date": "2023-05-13T21:19:10",
+      "text": "Lemme make sure mine didn’t crash or go to that big one. I keep forgetting my address."
+    },
+    {
+      "date": "2023-05-13T23:18:19",
+      "text": "Ok ty ser"
+    },
+    {
+      "date": "2023-05-14T17:25:07",
+      "text": "/t 500 love"
+    },
+    {
+      "date": "2023-05-14T20:50:42",
+      "text": "Nice job!!!"
+    },
+    {
+      "date": "2023-05-31T20:43:09",
+      "text": "u r crazy bro"
+    },
+    {
+      "date": "2023-06-03T14:48:36",
+      "text": "Too late. Already texted your wife."
+    },
+    {
+      "date": "2023-06-07T18:07:51",
+      "text": "I was hoping there was a ranged utxo block call. Can’t find one. \n\nYou’d really want utxos only, not all txs. Otherwise tons of sorting and potentially empty wallets"
+    },
+    {
+      "date": "2023-06-08T13:51:25",
+      "text": "hehe, someone :)"
+    },
+    {
+      "date": "2023-06-08T17:59:25",
+      "text": "yeah, working on it guys :)"
+    },
+    {
+      "date": "2023-06-08T17:59:46",
+      "text": "running into machine limits on reducing dupes for addresses...will get past it and deliver"
+    },
+    {
+      "date": "2023-06-08T18:00:51",
+      "text": "MAYBE BECAUSE I DIDN\"T THINK OF THAT FFS!"
+    },
+    {
+      "date": "2023-06-08T18:00:56",
+      "text": "where were you a little while ago"
+    },
+    {
+      "date": "2023-06-08T18:01:11",
+      "text": "i've never tried that, will dig in"
+    },
+    {
+      "date": "2023-06-08T18:02:19",
+      "text": "fuck that will be so much easier"
+    },
+    {
+      "date": "2023-06-08T18:02:33",
+      "text": "for some reason i didn't even think i could peer into that directly, dum...."
+    },
+    {
+      "date": "2023-06-08T19:28:26",
+      "text": "That’s the fun part lmao. /s"
+    },
+    {
+      "date": "2023-06-08T22:10:35",
+      "text": "Snapshot every three days and save about 5 or so of those snapshots so I can see each wallet balance on a tend span of about two weeks."
+    },
+    {
+      "date": "2023-06-08T22:15:39",
+      "text": "All"
+    },
+    {
+      "date": "2023-06-09T08:00:51",
+      "text": "well that was a lot easier and faster, over 850k addresses"
+    },
+    {
+      "date": "2023-06-09T08:00:59",
+      "text": "thanks for the hint @Pulsarzz"
+    },
+    {
+      "date": "2023-06-09T08:54:54",
+      "text": "anyone have a table index anywhere?"
+    },
+    {
+      "date": "2023-06-09T09:01:28",
+      "text": "U WAN THEM ALL?"
+    },
+    {
+      "date": "2023-06-09T09:02:34",
+      "text": "have fun bro, it's uploading to here in a sec"
+    },
+    {
+      "date": "2023-06-09T09:03:08",
+      "text": "yeah, working on a sql query still figuring out the table schemas tho...prob can do it in a one line command direct like this was."
+    },
+    {
+      "date": "2023-06-09T09:03:26",
+      "text": "90% uploaded"
+    },
+    {
+      "date": "2023-06-09T09:03:36",
+      "text": "yeah, lemme figure it out first tho"
+    },
+    {
+      "date": "2023-06-09T09:03:56",
+      "text": "98%"
+    },
+    {
+      "date": "2023-06-09T09:04:00",
+      "text": "ALL UNIQUE ADDRESSES AS OF 6_9_2023"
+    },
+    {
+      "date": "2023-06-09T09:04:07",
+      "text": "here"
+    },
+    {
+      "date": "2023-06-09T09:04:09",
+      "text": "all addresses"
+    },
+    {
+      "date": "2023-06-09T09:04:24",
+      "text": "you'll prob break excel opening it ;)"
+    },
+    {
+      "date": "2023-06-09T09:04:37",
+      "text": "yeah, i need to figure out schema first"
+    },
+    {
+      "date": "2023-06-09T14:37:38",
+      "text": "thank you ser! hopefully will get me started on the right path :)"
+    },
+    {
+      "date": "2023-06-10T19:17:48",
+      "text": "I learn through struggle and trauma :)"
+    },
+    {
+      "date": "2023-06-17T20:02:02",
+      "text": "What OS r u using?"
+    },
+    {
+      "date": "2023-06-17T20:02:08",
+      "text": "Operating system."
+    },
+    {
+      "date": "2023-06-17T20:02:12",
+      "text": "Mac windows Linux?"
+    },
+    {
+      "date": "2023-07-03T10:36:50",
+      "text": "To clear up the issue in simpler terms:\n\nIf kras gives erg back to everyone before the lp person removes their LP from spectrum, someone will immediately drain the front end dex side with their hodl tokens and get that lp persons erg. \n\nThere are over 900 erg in the LP. You’d need a lot of hodl to drain it from front side but only 2k hodl to take half of it (over 500). \n\nI’d vote to wait until lp person removes it or give them a window. If u need a place to put it kras ur welcome to send to sigs multisig while we wait. \n\nMaking another contract to distribute relies on people going to cash it out. Troubleshooting, support, front end (unless it’s a script that just monitors a deposit address and then replies with the erg) and some people never doing it. But it does take care of the lp issue since it’s worth more to swap into new contract and get erg 1:1."
+    },
+    {
+      "date": "2023-07-03T17:34:37",
+      "text": "i already took a snapshot 10 mins ago"
+    },
+    {
+      "date": "2023-07-03T17:35:32",
+      "text": "yeah, but more of a pain in the ass"
+    },
+    {
+      "date": "2023-07-03T17:36:15",
+      "text": "or just fucking with us?"
+    },
+    {
+      "date": "2023-07-03T17:36:17",
+      "text": "for fun"
+    },
+    {
+      "date": "2023-07-03T17:37:03",
+      "text": "the amounts are strange too"
+    },
+    {
+      "date": "2023-07-03T17:37:17",
+      "text": "both tx's to a bunch of people, lemme see if they were original holders"
+    },
+    {
+      "date": "2023-07-03T17:37:18",
+      "text": "sec"
+    },
+    {
+      "date": "2023-07-03T17:37:40",
+      "text": "tx 1: https://explorer.ergoplatform.com/en/transactions/c4e2e7d4ed4bdd55a4369e6cd99a43bd7929b1a94256302e44e94c545277a173\n\ntx 2: https://explorer.ergoplatform.com/en/transactions/c9d61887599c98d5ea4a900b715b8e46425a2b53105e5d0e7000c3f8e1906e4b"
+    },
+    {
+      "date": "2023-07-03T17:38:48",
+      "text": "yes, sent to original holders at least in my spot check"
+    },
+    {
+      "date": "2023-07-03T17:39:07",
+      "text": "they don't for hodlerg"
+    },
+    {
+      "date": "2023-07-03T18:16:33",
+      "text": "lemme parse it"
+    },
+    {
+      "date": "2023-07-03T18:16:34",
+      "text": "sec"
+    },
+    {
+      "date": "2023-07-03T18:16:55",
+      "text": "wrong link?"
+    },
+    {
+      "date": "2023-07-03T18:17:41",
+      "text": "wtf"
+    },
+    {
+      "date": "2023-07-03T18:17:41",
+      "text": "lol"
+    },
+    {
+      "date": "2023-07-03T18:17:57",
+      "text": "oh i thought it was not that"
+    },
+    {
+      "date": "2023-07-03T18:17:59",
+      "text": "yeah i see that"
+    },
+    {
+      "date": "2023-07-03T18:18:06",
+      "text": "just give you tvl at that time"
+    },
+    {
+      "date": "2023-07-03T18:27:42",
+      "text": "it is, but still need to make sure you are getting all minters to make a compare to current holders"
+    },
+    {
+      "date": "2023-07-03T18:29:03",
+      "text": "if you loop current holders through there i guess you could trigger a manual look up if it reads 0 before drain"
+    },
+    {
+      "date": "2023-07-03T18:29:14",
+      "text": "that would be working backwards but works"
+    },
+    {
+      "date": "2023-07-03T20:55:44",
+      "text": "My sheet? Added up to 97 I thought. Check one of the columns?"
+    },
+    {
+      "date": "2023-07-03T21:00:59",
+      "text": "I’m working on getting mint info and comparing the two. Give me a bit."
+    },
+    {
+      "date": "2023-07-03T21:02:22",
+      "text": "I’ll add ur list to the compare too."
+    },
+    {
+      "date": "2023-07-03T21:02:27",
+      "text": "And track movement changes."
+    },
+    {
+      "date": "2023-07-21T23:05:42",
+      "text": "Hey bud. U the Reddit post?"
+    },
+    {
+      "date": "2023-07-21T23:06:49",
+      "text": "Ser. Lol."
+    },
+    {
+      "date": "2023-07-21T23:07:55",
+      "text": "Auto updates too bro. Super good low barrier of entry for job devs running a full node."
+    },
+    {
+      "date": "2023-07-21T23:08:35",
+      "text": "SR?"
+    },
+    {
+      "date": "2023-07-21T23:20:21",
+      "text": "Give it about 10-20 hours ser :)"
+    },
+    {
+      "date": "2023-07-21T23:20:38",
+      "text": "The text to the right shows it’s syncing the headers."
+    },
+    {
+      "date": "2023-07-21T23:20:57",
+      "text": "It may slow down a bit near the 80-90% point. But it’ll finish."
+    },
+    {
+      "date": "2023-07-21T23:21:09",
+      "text": "Don’t try any deposits or sends until full sync plz."
+    },
+    {
+      "date": "2023-07-31T15:58:42",
+      "text": "Mine was stuck too for a bit."
+    },
+    {
+      "date": "2023-08-11T16:49:40",
+      "text": "Possible for any of u to make a script to test the health of explorer/node/graphql instance? Run it and give it a number for read write IO and bandwidth tests etc. \n\nScript would do a memepool flood and then do a flood of reads as well as speed test for bandwidth, etc. \n\nWould be nice to be able to run this once in awhile to make sure they r behaving and healthy by comparing my own numbers every few weeks as well as see how you compare to others machines."
+    },
+    {
+      "date": "2023-08-12T20:11:07",
+      "text": "that happens on Minotaur too but it works."
+    },
+    {
+      "date": "2023-08-12T20:11:28",
+      "text": "I think at least maybe i recall seeing that in console"
+    },
+    {
+      "date": "2023-08-15T11:36:53",
+      "text": "ser, give me less credit please"
+    },
+    {
+      "date": "2023-08-15T11:41:04",
+      "text": "ty ser :)"
+    },
+    {
+      "date": "2023-08-18T22:39:15",
+      "text": "real maple syrup is from NE...nice try tho..."
+    },
+    {
+      "date": "2023-08-20T15:47:27",
+      "text": "Their idea is terrible ser."
+    },
+    {
+      "date": "2023-08-20T15:48:03",
+      "text": "“Send 100 ergs to this smart contract” would be a pita to gauge if mining fees ever vary."
+    },
+    {
+      "date": "2023-08-20T15:48:37",
+      "text": "I edited ;)"
+    },
+    {
+      "date": "2023-08-22T22:39:15",
+      "text": "this removing post merge data? that month?"
+    },
+    {
+      "date": "2023-08-25T05:10:41",
+      "text": "lol"
+    },
+    {
+      "date": "2023-08-25T05:11:09",
+      "text": "oh shit"
+    },
+    {
+      "date": "2023-08-25T05:11:10",
+      "text": "sec"
+    },
+    {
+      "date": "2023-08-25T05:11:11",
+      "text": "wrong api link"
+    },
+    {
+      "date": "2023-08-25T05:11:33",
+      "text": "sec cehcking"
+    },
+    {
+      "date": "2023-08-25T05:11:44",
+      "text": "i know"
+    },
+    {
+      "date": "2023-08-25T05:11:48",
+      "text": "trying sec ser"
+    },
+    {
+      "date": "2023-08-25T05:11:50",
+      "text": "it's early"
+    },
+    {
+      "date": "2023-08-25T05:11:53",
+      "text": "i didn't realize 🙂"
+    },
+    {
+      "date": "2023-08-25T05:13:31",
+      "text": "yeah, no go here either\nhttps://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byTokenId/1028de73d018f0c9a374b71555c5b8f1390994f2f41633e7b9d68f77735782ee?offset=3200&limit=100"
+    },
+    {
+      "date": "2023-08-25T05:14:06",
+      "text": "where is it timing out, browser side or server side?"
+    },
+    {
+      "date": "2023-08-25T05:22:58",
+      "text": "trying to remote into node to run it direct, see if its only external requests."
+    },
+    {
+      "date": "2023-08-25T05:27:08",
+      "text": "ty, lemme try http on server direct"
+    },
+    {
+      "date": "2023-08-25T05:27:20",
+      "text": "for some reason my remote is telling me to fuck off"
+    },
+    {
+      "date": "2023-08-25T15:30:46",
+      "text": "Times out on local machine with https request too fyi"
+    },
+    {
+      "date": "2023-08-27T16:27:52",
+      "text": "This one ser?"
+    },
+    {
+      "date": "2023-08-27T16:29:26",
+      "text": "Lemme remote into my machine at home and grab the files. It’s just three files to stick in root. And i didn’t look hard enough to make sure I didn’t break any ui colors (like white on white) but it’s what’s on my basement miner satergo box :)"
+    },
+    {
+      "date": "2023-08-27T16:29:51",
+      "text": "Finishing my airplane food and will then grab laptop ser ;)"
+    },
+    {
+      "date": "2023-08-27T16:31:04",
+      "text": "But ser, fist class on sigs treasury payout and it’s nice!"
+    },
+    {
+      "date": "2023-08-27T16:47:37",
+      "text": "three files, dump them in the main satergo directory."
+    },
+    {
+      "date": "2023-08-27T16:50:17",
+      "text": "u can do the same with nautilus"
+    },
+    {
+      "date": "2023-08-27T16:50:30",
+      "text": "just unpack from git, change it, and load it into chrome agian"
+    },
+    {
+      "date": "2023-08-27T16:50:34",
+      "text": "lemme see what i can do"
+    },
+    {
+      "date": "2023-08-27T16:50:57",
+      "text": "hope this isn't too innapropriate for dev chat, i think the more people know that they can modify code like this easily the better"
+    },
+    {
+      "date": "2023-08-27T16:51:14",
+      "text": "but prob 99% of people in here know this already 🙂"
+    },
+    {
+      "date": "2023-08-27T16:56:46",
+      "text": "ok good"
+    },
+    {
+      "date": "2023-08-27T16:56:52",
+      "text": "glad i misremembered"
+    },
+    {
+      "date": "2023-08-27T16:56:53",
+      "text": "🙂"
+    },
+    {
+      "date": "2023-08-27T16:57:05",
+      "text": "ill correct instructions above ser. aberg"
+    },
+    {
+      "date": "2023-08-27T16:57:31",
+      "text": "i have CRS disorder sometimes"
+    },
+    {
+      "date": "2023-08-27T17:04:08",
+      "text": "see, real quick...ugh, feels dirty as heck tho...will dig deeper later and perhaps make a theme that's not project related and just different..perhaps just a dark theme."
+    },
+    {
+      "date": "2023-08-27T18:06:29",
+      "text": "I know. Every transaction comes with a migraine :)"
+    },
+    {
+      "date": "2023-08-27T18:07:08",
+      "text": "Did u ever figure out the error in safari?"
+    },
+    {
+      "date": "2023-08-27T18:08:56",
+      "text": "Good. Focus on thz :)"
+    },
+    {
+      "date": "2023-08-30T09:33:21",
+      "text": "anyone know why https://explorer.ergoplatform.com/ has a higher tx per day count than https://ergo-explorer.anetabtc.io/ or https://ergo.aap.cornell.edu/en/\n?"
+    },
+    {
+      "date": "2023-08-30T09:33:40",
+      "text": "mine and aneta's match, explorer has 3 more"
+    },
+    {
+      "date": "2023-08-30T09:46:39",
+      "text": "weird, always three behind"
+    },
+    {
+      "date": "2023-09-02T18:44:24",
+      "text": "it works on everything else on the phone?"
+    },
+    {
+      "date": "2023-09-02T18:47:26",
+      "text": "i actually don't even recall terminus asking me for permission for that lol"
+    },
+    {
+      "date": "2023-09-03T12:59:38",
+      "text": "Sleep tight my love"
+    },
+    {
+      "date": "2023-09-06T17:04:26",
+      "text": "The output?"
+    },
+    {
+      "date": "2023-09-06T17:04:56",
+      "text": "Not failed ser. Lol. Leaving it as a copy paste. Guess I could force a file download but was aiming for wysiwyg trust."
+    },
+    {
+      "date": "2023-09-06T17:05:04",
+      "text": "Forces the user to scan it first."
+    },
+    {
+      "date": "2023-09-06T17:05:44",
+      "text": "It’s the actual python file. Copy and paste it into text editor and save as tx.py"
+    },
+    {
+      "date": "2023-09-06T17:05:57",
+      "text": "Then run it with ergpy and airdrop easy ser ;)"
+    },
+    {
+      "date": "2023-09-06T17:07:44",
+      "text": "Bundle in ergpy ser!"
+    },
+    {
+      "date": "2023-09-06T17:07:49",
+      "text": "And this tx builder."
+    },
+    {
+      "date": "2023-09-06T17:07:54",
+      "text": "And ur golden ;)"
+    },
+    {
+      "date": "2023-09-06T17:09:01",
+      "text": "A hot mess ser."
+    },
+    {
+      "date": "2023-09-06T18:47:53",
+      "text": "Great!"
+    },
+    {
+      "date": "2023-09-08T16:11:49",
+      "text": "Ser check tele dm plz"
+    },
+    {
+      "date": "2023-09-12T23:35:51",
+      "text": "it worked for me during the hodlerg burner you made ser"
+    },
+    {
+      "date": "2023-09-12T23:35:56",
+      "text": "i had it upped to 3000"
+    },
+    {
+      "date": "2023-09-12T23:36:07",
+      "text": "still is there too"
+    },
+    {
+      "date": "2023-09-12T23:39:19",
+      "text": "of course you would..."
+    },
+    {
+      "date": "2023-09-17T11:09:14",
+      "text": "here, @crpt112 i think this is the start of that discussion or nearby"
+    },
+    {
+      "date": "2023-09-18T06:45:14",
+      "text": "How would flash loans work here, some sort of proxy contract logic?"
+    },
+    {
+      "date": "2023-09-18T06:45:51",
+      "text": "Like, it goes through three txs but each tx has to output loan amount to next contract and then back out to lender?"
+    },
+    {
+      "date": "2023-09-18T08:11:55",
+      "text": "u don't have to put the defi or financial part ser. \"Ethereum is a minefield\""
+    },
+    {
+      "date": "2023-09-19T11:00:13",
+      "text": "soon ser...should be done in a week or two"
+    },
+    {
+      "date": "2023-09-19T11:00:20",
+      "text": "u r welcome to join the current test pool"
+    },
+    {
+      "date": "2023-09-19T11:00:22",
+      "text": "if you like"
+    },
+    {
+      "date": "2023-09-19T11:03:40",
+      "text": "awesome, lemme add u to discord channel"
+    },
+    {
+      "date": "2023-09-19T11:03:41",
+      "text": "sec"
+    },
+    {
+      "date": "2023-09-19T11:05:49",
+      "text": "added you and put the IP right in there (discord)"
+    },
+    {
+      "date": "2023-09-19T14:24:52",
+      "text": "i'm losing track of who is in it, lemme regroup so we don't dissapoint"
+    },
+    {
+      "date": "2023-09-19T14:25:11",
+      "text": "this is essntially just a burn test to see if we can hit blocks and payout"
+    },
+    {
+      "date": "2023-09-19T14:25:20",
+      "text": "once that happens we will design a UI and open it up"
+    },
+    {
+      "date": "2023-09-19T14:25:30",
+      "text": "then we will integrate storage rent capture 😉 with the help of cheese"
+    },
+    {
+      "date": "2023-09-19T14:25:46",
+      "text": "should be only two weeks away or so if all goes well"
+    },
+    {
+      "date": "2023-09-19T14:27:04",
+      "text": "i mean, if you're ok with that ill add u now, DM me"
+    },
+    {
+      "date": "2023-09-28T12:23:32",
+      "text": "lol wtf. This dude is fucking nuts."
+    },
+    {
+      "date": "2023-09-28T12:23:48",
+      "text": "Fucking apologists"
+    },
+    {
+      "date": "2023-09-28T12:24:51",
+      "text": "Ur doing great."
+    },
+    {
+      "date": "2023-09-28T12:25:02",
+      "text": "I’ve got my popcorn"
+    },
+    {
+      "date": "2023-09-28T12:25:54",
+      "text": "So node operators are only useful if we need them to restore the last remaining node."
+    },
+    {
+      "date": "2023-09-28T12:25:58",
+      "text": "What a fucking quack."
+    },
+    {
+      "date": "2023-09-28T12:42:14",
+      "text": "Fuck it"
+    },
+    {
+      "date": "2023-09-28T12:42:16",
+      "text": "https://x.com/sigmanauts/status/1707450592388325700?s=46&t=9KXDXO0l5txB9npLRTxdmQ"
+    },
+    {
+      "date": "2023-09-28T13:25:01",
+      "text": "https://ergoauctions.org/artwork/40e464aa652ca4530c701fd822b7ff226f3ccbe609710e59d4cccacea3ace428"
+    },
+    {
+      "date": "2023-09-28T13:27:24",
+      "text": "lol"
+    },
+    {
+      "date": "2023-09-28T13:30:36",
+      "text": "Wait. What is pm"
+    },
+    {
+      "date": "2023-09-28T13:34:41",
+      "text": "Wow"
+    },
+    {
+      "date": "2023-09-28T13:44:10",
+      "text": "To run a node?"
+    },
+    {
+      "date": "2023-09-28T13:44:21",
+      "text": "However much a fucking raspberry pi is."
+    },
+    {
+      "date": "2023-09-28T13:44:37",
+      "text": "Or a cell phone"
+    },
+    {
+      "date": "2023-09-28T13:45:18",
+      "text": "Ooo. U going cutthroat ser."
+    },
+    {
+      "date": "2023-09-28T13:57:27",
+      "text": "Yah. Sorry. Get carried away sometimes ser."
+    },
+    {
+      "date": "2023-09-28T14:01:23",
+      "text": "Tag em on Twitter too ser!"
+    },
+    {
+      "date": "2023-09-30T11:47:36",
+      "text": "Only if tokens and ergo listed elsewhere"
+    },
+    {
+      "date": "2023-09-30T11:48:11",
+      "text": "Well. Once more adoption tokens listed elsewhere."
+    },
+    {
+      "date": "2023-09-30T11:48:18",
+      "text": "But most of those only exist in spectrum"
+    },
+    {
+      "date": "2023-09-30T11:48:22",
+      "text": "So the price is set there"
+    },
+    {
+      "date": "2023-09-30T11:49:29",
+      "text": "Grab them from comet dex when spectrum is down :)"
+    },
+    {
+      "date": "2023-09-30T11:49:58",
+      "text": "DEX is the price ser."
+    },
+    {
+      "date": "2023-10-01T10:29:29",
+      "text": "Great ty ser for the lesson!"
+    },
+    {
+      "date": "2023-10-03T14:22:21",
+      "text": "u can hear us whistle and yell \"go joeeeee\" at this time mark: https://youtu.be/Jw2aPJTMhTQ?t=26869"
+    },
+    {
+      "date": "2023-10-04T11:42:28",
+      "text": "couldn't something like that python script that Spire put into chat the other day be integrated into the wallet?"
+    },
+    {
+      "date": "2023-10-04T11:43:01",
+      "text": "so the consolidate button would have a \"emergency consolidate\" button type of option?"
+    },
+    {
+      "date": "2023-10-04T11:55:15",
+      "text": "if wallet uses lite node (stateless) and it's built in to that wallet perhaps? or are there still things even with indexed node that isn't enough of an explorer replacement for that?\n\nwhat are other chains doing? Cardano has the fee that is returned to discourage it? what about Alephium?"
+    },
+    {
+      "date": "2023-10-04T12:11:19",
+      "text": "but a lite node wouldn't have that, would need historic?"
+    },
+    {
+      "date": "2023-10-04T12:13:33",
+      "text": "\"The superblocks then exist as a lightweight chain of their own. Wallets, dApps, and users can rely solely on super blocks to securely and reliably interact with the blockchain. Since they only have to sync with the super blocks, they can avoid downloading the entire blockchain and improve efficiency by 80%. \""
+    },
+    {
+      "date": "2023-10-04T12:13:57",
+      "text": "sounds like ur right?"
+    },
+    {
+      "date": "2023-11-02T15:26:25",
+      "text": "yes, unfortunatly"
+    },
+    {
+      "date": "2023-11-11T16:32:57",
+      "text": "Hey guys, there is a change in the works for later next week that will do the following:\n\n Auction fees will be modified from 2% to 3% \n\nThis adjustment will serve two purposes\n\n1. Allow for covering more of the dev expenses, this is pretty important IMHO\n2. Since more funds will be collected, more profit will go to the AHT profit sharing model for stakers\n\nFor a recap from recent updates:\n- AH can list any token now\n- AH now shows price per token historically instead of price per lot sold (much less confusing)\n- AH now has a verified tokens process\n\nI'll make a twitter post a few days before this is live as well for a reminder!"
+    },
+    {
+      "date": "2023-11-16T19:28:26",
+      "text": "is there an easy way to determine how many nodes are running w/snapshots enabled?"
+    },
+    {
+      "date": "2023-11-16T19:37:25",
+      "text": "appVersion?"
+    },
+    {
+      "date": "2023-11-16T19:37:39",
+      "text": "oh that's just the build"
+    },
+    {
+      "date": "2023-12-09T21:03:10",
+      "text": "Flying pig made this:\nhttps://github.com/FlyingPig69/YAAT/\nCan do a massive amount of outputs\n\nMGPai made this: \nhttps://github.com/mgpai22/ergpy\nLimit to about 1,000 outputs with each tx\n\nI made a csv to tx builder for mgpai's tool as well so you can build tx's with about 1,000 outputs and then just run a quick command through ergpy. The token builder option works for sure, i think i need to fix the send erg option though.\nhttps://my.ergoport.dev/cgi-bin/txbuilder/"
+    },
+    {
+      "date": "2023-12-09T21:44:38",
+      "text": "that too!"
+    },
+    {
+      "date": "2023-12-09T21:44:53",
+      "text": "i was speaking about your ergpy, that's what i made the csv to tx builder for"
+    },
+    {
+      "date": "2023-12-13T11:20:11",
+      "text": "ser, shooo shoooo, back to video making"
+    },
+    {
+      "date": "2023-12-13T11:24:35",
+      "text": "ser my advice for your issue above is to just use a smaller number"
+    },
+    {
+      "date": "2023-12-13T11:24:37",
+      "text": "😉"
+    },
+    {
+      "date": "2023-12-14T13:38:21",
+      "text": "ok will try it on my node w/explorer...stand by"
+    },
+    {
+      "date": "2023-12-14T13:40:27",
+      "text": "starts the index from height='0'"
+    },
+    {
+      "date": "2023-12-14T13:40:45",
+      "text": "apologies to any tx's that were just dropped"
+    },
+    {
+      "date": "2023-12-14T13:41:12",
+      "text": "be done soon"
+    },
+    {
+      "date": "2023-12-15T09:37:42",
+      "text": "yup, same for .15"
+    },
+    {
+      "date": "2023-12-15T13:00:07",
+      "text": "i didn't"
+    },
+    {
+      "date": "2023-12-15T13:00:11",
+      "text": "i just let it index"
+    },
+    {
+      "date": "2023-12-21T07:54:13",
+      "text": "froze again?"
+    },
+    {
+      "date": "2023-12-21T07:54:45",
+      "text": "maybe just do nipopow and remove utxo snapshot?"
+    },
+    {
+      "date": "2023-12-21T07:54:49",
+      "text": "for now?"
+    },
+    {
+      "date": "2023-12-28T10:42:30",
+      "text": "u can use mine ser"
+    },
+    {
+      "date": "2023-12-28T10:42:53",
+      "text": "it's what the backup explorer uses"
+    },
+    {
+      "date": "2023-12-28T10:42:56",
+      "text": "128.253.41.49:9053"
+    },
+    {
+      "date": "2023-12-28T10:43:55",
+      "text": "lemme know how it works plz"
+    },
+    {
+      "date": "2023-12-28T10:44:11",
+      "text": "ergexplorer uses it for some things as well i think (aco)"
+    },
+    {
+      "date": "2023-12-28T10:51:59",
+      "text": "woa"
+    },
+    {
+      "date": "2023-12-28T10:52:04",
+      "text": "usually faster weird"
+    },
+    {
+      "date": "2023-12-28T10:52:30",
+      "text": "what"
+    },
+    {
+      "date": "2023-12-28T10:52:35",
+      "text": "is your ping to it compared to 213?"
+    },
+    {
+      "date": "2023-12-28T11:01:01",
+      "text": "what's the query FP? lemme try to run it locally"
+    },
+    {
+      "date": "2023-12-28T11:07:40",
+      "text": "hm, single hit is faster on mine.."
+    },
+    {
+      "date": "2023-12-28T11:07:59",
+      "text": "how many second between each hit? all at once or one after the other response?"
+    },
+    {
+      "date": "2023-12-28T11:09:35",
+      "text": "ok, lemme write a quick script to hammer it to see what's up"
+    },
+    {
+      "date": "2023-12-28T11:09:52",
+      "text": "what's your ending limit?"
+    },
+    {
+      "date": "2023-12-28T11:11:05",
+      "text": "just hit mine with limit 10,000"
+    },
+    {
+      "date": "2023-12-28T11:11:17",
+      "text": "offset 0 limit 10000"
+    },
+    {
+      "date": "2023-12-28T11:11:31",
+      "text": "returns it in about 1 second"
+    },
+    {
+      "date": "2023-12-28T11:14:19",
+      "text": "u can do 16384 for limit on this query at a time fyi"
+    },
+    {
+      "date": "2023-12-28T11:37:09",
+      "text": "awesome ser"
+    },
+    {
+      "date": "2024-01-29T17:37:27",
+      "text": "what are you looking for ser?"
+    },
+    {
+      "date": "2024-01-29T17:38:00",
+      "text": "sec"
+    },
+    {
+      "date": "2024-01-29T17:40:02",
+      "text": "oh, thought you wanted all the code"
+    },
+    {
+      "date": "2024-01-29T17:41:48",
+      "text": "curl -X POST \"http://128.253.41.49:9053/blockchain/box/unspent/byAddress?offset=0&limit=5000&sortDirection=desc\" -H \"accept: application/json\" -H \"Content-Type: application/json\" -d \"WALLETADDRESSHERE\""
+    },
+    {
+      "date": "2024-01-29T17:41:52",
+      "text": "that's what i use for my bot"
+    },
+    {
+      "date": "2024-01-29T17:43:07",
+      "text": "idk, i use desc for some reason"
+    },
+    {
+      "date": "2024-01-29T17:43:11",
+      "text": "it was a while ago i forget why"
+    },
+    {
+      "date": "2024-01-29T17:43:20",
+      "text": "prob some stupid reason"
+    },
+    {
+      "date": "2024-01-29T17:44:32",
+      "text": "then i get utxo and the time stamp and go from there"
+    },
+    {
+      "date": "2024-01-29T17:44:36",
+      "text": "i think my script does a few calls"
+    },
+    {
+      "date": "2024-01-29T17:46:22",
+      "text": "wtf i'm using a nipopow api command...not sure what i was smoking...."
+    },
+    {
+      "date": "2024-01-29T17:46:31",
+      "text": "maybe that was a quicker way to the data i was looking for"
+    },
+    {
+      "date": "2024-01-29T17:46:35",
+      "text": "no"
+    },
+    {
+      "date": "2024-01-29T17:46:36",
+      "text": "here"
+    },
+    {
+      "date": "2024-01-29T17:46:42",
+      "text": "i do the address first"
+    },
+    {
+      "date": "2024-01-29T17:47:23",
+      "text": "curl -X GET \"http://128.253.41.49:9053/utxo/byId/@arr[$n2]\" -H \"accept: application/json\";"
+    },
+    {
+      "date": "2024-01-29T17:47:26",
+      "text": "then i do this"
+    },
+    {
+      "date": "2024-01-29T17:48:09",
+      "text": "then i do nipopow/popowHeaderByHeight"
+    },
+    {
+      "date": "2024-01-29T17:48:15",
+      "text": "seemed to have the data i needed"
+    },
+    {
+      "date": "2024-01-29T17:48:38",
+      "text": "i remember my way being ass backwards or but when i asked either Mr. S or Capt they didn't laugh at me"
+    },
+    {
+      "date": "2024-01-29T18:01:53",
+      "text": "hey"
+    },
+    {
+      "date": "2024-01-29T18:01:54",
+      "text": "sorry"
+    },
+    {
+      "date": "2024-01-29T18:02:04",
+      "text": "lemme give you step by step what i do. i need to relook at my script"
+    },
+    {
+      "date": "2024-01-29T18:02:22",
+      "text": "u are welcome to just use my api"
+    },
+    {
+      "date": "2024-01-29T18:03:35",
+      "text": "https://my.ergoport.dev/cgi-bin/epBoxAge.pl?a=ADDRESS"
+    },
+    {
+      "date": "2024-01-29T18:04:33",
+      "text": "1051200 is 4 years no? plus another 720 if they figured in a leap year? :)"
+    },
+    {
+      "date": "2024-01-29T18:08:04",
+      "text": "Ser. Think about what u just said."
+    },
+    {
+      "date": "2024-01-29T18:09:31",
+      "text": "There are no boxes over 4 years of age. Storage rent collection spends the box regusrdless."
+    },
+    {
+      "date": "2024-01-29T18:09:48",
+      "text": "Can’t spend part of a box ;)"
+    },
+    {
+      "date": "2024-01-29T18:10:01",
+      "text": "Boxes r written in stoooonnneeee"
+    },
+    {
+      "date": "2024-01-29T18:10:06",
+      "text": "Gotta break it and make another"
+    },
+    {
+      "date": "2024-01-29T18:10:07",
+      "text": ":)"
+    },
+    {
+      "date": "2024-01-29T18:11:15",
+      "text": "That’s the power of UTX-Oh no he didn’t."
+    },
+    {
+      "date": "2024-01-29T18:11:34",
+      "text": "Noah: ser, this is inappropriate for the dev chat."
+    },
+    {
+      "date": "2024-01-29T18:12:26",
+      "text": "Sorry u got me on a spicy night."
+    },
+    {
+      "date": "2024-02-05T18:40:00",
+      "text": "Let’s tag @LiquidPhase see if he had any ideas to integrate something like that into his site!"
+    },
+    {
+      "date": "2024-02-23T22:10:51",
+      "text": "created a draft EIP for discussion\n\nEIP 45 - Ephemeral Tokens\n\nhttps://github.com/ergoplatform/eips/pull/99/commits/20ba66fc9ce509ffe7928d08c2b1aad63ac6f422"
+    },
+    {
+      "date": "2024-02-23T22:11:58",
+      "text": "more funds for Miners...incentivized token burning"
+    },
+    {
+      "date": "2024-02-24T05:39:22",
+      "text": "R6 u mean?"
+    },
+    {
+      "date": "2024-02-24T09:59:07",
+      "text": "i see an issue with R6 unless im missing the point of assignments? The proposal doesn't suggest rewriting the intent of R4 and R5, only that R4 hold the address of the owner (as the name), and the hight to burn and amount to collect in R5 (as the description). R6 would need to be followed so only decimal data in there correct thus moving multiple data points into R5."
+    },
+    {
+      "date": "2024-02-24T10:21:33",
+      "text": "Guess all data could go in R5 so that could be named something unique for use case identification no?"
+    },
+    {
+      "date": "2024-02-24T10:21:58",
+      "text": "The wallet owner does the interacting. Essentially the token proves that your wallet has ownership."
+    },
+    {
+      "date": "2024-02-24T10:23:07",
+      "text": "And then the dapp will let you perform actions because you prove you are owner of that asset by proving your ability to sign a tx from your address that is shown in the token."
+    },
+    {
+      "date": "2024-02-24T10:23:19",
+      "text": "Yup correct"
+    },
+    {
+      "date": "2024-02-24T10:24:25",
+      "text": "Dapp will trust that the smart contract did its job in making sure rules r followed."
+    },
+    {
+      "date": "2024-02-24T20:29:07",
+      "text": "Bridges from telegram and other discord servers"
+    },
+    {
+      "date": "2024-02-24T20:33:54",
+      "text": "Tell that to discord ser :)"
+    },
+    {
+      "date": "2024-02-24T20:34:01",
+      "text": "All bots labeled as bots"
+    },
+    {
+      "date": "2024-02-24T20:38:09",
+      "text": "I’m a bot. Beep beep beep"
+    },
+    {
+      "date": "2024-03-14T08:20:51",
+      "text": "i should grow a beard shouldn't i"
+    },
+    {
+      "date": "2024-03-14T08:21:24",
+      "text": "alison's beard was the nicest....looked so soft"
+    },
+    {
+      "date": "2024-03-16T18:32:05",
+      "text": "this is awesome ser"
+    },
+    {
+      "date": "2024-03-18T16:53:51",
+      "text": "fired"
+    },
+    {
+      "date": "2024-03-18T16:54:24",
+      "text": "yo, somewhat, i use perl and python so not too much, just enough to get stuff done."
+    },
+    {
+      "date": "2024-03-18T16:54:33",
+      "text": "ser..."
+    },
+    {
+      "date": "2024-03-18T16:54:46",
+      "text": "u have like 300 nodes, just use 5 of them for a CPU miner"
+    },
+    {
+      "date": "2024-03-18T16:57:02",
+      "text": "i think there are much better devs that can offer much better stuff there, i'd be more useful elsewhere ser :)"
+    },
+    {
+      "date": "2024-03-18T16:57:25",
+      "text": "those sound like excuses ser"
+    },
+    {
+      "date": "2024-03-18T17:03:58",
+      "text": "long walks on the beach ser with the people i love"
+    },
+    {
+      "date": "2024-03-18T17:04:06",
+      "text": "learning every second i get"
+    },
+    {
+      "date": "2024-03-18T17:04:09",
+      "text": ";)"
+    },
+    {
+      "date": "2024-03-18T17:04:19",
+      "text": "ha it's fine"
+    },
+    {
+      "date": "2024-03-27T12:58:51",
+      "text": "i think many watchers are using that"
+    },
+    {
+      "date": "2024-04-20T14:20:11",
+      "text": "If ur serious how much?"
+    },
+    {
+      "date": "2024-06-12T09:44:17",
+      "text": "need to change watcher port, postgres port, watcher health port...not sure if the watcher ports are hard coded tho"
+    },
+    {
+      "date": "2024-06-12T09:45:07",
+      "text": "oh crap lol"
+    },
+    {
+      "date": "2024-06-12T09:45:09",
+      "text": "wrong channel"
+    },
+    {
+      "date": "2024-06-12T09:45:18",
+      "text": "someone asked me this today in rosen about the watcher"
+    },
+    {
+      "date": "2024-06-12T09:46:42",
+      "text": "just change these i think in the ergo.conf"
+    },
+    {
+      "date": "2024-06-12T09:46:58",
+      "text": "the ports that is"
+    },
+    {
+      "date": "2024-06-12T09:47:02",
+      "text": "9054 or something"
+    },
+    {
+      "date": "2024-06-12T09:47:44",
+      "text": "ser, why ask questions :)"
+    },
+    {
+      "date": "2024-06-12T09:48:28",
+      "text": "butter?"
+    },
+    {
+      "date": "2024-06-12T09:49:30",
+      "text": "can always CLI vm"
+    },
+    {
+      "date": "2024-06-12T09:51:37",
+      "text": "it still likes to reindex for some reason when i do that"
+    },
+    {
+      "date": "2024-06-12T09:51:44",
+      "text": "oh cause of new wallet triggers it i guess"
+    },
+    {
+      "date": "2024-06-12T09:55:49",
+      "text": "seems so"
+    },
+    {
+      "date": "2024-06-17T07:39:27",
+      "text": "https://chromewebstore.google.com/detail/nautilus-abyss/moaohjebjfiodfiegjnjkbnalepemcpf?hl=en&authuser=0"
+    },
+    {
+      "date": "2024-06-17T20:22:09",
+      "text": "https://twitter.com/auction_house_/status/1802874118527656332"
+    },
+    {
+      "date": "2024-06-18T13:48:57",
+      "text": "yup, no worries"
+    },
+    {
+      "date": "2024-06-26T15:16:24",
+      "text": "yes sec"
+    },
+    {
+      "date": "2024-06-26T15:17:34",
+      "text": "https://api.spectrum.fi/v1/price-tracking/markets"
+    },
+    {
+      "date": "2024-09-02T09:32:47",
+      "text": "I should still be"
+    },
+    {
+      "date": "2024-09-02T09:34:20",
+      "text": "Yah still plugging away at tn"
+    },
+    {
+      "date": "2024-09-02T09:34:34",
+      "text": "Lemme know if u need increased hash there."
+    },
+    {
+      "date": "2024-09-02T09:34:55",
+      "text": "Little 3090 doing it while napping ;)"
+    },
+    {
+      "date": "2024-09-02T17:51:43",
+      "text": "lemme look sec"
+    },
+    {
+      "date": "2024-09-09T11:55:53",
+      "text": "who is running fork? https://www.ergdex.com/ergo/swap"
+    },
+    {
+      "date": "2024-09-09T12:12:09",
+      "text": "lol woof"
+    },
+    {
+      "date": "2024-09-09T12:12:19",
+      "text": "guess still using crooks :) and ergodex on spectrum"
+    },
+    {
+      "date": "2024-09-09T18:50:39",
+      "text": "Ser. U told me he reviewed them lol."
+    },
+    {
+      "date": "2024-09-09T18:50:46",
+      "text": "Kushti that is"
+    },
+    {
+      "date": "2024-10-16T12:02:03",
+      "text": "Ser. It’s almost Thursday."
+    },
+    {
+      "date": "2024-11-22T19:01:06",
+      "text": "did my miner stop?"
+    },
+    {
+      "date": "2024-11-22T19:01:09",
+      "text": "FUCK lemme look"
+    },
+    {
+      "date": "2024-11-22T19:05:05",
+      "text": "ser"
+    },
+    {
+      "date": "2024-11-22T19:05:13",
+      "text": "approve MGPAI's testnet node fix"
+    },
+    {
+      "date": "2024-11-22T19:05:20",
+      "text": "plz"
+    },
+    {
+      "date": "2024-11-22T19:05:29",
+      "text": "that's what brought down my mining core test net"
+    },
+    {
+      "date": "2024-11-22T19:20:06",
+      "text": "did he not put it in a git PR? @MGpai0"
+    },
+    {
+      "date": "2024-11-22T19:28:56",
+      "text": "schweet ty!"
+    },
+    {
+      "date": "2024-11-24T17:38:42",
+      "text": "ur node ready?"
+    },
+    {
+      "date": "2024-11-24T17:38:54",
+      "text": "and send me the new jar?"
+    },
+    {
+      "date": "2024-12-01T17:51:13",
+      "text": "will do in a few ser"
+    },
+    {
+      "date": "2024-12-01T19:07:40",
+      "text": "done"
+    },
+    {
+      "date": "2024-12-01T19:16:36",
+      "text": "three peers"
+    },
+    {
+      "date": "2024-12-09T20:11:38",
+      "text": "Yah. On a different one tho. PAInet 2.0"
+    },
+    {
+      "date": "2024-12-09T20:14:00",
+      "text": "http://74.69.128.24:9052/panel/\nis my node for it"
+    },
+    {
+      "date": "2024-12-11T09:46:20",
+      "text": "Maybe we need watchers and guards for the discord bridge?"
+    },
+    {
+      "date": "2024-12-11T09:46:24",
+      "text": ";)"
+    },
+    {
+      "date": "2024-12-19T13:44:27",
+      "text": "SigUSD?"
+    },
+    {
+      "date": "2024-12-19T13:46:10",
+      "text": "i think mines reporting, lemme check group"
+    },
+    {
+      "date": "2024-12-19T15:54:41",
+      "text": "yeah mins up, waiting on the man :)"
+    },
+    {
+      "date": "2025-02-17T08:08:51",
+      "text": "hi ser"
+    },
+    {
+      "date": "2025-02-17T08:11:24",
+      "text": "GG beating me to it"
+    },
+    {
+      "date": "2025-02-17T08:12:23",
+      "text": "i figured this was you tho"
+    },
+    {
+      "date": "2025-02-17T08:13:06",
+      "text": "few of these too"
+    },
+    {
+      "date": "2025-02-17T08:13:09",
+      "text": "someone has a crush"
+    },
+    {
+      "date": "2025-09-02T11:14:21",
+      "text": "was up a few days ago when i checked, lemme look"
+    },
+    {
+      "date": "2025-09-02T11:40:14",
+      "text": "it's back up, sorry, something crashed the entire VM over weekend, node is catching up as well as its explorer, few more mins. @NeuralYogi will need to fire up his MCP gateway on it but the rest is up."
+    },
+    {
+      "date": "2025-09-02T11:40:48",
+      "text": "i forgot we had an explorer running there lol https://explorer.codeutxo.com/"
+    },
+    {
+      "date": "2025-09-02T11:40:58",
+      "text": "will add that to monitoring so we can see if down."
+    },
+    {
+      "date": "2025-09-03T13:19:30",
+      "text": "I’ll look later can figure it out I think."
+    },
+    {
+      "date": "2025-10-29T12:38:08",
+      "text": "good idea...we monitor it in the oracle chat, but, sometimes takes a sec to get threshold back up"
+    },
+    {
+      "date": "2025-10-29T12:38:14",
+      "text": "so so far we are all aware it happens :)"
+    },
+    {
+      "date": "2025-10-29T12:38:20",
+      "text": "but no reason public shouldn't know on the dash too"
+    },
+    {
+      "date": "2025-10-29T12:43:33",
+      "text": "my phone is perfectly fine ser"
+    },
+    {
+      "date": "2025-10-29T12:43:37",
+      "text": "not broken at all"
+    },
+    {
+      "date": "2025-10-29T12:43:39",
+      "text": ";)"
+    },
+    {
+      "date": "2025-11-03T07:54:08",
+      "text": "redirecting api, gql, and explorer to p2p"
+    },
+    {
+      "date": "2025-11-03T07:56:48",
+      "text": "out of page rules, gotta make it into a worker sec"
+    },
+    {
+      "date": "2025-11-03T07:57:03",
+      "text": "will do page redirect with api and gql...and explorer will be a worker"
+    },
+    {
+      "date": "2025-11-03T08:02:17",
+      "text": "ok @kushti_ru \n302 redirects in place for gql and explorer. API has worker now in place for the redirect since it needs to pass arguments with the URL properly"
+    },
+    {
+      "date": "2025-11-03T08:02:23",
+      "text": "seems to be ok, everyone please let me know if it isn't"
+    },
+    {
+      "date": "2025-11-03T08:09:31",
+      "text": "had to deploy worker for gql too as simple 302 wasn't good for posts/gets"
+    },
+    {
+      "date": "2025-11-03T08:14:26",
+      "text": "can't, the LB's have to be pretty much identical config"
+    },
+    {
+      "date": "2025-11-03T08:14:54",
+      "text": "until we do our own nginx and can pass things differently, CF load balancing is VERY picky"
+    },
+    {
+      "date": "2025-11-03T08:15:24",
+      "text": "if the docker-compose.yml is off by even a line, it creates a different hash"
+    },
+    {
+      "date": "2025-11-03T08:47:49",
+      "text": "CORS issue for some things, working on it"
+    },
+    {
+      "date": "2025-11-03T08:48:05",
+      "text": "fixed"
+    },
+    {
+      "date": "2025-11-03T09:48:03",
+      "text": "hm, not seeing anything in console but hanging on dex yes"
+    },
+    {
+      "date": "2025-11-03T09:57:50",
+      "text": "CF nuked forward again, man...hate that they halt this..works for 10 mins and then stops"
+    },
+    {
+      "date": "2025-11-03T10:00:07",
+      "text": "\" This website has been temporarily rate limited\nYou cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down.\""
+    },
+    {
+      "date": "2025-11-03T10:00:21",
+      "text": "how did we blow through credits in 10 minutes"
+    },
+    {
+      "date": "2025-11-03T10:01:12",
+      "text": "ok i upgraded CF"
+    },
+    {
+      "date": "2025-11-03T10:01:15",
+      "text": "should be ok now"
+    },
+    {
+      "date": "2025-11-03T10:02:19",
+      "text": "@HQ3rr @AcoSmrkas check site and bots plz?"
+    },
+    {
+      "date": "2025-11-03T10:04:24",
+      "text": "dex wallet loads, but tokens not loadning"
+    },
+    {
+      "date": "2025-11-03T10:04:27",
+      "text": "looking into it"
+    },
+    {
+      "date": "2025-11-03T10:05:24",
+      "text": "API stuff should be up just fine, but yes, dex complaining, working through it sec"
+    },
+    {
+      "date": "2025-11-03T10:17:39",
+      "text": "just token lists"
+    },
+    {
+      "date": "2025-11-03T10:18:55",
+      "text": "oracle-core.ergopool.io and airdrop.spectrum.fi"
+    },
+    {
+      "date": "2025-11-03T10:18:59",
+      "text": "are not working"
+    },
+    {
+      "date": "2025-11-03T10:19:17",
+      "text": "@kushti_ru are those in hetzner as well?"
+    },
+    {
+      "date": "2025-11-03T10:19:22",
+      "text": "ok, hmmm"
+    },
+    {
+      "date": "2025-11-03T10:20:44",
+      "text": "oh that explains it then"
+    },
+    {
+      "date": "2025-11-03T10:22:12",
+      "text": "yeah, getting some nutty time outs in this redirect for sure"
+    },
+    {
+      "date": "2025-11-03T10:22:42",
+      "text": "how hard is it to just move to p2p?"
+    },
+    {
+      "date": "2025-11-03T10:22:48",
+      "text": "too many changes in your code?"
+    },
+    {
+      "date": "2025-11-03T10:23:13",
+      "text": "lemme see if i can fix timeout at least"
+    },
+    {
+      "date": "2025-11-03T10:24:33",
+      "text": "trying for a proxy instead"
+    },
+    {
+      "date": "2025-11-03T10:24:33",
+      "text": "sec"
+    },
+    {
+      "date": "2025-11-03T10:24:40",
+      "text": "might help with timeout"
+    },
+    {
+      "date": "2025-11-03T10:25:18",
+      "text": "hmmm, what's the link for that so i can see?"
+    },
+    {
+      "date": "2025-11-03T10:27:11",
+      "text": "that commaned isn't like by the p2p explorer anyway, so that part isn't a redirect issue"
+    },
+    {
+      "date": "2025-11-03T10:27:14",
+      "text": "lemme try it on my cornell one"
+    },
+    {
+      "date": "2025-11-03T10:28:38",
+      "text": "yup"
+    },
+    {
+      "date": "2025-11-03T10:28:46",
+      "text": "wonder what about main Explorer works"
+    },
+    {
+      "date": "2025-11-03T10:28:50",
+      "text": "with that one and not others"
+    },
+    {
+      "date": "2025-11-03T10:29:53",
+      "text": "i have some pretty fast ones in p2p and ergo cornell"
+    },
+    {
+      "date": "2025-11-03T10:30:00",
+      "text": "liike 3000 write, 5k read"
+    },
+    {
+      "date": "2025-11-03T10:32:51",
+      "text": "128 in ergo cornell, 32 in some of the p2p's"
+    },
+    {
+      "date": "2025-11-03T10:33:17",
+      "text": "@AcoSmrkas \n\nhttps://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e?limit=500&offset=0\n\nthat loaded at cornell, took a few"
+    },
+    {
+      "date": "2025-11-03T10:38:18",
+      "text": "should be back to normal in a few minuts"
+    },
+    {
+      "date": "2025-11-03T10:38:26",
+      "text": "this is a good exercise in choke points tbh"
+    },
+    {
+      "date": "2025-11-03T10:41:49",
+      "text": "cornell one has those too"
+    },
+    {
+      "date": "2025-11-03T10:41:56",
+      "text": "which is possibly why it works as well for that one"
+    },
+    {
+      "date": "2025-11-03T10:42:15",
+      "text": "i have those in my telegram i THINK otherwise i can ask him to give me the commands, there weren't many"
+    },
+    {
+      "date": "2025-11-03T10:55:23",
+      "text": "yes, we will all have to do it"
+    },
+    {
+      "date": "2025-11-03T10:55:27",
+      "text": "prob can script it"
+    },
+    {
+      "date": "2025-11-03T10:57:57",
+      "text": "yup, i see"
+    },
+    {
+      "date": "2025-11-03T10:57:59",
+      "text": "removeing redirects"
+    },
+    {
+      "date": "2025-11-03T10:58:49",
+      "text": "ok redirects removed"
+    },
+    {
+      "date": "2025-11-03T10:59:09",
+      "text": "ergodex up and working"
+    },
+    {
+      "date": "2025-11-03T10:59:11",
+      "text": "all seems ok"
+    },
+    {
+      "date": "2025-11-03T11:23:40",
+      "text": "/t 20 love"
+    },
+    {
+      "date": "2025-11-03T11:23:56",
+      "text": "ty will peek!"
+    },
+    {
+      "date": "2025-11-04T08:03:34",
+      "text": "yup, will test the thing pgr sent and getting a hold of boris to check too"
+    },
+    {
+      "date": "2025-11-04T08:04:00",
+      "text": "so far i think it's only a few queries that need that"
+    },
+    {
+      "date": "2025-11-13T14:35:59",
+      "text": "I’m hurt that u call my transactions junk ser :)"
+    },
+    {
+      "date": "2025-11-13T14:36:19",
+      "text": "There are about 7 or so I think"
+    },
+    {
+      "date": "2025-11-13T14:39:40",
+      "text": "7 people running tn nodes"
+    },
+    {
+      "date": "2025-11-13T14:43:50",
+      "text": "im tracking 6 of them"
+    },
+    {
+      "date": "2025-11-13T14:44:20",
+      "text": "you're tn is behind but that's subblock one right?"
+    },
+    {
+      "date": "2025-11-14T11:07:02",
+      "text": "seems so"
+    },
+    {
+      "date": "2025-11-14T11:07:19",
+      "text": "what does restarting TN look like ser?"
+    },
+    {
+      "date": "2025-11-14T11:19:09",
+      "text": "ok ser, i can get it started and start mining, what is involved with config?"
+    },
+    {
+      "date": "2025-11-16T16:34:06",
+      "text": "TN network runners, if you were on TN with me (the one i was mining), please use this instead. Wipe DB and run this....\n\nfor known peers clear it and add:\n128.253.41.110:9020\n213.239.193.208:9023\n\nthen let us know your address\n\nupdating main tn explorer now in a few too to point to this one"
+    },
+    {
+      "date": "2025-11-16T16:34:07",
+      "text": "we can call it LITHOS_NET, thankful for PAI_NET"
+    },
+    {
+      "date": "2025-11-16T16:34:09",
+      "text": ";)"
+    },
+    {
+      "date": "2025-11-16T16:49:16",
+      "text": "here are the IP's we are tracking on TN, if you are the top three in this pic, please swap to this new jar and wip DB, set known hosts, etc..."
+    },
+    {
+      "date": "2025-11-16T17:00:07",
+      "text": "tn explorer going down in a few"
+    },
+    {
+      "date": "2025-11-16T17:00:19",
+      "text": "replacing node on it and wiping db's to start on this tn"
+    },
+    {
+      "date": "2025-11-16T17:00:39",
+      "text": "do we need a backup of the old tn db Kusthi or no matter?"
+    },
+    {
+      "date": "2025-11-16T17:01:08",
+      "text": "yeah, i have the node folder still just in case"
+    },
+    {
+      "date": "2025-11-16T17:55:23",
+      "text": "done"
+    },
+    {
+      "date": "2025-11-16T17:55:23",
+      "text": "https://testnet.ergoplatform.com/"
+    },
+    {
+      "date": "2025-11-16T17:56:32",
+      "text": "this picked it up too\nhttps://testnet.sigmaexplorer.org/"
+    },
+    {
+      "date": "2025-11-16T19:59:23",
+      "text": "lemme know if you get stuck"
+    },
+    {
+      "date": "2025-11-17T19:30:51",
+      "text": "it's whatever port you want ser"
+    },
+    {
+      "date": "2025-11-17T19:31:06",
+      "text": "9052 is UI tho to keep it standard"
+    },
+    {
+      "date": "2025-11-17T19:31:20",
+      "text": "just make sure you're broadcasting in your config on the right port you are designating it as"
+    },
+    {
+      "date": "2025-11-17T19:32:04",
+      "text": "show me config file (remove password hash)"
+    },
+    {
+      "date": "2025-11-17T19:34:04",
+      "text": "  GNU nano 7.2                                                                                              ergo.conf                                                                                                        \nergo {\n  chain.reemission.activationHeight = 100000001\n  }\nergo {\n  directory = \".ergo\"\n  networkType = \"testnet\"\n  voting {\n       120 = 1\n  }\n  node {\n    mining = true\n    rebroadcastCount = 10000\n    offlineGeneration = false\n    useExternalMiner = true\n    wallet.secretStorage.secretDir = ${ergo.directory}\"/wallet/keystore\"\n  }\n}\nscorex {\n    network {\n    bindAddress = \"0.0.0.0:9020\"\n    nodeName = \"qx-testnet\"\n    knownPeers = [\"213.239.193.208:9023\",\"128.253.41.110:9020\"]\n    declaredAddress  = \"128.253.41.110:9020\"\n    peerDiscovery = true\n  }\n  restApi {\n    apiKeyHash = \"YOURHASHHERE\"\n  }\n}"
+    },
+    {
+      "date": "2025-11-17T19:34:12",
+      "text": "just use this, simpler"
+    },
+    {
+      "date": "2025-11-17T19:34:17",
+      "text": "change qx-testnet too"
+    },
+    {
+      "date": "2025-11-17T19:34:25",
+      "text": "and put your hash in apiKeyHash"
+    },
+    {
+      "date": "2025-11-17T19:34:30",
+      "text": "then bounce node"
+    },
+    {
+      "date": "2025-11-17T19:34:39",
+      "text": "and declaredAddress"
+    },
+    {
+      "date": "2025-11-17T19:34:44",
+      "text": "change that to your external IP"
+    },
+    {
+      "date": "2025-11-17T19:35:25",
+      "text": "declaredAddress\napiKeyHash\nnodeName\n\nand open firewall 9020"
+    },
+    {
+      "date": "2025-11-17T19:37:48",
+      "text": "yeah"
+    },
+    {
+      "date": "2025-11-17T19:38:03",
+      "text": "mining false unless you wanna mine too ser"
+    },
+    {
+      "date": "2025-11-17T19:38:04",
+      "text": ":)"
+    },
+    {
+      "date": "2025-11-17T19:38:42",
+      "text": "nice documentation ser, as always!"
+    },
+    {
+      "date": "2025-11-17T19:59:35",
+      "text": "classic ser, classic :)"
+    },
+    {
+      "date": "2025-11-19T07:20:38",
+      "text": "sounds good, @AndyLowe this work for you ?"
+    },
+    {
+      "date": "2025-11-19T07:26:59",
+      "text": "no, still waiting on him for answers for community chat and ama switch to 5pm utc ser"
+    },
+    {
+      "date": "2025-11-19T07:46:12",
+      "text": "actually works pretty well"
+    },
+    {
+      "date": "2025-11-19T07:47:13",
+      "text": "ser, you know who you're talking to? i speak one language....and that's SHITTY perl"
+    },
+    {
+      "date": "2025-11-19T07:50:02",
+      "text": "just wrap up js in anything and it works ok it seems"
+    },
+    {
+      "date": "2025-11-19T07:51:56",
+      "text": "yes\n\n    // Import Fleet SDK for transaction building\n    const { TransactionBuilder, OutputBuilder, BoxSelector, ErgoAddress } = await import(\n      'https://cdn.jsdelivr.net/npm/\\@fleet-sdk/core\\@0.6.1/+esm'\n    );"
+    },
+    {
+      "date": "2025-11-19T07:58:36",
+      "text": "here is the student version of that portal to see what it does"
+    },
+    {
+      "date": "2025-11-19T08:00:32",
+      "text": "just added the admin incentive tab last night on this site...it scans the Wood/Fabrication shop for student check ins and we send them brick for checking in daily (it's hard to get the students to follow protocol and use the checkin system that the shops have setup for safety)..."
+    },
+    {
+      "date": "2025-11-19T08:01:21",
+      "text": "oh, maybe i should do a dev update on this stuff since it's wednesday...hold tight."
+    },
+    {
+      "date": "2025-11-19T10:41:16",
+      "text": "NICE BUSY DEV CHAT TODAY! MIGHT HAVE TO DO A VIDEO LATER THIS WEEK!"
+    },
+    {
+      "date": "2025-11-19T10:41:29",
+      "text": "I'M YELLING BECAUSE I'M EXCITED!"
+    },
+    {
+      "date": "2025-11-20T19:29:26",
+      "text": "what's the command he's running?"
+    },
+    {
+      "date": "2025-11-20T19:29:54",
+      "text": "oh, this: https://api.ergoplatform.com/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions"
+    },
+    {
+      "date": "2025-11-20T19:30:36",
+      "text": "it works"
+    },
+    {
+      "date": "2025-11-20T19:30:52",
+      "text": "prob not consistant tho, depending on the LB it was routed to"
+    },
+    {
+      "date": "2025-11-20T19:31:09",
+      "text": "it works now in one of the p2p nodes too i think now with the optimization"
+    },
+    {
+      "date": "2025-11-20T19:31:14",
+      "text": "balls"
+    },
+    {
+      "date": "2025-11-20T19:32:02",
+      "text": "yeah, i think it was the other new one aco showed me that wont work on any of them without some hardware improvements and better tuning...i was gonna test next to tune my bigbox for ergo.aap and see if that fixes it."
+    },
+    {
+      "date": "2025-11-20T19:34:44",
+      "text": "nvm it was the BY ERGO TREE that i got working on one of the  p2p nodes, but even then, was working with the lesser of node with only 16gb of ram"
+    },
+    {
+      "date": "2025-11-20T19:34:51",
+      "text": "http://128.253.41.100:8080/api/v1/boxes/unspent/byErgoTree/ADDRESS"
+    },
+    {
+      "date": "2025-11-20T19:35:14",
+      "text": "don't click that all at once for sure won't work"
+    },
+    {
+      "date": "2025-11-20T19:36:06",
+      "text": "the other option is to just created new indexes"
+    },
+    {
+      "date": "2025-11-20T19:36:24",
+      "text": "around things we need that struggle"
+    },
+    {
+      "date": "2025-11-20T19:36:30",
+      "text": "HD space is cheaper than RAM"
+    },
+    {
+      "date": "2025-11-20T20:05:09",
+      "text": "i can get this to run pretty consistently on my cornell box (128gb of ram and 56 CPU threads) with tuning to account for the specs."
+    },
+    {
+      "date": "2025-11-20T20:05:14",
+      "text": "https://api.ergo.aap.cornell.edu/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions"
+    },
+    {
+      "date": "2025-11-20T20:05:57",
+      "text": "on the same box, this runs 50/50 perhaps, maybe now 100% since i ran it once ok:\nhttps://api.ergo.aap.cornell.edu/api/v1/addresses/9fu1mLunnUUYEdJSXRUu1KZDJyJZV4gajd1uEFMEBsCWLEAJENo/transactions?offset=0&limit=30"
+    },
+    {
+      "date": "2025-11-20T20:06:10",
+      "text": "and this tough one also runs:\nhttps://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byTokenId/e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297?_=1762665775462"
+    },
+    {
+      "date": "2025-11-20T20:07:26",
+      "text": "the options i see are:\n\n1 - crank the p2p node to 128+ GB of RAM (that's fine i can test it).\nor\n2 - build a bunch of indexes to account for these"
+    },
+    {
+      "date": "2025-11-20T20:07:54",
+      "text": "with #1, i need to make sure the RAM is enough and it's not also the 56 cores im giving psql as well."
+    },
+    {
+      "date": "2025-11-20T20:12:51",
+      "text": "and with #2 i think it helps keep nodes cheap"
+    },
+    {
+      "date": "2025-11-20T20:13:18",
+      "text": "option three is to help pgr456 finish all the required endpoints for sigmaexplorer and just move to that! ;)"
+    },
+    {
+      "date": "2025-11-20T20:18:50",
+      "text": "im gonna make an index on a small ram box and see how long it takes and if it fixes it"
+    },
+    {
+      "date": "2025-11-21T06:28:59",
+      "text": "CPU and RAM. No GPU needed."
+    },
+    {
+      "date": "2025-11-21T06:29:40",
+      "text": "Where were u when explorer was made ser!!! :)"
+    },
+    {
+      "date": "2025-11-21T06:37:17",
+      "text": "If we rewrite the entire thing and have monster GPUs we could."
+    },
+    {
+      "date": "2025-11-21T06:40:43",
+      "text": "Looking online it even says u need a special gpu if u wanna go that route. Interesting."
+    },
+    {
+      "date": "2025-11-21T07:59:01",
+      "text": "anyone awake?"
+    },
+    {
+      "date": "2025-11-21T07:59:09",
+      "text": "u ser?"
+    },
+    {
+      "date": "2025-11-21T08:33:22",
+      "text": "kushti tested...\n16gb RAM box can do the big query in 14 seconds now with the index...working on the other two queries now too"
+    },
+    {
+      "date": "2025-11-21T08:58:26",
+      "text": "i did"
+    },
+    {
+      "date": "2025-11-21T08:58:32",
+      "text": "and it is"
+    },
+    {
+      "date": "2025-11-21T08:58:55",
+      "text": "that's how im building them"
+    },
+    {
+      "date": "2025-11-21T10:02:17",
+      "text": "ok, indexs for the other two helps the query down to 200 seconds from 500 seconds lol..but still not enough...im going to up the RAM in this to 32GB and tune psql and see how it does...hopefully it can do it with 32GB."
+    },
+    {
+      "date": "2025-11-21T11:21:10",
+      "text": "ok, bringing down .100 from p2p and adding 32gb to it. stand by"
+    },
+    {
+      "date": "2025-11-21T11:49:59",
+      "text": "@AcoSmrkas\n\nThe Four Big Queries working now on 32gb node with some additional indexers. The first three seem to be ok every time, haven't tested the last big one too many time yet as it's cached on my machine now.\n\nhttp://128.253.41.100:8080/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e\n\nhttp://128.253.41.100:8080/api/v1/addresses/9fu1mLunnUUYEdJSXRUu1KZDJyJZV4gajd1uEFMEBsCWLEAJENo/transactions?offset=0&limit=30\n\nhttp://128.253.41.100:8080/api/v1/boxes/unspent/byTokenId/e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297?_=1762665775462\n\nhttp://128.253.41.100:8080/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions\n\ntest from your end aco plz or kishti?"
+    },
+    {
+      "date": "2025-11-21T11:51:40",
+      "text": "i think we need to change the timeout a bit on the api side, it's too short for some of these queries."
+    },
+    {
+      "date": "2025-11-21T11:55:18",
+      "text": "a lot, there are a lot"
+    },
+    {
+      "date": "2025-11-21T12:33:04",
+      "text": "ty, 2 isn't working for you?"
+    },
+    {
+      "date": "2025-11-21T12:33:30",
+      "text": "i think eventually we need to modify these things yea :("
+    },
+    {
+      "date": "2025-11-21T12:33:43",
+      "text": "my goal rn is to get off hetzner asap to save money"
+    },
+    {
+      "date": "2025-11-24T06:17:09",
+      "text": "Was planning to test Jav on my backup when I get a sec."
+    },
+    {
+      "date": "2025-11-24T06:17:38",
+      "text": "Did u commit it? I don’t have admin in that repo"
+    },
+    {
+      "date": "2025-11-24T06:18:02",
+      "text": "Or I guess I’ll test the build before commit."
+    },
+    {
+      "date": "2025-11-24T06:39:48",
+      "text": "The Javanese PR"
+    },
+    {
+      "date": "2025-11-24T06:42:00",
+      "text": "I mean can u make me dev on the repo :)"
+    },
+    {
+      "date": "2025-11-26T07:44:30",
+      "text": "My tn miner down for an hour. At offices to check it in a bit."
+    },
+    {
+      "date": "2025-11-26T08:07:04",
+      "text": "rebooting"
+    },
+    {
+      "date": "2025-11-26T08:58:44",
+      "text": "looks like others started mining, great!"
+    },
+    {
+      "date": "2025-11-26T08:58:48",
+      "text": "mine is back online too"
+    },
+    {
+      "date": "2025-12-13T07:39:39",
+      "text": "Yup. Give me a sec."
+    },
+    {
+      "date": "2025-12-22T17:20:58",
+      "text": "I’ll remove that from my dash too. Need to remove my old tn node from it too."
+    },
+    {
+      "date": "2025-12-22T22:19:49",
+      "text": "updated dash a bit: https://infra-p2p.ergoplatform.com/cgi-bin/dashboard.cgi"
+    },
+    {
+      "date": "2025-12-23T05:26:26",
+      "text": "lol magic? Idk might have it swapped in label. I’ll check :) was late."
+    },
+    {
+      "date": "2026-01-03T08:10:37",
+      "text": "Lmfao"
+    },
+    {
+      "date": "2026-01-03T08:44:43",
+      "text": "Can’t be client side easily ser or else I would have."
+    },
+    {
+      "date": "2026-01-11T07:31:06",
+      "text": "Cornell infra down for a few."
+    },
+    {
+      "date": "2026-01-11T07:32:24",
+      "text": "No. It’s a switch issue in the central infra closet."
+    },
+    {
+      "date": "2026-01-11T07:32:39",
+      "text": "Have to wait for central support as it’s theirs."
+    },
+    {
+      "date": "2026-01-11T15:03:05",
+      "text": "Cornell is back up, lets let is sync and catch up"
+    },
+    {
+      "date": "2026-01-11T15:13:35",
+      "text": "i take it back, they are poking stuff, prob trying software resets first, was up and down again"
+    },
+    {
+      "date": "2026-01-11T16:22:59",
+      "text": "yup"
+    },
+    {
+      "date": "2026-01-11T16:23:17",
+      "text": "main ergo.aap.cornell.edu needs a resync (on node, not explorer) will be a bit"
+    },
+    {
+      "date": "2026-01-11T16:26:39",
+      "text": "bringing down that explorers front end for now"
+    },
+    {
+      "date": "2026-01-11T17:53:34",
+      "text": "ergo.aap.cornell.edu is back up in about 2 mins while it finishes up explorer sync...i copied a node from a p2p in the same rack, nice fast 20 min install ;)"
+    },
+    {
+      "date": "2026-01-11T17:53:42",
+      "text": "what a freaking ordeal"
+    },
+    {
+      "date": "2026-01-11T17:54:18",
+      "text": "i will rewrite the sigs dashboard and the infra dao dashboard to fully run on ipfs"
+    },
+    {
+      "date": "2026-01-11T17:54:32",
+      "text": "html/java should be enough, no need for fancy state of the art perl"
+    },
+    {
+      "date": "2026-01-12T07:05:11",
+      "text": "R u grabbing things in parallel? Why don’t we do that actually? Like torrents."
+    },
+    {
+      "date": "2026-01-16T11:04:44",
+      "text": "resyncing node (explorer is ok i think) for testnet, please keep yours up over there so i get it synced"
+    },
+    {
+      "date": "2026-01-16T11:51:05",
+      "text": "node is up and synced and explorer is reading new blocks from it"
+    },
+    {
+      "date": "2026-01-16T11:51:21",
+      "text": "ty Lithos testers for running nodes and making the sync fast with no stucks"
+    },
+    {
+      "date": "2026-01-16T11:52:30",
+      "text": "60 gigs free on that machine which is only doing that job of explore for TN, just need to figure out why docker panicked twice in two days and ate the logs for lunch."
+    },
+    {
+      "date": "2026-01-16T12:01:41",
+      "text": "ser, this is testnet"
+    },
+    {
+      "date": "2026-01-16T12:04:15",
+      "text": "it won't work on Main explorer api?"
+    },
+    {
+      "date": "2026-01-16T12:04:20",
+      "text": "or just p2p"
+    },
+    {
+      "date": "2026-01-16T12:04:43",
+      "text": "u try ergo.aap api?"
+    },
+    {
+      "date": "2026-01-16T12:05:09",
+      "text": "and ill give you a direct IP to test too in a sec for p2p"
+    },
+    {
+      "date": "2026-01-16T12:05:46",
+      "text": "then p2p won't get it :( they are half the ram as ergo.aap even and slower disk...at most we need a new index that helps with that i assume"
+    },
+    {
+      "date": "2026-01-23T02:28:01",
+      "text": "i've limited the LB to a single explorer on main while we test this temp patch"
+    },
+    {
+      "date": "2026-01-23T03:01:11",
+      "text": "generic explorer temp fix instructions are in discord side of this chat (they didn't come over via bridge) FYI"
+    },
+    {
+      "date": "2026-01-25T18:25:10",
+      "text": "Luivatra, having some fun with claude tonight...recreating explorer with perl, adding some robust queries, and a back end panel with server stats that it's running on"
+    },
+    {
+      "date": "2026-01-25T18:25:22",
+      "text": "parallel batch syncing"
+    },
+    {
+      "date": "2026-01-26T11:12:43",
+      "text": "i can give you what to update if you like (only a couple things)"
+    },
+    {
+      "date": "2026-01-27T05:58:13",
+      "text": "Ahhh right. Forgot to fix those. Ty."
+    },
+    {
+      "date": "2026-01-27T05:58:16",
+      "text": "Ty"
+    },
+    {
+      "date": "2026-01-27T12:30:44",
+      "text": "ergo.aap.cornell.edu and it's 128.253.41.49 node down for a bit...resync triggered on 6.1.2 for some reason."
+    },
+    {
+      "date": "2026-01-27T12:31:46",
+      "text": "Aco, 128.253.41.100, 128.253.41.101, 128.253.41.102 from the p2p nodes are patched to 6.1.2, rest of LB p2p nodes will eventually catch up."
+    },
+    {
+      "date": "2026-01-27T12:35:21",
+      "text": "was on 5.1.2 i think"
+    },
+    {
+      "date": "2026-01-27T12:35:45",
+      "text": "maybe even a snapshot. idk, should be up again by end of day perhaps and oracle too"
+    },
+    {
+      "date": "2026-01-27T12:36:08",
+      "text": "ill test your commit for explorer backend on one of the main LB's soon"
+    },
+    {
+      "date": "2026-01-27T12:36:19",
+      "text": "then i will work at copying that commit to my p2p explorer repo"
+    },
+    {
+      "date": "2026-01-27T12:40:00",
+      "text": "hmm, ok, tn diverged a little bit, but can prob still apply your recent fixes to that specifically."
+    },
+    {
+      "date": "2026-01-27T12:40:06",
+      "text": "sounds good will let u know"
+    },
+    {
+      "date": "2026-01-28T08:41:38",
+      "text": "which endpoint are you using? ergo.aap is down atm"
+    },
+    {
+      "date": "2026-01-28T08:41:40",
+      "text": "it's syncing"
+    },
+    {
+      "date": "2026-01-28T08:44:58",
+      "text": "give me the query you're doing and ill troubleshoot"
+    },
+    {
+      "date": "2026-01-28T08:45:25",
+      "text": "main explorers are on gql 5.5"
+    },
+    {
+      "date": "2026-01-28T08:46:21",
+      "text": "try a few times, is nautilus caching the direct IP address of the LB machine we took offline by chance?"
+    },
+    {
+      "date": "2026-01-28T08:48:42",
+      "text": "tested sigmanspace gql in nautilus, works\ntested p2p gql and it works\n\nand yes breaking for me on main explorer gql"
+    },
+    {
+      "date": "2026-01-28T08:50:57",
+      "text": "lemme see if it's only one"
+    },
+    {
+      "date": "2026-01-28T08:50:57",
+      "text": "sec"
+    },
+    {
+      "date": "2026-01-28T08:53:23",
+      "text": "ill bounce GQL in a sec"
+    },
+    {
+      "date": "2026-01-28T08:54:14",
+      "text": "in a meeting. most new nautilus are using sigmaspace, so lemme just announce in main about main will be a few"
+    },
+    {
+      "date": "2026-01-28T08:56:21",
+      "text": "ok, wonder if i have gql pointing to my .49 node that is syncing atm. thoguht it was all 213 but i may have spread it for redundency."
+    },
+    {
+      "date": "2026-01-28T08:56:30",
+      "text": "please give me a a bit sers"
+    },
+    {
+      "date": "2026-01-28T08:56:43",
+      "text": "there are many alternatives while i finish my IRL meeting"
+    },
+    {
+      "date": "2026-01-28T08:56:55",
+      "text": "we built in redundancy sers"
+    },
+    {
+      "date": "2026-01-28T09:52:36",
+      "text": "yup, using .49 there for gql"
+    },
+    {
+      "date": "2026-01-28T09:52:40",
+      "text": "lemme fix and rebuild sec"
+    },
+    {
+      "date": "2026-01-28T09:52:46",
+      "text": "wish these things had rollover :("
+    },
+    {
+      "date": "2026-01-28T09:56:11",
+      "text": "when .49 is back up ill do one gql to that and one to 213"
+    },
+    {
+      "date": "2026-01-28T09:58:11",
+      "text": "FIXED"
+    },
+    {
+      "date": "2026-01-28T09:58:25",
+      "text": "pointing at kushti now, changed yml file and rebuilt gql on both LB's"
+    },
+    {
+      "date": "2026-01-28T10:03:24",
+      "text": "thanks for alerting us ser!"
+    },
+    {
+      "date": "2026-01-28T10:43:20",
+      "text": "not sure if code supports it, for no ill just split once .49 is up, perhaps anon_br can answer if that line in the .yml supports commas?"
+    },
+    {
+      "date": "2026-01-28T10:44:28",
+      "text": "i could prob write a script that tests a tx, and if it fails, to rewrite the yml and then rebuild gql"
+    },
+    {
+      "date": "2026-01-28T10:44:46",
+      "text": "that's super duct tape though ser, super"
+    },
+    {
+      "date": "2026-01-28T10:49:45",
+      "text": "it's in the github ser"
+    },
+    {
+      "date": "2026-01-28T10:50:07",
+      "text": "at least i didn't set it lol"
+    },
+    {
+      "date": "2026-01-28T11:50:25",
+      "text": "Yes. Will do."
+    },
+    {
+      "date": "2026-01-28T11:50:48",
+      "text": "Yeah. I need to build in query checks to be more robust."
+    },
+    {
+      "date": "2026-01-28T21:18:22",
+      "text": "@kushti_ru \n\nI've updated the dashboard to check node indexed height as well as graphql reported height. any of the heights the dash checks will throw a color if they are off by 5 blocks."
+    },
+    {
+      "date": "2026-02-02T07:22:00",
+      "text": "Have u tried queries direct with gql interface to make sure it isn't the node ser?"
+    },
+    {
+      "date": "2026-02-06T12:50:50",
+      "text": "it's been two years since i brought that site from broken server. i need to reacquaint myself... but yeah, michael want access when i do?"
+    },
+    {
+      "date": "2026-02-06T12:51:09",
+      "text": "from what i remember some stuff was added NOT via github, which is why i had such trouble recreating it"
+    },
+    {
+      "date": "2026-02-06T12:51:25",
+      "text": "not sure if i repeated the same quick and easy to just get it operational, or correct way"
+    },
+    {
+      "date": "2026-02-06T13:38:52",
+      "text": "Worst case there is a back end and u just add like any other cms."
+    }
+  ]
+}

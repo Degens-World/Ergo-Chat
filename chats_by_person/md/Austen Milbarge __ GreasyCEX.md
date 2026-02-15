@@ -1,0 +1,510 @@
+# Austen Milbarge // GreasyCEX
+
+**Total messages:** 52
+
+---
+
+**2023-04-16T11:50:10**
+
+Hello everybody! 
+
+Working with @HQ3rr to collect some info!
+
+HQ is going to create a section/page within Ergcube to showcase all current running giveaways and bounties. It would be of great help if you could post info and/or link to your current giveaway/promotion and tag @HQ3rr and I.
+
+---
+
+**2023-04-24T17:47:18**
+
+Yes, but it’s called Rosenbridge.
+
+---
+
+**2023-05-15T18:00:07**
+
+Nans for short?
+
+---
+
+**2023-06-21T11:09:30**
+
+Can you link to discord, I’m eager. 😂
+
+---
+
+**2023-06-21T11:16:30**
+
+Thank you sir!
+
+---
+
+**2023-07-03T11:53:37**
+
+Could they not make a reverse hodl contract with no fees and people mint there erg back with Hodlerg .. then the Lp person could do that when they get it back? 
+
+Just reverse, No fees.
+
+---
+
+**2023-07-03T12:27:46**
+
+Aw ffs, now it’s a mess for sure. And scammer is most likely living in these chats watching for shit to stay ahead or exploit more.
+
+---
+
+**2023-07-03T19:34:04**
+
+Same concept as hodlcoin?
+
+---
+
+**2023-07-03T19:47:06**
+
+There’s been a ton of conversation, sounds like sending back to address based on balances of Hodlerg from a snap shot right when before you got ahold of the erg
+
+---
+
+**2023-07-03T19:50:56**
+
+Here’s something to think about and I am an example.
+
+I minted my balance .. the burned 100, minted 100 again, burned 500, minted 500 again. 
+
+I did this to see how much I could impact the ratio and create a possible burn train or if anyone would catch small burns.. and it kept my wallet at the same rank so not know one would see the fluctuations. 
+
+that’s why almost immediately there was 18 erg more in TVL than Hodlerg. 
+
+So my Hodlerg balance, isn’t the same amount as the Erg I put in
+
+---
+
+**2023-07-03T19:52:03**
+
+I also know I’m not the only one that messed with the burn in small ways. So Hodlerg and Erg TVL will be slightly off.
+
+---
+
+**2023-07-03T19:53:37**
+
+Right.
+
+---
+
+**2023-07-03T19:55:45**
+
+I see
+
+---
+
+**2023-07-03T19:56:31**
+
+Also THANK YOU !!  I and private testing duckpools. And can’t thank you enough for duckpools work , and now this ! 👊🏻💪🏼
+
+---
+
+**2023-07-03T20:00:17**
+
+Interesting. I found my wallet in there.. but it has 2 lines.
+
+---
+
+**2023-07-03T20:00:46**
+
+Neither are the amount I minted and hold of Hodlerg.
+
+---
+
+**2023-07-03T20:01:29**
+
+On HQ it’s right though.
+
+---
+
+**2023-07-03T20:01:32**
+
+https://ergcube.com/index.php?do=static&page=main2
+
+---
+
+**2023-07-03T20:03:50**
+
+Actually add them together and it is the right amount.
+
+---
+
+**2023-07-03T23:32:46**
+
+Yes, hodlcoin contract was compromised, kras from duckpools saved the erg from the TVL pool, and they are working to send it all back. 
+
+Don’t move or send any Hodlerg. Just sit tight until you get your Erg back .
+
+---
+
+**2023-07-03T23:38:03**
+
+Oh ok, then yeah, whoever took advantage of the Contract and Drained the LP sent Millions of Hodlerg to everyone.
+
+---
+
+**2023-07-07T11:19:30**
+
+@kushti_ru “Welcome to Ergo, now get your ass to work.. there’s shit to do”
+
+---
+
+**2023-07-13T12:56:04**
+
+Hey Blitz, what do tyou use to mint you NFT's? could I DM you about my project to get some advice?
+
+---
+
+**2023-07-13T13:59:41**
+
+Thank you!, I might do so just to get best advice.. because i think you are minting similar to what I will need to do.
+
+---
+
+**2023-07-19T11:43:54**
+
+GREASYCEX (GCX)
+
+First Dev Update!
+
+Currently working on finalizing the paper for Greasy Mission #1.  So far, we’ve had 3 Peer reviews and working to get a few more to apply more experience to the mission’s plan. Hoping to have Mission #1 Paper out in 3-4 Weeks followed by AMA regarding the Mission.
+
+Completed: (Last Couple Weeks)
+
+• Greasy Paper – Completed – Shared Via GCX Twitter
+• Webpage – Update in Progress – @HQ3rr  is managing UI - Currently using Temporary place holder landing page via Ergcube Server. 
+• NFT’s – Full Collection is Complete, Ready For Minting – Minting will be done 24-48hrs before mission. 
+• Greasy Mission #1 Paper: We have confirmed all tokenomics are programmable, including NFT airdrop ratios - @pulsarzz is managing this portion of the Mission.
+• Spectrum Listing – Official Listing (Shout out to that Team for the Support)
+
+Next Steps;
+• Continued Peer Review on Mission #1 paper
+• Content Building for Mission #1 Marketing
+• Tokenomics Info Graphic for Mission #1
+• Update New Website in Prep for first mission. with Links to Greasy Paper.
+
+---
+
+**2023-07-27T12:37:57**
+
+late Update, Sorry was out of town for work yesterday..
+
+---
+
+**2023-07-27T12:38:02**
+
+GREASYCEX (GCX)
+
+HQ and Austen are currently Building out Stage and Website UI. Puls will be testing and implementing BOT over the next week.  Still working on finalizing the paper for Greasy Mission #1 and having final peer reviews. Hoping to have Mission #1 Paper out end of next week with Info Graphic to Support. 
+
+Updates:
+
+• Webpage – Updates in Progress – Mission Stage UI’s 99.99% Complete
+• NFT’s – Updated Ultra Versions to be extra GREASY.. Full Collection is Complete, Ready for Minting – Minting will be done 24-48hrs before mission. 
+• Greasy Mission #1 Paper: Hoping to have this released end of Next week. We are waiting on some news from another project prior to release.
+• Mission Info graphic in the works.   
+
+Next Steps:
+• Continued Peer Review on Mission #1 paper
+• Live Website with Links to Paper and Mission Paper
+• Tokenomics Info Graphic for Mission #1
+• Mission #1 Marketing Campaign
+
+---
+
+**2023-08-02T11:36:34**
+
+8.1.2023
+
+GREASYCEX (GCX)
+
+Over the past week we have finalized most tasks in preparation for the release of Mission Paper with expected mission launch 5-7 days after release of Mission paper. We will be doing an AMA via @GreasyCEX Twitter Spaces to discuss the mission with the community and consider any feedback and/or answer questions regarding the missions. 
+
+Updates:
+
+• Webpage –99.9969% Complete.. Puls is working on Hosting, HQ doing some Final Formatting, Austen working on Final Artwork/Info. 
+• Stage Wallets have been Created with Appropriate GCX Allocations
+• NFT’s – Ready for Minting – Minting will be done 24-48hrs before mission. 
+• Greasy Mission #1 Paper: Finalized Ready for Release
+• Mission Info graphic in the works with the famous Torto Designs! 
+
+Next Steps:
+• Release Mission #1 paper
+• Set Website Live, with Links to Paper and Mission Paper
+• Release Info Graphic for Mission #1
+• Mission #1 Marketing Campaign 
+• Launch Mission #1
+
+---
+
+**2023-08-16T20:14:41**
+
+/t 69 GreasyCEX sir you are being a great human!
+
+---
+
+**2023-08-30T11:04:23**
+
+GREASYCEX (GCX)
+
+8.30.2023
+
+We’re Back Baby! After a great response from our first mission, we’ve have started the process for Greasy Mission #2, The Greasy Royale. The Greasy Royale will continue GCX’s Main Mission to raise funds for Ergo Adoption. We may already have an objective in place for the funds raised from the Greasy Royale!
+
+Completed: (Last Couple Weeks)
+
+• Greasy Royale Paper (Mission #2)– Competed, Reviewed and Revised
+• Artwork Partnership in Discussion in Progress, along with a Possible Project Partnership and Cross Ecosystem Operability. 
+• Side Note: Luivata and Yulias Worked together add the entire ErgoFans Collection to the tipper bot, so you can now trade P2P as intended. 
+o 3 more Legendary Sets are waiting for homes, they go to anyone that achieves full collection!
+
+Next Steps:
+• Continued Peer Review on Greasy Royale Paper – Confirm programmability.
+• Webpage – Start Updating Process and Theme Changes
+• Review Mission Sponsor Ship Opportunities
+• Establish NFT Allocations
+• Top Secret Functionality (will share more once Programmability is confirmed)
+• Release Greasy Royale Paper to community.
+• AMA regarding the Greasy Royale participation requirements, and rewards.
+
+GREASY MISSION #1’S TOTAL ECOSYSTEM IMPACT REPORT 
+
+• Raised 2,464 $ERG for Ergo Adoption Initiatives
+• Donated 1412 $ERG to Bitpanda Raffle
+• Raised and Burned 2,554 HodlERG3
+• The Burn increased Price of HodlERG3 to approximately +3%, to a “Break Even Zone” (Which was an indirect goal for the mission)
+• Funded HodlERG3 Devs appx 245 $ERG through burning (Estimate Based on .3% Dev Fee per TX)
+• Drove Volume on Spectrum Dex
+• Hodlerg3 Burn Concept Resulted in Burn Contract that Stress Tested Ergo Mempool (LOL)
+• Created Thousands of Impressions on Socials for Ergo (Will Continue with NFT’s)
+• Created volume on Auction House
+• Created Volume on Sky Harbor 
+• Encouraged New NFT Presentation tool on Sigma.Gallery, and drove traffic to Sigma.Gallery 
+• Created paid work opportunity for NFT Artist
+• Drove over 2,495 TX’s through the Donation Wallets
+• Encouraged Ability to Tip NFT’s with Tipbot
+• Endless P2P Trading and Sales of the ErgoFans Trading Cards 
+• AND GREAT ENTERTAINMENT, FUN, and COMMUNITY BONDING EXPERIENCE
+
+---
+
+**2023-09-02T20:40:45**
+
+Works on mine.
+
+---
+
+**2023-09-02T20:40:45**
+
+Maybe you need to turn on setting on your phone .. for terminus specifically .. in terminus wallet settings?
+
+---
+
+**2023-09-06T14:29:06**
+
+9.5.2023
+
+GREASYCEX (GCX)
+
+Over the Last week we were able make a lot of progress in the planning for development of Greasy Mission #2: The Greasy Royale. We have confirmed this mission objective will be the MEXC listing! ( Greasy Leaks in this update)
+
+Completed: 
+
+• Greasy Royale Tokenomics –Programmability Confirmed
+• Completed 29 Page NFT Creative Brief for NFT Artist - Approximately 200 Individual NFTs coming (Greasy Leak)
+• NFT Tokenomics – Established the Number of NFTs in Mission and Distribution Metrics (All Donations will have 100% chance of NFT Reward – Greasy Leak) 
+• Artwork & Project Partnership in Final Stages of Confirmation – Moving into testing Artwork 
+• Top Secret Functionality Confirmed
+
+Next Steps:
+• Greasy Royale Paper (Mission #2) – Public Version - for full Release of Mission, Participation Specifics, NFT Allocations, and the BIG FAT GREASY REWARDS!
+• Make Partnership Announcement & Start Mission Campaign- Building Marketing Assets 
+• Webpage – Update to Greasy Royale Theme
+• Review Mission Sponsor Ship Opportunities 
+• AMA regarding the Greasy Royale participation requirements, and rewards.
+
+---
+
+**2023-09-11T13:49:05**
+
+Hey Sam, I reached out to you regarding something on Discord DM. I wasnt able to Communicate directly through public Dev Channel to let you know i was doing so.
+
+---
+
+**2023-09-12T22:43:13**
+
+Shooting this out early, I won't be readily available tomorrow to add.
+
+---
+
+**2023-09-12T22:43:16**
+
+9.12.2023
+
+GREASYCEX (GCX)
+
+We have continued to progress Greasy Mission #2: The Greasy Royale, a rewarding fundraiser for MEXC. We have solidified our partnership as well as an additional major break through collaboration.  Confirmed a 500 $ERG Grand Prize, based on tokenomics of the mission. 
+
+Completed: 
+
+• Greasy Royale Paper (Mission #2) – Public Version - for full Release of Mission
+• TEST NFT Artwork Approved, moving to full 100 Character NFT Production.
+• Website Theme Update Plan: HQ to Implement After Partnership Announcement
+• Now we have 2 Top Secret NFT Functionalities Confirmed
+• Confirmed 5 Mission Sponsors (SO FAR) – Mission sponsors will be incorporated into the mission’s rewards and recognized as major contributors to the mission goals! So appreciative of the support so far. If Projects are interested in sponsoring the mission and what they will receive for sponsorship, please reach out!
+
+Next Steps:
+• Finalize Website Theme Update
+• Build Final Character Card NFTs ( 2 weeks out)
+• Build All Supply Card NFT’s – (Next 2 weeks)
+• Partnership Announcement - Including Sponsorships
+• Start Mission Marketing Campaign- Building Marketing Assets 
+• Research additional Mission Sponsorship Opportunities - Continued
+• AMA regarding the Greasy Royale participation requirements, and rewards – Slated for September 19Th – Would Love to have someone join in hosting with me and encourage many people to join to hear about all the ways this mission will interact with our ecosystem and how the participation will work!
+
+---
+
+**2023-09-20T12:17:47**
+
+9.20.2023
+GREASYCEX (GCX)
+
+Behind the scenes progress is looking good.  Been working on Ergo Ecosystem Merch for NFT Conference, so have  had to re allocate some time. Mission will most likely be the Following Week after Vegas NFT con. 
+
+Completed: 
+
+• Greasy Royale Paper (Mission #2) – Public Version - for full Release of Mission
+• 50% completed - 100 Character NFT Production.
+• Website Theme Update 50% Complete - HQ to Implement After Partnership Announcement
+• Confirmed 7 Mission Sponsors (SO FAR) – (Mission sponsors will be incorporated into the mission’s rewards and recognized as major contributors to the mission goals! So appreciative of the support so far. If Project is interested in sponsoring the mission and what they will receive for sponsorship, please reach out!)
+
+Next Steps:
+• Finalize Website Theme Update
+• Leader Board Artwork
+• Build Final Character Card NFTs ( 1.5 weeks out)
+• Build All Supply Card NFT’s – (Next 2 weeks)
+• Partnership Announcement - Including Sponsorships
+• Start Mission Marketing Campaign- Building Marketing Assets 
+• AMA regarding the Greasy Royale participation requirements, and rewards – Slated for September 23rd – Will have QX Co-Host and to help provide QA for Missions
+
+---
+
+**2023-09-27T08:53:34**
+
+9.27.2023
+GREASYCEX (GCX)
+
+We had a Great AMA, Lots of fun! If you couldn’t join, there are links to recording/podcast in socials.   
+
+We released our Main partnering with CyberVerse on this Mission, the Character NFT’s will be displayable within CyberVerse NFT’s! AND one of our sponsors, Terahertz, will be adding a unique audio file to the Character NFT’s. Allowing you to hear an Audio Track that’s paired to the Character you Receive for entry to the Greasy Royale.
+
+Completed: 
+
+• NFT Character Art Complete 
+• Website Theme Update – minor Tweaks Left
+• Partnership Announcements
+
+Next Steps:
+• Finalize Website Theme Update – leader board
+• Leader Board - Configuration
+• Build Final Character Card NFTs (1  weeks out)
+• Addition of Audio Files & Minting
+• Build All Supply Card NFT’s – (Next 2 weeks)
+
+Sponsors of Greasy Royale Mission: Terahertz, Lilium, Sigmanauts, Comet, ErgCube, Spectrum, and Grand Gambit
+
+---
+
+**2023-09-28T13:39:43**
+
+How much is ergo?
+
+---
+
+**2023-09-30T15:24:30**
+
+https://vxtwitter.com/GreasyCex/status/1708215430945649021?s=20
+
+---
+
+**2023-10-19T22:19:11**
+
+how/why does that happen?
+
+---
+
+**2023-10-26T00:40:59**
+
+Oh like gas?
+
+---
+
+**2023-10-26T00:41:03**
+
+lol.
+
+---
+
+**2023-10-26T00:41:11**
+
+Erg.eth
+
+---
+
+**2023-10-26T00:42:23**
+
+Would have to be flat fee and like .002 instead of .001 current
+
+---
+
+**2023-10-26T00:43:31**
+
+Same but it would have to be still low.. 
+
+But also.. when 1 erg = $100.. fee won’t seem so low.
+
+---
+
+**2023-10-26T00:44:37**
+
+lol… I’ve never actually done the math.
+
+---
+
+**2023-10-26T00:44:53**
+
+MB
+
+---
+
+**2023-10-26T00:45:38**
+
+So insane.
+
+---
+
+**2023-11-07T14:35:05**
+
+Can someone point me to summary of the Sub Blocks (weak blocks) and how they work..
+
+---
+
+**2023-12-14T08:50:53**
+
+/t 6969 greasycex intern salary
+
+---
+
+**2024-09-25T09:30:39**
+
+Idea #10 by Austen
+
+Finish the new ErgoPlatform website that’s been in the works for the last year
+
+From what I know, There is a lot of progress already done, just needs someone to integrate the new design. Not quite sure, but this ergo hack could be an opportunity to get that finished.
+
+---
+

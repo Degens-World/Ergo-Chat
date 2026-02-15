@@ -1,0 +1,60 @@
+# Kubele 🇦🇷
+
+**Total messages:** 9
+
+---
+
+**2025-09-16T02:41:50**
+
+Will subblocks be fully functional and live with this update?
+
+---
+
+**2025-09-16T02:43:21**
+
+So when can we expect subblocks to be fully live?
+
+---
+
+**2025-09-16T03:03:36**
+
+Its crazy that ergo is about to be faster and cheaper than ada with proof of work but yet market cap is super low, what's happening in this space
+
+---
+
+**2025-09-16T03:04:15**
+
+No subblocks would mean desarter for ergo
+
+---
+
+**2025-09-16T03:04:40**
+
+Its main thing missing
+
+---
+
+**2025-10-03T02:39:22**
+
+Is ergo emission ruduction happening tomorrow?
+
+---
+
+**2025-10-11T05:48:59**
+
+https://x.com/liqwidfinance/status/1976778373168087162?t=6KvsZba4opQa3ArFSWabEg&s=19
+
+---
+
+**2025-10-11T05:49:42**
+
+Lets post here to get people to move to ergo and the true decentralized blockchain where things don't shut down because of crash
+
+---
+
+**2025-10-14T05:27:46**
+
+Used it quickly, just incase makets drop down alot more soon
+
+---
+

@@ -1,0 +1,18 @@
+{
+  "sender": "Kartik",
+  "total_messages": 3,
+  "messages": [
+    {
+      "date": "2024-05-23T02:09:18",
+      "text": "Hi, I am new to ergo. I was looking at https://github.com/ergoplatform/ergo and found it interesting. In the README, it list below:\n\nAutolykos2: A memory-hard Proof-of-Work function, providing enhanced security.\n\nI have following question:\n1. In src where the top level function of Autolykos2 is implemented?\n2. Is there any unit tests available for Autolykos2?"
+    },
+    {
+      "date": "2024-05-23T02:10:46",
+      "text": "Any pointers are appreciated."
+    },
+    {
+      "date": "2024-05-23T07:26:24",
+      "text": "Thanks. Appreciate your help."
+    }
+  ]
+}

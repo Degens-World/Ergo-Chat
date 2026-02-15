@@ -1,0 +1,2281 @@
+=== Chat history for: qx() ===
+=== Total messages: 710 ===
+
+[2022-10-30T13:15:12]
+how many tx's are you trying? 🙂
+
+[2022-10-30T13:35:06]
+r u on tn or r u murdering 3000 never to be used again wallets 🙂
+
+[2022-10-30T13:35:12]
+those poor wallets
+
+[2022-10-31T14:53:44]
+hot damn 🙂
+
+[2022-10-31T15:12:20]
+Isn’t it the same?
+
+[2022-10-31T15:14:21]
+Not for long once that news spreads.
+
+[2022-10-31T15:14:26]
+🤣
+
+[2022-11-03T07:13:12]
+seems a lot lot faster. syncing icon is up for about 1 second compared to like 3-5. i will do a tx and make sure it works tho.
+
+[2022-11-07T09:50:19]
+thanks 😉 now my wallet shows my billions correctly
+
+[2022-11-07T10:07:36]
+has the cardano ecosystem fallen apart with all your focus on ergo? 😉
+
+[2022-11-11T13:30:49]
+ty kind sir 😉
+
+[2022-11-13T18:38:21]
+tf = thanks friend
+
+[2022-11-13T18:38:25]
+;)
+
+[2022-11-13T19:28:44]
+front end devs are like healers in WoW. ;)
+
+[2022-11-13T21:20:44]
+decentralized oracle? or art deco...now i won't sleep until you tell us
+
+[2022-11-13T21:29:17]
+/t 1 love
+
+[2022-11-13T21:29:21]
+ty for letting us sleep
+
+[2022-11-14T11:48:40]
+correcting Armeanio should be added to the bug bounty!
+
+[2022-11-17T19:45:21]
+is no one mining tn?
+
+[2022-11-24T07:53:20]
+Why not go from form right into MySQL?
+
+[2022-11-24T07:56:31]
+Yes. At that point you’d make it default to “no” and your query only lists entries you have changed to “yes”
+
+[2022-11-24T12:54:42]
+I guess I’ve never hit that threshold :)
+
+[2022-11-24T12:55:22]
+I also use make.com for some middleware stuff. Works really well.
+
+[2022-11-24T13:11:08]
+It’s pricy tho if u have many actions.
+
+[2022-12-16T08:14:17]
+u can't get in that ops channel @kushti_ru ?
+
+[2022-12-16T08:16:38]
+tagged u in a thread to see if you can see
+
+[2022-12-22T08:34:48]
+here is hash API bro: https://api.ergoplatform.com/info
+
+[2022-12-22T08:35:04]
+i use it for my bot
+
+[2022-12-22T08:36:26]
+you might wanna cache it every hour or so as it is subject to explorer overloads and won't load on your page every time under heavy load.
+
+[2022-12-22T09:10:05]
+u using the JS code?
+
+[2022-12-22T16:01:46]
+i thought they were, i have them bookmarked, sec.
+
+[2022-12-22T16:02:12]
+nope, name changed or pulled offline:
+https://github.com/duckpools/lend-protocol-contracts
+
+[2022-12-22T16:03:29]
+that link was the second link too, this was the first one that went offline a month ago: https://github.com/duckpools/lending-protocol
+
+[2022-12-22T16:07:26]
+thanks! @HQ3rr try this and see if you can get it before i settle down later 😉
+
+[2023-01-07T19:40:59]
+awesome idea CW
+
+[2023-01-14T21:30:21]
+Admittedly, wasn't easy to figure out as a new person too. 
+
+The way it was initially explained to me is that one good method isn't to just impromptu bang out an EIP (unless you're Wilford of course 🙂 ), it's to engage in discussions about what the issue to fix or change is first. Once that occurs for how much ever time and discussion is needed there will better footing for a cleaner and more understandable EIP proposal. 
+
+Then you can fork EIP git repo, follow EIP-1 as a guide, and do a pull request. 
+<https://github.com/ergoplatform/eips>
+
+The idea was, if a new non dev comes into chat and discusses some changes that warrant an EIP, by the end of the discussions they should have enough help/assistance to be able to fork and update. 
+
+My initial thought would be, beyond how easy it is to manage this on github, having another system might take a LOT more oversight and work. Cardano does it here nicely but im sure with a decent amount of commitment: <https://cips.cardano.org/>
+
+Watch, Mark's gonna drop a link tomorrow that we've all been missing 🙂
+
+[2023-01-14T21:58:47]
+yeah, true.....but i've also found that people without dev experience will have a totaly different PoV that dev's might not even think about....can introduce it and then start that spark...i do agree that opening a suggestion box function for non devs is the wrong way to go, too much curation for the current bandwidth. instead of telling non dev's to do an EIP i think it's best to encourage them to engage with others, and devs, to see what merit their idea holds, first.
+
+[2023-01-14T22:36:11]
+yeah, that's essentially my perception as well.
+
+[2023-01-31T11:49:35]
+the api, sec, lemme get new link for u
+
+[2023-01-31T11:49:47]
+u want only the verfied feed, or everything?
+
+[2023-01-31T11:51:02]
+here is all of them: https://api.spectrum.fi/v1/amm/markets?from=1653075262280
+
+[2023-01-31T11:51:39]
+this next one is verified only i believe: 
+https://api.spectrum.fi/v1/amm/pools/summary
+
+[2023-01-31T11:51:46]
+i use the top one for all my bots
+
+[2023-01-31T11:52:16]
+u can either assume sigusd is 1$ and convert based on that, or get the oracle price of it.
+
+[2023-01-31T11:52:25]
+verified is only like 13 tokens
+
+[2023-01-31T11:52:33]
+the top feed gets ANYTHING that has been traded on the dex
+
+[2023-01-31T11:52:41]
+so overlapping for the 13
+
+[2023-01-31T11:52:46]
+totally 🙂
+
+[2023-01-31T11:53:01]
+that's why the date on the top feed is like from march 2022
+
+[2023-01-31T11:53:09]
+the trailing server time
+
+[2023-01-31T11:53:18]
+epoch time
+
+[2023-01-31T11:53:33]
+u can leave it at that always
+
+[2023-01-31T11:53:57]
+gets it all, i can verify for the last 8 or 9 months of using it
+
+[2023-01-31T11:54:12]
+and we made specturm feel bad enough about it that they are keeping it around
+
+[2023-01-31T11:54:24]
+thanks guys 😉
+
+[2023-01-31T11:56:36]
+there are specific individual pool feeds too, i used those at first but it was too hard to guess how far to look back for infrequently traded tokens
+
+[2023-01-31T12:03:22]
+yup correct
+
+[2023-01-31T12:03:29]
+look at love token
+
+[2023-01-31T12:03:45]
+i made the pool and put in 50 erg so 1 erg per 100 love
+
+[2023-01-31T12:03:59]
+for some reason people bought and now it's 77 per erg or something like that
+
+[2023-01-31T12:04:19]
+so in my wallet holding the love it looks like i have $23,000 worth of love lol
+
+[2023-01-31T12:07:26]
+lol rero
+
+[2023-01-31T12:07:35]
+who made that
+
+[2023-01-31T13:18:10]
+great idea, just don't tell anyone how shallow the LP is 😉
+
+[2023-02-03T06:13:27]
+Can u put the list in the data of a tx that has an nft in it? So ur wallet looks for that specific nft and reads the node data from the tx. Then, if nodes change you spend the nft in another tx and hardcode new node data in the registers of the tx? Or is that dumb. Get block did something similar when they had pooled mining I think.
+
+[2023-03-26T12:39:56]
+Spectrum api has historic price data
+
+[2023-03-26T12:40:18]
+In the charts api i think, i haven’t used the chart data since i collect my own for 24 hours
+
+[2023-03-26T12:41:08]
+Actually you can ping the spectrum pool api to get the historic price
+
+[2023-03-26T13:16:49]
+here is an example:
+<https://api.spectrum.fi/v1/amm/pool/7d2e28431063cbb1e9e14468facc47b984d962532c19b0b14f74d0ce9ed459be/chart?from=1658000000000>
+
+[2023-03-26T13:17:13]
+that's neta prices since mid july
+
+[2023-03-26T13:17:32]
+change the epoch time at the end of the link to the earliest date you need
+
+[2023-03-26T13:17:52]
+and it will show you the price IN that token count = 1 ERG
+
+[2023-03-26T13:18:36]
+so for the first price you see NETA 336.011500 meaning it takes 336.011500 for 1 erg, and then you need to know the price of erg at that time too
+
+[2023-03-28T21:46:24]
+my POWERS are limited! 🙂
+
+[2023-03-28T21:46:33]
+i can do discord tho
+
+[2023-03-28T21:46:33]
+sec
+
+[2023-03-28T21:47:44]
+oh right, if i delete from discord it deletes here, just not other way 🙂
+
+[2023-03-28T21:47:47]
+all is good
+
+[2023-04-03T15:36:25]
+no royalty tho with that u said no?
+
+[2023-04-04T12:06:36]
+awesome
+
+[2023-04-10T09:07:20]
+explorer is halfway synced (postgres from node sync, node is already synced). 
+Working on ssl cert and then battery backup and we should have a new pretty fast explorer instance to share.
+Sync going fast, over halfway in 10 hours.
+
+[2023-04-13T18:10:00]
+Wouldn’t have it any other way! Ur better at IT when drunk.
+
+[2023-04-13T18:45:20]
+It’s really nice to see u in chats, Dan. Warms my heart.
+
+[2023-04-13T18:45:43]
+U should write code for tea companies more often.
+
+[2023-04-13T18:46:02]
+And u better call them NFTea’s
+
+[2023-04-16T08:39:52]
+Sorry. Forgot late edits pop up again on tele. Was just making ssl note warning for ergo mobile wallet on iOS
+
+[2023-04-17T19:07:44]
+PCI express storage and UPS deliver wed, will install Monday since I’m in the city rest of week.
+
+[2023-04-17T19:08:22]
+For ergo.aap.cornell.edu explorer that is.
+
+[2023-04-17T19:10:15]
+Lol I’m not battery backup that PoS testnet rig lol
+
+[2023-04-17T19:10:27]
+I can fix in a few hours if it goes down so no worries.
+
+[2023-04-17T19:10:54]
+Also, want me to get some street hot dogs and mail them up to u?
+
+[2023-04-17T20:56:13]
+yah!
+
+[2023-04-30T12:25:47]
+What’s the command to see how far indexed the node is?
+
+[2023-04-30T15:01:59]
+looks like as soon as i started 5.0.9 it forced a re-index
+
+[2023-05-01T14:06:42]
+bring it back then ser
+
+[2023-05-01T15:22:49]
+20 people on auto/paying attention? I just checked, i was one of the 20 that updated ;)
+
+[2023-05-04T11:52:05]
+the 9g59gGF8jxyQxVVqKhxk3THHk56Q2SqjWD6WAix14qqCWZPDyBz works for me too no timeout
+
+[2023-05-04T11:54:05]
+{
+        "tokenId": "eb5c610272be1dd5d740808491a8415bbe4ad38c36b30f737000a19dc55300e9",
+        "amount": 1,
+        "decimals": 0,
+        "name": "PixelTits #08 "
+      },
+
+lol what?
+
+[2023-05-04T11:54:25]
+can u use mine see if it does the same thing? would love a stress test
+
+[2023-05-04T11:54:34]
+i feel like a pimp, trying to pimp out my node
+
+[2023-05-04T11:54:39]
+"please use me"
+
+[2023-05-04T12:04:10]
+i swear my node is tested for STI's weekly
+
+[2023-05-04T13:28:35]
+Lemme see
+
+[2023-05-04T13:31:31]
+Meh, too mobile at the moment
+
+[2023-05-04T13:31:36]
+Try it on this one
+
+[2023-05-04T13:31:42]
+128.253.41.49:9053/swagger#/blockchain/getAddressBalanceTotal
+
+[2023-05-04T13:41:59]
+Offset 0/5 worked for me
+
+[2023-05-04T13:42:02]
+Lemme try ten
+
+[2023-05-04T13:42:08]
+Took about a good 5 seconds tho
+
+[2023-05-04T13:44:59]
+Works for me for 10
+
+[2023-05-04T13:45:42]
+Took about 5 seconds again
+
+[2023-05-04T13:45:56]
+I did just update from 5.09 to 5.10 a few days ago
+
+[2023-05-04T13:47:28]
+Are you using swagger/curl or just trying the http in a web browser?
+
+[2023-05-10T12:55:56]
+@anon_br is the token minting batcher down? Or am i just impatient ;)
+
+[2023-05-12T11:07:06]
+Is that not this?
+
+[2023-05-12T11:07:55]
+And this gets boxes spent and unspent no?
+
+[2023-05-12T11:08:06]
+Plus mempool
+
+[2023-05-12T11:34:05]
+Oh shit lol. Right. Some of those commands r for the node wallet itself. Ooooops.
+
+[2023-05-12T11:34:57]
+Happens too often where I find a GET that fits perfect and then realize I can’t input an address.
+
+[2023-05-13T18:40:47]
+Ok. Do I need to jack up my ratio?
+
+[2023-05-13T18:43:40]
+Lol
+
+[2023-05-13T21:19:10]
+Lemme make sure mine didn’t crash or go to that big one. I keep forgetting my address.
+
+[2023-05-13T23:18:19]
+Ok ty ser
+
+[2023-05-14T17:25:07]
+/t 500 love
+
+[2023-05-14T20:50:42]
+Nice job!!!
+
+[2023-05-31T20:43:09]
+u r crazy bro
+
+[2023-06-03T14:48:36]
+Too late. Already texted your wife.
+
+[2023-06-07T18:07:51]
+I was hoping there was a ranged utxo block call. Can’t find one. 
+
+You’d really want utxos only, not all txs. Otherwise tons of sorting and potentially empty wallets
+
+[2023-06-08T13:51:25]
+hehe, someone :)
+
+[2023-06-08T17:59:25]
+yeah, working on it guys :)
+
+[2023-06-08T17:59:46]
+running into machine limits on reducing dupes for addresses...will get past it and deliver
+
+[2023-06-08T18:00:51]
+MAYBE BECAUSE I DIDN"T THINK OF THAT FFS!
+
+[2023-06-08T18:00:56]
+where were you a little while ago
+
+[2023-06-08T18:01:11]
+i've never tried that, will dig in
+
+[2023-06-08T18:02:19]
+fuck that will be so much easier
+
+[2023-06-08T18:02:33]
+for some reason i didn't even think i could peer into that directly, dum....
+
+[2023-06-08T19:28:26]
+That’s the fun part lmao. /s
+
+[2023-06-08T22:10:35]
+Snapshot every three days and save about 5 or so of those snapshots so I can see each wallet balance on a tend span of about two weeks.
+
+[2023-06-08T22:15:39]
+All
+
+[2023-06-09T08:00:51]
+well that was a lot easier and faster, over 850k addresses
+
+[2023-06-09T08:00:59]
+thanks for the hint @Pulsarzz
+
+[2023-06-09T08:54:54]
+anyone have a table index anywhere?
+
+[2023-06-09T09:01:28]
+U WAN THEM ALL?
+
+[2023-06-09T09:02:34]
+have fun bro, it's uploading to here in a sec
+
+[2023-06-09T09:03:08]
+yeah, working on a sql query still figuring out the table schemas tho...prob can do it in a one line command direct like this was.
+
+[2023-06-09T09:03:26]
+90% uploaded
+
+[2023-06-09T09:03:36]
+yeah, lemme figure it out first tho
+
+[2023-06-09T09:03:56]
+98%
+
+[2023-06-09T09:04:00]
+ALL UNIQUE ADDRESSES AS OF 6_9_2023
+
+[2023-06-09T09:04:07]
+here
+
+[2023-06-09T09:04:09]
+all addresses
+
+[2023-06-09T09:04:24]
+you'll prob break excel opening it ;)
+
+[2023-06-09T09:04:37]
+yeah, i need to figure out schema first
+
+[2023-06-09T14:37:38]
+thank you ser! hopefully will get me started on the right path :)
+
+[2023-06-10T19:17:48]
+I learn through struggle and trauma :)
+
+[2023-06-17T20:02:02]
+What OS r u using?
+
+[2023-06-17T20:02:08]
+Operating system.
+
+[2023-06-17T20:02:12]
+Mac windows Linux?
+
+[2023-07-03T10:36:50]
+To clear up the issue in simpler terms:
+
+If kras gives erg back to everyone before the lp person removes their LP from spectrum, someone will immediately drain the front end dex side with their hodl tokens and get that lp persons erg. 
+
+There are over 900 erg in the LP. You’d need a lot of hodl to drain it from front side but only 2k hodl to take half of it (over 500). 
+
+I’d vote to wait until lp person removes it or give them a window. If u need a place to put it kras ur welcome to send to sigs multisig while we wait. 
+
+Making another contract to distribute relies on people going to cash it out. Troubleshooting, support, front end (unless it’s a script that just monitors a deposit address and then replies with the erg) and some people never doing it. But it does take care of the lp issue since it’s worth more to swap into new contract and get erg 1:1.
+
+[2023-07-03T17:34:37]
+i already took a snapshot 10 mins ago
+
+[2023-07-03T17:35:32]
+yeah, but more of a pain in the ass
+
+[2023-07-03T17:36:15]
+or just fucking with us?
+
+[2023-07-03T17:36:17]
+for fun
+
+[2023-07-03T17:37:03]
+the amounts are strange too
+
+[2023-07-03T17:37:17]
+both tx's to a bunch of people, lemme see if they were original holders
+
+[2023-07-03T17:37:18]
+sec
+
+[2023-07-03T17:37:40]
+tx 1: https://explorer.ergoplatform.com/en/transactions/c4e2e7d4ed4bdd55a4369e6cd99a43bd7929b1a94256302e44e94c545277a173
+
+tx 2: https://explorer.ergoplatform.com/en/transactions/c9d61887599c98d5ea4a900b715b8e46425a2b53105e5d0e7000c3f8e1906e4b
+
+[2023-07-03T17:38:48]
+yes, sent to original holders at least in my spot check
+
+[2023-07-03T17:39:07]
+they don't for hodlerg
+
+[2023-07-03T18:16:33]
+lemme parse it
+
+[2023-07-03T18:16:34]
+sec
+
+[2023-07-03T18:16:55]
+wrong link?
+
+[2023-07-03T18:17:41]
+wtf
+
+[2023-07-03T18:17:41]
+lol
+
+[2023-07-03T18:17:57]
+oh i thought it was not that
+
+[2023-07-03T18:17:59]
+yeah i see that
+
+[2023-07-03T18:18:06]
+just give you tvl at that time
+
+[2023-07-03T18:27:42]
+it is, but still need to make sure you are getting all minters to make a compare to current holders
+
+[2023-07-03T18:29:03]
+if you loop current holders through there i guess you could trigger a manual look up if it reads 0 before drain
+
+[2023-07-03T18:29:14]
+that would be working backwards but works
+
+[2023-07-03T20:55:44]
+My sheet? Added up to 97 I thought. Check one of the columns?
+
+[2023-07-03T21:00:59]
+I’m working on getting mint info and comparing the two. Give me a bit.
+
+[2023-07-03T21:02:22]
+I’ll add ur list to the compare too.
+
+[2023-07-03T21:02:27]
+And track movement changes.
+
+[2023-07-21T23:05:42]
+Hey bud. U the Reddit post?
+
+[2023-07-21T23:06:49]
+Ser. Lol.
+
+[2023-07-21T23:07:55]
+Auto updates too bro. Super good low barrier of entry for job devs running a full node.
+
+[2023-07-21T23:08:35]
+SR?
+
+[2023-07-21T23:20:21]
+Give it about 10-20 hours ser :)
+
+[2023-07-21T23:20:38]
+The text to the right shows it’s syncing the headers.
+
+[2023-07-21T23:20:57]
+It may slow down a bit near the 80-90% point. But it’ll finish.
+
+[2023-07-21T23:21:09]
+Don’t try any deposits or sends until full sync plz.
+
+[2023-07-31T15:58:42]
+Mine was stuck too for a bit.
+
+[2023-08-11T16:49:40]
+Possible for any of u to make a script to test the health of explorer/node/graphql instance? Run it and give it a number for read write IO and bandwidth tests etc. 
+
+Script would do a memepool flood and then do a flood of reads as well as speed test for bandwidth, etc. 
+
+Would be nice to be able to run this once in awhile to make sure they r behaving and healthy by comparing my own numbers every few weeks as well as see how you compare to others machines.
+
+[2023-08-12T20:11:07]
+that happens on Minotaur too but it works.
+
+[2023-08-12T20:11:28]
+I think at least maybe i recall seeing that in console
+
+[2023-08-15T11:36:53]
+ser, give me less credit please
+
+[2023-08-15T11:41:04]
+ty ser :)
+
+[2023-08-18T22:39:15]
+real maple syrup is from NE...nice try tho...
+
+[2023-08-20T15:47:27]
+Their idea is terrible ser.
+
+[2023-08-20T15:48:03]
+“Send 100 ergs to this smart contract” would be a pita to gauge if mining fees ever vary.
+
+[2023-08-20T15:48:37]
+I edited ;)
+
+[2023-08-22T22:39:15]
+this removing post merge data? that month?
+
+[2023-08-25T05:10:41]
+lol
+
+[2023-08-25T05:11:09]
+oh shit
+
+[2023-08-25T05:11:10]
+sec
+
+[2023-08-25T05:11:11]
+wrong api link
+
+[2023-08-25T05:11:33]
+sec cehcking
+
+[2023-08-25T05:11:44]
+i know
+
+[2023-08-25T05:11:48]
+trying sec ser
+
+[2023-08-25T05:11:50]
+it's early
+
+[2023-08-25T05:11:53]
+i didn't realize 🙂
+
+[2023-08-25T05:13:31]
+yeah, no go here either
+https://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byTokenId/1028de73d018f0c9a374b71555c5b8f1390994f2f41633e7b9d68f77735782ee?offset=3200&limit=100
+
+[2023-08-25T05:14:06]
+where is it timing out, browser side or server side?
+
+[2023-08-25T05:22:58]
+trying to remote into node to run it direct, see if its only external requests.
+
+[2023-08-25T05:27:08]
+ty, lemme try http on server direct
+
+[2023-08-25T05:27:20]
+for some reason my remote is telling me to fuck off
+
+[2023-08-25T15:30:46]
+Times out on local machine with https request too fyi
+
+[2023-08-27T16:27:52]
+This one ser?
+
+[2023-08-27T16:29:26]
+Lemme remote into my machine at home and grab the files. It’s just three files to stick in root. And i didn’t look hard enough to make sure I didn’t break any ui colors (like white on white) but it’s what’s on my basement miner satergo box :)
+
+[2023-08-27T16:29:51]
+Finishing my airplane food and will then grab laptop ser ;)
+
+[2023-08-27T16:31:04]
+But ser, fist class on sigs treasury payout and it’s nice!
+
+[2023-08-27T16:47:37]
+three files, dump them in the main satergo directory.
+
+[2023-08-27T16:50:17]
+u can do the same with nautilus
+
+[2023-08-27T16:50:30]
+just unpack from git, change it, and load it into chrome agian
+
+[2023-08-27T16:50:34]
+lemme see what i can do
+
+[2023-08-27T16:50:57]
+hope this isn't too innapropriate for dev chat, i think the more people know that they can modify code like this easily the better
+
+[2023-08-27T16:51:14]
+but prob 99% of people in here know this already 🙂
+
+[2023-08-27T16:56:46]
+ok good
+
+[2023-08-27T16:56:52]
+glad i misremembered
+
+[2023-08-27T16:56:53]
+🙂
+
+[2023-08-27T16:57:05]
+ill correct instructions above ser. aberg
+
+[2023-08-27T16:57:31]
+i have CRS disorder sometimes
+
+[2023-08-27T17:04:08]
+see, real quick...ugh, feels dirty as heck tho...will dig deeper later and perhaps make a theme that's not project related and just different..perhaps just a dark theme.
+
+[2023-08-27T18:06:29]
+I know. Every transaction comes with a migraine :)
+
+[2023-08-27T18:07:08]
+Did u ever figure out the error in safari?
+
+[2023-08-27T18:08:56]
+Good. Focus on thz :)
+
+[2023-08-30T09:33:21]
+anyone know why https://explorer.ergoplatform.com/ has a higher tx per day count than https://ergo-explorer.anetabtc.io/ or https://ergo.aap.cornell.edu/en/
+?
+
+[2023-08-30T09:33:40]
+mine and aneta's match, explorer has 3 more
+
+[2023-08-30T09:46:39]
+weird, always three behind
+
+[2023-09-02T18:44:24]
+it works on everything else on the phone?
+
+[2023-09-02T18:47:26]
+i actually don't even recall terminus asking me for permission for that lol
+
+[2023-09-03T12:59:38]
+Sleep tight my love
+
+[2023-09-06T17:04:26]
+The output?
+
+[2023-09-06T17:04:56]
+Not failed ser. Lol. Leaving it as a copy paste. Guess I could force a file download but was aiming for wysiwyg trust.
+
+[2023-09-06T17:05:04]
+Forces the user to scan it first.
+
+[2023-09-06T17:05:44]
+It’s the actual python file. Copy and paste it into text editor and save as tx.py
+
+[2023-09-06T17:05:57]
+Then run it with ergpy and airdrop easy ser ;)
+
+[2023-09-06T17:07:44]
+Bundle in ergpy ser!
+
+[2023-09-06T17:07:49]
+And this tx builder.
+
+[2023-09-06T17:07:54]
+And ur golden ;)
+
+[2023-09-06T17:09:01]
+A hot mess ser.
+
+[2023-09-06T18:47:53]
+Great!
+
+[2023-09-08T16:11:49]
+Ser check tele dm plz
+
+[2023-09-12T23:35:51]
+it worked for me during the hodlerg burner you made ser
+
+[2023-09-12T23:35:56]
+i had it upped to 3000
+
+[2023-09-12T23:36:07]
+still is there too
+
+[2023-09-12T23:39:19]
+of course you would...
+
+[2023-09-17T11:09:14]
+here, @crpt112 i think this is the start of that discussion or nearby
+
+[2023-09-18T06:45:14]
+How would flash loans work here, some sort of proxy contract logic?
+
+[2023-09-18T06:45:51]
+Like, it goes through three txs but each tx has to output loan amount to next contract and then back out to lender?
+
+[2023-09-18T08:11:55]
+u don't have to put the defi or financial part ser. "Ethereum is a minefield"
+
+[2023-09-19T11:00:13]
+soon ser...should be done in a week or two
+
+[2023-09-19T11:00:20]
+u r welcome to join the current test pool
+
+[2023-09-19T11:00:22]
+if you like
+
+[2023-09-19T11:03:40]
+awesome, lemme add u to discord channel
+
+[2023-09-19T11:03:41]
+sec
+
+[2023-09-19T11:05:49]
+added you and put the IP right in there (discord)
+
+[2023-09-19T14:24:52]
+i'm losing track of who is in it, lemme regroup so we don't dissapoint
+
+[2023-09-19T14:25:11]
+this is essntially just a burn test to see if we can hit blocks and payout
+
+[2023-09-19T14:25:20]
+once that happens we will design a UI and open it up
+
+[2023-09-19T14:25:30]
+then we will integrate storage rent capture 😉 with the help of cheese
+
+[2023-09-19T14:25:46]
+should be only two weeks away or so if all goes well
+
+[2023-09-19T14:27:04]
+i mean, if you're ok with that ill add u now, DM me
+
+[2023-09-28T12:23:32]
+lol wtf. This dude is fucking nuts.
+
+[2023-09-28T12:23:48]
+Fucking apologists
+
+[2023-09-28T12:24:51]
+Ur doing great.
+
+[2023-09-28T12:25:02]
+I’ve got my popcorn
+
+[2023-09-28T12:25:54]
+So node operators are only useful if we need them to restore the last remaining node.
+
+[2023-09-28T12:25:58]
+What a fucking quack.
+
+[2023-09-28T12:42:14]
+Fuck it
+
+[2023-09-28T12:42:16]
+https://x.com/sigmanauts/status/1707450592388325700?s=46&t=9KXDXO0l5txB9npLRTxdmQ
+
+[2023-09-28T13:25:01]
+https://ergoauctions.org/artwork/40e464aa652ca4530c701fd822b7ff226f3ccbe609710e59d4cccacea3ace428
+
+[2023-09-28T13:27:24]
+lol
+
+[2023-09-28T13:30:36]
+Wait. What is pm
+
+[2023-09-28T13:34:41]
+Wow
+
+[2023-09-28T13:44:10]
+To run a node?
+
+[2023-09-28T13:44:21]
+However much a fucking raspberry pi is.
+
+[2023-09-28T13:44:37]
+Or a cell phone
+
+[2023-09-28T13:45:18]
+Ooo. U going cutthroat ser.
+
+[2023-09-28T13:57:27]
+Yah. Sorry. Get carried away sometimes ser.
+
+[2023-09-28T14:01:23]
+Tag em on Twitter too ser!
+
+[2023-09-30T11:47:36]
+Only if tokens and ergo listed elsewhere
+
+[2023-09-30T11:48:11]
+Well. Once more adoption tokens listed elsewhere.
+
+[2023-09-30T11:48:18]
+But most of those only exist in spectrum
+
+[2023-09-30T11:48:22]
+So the price is set there
+
+[2023-09-30T11:49:29]
+Grab them from comet dex when spectrum is down :)
+
+[2023-09-30T11:49:58]
+DEX is the price ser.
+
+[2023-10-01T10:29:29]
+Great ty ser for the lesson!
+
+[2023-10-03T14:22:21]
+u can hear us whistle and yell "go joeeeee" at this time mark: https://youtu.be/Jw2aPJTMhTQ?t=26869
+
+[2023-10-04T11:42:28]
+couldn't something like that python script that Spire put into chat the other day be integrated into the wallet?
+
+[2023-10-04T11:43:01]
+so the consolidate button would have a "emergency consolidate" button type of option?
+
+[2023-10-04T11:55:15]
+if wallet uses lite node (stateless) and it's built in to that wallet perhaps? or are there still things even with indexed node that isn't enough of an explorer replacement for that?
+
+what are other chains doing? Cardano has the fee that is returned to discourage it? what about Alephium?
+
+[2023-10-04T12:11:19]
+but a lite node wouldn't have that, would need historic?
+
+[2023-10-04T12:13:33]
+"The superblocks then exist as a lightweight chain of their own. Wallets, dApps, and users can rely solely on super blocks to securely and reliably interact with the blockchain. Since they only have to sync with the super blocks, they can avoid downloading the entire blockchain and improve efficiency by 80%. "
+
+[2023-10-04T12:13:57]
+sounds like ur right?
+
+[2023-11-02T15:26:25]
+yes, unfortunatly
+
+[2023-11-11T16:32:57]
+Hey guys, there is a change in the works for later next week that will do the following:
+
+ Auction fees will be modified from 2% to 3% 
+
+This adjustment will serve two purposes
+
+1. Allow for covering more of the dev expenses, this is pretty important IMHO
+2. Since more funds will be collected, more profit will go to the AHT profit sharing model for stakers
+
+For a recap from recent updates:
+- AH can list any token now
+- AH now shows price per token historically instead of price per lot sold (much less confusing)
+- AH now has a verified tokens process
+
+I'll make a twitter post a few days before this is live as well for a reminder!
+
+[2023-11-16T19:28:26]
+is there an easy way to determine how many nodes are running w/snapshots enabled?
+
+[2023-11-16T19:37:25]
+appVersion?
+
+[2023-11-16T19:37:39]
+oh that's just the build
+
+[2023-12-09T21:03:10]
+Flying pig made this:
+https://github.com/FlyingPig69/YAAT/
+Can do a massive amount of outputs
+
+MGPai made this: 
+https://github.com/mgpai22/ergpy
+Limit to about 1,000 outputs with each tx
+
+I made a csv to tx builder for mgpai's tool as well so you can build tx's with about 1,000 outputs and then just run a quick command through ergpy. The token builder option works for sure, i think i need to fix the send erg option though.
+https://my.ergoport.dev/cgi-bin/txbuilder/
+
+[2023-12-09T21:44:38]
+that too!
+
+[2023-12-09T21:44:53]
+i was speaking about your ergpy, that's what i made the csv to tx builder for
+
+[2023-12-13T11:20:11]
+ser, shooo shoooo, back to video making
+
+[2023-12-13T11:24:35]
+ser my advice for your issue above is to just use a smaller number
+
+[2023-12-13T11:24:37]
+😉
+
+[2023-12-14T13:38:21]
+ok will try it on my node w/explorer...stand by
+
+[2023-12-14T13:40:27]
+starts the index from height='0'
+
+[2023-12-14T13:40:45]
+apologies to any tx's that were just dropped
+
+[2023-12-14T13:41:12]
+be done soon
+
+[2023-12-15T09:37:42]
+yup, same for .15
+
+[2023-12-15T13:00:07]
+i didn't
+
+[2023-12-15T13:00:11]
+i just let it index
+
+[2023-12-21T07:54:13]
+froze again?
+
+[2023-12-21T07:54:45]
+maybe just do nipopow and remove utxo snapshot?
+
+[2023-12-21T07:54:49]
+for now?
+
+[2023-12-28T10:42:30]
+u can use mine ser
+
+[2023-12-28T10:42:53]
+it's what the backup explorer uses
+
+[2023-12-28T10:42:56]
+128.253.41.49:9053
+
+[2023-12-28T10:43:55]
+lemme know how it works plz
+
+[2023-12-28T10:44:11]
+ergexplorer uses it for some things as well i think (aco)
+
+[2023-12-28T10:51:59]
+woa
+
+[2023-12-28T10:52:04]
+usually faster weird
+
+[2023-12-28T10:52:30]
+what
+
+[2023-12-28T10:52:35]
+is your ping to it compared to 213?
+
+[2023-12-28T11:01:01]
+what's the query FP? lemme try to run it locally
+
+[2023-12-28T11:07:40]
+hm, single hit is faster on mine..
+
+[2023-12-28T11:07:59]
+how many second between each hit? all at once or one after the other response?
+
+[2023-12-28T11:09:35]
+ok, lemme write a quick script to hammer it to see what's up
+
+[2023-12-28T11:09:52]
+what's your ending limit?
+
+[2023-12-28T11:11:05]
+just hit mine with limit 10,000
+
+[2023-12-28T11:11:17]
+offset 0 limit 10000
+
+[2023-12-28T11:11:31]
+returns it in about 1 second
+
+[2023-12-28T11:14:19]
+u can do 16384 for limit on this query at a time fyi
+
+[2023-12-28T11:37:09]
+awesome ser
+
+[2024-01-29T17:37:27]
+what are you looking for ser?
+
+[2024-01-29T17:38:00]
+sec
+
+[2024-01-29T17:40:02]
+oh, thought you wanted all the code
+
+[2024-01-29T17:41:48]
+curl -X POST "http://128.253.41.49:9053/blockchain/box/unspent/byAddress?offset=0&limit=5000&sortDirection=desc" -H "accept: application/json" -H "Content-Type: application/json" -d "WALLETADDRESSHERE"
+
+[2024-01-29T17:41:52]
+that's what i use for my bot
+
+[2024-01-29T17:43:07]
+idk, i use desc for some reason
+
+[2024-01-29T17:43:11]
+it was a while ago i forget why
+
+[2024-01-29T17:43:20]
+prob some stupid reason
+
+[2024-01-29T17:44:32]
+then i get utxo and the time stamp and go from there
+
+[2024-01-29T17:44:36]
+i think my script does a few calls
+
+[2024-01-29T17:46:22]
+wtf i'm using a nipopow api command...not sure what i was smoking....
+
+[2024-01-29T17:46:31]
+maybe that was a quicker way to the data i was looking for
+
+[2024-01-29T17:46:35]
+no
+
+[2024-01-29T17:46:36]
+here
+
+[2024-01-29T17:46:42]
+i do the address first
+
+[2024-01-29T17:47:23]
+curl -X GET "http://128.253.41.49:9053/utxo/byId/@arr[$n2]" -H "accept: application/json";
+
+[2024-01-29T17:47:26]
+then i do this
+
+[2024-01-29T17:48:09]
+then i do nipopow/popowHeaderByHeight
+
+[2024-01-29T17:48:15]
+seemed to have the data i needed
+
+[2024-01-29T17:48:38]
+i remember my way being ass backwards or but when i asked either Mr. S or Capt they didn't laugh at me
+
+[2024-01-29T18:01:53]
+hey
+
+[2024-01-29T18:01:54]
+sorry
+
+[2024-01-29T18:02:04]
+lemme give you step by step what i do. i need to relook at my script
+
+[2024-01-29T18:02:22]
+u are welcome to just use my api
+
+[2024-01-29T18:03:35]
+https://my.ergoport.dev/cgi-bin/epBoxAge.pl?a=ADDRESS
+
+[2024-01-29T18:04:33]
+1051200 is 4 years no? plus another 720 if they figured in a leap year? :)
+
+[2024-01-29T18:08:04]
+Ser. Think about what u just said.
+
+[2024-01-29T18:09:31]
+There are no boxes over 4 years of age. Storage rent collection spends the box regusrdless.
+
+[2024-01-29T18:09:48]
+Can’t spend part of a box ;)
+
+[2024-01-29T18:10:01]
+Boxes r written in stoooonnneeee
+
+[2024-01-29T18:10:06]
+Gotta break it and make another
+
+[2024-01-29T18:10:07]
+:)
+
+[2024-01-29T18:11:15]
+That’s the power of UTX-Oh no he didn’t.
+
+[2024-01-29T18:11:34]
+Noah: ser, this is inappropriate for the dev chat.
+
+[2024-01-29T18:12:26]
+Sorry u got me on a spicy night.
+
+[2024-02-05T18:40:00]
+Let’s tag @LiquidPhase see if he had any ideas to integrate something like that into his site!
+
+[2024-02-23T22:10:51]
+created a draft EIP for discussion
+
+EIP 45 - Ephemeral Tokens
+
+https://github.com/ergoplatform/eips/pull/99/commits/20ba66fc9ce509ffe7928d08c2b1aad63ac6f422
+
+[2024-02-23T22:11:58]
+more funds for Miners...incentivized token burning
+
+[2024-02-24T05:39:22]
+R6 u mean?
+
+[2024-02-24T09:59:07]
+i see an issue with R6 unless im missing the point of assignments? The proposal doesn't suggest rewriting the intent of R4 and R5, only that R4 hold the address of the owner (as the name), and the hight to burn and amount to collect in R5 (as the description). R6 would need to be followed so only decimal data in there correct thus moving multiple data points into R5.
+
+[2024-02-24T10:21:33]
+Guess all data could go in R5 so that could be named something unique for use case identification no?
+
+[2024-02-24T10:21:58]
+The wallet owner does the interacting. Essentially the token proves that your wallet has ownership.
+
+[2024-02-24T10:23:07]
+And then the dapp will let you perform actions because you prove you are owner of that asset by proving your ability to sign a tx from your address that is shown in the token.
+
+[2024-02-24T10:23:19]
+Yup correct
+
+[2024-02-24T10:24:25]
+Dapp will trust that the smart contract did its job in making sure rules r followed.
+
+[2024-02-24T20:29:07]
+Bridges from telegram and other discord servers
+
+[2024-02-24T20:33:54]
+Tell that to discord ser :)
+
+[2024-02-24T20:34:01]
+All bots labeled as bots
+
+[2024-02-24T20:38:09]
+I’m a bot. Beep beep beep
+
+[2024-03-14T08:20:51]
+i should grow a beard shouldn't i
+
+[2024-03-14T08:21:24]
+alison's beard was the nicest....looked so soft
+
+[2024-03-16T18:32:05]
+this is awesome ser
+
+[2024-03-18T16:53:51]
+fired
+
+[2024-03-18T16:54:24]
+yo, somewhat, i use perl and python so not too much, just enough to get stuff done.
+
+[2024-03-18T16:54:33]
+ser...
+
+[2024-03-18T16:54:46]
+u have like 300 nodes, just use 5 of them for a CPU miner
+
+[2024-03-18T16:57:02]
+i think there are much better devs that can offer much better stuff there, i'd be more useful elsewhere ser :)
+
+[2024-03-18T16:57:25]
+those sound like excuses ser
+
+[2024-03-18T17:03:58]
+long walks on the beach ser with the people i love
+
+[2024-03-18T17:04:06]
+learning every second i get
+
+[2024-03-18T17:04:09]
+;)
+
+[2024-03-18T17:04:19]
+ha it's fine
+
+[2024-03-27T12:58:51]
+i think many watchers are using that
+
+[2024-04-20T14:20:11]
+If ur serious how much?
+
+[2024-06-12T09:44:17]
+need to change watcher port, postgres port, watcher health port...not sure if the watcher ports are hard coded tho
+
+[2024-06-12T09:45:07]
+oh crap lol
+
+[2024-06-12T09:45:09]
+wrong channel
+
+[2024-06-12T09:45:18]
+someone asked me this today in rosen about the watcher
+
+[2024-06-12T09:46:42]
+just change these i think in the ergo.conf
+
+[2024-06-12T09:46:58]
+the ports that is
+
+[2024-06-12T09:47:02]
+9054 or something
+
+[2024-06-12T09:47:44]
+ser, why ask questions :)
+
+[2024-06-12T09:48:28]
+butter?
+
+[2024-06-12T09:49:30]
+can always CLI vm
+
+[2024-06-12T09:51:37]
+it still likes to reindex for some reason when i do that
+
+[2024-06-12T09:51:44]
+oh cause of new wallet triggers it i guess
+
+[2024-06-12T09:55:49]
+seems so
+
+[2024-06-17T07:39:27]
+https://chromewebstore.google.com/detail/nautilus-abyss/moaohjebjfiodfiegjnjkbnalepemcpf?hl=en&authuser=0
+
+[2024-06-17T20:22:09]
+https://twitter.com/auction_house_/status/1802874118527656332
+
+[2024-06-18T13:48:57]
+yup, no worries
+
+[2024-06-26T15:16:24]
+yes sec
+
+[2024-06-26T15:17:34]
+https://api.spectrum.fi/v1/price-tracking/markets
+
+[2024-09-02T09:32:47]
+I should still be
+
+[2024-09-02T09:34:20]
+Yah still plugging away at tn
+
+[2024-09-02T09:34:34]
+Lemme know if u need increased hash there.
+
+[2024-09-02T09:34:55]
+Little 3090 doing it while napping ;)
+
+[2024-09-02T17:51:43]
+lemme look sec
+
+[2024-09-09T11:55:53]
+who is running fork? https://www.ergdex.com/ergo/swap
+
+[2024-09-09T12:12:09]
+lol woof
+
+[2024-09-09T12:12:19]
+guess still using crooks :) and ergodex on spectrum
+
+[2024-09-09T18:50:39]
+Ser. U told me he reviewed them lol.
+
+[2024-09-09T18:50:46]
+Kushti that is
+
+[2024-10-16T12:02:03]
+Ser. It’s almost Thursday.
+
+[2024-11-22T19:01:06]
+did my miner stop?
+
+[2024-11-22T19:01:09]
+FUCK lemme look
+
+[2024-11-22T19:05:05]
+ser
+
+[2024-11-22T19:05:13]
+approve MGPAI's testnet node fix
+
+[2024-11-22T19:05:20]
+plz
+
+[2024-11-22T19:05:29]
+that's what brought down my mining core test net
+
+[2024-11-22T19:20:06]
+did he not put it in a git PR? @MGpai0
+
+[2024-11-22T19:28:56]
+schweet ty!
+
+[2024-11-24T17:38:42]
+ur node ready?
+
+[2024-11-24T17:38:54]
+and send me the new jar?
+
+[2024-12-01T17:51:13]
+will do in a few ser
+
+[2024-12-01T19:07:40]
+done
+
+[2024-12-01T19:16:36]
+three peers
+
+[2024-12-09T20:11:38]
+Yah. On a different one tho. PAInet 2.0
+
+[2024-12-09T20:14:00]
+http://74.69.128.24:9052/panel/
+is my node for it
+
+[2024-12-11T09:46:20]
+Maybe we need watchers and guards for the discord bridge?
+
+[2024-12-11T09:46:24]
+;)
+
+[2024-12-19T13:44:27]
+SigUSD?
+
+[2024-12-19T13:46:10]
+i think mines reporting, lemme check group
+
+[2024-12-19T15:54:41]
+yeah mins up, waiting on the man :)
+
+[2025-02-17T08:08:51]
+hi ser
+
+[2025-02-17T08:11:24]
+GG beating me to it
+
+[2025-02-17T08:12:23]
+i figured this was you tho
+
+[2025-02-17T08:13:06]
+few of these too
+
+[2025-02-17T08:13:09]
+someone has a crush
+
+[2025-09-02T11:14:21]
+was up a few days ago when i checked, lemme look
+
+[2025-09-02T11:40:14]
+it's back up, sorry, something crashed the entire VM over weekend, node is catching up as well as its explorer, few more mins. @NeuralYogi will need to fire up his MCP gateway on it but the rest is up.
+
+[2025-09-02T11:40:48]
+i forgot we had an explorer running there lol https://explorer.codeutxo.com/
+
+[2025-09-02T11:40:58]
+will add that to monitoring so we can see if down.
+
+[2025-09-03T13:19:30]
+I’ll look later can figure it out I think.
+
+[2025-10-29T12:38:08]
+good idea...we monitor it in the oracle chat, but, sometimes takes a sec to get threshold back up
+
+[2025-10-29T12:38:14]
+so so far we are all aware it happens :)
+
+[2025-10-29T12:38:20]
+but no reason public shouldn't know on the dash too
+
+[2025-10-29T12:43:33]
+my phone is perfectly fine ser
+
+[2025-10-29T12:43:37]
+not broken at all
+
+[2025-10-29T12:43:39]
+;)
+
+[2025-11-03T07:54:08]
+redirecting api, gql, and explorer to p2p
+
+[2025-11-03T07:56:48]
+out of page rules, gotta make it into a worker sec
+
+[2025-11-03T07:57:03]
+will do page redirect with api and gql...and explorer will be a worker
+
+[2025-11-03T08:02:17]
+ok @kushti_ru 
+302 redirects in place for gql and explorer. API has worker now in place for the redirect since it needs to pass arguments with the URL properly
+
+[2025-11-03T08:02:23]
+seems to be ok, everyone please let me know if it isn't
+
+[2025-11-03T08:09:31]
+had to deploy worker for gql too as simple 302 wasn't good for posts/gets
+
+[2025-11-03T08:14:26]
+can't, the LB's have to be pretty much identical config
+
+[2025-11-03T08:14:54]
+until we do our own nginx and can pass things differently, CF load balancing is VERY picky
+
+[2025-11-03T08:15:24]
+if the docker-compose.yml is off by even a line, it creates a different hash
+
+[2025-11-03T08:47:49]
+CORS issue for some things, working on it
+
+[2025-11-03T08:48:05]
+fixed
+
+[2025-11-03T09:48:03]
+hm, not seeing anything in console but hanging on dex yes
+
+[2025-11-03T09:57:50]
+CF nuked forward again, man...hate that they halt this..works for 10 mins and then stops
+
+[2025-11-03T10:00:07]
+" This website has been temporarily rate limited
+You cannot access this site because the owner has reached their plan limits. Check back later once traffic has gone down."
+
+[2025-11-03T10:00:21]
+how did we blow through credits in 10 minutes
+
+[2025-11-03T10:01:12]
+ok i upgraded CF
+
+[2025-11-03T10:01:15]
+should be ok now
+
+[2025-11-03T10:02:19]
+@HQ3rr @AcoSmrkas check site and bots plz?
+
+[2025-11-03T10:04:24]
+dex wallet loads, but tokens not loadning
+
+[2025-11-03T10:04:27]
+looking into it
+
+[2025-11-03T10:05:24]
+API stuff should be up just fine, but yes, dex complaining, working through it sec
+
+[2025-11-03T10:17:39]
+just token lists
+
+[2025-11-03T10:18:55]
+oracle-core.ergopool.io and airdrop.spectrum.fi
+
+[2025-11-03T10:18:59]
+are not working
+
+[2025-11-03T10:19:17]
+@kushti_ru are those in hetzner as well?
+
+[2025-11-03T10:19:22]
+ok, hmmm
+
+[2025-11-03T10:20:44]
+oh that explains it then
+
+[2025-11-03T10:22:12]
+yeah, getting some nutty time outs in this redirect for sure
+
+[2025-11-03T10:22:42]
+how hard is it to just move to p2p?
+
+[2025-11-03T10:22:48]
+too many changes in your code?
+
+[2025-11-03T10:23:13]
+lemme see if i can fix timeout at least
+
+[2025-11-03T10:24:33]
+trying for a proxy instead
+
+[2025-11-03T10:24:33]
+sec
+
+[2025-11-03T10:24:40]
+might help with timeout
+
+[2025-11-03T10:25:18]
+hmmm, what's the link for that so i can see?
+
+[2025-11-03T10:27:11]
+that commaned isn't like by the p2p explorer anyway, so that part isn't a redirect issue
+
+[2025-11-03T10:27:14]
+lemme try it on my cornell one
+
+[2025-11-03T10:28:38]
+yup
+
+[2025-11-03T10:28:46]
+wonder what about main Explorer works
+
+[2025-11-03T10:28:50]
+with that one and not others
+
+[2025-11-03T10:29:53]
+i have some pretty fast ones in p2p and ergo cornell
+
+[2025-11-03T10:30:00]
+liike 3000 write, 5k read
+
+[2025-11-03T10:32:51]
+128 in ergo cornell, 32 in some of the p2p's
+
+[2025-11-03T10:33:17]
+@AcoSmrkas 
+
+https://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e?limit=500&offset=0
+
+that loaded at cornell, took a few
+
+[2025-11-03T10:38:18]
+should be back to normal in a few minuts
+
+[2025-11-03T10:38:26]
+this is a good exercise in choke points tbh
+
+[2025-11-03T10:41:49]
+cornell one has those too
+
+[2025-11-03T10:41:56]
+which is possibly why it works as well for that one
+
+[2025-11-03T10:42:15]
+i have those in my telegram i THINK otherwise i can ask him to give me the commands, there weren't many
+
+[2025-11-03T10:55:23]
+yes, we will all have to do it
+
+[2025-11-03T10:55:27]
+prob can script it
+
+[2025-11-03T10:57:57]
+yup, i see
+
+[2025-11-03T10:57:59]
+removeing redirects
+
+[2025-11-03T10:58:49]
+ok redirects removed
+
+[2025-11-03T10:59:09]
+ergodex up and working
+
+[2025-11-03T10:59:11]
+all seems ok
+
+[2025-11-03T11:23:40]
+/t 20 love
+
+[2025-11-03T11:23:56]
+ty will peek!
+
+[2025-11-04T08:03:34]
+yup, will test the thing pgr sent and getting a hold of boris to check too
+
+[2025-11-04T08:04:00]
+so far i think it's only a few queries that need that
+
+[2025-11-13T14:35:59]
+I’m hurt that u call my transactions junk ser :)
+
+[2025-11-13T14:36:19]
+There are about 7 or so I think
+
+[2025-11-13T14:39:40]
+7 people running tn nodes
+
+[2025-11-13T14:43:50]
+im tracking 6 of them
+
+[2025-11-13T14:44:20]
+you're tn is behind but that's subblock one right?
+
+[2025-11-14T11:07:02]
+seems so
+
+[2025-11-14T11:07:19]
+what does restarting TN look like ser?
+
+[2025-11-14T11:19:09]
+ok ser, i can get it started and start mining, what is involved with config?
+
+[2025-11-16T16:34:06]
+TN network runners, if you were on TN with me (the one i was mining), please use this instead. Wipe DB and run this....
+
+for known peers clear it and add:
+128.253.41.110:9020
+213.239.193.208:9023
+
+then let us know your address
+
+updating main tn explorer now in a few too to point to this one
+
+[2025-11-16T16:34:07]
+we can call it LITHOS_NET, thankful for PAI_NET
+
+[2025-11-16T16:34:09]
+;)
+
+[2025-11-16T16:49:16]
+here are the IP's we are tracking on TN, if you are the top three in this pic, please swap to this new jar and wip DB, set known hosts, etc...
+
+[2025-11-16T17:00:07]
+tn explorer going down in a few
+
+[2025-11-16T17:00:19]
+replacing node on it and wiping db's to start on this tn
+
+[2025-11-16T17:00:39]
+do we need a backup of the old tn db Kusthi or no matter?
+
+[2025-11-16T17:01:08]
+yeah, i have the node folder still just in case
+
+[2025-11-16T17:55:23]
+done
+
+[2025-11-16T17:55:23]
+https://testnet.ergoplatform.com/
+
+[2025-11-16T17:56:32]
+this picked it up too
+https://testnet.sigmaexplorer.org/
+
+[2025-11-16T19:59:23]
+lemme know if you get stuck
+
+[2025-11-17T19:30:51]
+it's whatever port you want ser
+
+[2025-11-17T19:31:06]
+9052 is UI tho to keep it standard
+
+[2025-11-17T19:31:20]
+just make sure you're broadcasting in your config on the right port you are designating it as
+
+[2025-11-17T19:32:04]
+show me config file (remove password hash)
+
+[2025-11-17T19:34:04]
+  GNU nano 7.2                                                                                              ergo.conf                                                                                                        
+ergo {
+  chain.reemission.activationHeight = 100000001
+  }
+ergo {
+  directory = ".ergo"
+  networkType = "testnet"
+  voting {
+       120 = 1
+  }
+  node {
+    mining = true
+    rebroadcastCount = 10000
+    offlineGeneration = false
+    useExternalMiner = true
+    wallet.secretStorage.secretDir = ${ergo.directory}"/wallet/keystore"
+  }
+}
+scorex {
+    network {
+    bindAddress = "0.0.0.0:9020"
+    nodeName = "qx-testnet"
+    knownPeers = ["213.239.193.208:9023","128.253.41.110:9020"]
+    declaredAddress  = "128.253.41.110:9020"
+    peerDiscovery = true
+  }
+  restApi {
+    apiKeyHash = "YOURHASHHERE"
+  }
+}
+
+[2025-11-17T19:34:12]
+just use this, simpler
+
+[2025-11-17T19:34:17]
+change qx-testnet too
+
+[2025-11-17T19:34:25]
+and put your hash in apiKeyHash
+
+[2025-11-17T19:34:30]
+then bounce node
+
+[2025-11-17T19:34:39]
+and declaredAddress
+
+[2025-11-17T19:34:44]
+change that to your external IP
+
+[2025-11-17T19:35:25]
+declaredAddress
+apiKeyHash
+nodeName
+
+and open firewall 9020
+
+[2025-11-17T19:37:48]
+yeah
+
+[2025-11-17T19:38:03]
+mining false unless you wanna mine too ser
+
+[2025-11-17T19:38:04]
+:)
+
+[2025-11-17T19:38:42]
+nice documentation ser, as always!
+
+[2025-11-17T19:59:35]
+classic ser, classic :)
+
+[2025-11-19T07:20:38]
+sounds good, @AndyLowe this work for you ?
+
+[2025-11-19T07:26:59]
+no, still waiting on him for answers for community chat and ama switch to 5pm utc ser
+
+[2025-11-19T07:46:12]
+actually works pretty well
+
+[2025-11-19T07:47:13]
+ser, you know who you're talking to? i speak one language....and that's SHITTY perl
+
+[2025-11-19T07:50:02]
+just wrap up js in anything and it works ok it seems
+
+[2025-11-19T07:51:56]
+yes
+
+    // Import Fleet SDK for transaction building
+    const { TransactionBuilder, OutputBuilder, BoxSelector, ErgoAddress } = await import(
+      'https://cdn.jsdelivr.net/npm/\@fleet-sdk/core\@0.6.1/+esm'
+    );
+
+[2025-11-19T07:58:36]
+here is the student version of that portal to see what it does
+
+[2025-11-19T08:00:32]
+just added the admin incentive tab last night on this site...it scans the Wood/Fabrication shop for student check ins and we send them brick for checking in daily (it's hard to get the students to follow protocol and use the checkin system that the shops have setup for safety)...
+
+[2025-11-19T08:01:21]
+oh, maybe i should do a dev update on this stuff since it's wednesday...hold tight.
+
+[2025-11-19T10:41:16]
+NICE BUSY DEV CHAT TODAY! MIGHT HAVE TO DO A VIDEO LATER THIS WEEK!
+
+[2025-11-19T10:41:29]
+I'M YELLING BECAUSE I'M EXCITED!
+
+[2025-11-20T19:29:26]
+what's the command he's running?
+
+[2025-11-20T19:29:54]
+oh, this: https://api.ergoplatform.com/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions
+
+[2025-11-20T19:30:36]
+it works
+
+[2025-11-20T19:30:52]
+prob not consistant tho, depending on the LB it was routed to
+
+[2025-11-20T19:31:09]
+it works now in one of the p2p nodes too i think now with the optimization
+
+[2025-11-20T19:31:14]
+balls
+
+[2025-11-20T19:32:02]
+yeah, i think it was the other new one aco showed me that wont work on any of them without some hardware improvements and better tuning...i was gonna test next to tune my bigbox for ergo.aap and see if that fixes it.
+
+[2025-11-20T19:34:44]
+nvm it was the BY ERGO TREE that i got working on one of the  p2p nodes, but even then, was working with the lesser of node with only 16gb of ram
+
+[2025-11-20T19:34:51]
+http://128.253.41.100:8080/api/v1/boxes/unspent/byErgoTree/ADDRESS
+
+[2025-11-20T19:35:14]
+don't click that all at once for sure won't work
+
+[2025-11-20T19:36:06]
+the other option is to just created new indexes
+
+[2025-11-20T19:36:24]
+around things we need that struggle
+
+[2025-11-20T19:36:30]
+HD space is cheaper than RAM
+
+[2025-11-20T20:05:09]
+i can get this to run pretty consistently on my cornell box (128gb of ram and 56 CPU threads) with tuning to account for the specs.
+
+[2025-11-20T20:05:14]
+https://api.ergo.aap.cornell.edu/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions
+
+[2025-11-20T20:05:57]
+on the same box, this runs 50/50 perhaps, maybe now 100% since i ran it once ok:
+https://api.ergo.aap.cornell.edu/api/v1/addresses/9fu1mLunnUUYEdJSXRUu1KZDJyJZV4gajd1uEFMEBsCWLEAJENo/transactions?offset=0&limit=30
+
+[2025-11-20T20:06:10]
+and this tough one also runs:
+https://api.ergo.aap.cornell.edu/api/v1/boxes/unspent/byTokenId/e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297?_=1762665775462
+
+[2025-11-20T20:07:26]
+the options i see are:
+
+1 - crank the p2p node to 128+ GB of RAM (that's fine i can test it).
+or
+2 - build a bunch of indexes to account for these
+
+[2025-11-20T20:07:54]
+with #1, i need to make sure the RAM is enough and it's not also the 56 cores im giving psql as well.
+
+[2025-11-20T20:12:51]
+and with #2 i think it helps keep nodes cheap
+
+[2025-11-20T20:13:18]
+option three is to help pgr456 finish all the required endpoints for sigmaexplorer and just move to that! ;)
+
+[2025-11-20T20:18:50]
+im gonna make an index on a small ram box and see how long it takes and if it fixes it
+
+[2025-11-21T06:28:59]
+CPU and RAM. No GPU needed.
+
+[2025-11-21T06:29:40]
+Where were u when explorer was made ser!!! :)
+
+[2025-11-21T06:37:17]
+If we rewrite the entire thing and have monster GPUs we could.
+
+[2025-11-21T06:40:43]
+Looking online it even says u need a special gpu if u wanna go that route. Interesting.
+
+[2025-11-21T07:59:01]
+anyone awake?
+
+[2025-11-21T07:59:09]
+u ser?
+
+[2025-11-21T08:33:22]
+kushti tested...
+16gb RAM box can do the big query in 14 seconds now with the index...working on the other two queries now too
+
+[2025-11-21T08:58:26]
+i did
+
+[2025-11-21T08:58:32]
+and it is
+
+[2025-11-21T08:58:55]
+that's how im building them
+
+[2025-11-21T10:02:17]
+ok, indexs for the other two helps the query down to 200 seconds from 500 seconds lol..but still not enough...im going to up the RAM in this to 32GB and tune psql and see how it does...hopefully it can do it with 32GB.
+
+[2025-11-21T11:21:10]
+ok, bringing down .100 from p2p and adding 32gb to it. stand by
+
+[2025-11-21T11:49:59]
+@AcoSmrkas
+
+The Four Big Queries working now on 32gb node with some additional indexers. The first three seem to be ok every time, haven't tested the last big one too many time yet as it's cached on my machine now.
+
+http://128.253.41.100:8080/api/v1/boxes/unspent/byErgoTree/1999030f0400040204020404040405feffffffffffffffff0105feffffffffffffffff01050004d00f040004000406050005000580dac409d819d601b2a5730000d602e4c6a70404d603db63087201d604db6308a7d605b27203730100d606b27204730200d607b27203730300d608b27204730400d6099973058c720602d60a999973068c7205027209d60bc17201d60cc1a7d60d99720b720cd60e91720d7307d60f8c720802d6107e720f06d6117e720d06d612998c720702720fd6137e720c06d6147308d6157e721206d6167e720a06d6177e720906d6189c72117217d6199c72157217d1ededededededed93c27201c2a793e4c672010404720293b27203730900b27204730a00938c7205018c720601938c7207018c72080193b17203730b9593720a730c95720e929c9c721072117e7202069c7ef07212069a9c72137e7214067e9c720d7e72020506929c9c721372157e7202069c7ef0720d069a9c72107e7214067e9c72127e7202050695ed720e917212730d907216a19d721872139d72197210ed9272189c721672139272199c7216721091720b730e
+
+http://128.253.41.100:8080/api/v1/addresses/9fu1mLunnUUYEdJSXRUu1KZDJyJZV4gajd1uEFMEBsCWLEAJENo/transactions?offset=0&limit=30
+
+http://128.253.41.100:8080/api/v1/boxes/unspent/byTokenId/e023c5f382b6e96fbd878f6811aac73345489032157ad5affb84aefd4956c297?_=1762665775462
+
+http://128.253.41.100:8080/api/v1/addresses/2Eit2LFRqu2Mo33z3pYTJRHNCPYS33MrU9QgeNcRsF9359pYMahqnLvKsHwwH72C6WDSZRj7G7WC5heVyUEawcSLSx821iJXT4xWf2F5fjVWDUmvtxr3QSv1aLwThLXxeqYCCc34xjxZDPqPyNGYvWLNeBZxATvBeDuQ6pSiiRFknqmvYVsm9eH4Et3eRHCyxDJEoqZsAahwfVSya34dZNHmjaPQkwWo3Coc17pxiEnWuWmG38wSJz1awE6cymzhojnjxDTbbXgjR1yfYU3AU2v9zttnT8Gz3gUzZNSwjiXSPu3G9zkDaFZVKqb5QwTWY3Pp6SFJgBQfx3C3sp4a9d3n9c98pfWFWAGQN5EfkoHosF8BQTDuzXG3NU8gVCNeNPXYA8iWCbvY3XpxQMvQUxqkjDv9VQfUNvAKVHLW43chi2rdBrQ7Teu6NnesLRWUKXpzSxpByWftkCCdBppjZtYmhhCHqpQGkQyTcMRoP2krFKe7xKbfnFkdkhaYH9TTdKuTuKtGb265RXxiqrc34KvkZpaBBQB5UvoCU4iLSDngNTjqkNPnWekDahzNHLd6CtcdC1B19jdGEXWeNADemDtdK4zrMNg7U8iVpyGYhLDnkeLVrcbhoxkHxrFwfrN19XvitDosQqmt9dseR6SWHBCDZJdmJecCiEwd2wBiwN5N5umEy3Dd4Hznv7kDr6eX7KtYxp/transactions
+
+test from your end aco plz or kishti?
+
+[2025-11-21T11:51:40]
+i think we need to change the timeout a bit on the api side, it's too short for some of these queries.
+
+[2025-11-21T11:55:18]
+a lot, there are a lot
+
+[2025-11-21T12:33:04]
+ty, 2 isn't working for you?
+
+[2025-11-21T12:33:30]
+i think eventually we need to modify these things yea :(
+
+[2025-11-21T12:33:43]
+my goal rn is to get off hetzner asap to save money
+
+[2025-11-24T06:17:09]
+Was planning to test Jav on my backup when I get a sec.
+
+[2025-11-24T06:17:38]
+Did u commit it? I don’t have admin in that repo
+
+[2025-11-24T06:18:02]
+Or I guess I’ll test the build before commit.
+
+[2025-11-24T06:39:48]
+The Javanese PR
+
+[2025-11-24T06:42:00]
+I mean can u make me dev on the repo :)
+
+[2025-11-26T07:44:30]
+My tn miner down for an hour. At offices to check it in a bit.
+
+[2025-11-26T08:07:04]
+rebooting
+
+[2025-11-26T08:58:44]
+looks like others started mining, great!
+
+[2025-11-26T08:58:48]
+mine is back online too
+
+[2025-12-13T07:39:39]
+Yup. Give me a sec.
+
+[2025-12-22T17:20:58]
+I’ll remove that from my dash too. Need to remove my old tn node from it too.
+
+[2025-12-22T22:19:49]
+updated dash a bit: https://infra-p2p.ergoplatform.com/cgi-bin/dashboard.cgi
+
+[2025-12-23T05:26:26]
+lol magic? Idk might have it swapped in label. I’ll check :) was late.
+
+[2026-01-03T08:10:37]
+Lmfao
+
+[2026-01-03T08:44:43]
+Can’t be client side easily ser or else I would have.
+
+[2026-01-11T07:31:06]
+Cornell infra down for a few.
+
+[2026-01-11T07:32:24]
+No. It’s a switch issue in the central infra closet.
+
+[2026-01-11T07:32:39]
+Have to wait for central support as it’s theirs.
+
+[2026-01-11T15:03:05]
+Cornell is back up, lets let is sync and catch up
+
+[2026-01-11T15:13:35]
+i take it back, they are poking stuff, prob trying software resets first, was up and down again
+
+[2026-01-11T16:22:59]
+yup
+
+[2026-01-11T16:23:17]
+main ergo.aap.cornell.edu needs a resync (on node, not explorer) will be a bit
+
+[2026-01-11T16:26:39]
+bringing down that explorers front end for now
+
+[2026-01-11T17:53:34]
+ergo.aap.cornell.edu is back up in about 2 mins while it finishes up explorer sync...i copied a node from a p2p in the same rack, nice fast 20 min install ;)
+
+[2026-01-11T17:53:42]
+what a freaking ordeal
+
+[2026-01-11T17:54:18]
+i will rewrite the sigs dashboard and the infra dao dashboard to fully run on ipfs
+
+[2026-01-11T17:54:32]
+html/java should be enough, no need for fancy state of the art perl
+
+[2026-01-12T07:05:11]
+R u grabbing things in parallel? Why don’t we do that actually? Like torrents.
+
+[2026-01-16T11:04:44]
+resyncing node (explorer is ok i think) for testnet, please keep yours up over there so i get it synced
+
+[2026-01-16T11:51:05]
+node is up and synced and explorer is reading new blocks from it
+
+[2026-01-16T11:51:21]
+ty Lithos testers for running nodes and making the sync fast with no stucks
+
+[2026-01-16T11:52:30]
+60 gigs free on that machine which is only doing that job of explore for TN, just need to figure out why docker panicked twice in two days and ate the logs for lunch.
+
+[2026-01-16T12:01:41]
+ser, this is testnet
+
+[2026-01-16T12:04:15]
+it won't work on Main explorer api?
+
+[2026-01-16T12:04:20]
+or just p2p
+
+[2026-01-16T12:04:43]
+u try ergo.aap api?
+
+[2026-01-16T12:05:09]
+and ill give you a direct IP to test too in a sec for p2p
+
+[2026-01-16T12:05:46]
+then p2p won't get it :( they are half the ram as ergo.aap even and slower disk...at most we need a new index that helps with that i assume
+
+[2026-01-23T02:28:01]
+i've limited the LB to a single explorer on main while we test this temp patch
+
+[2026-01-23T03:01:11]
+generic explorer temp fix instructions are in discord side of this chat (they didn't come over via bridge) FYI
+
+[2026-01-25T18:25:10]
+Luivatra, having some fun with claude tonight...recreating explorer with perl, adding some robust queries, and a back end panel with server stats that it's running on
+
+[2026-01-25T18:25:22]
+parallel batch syncing
+
+[2026-01-26T11:12:43]
+i can give you what to update if you like (only a couple things)
+
+[2026-01-27T05:58:13]
+Ahhh right. Forgot to fix those. Ty.
+
+[2026-01-27T05:58:16]
+Ty
+
+[2026-01-27T12:30:44]
+ergo.aap.cornell.edu and it's 128.253.41.49 node down for a bit...resync triggered on 6.1.2 for some reason.
+
+[2026-01-27T12:31:46]
+Aco, 128.253.41.100, 128.253.41.101, 128.253.41.102 from the p2p nodes are patched to 6.1.2, rest of LB p2p nodes will eventually catch up.
+
+[2026-01-27T12:35:21]
+was on 5.1.2 i think
+
+[2026-01-27T12:35:45]
+maybe even a snapshot. idk, should be up again by end of day perhaps and oracle too
+
+[2026-01-27T12:36:08]
+ill test your commit for explorer backend on one of the main LB's soon
+
+[2026-01-27T12:36:19]
+then i will work at copying that commit to my p2p explorer repo
+
+[2026-01-27T12:40:00]
+hmm, ok, tn diverged a little bit, but can prob still apply your recent fixes to that specifically.
+
+[2026-01-27T12:40:06]
+sounds good will let u know
+
+[2026-01-28T08:41:38]
+which endpoint are you using? ergo.aap is down atm
+
+[2026-01-28T08:41:40]
+it's syncing
+
+[2026-01-28T08:44:58]
+give me the query you're doing and ill troubleshoot
+
+[2026-01-28T08:45:25]
+main explorers are on gql 5.5
+
+[2026-01-28T08:46:21]
+try a few times, is nautilus caching the direct IP address of the LB machine we took offline by chance?
+
+[2026-01-28T08:48:42]
+tested sigmanspace gql in nautilus, works
+tested p2p gql and it works
+
+and yes breaking for me on main explorer gql
+
+[2026-01-28T08:50:57]
+lemme see if it's only one
+
+[2026-01-28T08:50:57]
+sec
+
+[2026-01-28T08:53:23]
+ill bounce GQL in a sec
+
+[2026-01-28T08:54:14]
+in a meeting. most new nautilus are using sigmaspace, so lemme just announce in main about main will be a few
+
+[2026-01-28T08:56:21]
+ok, wonder if i have gql pointing to my .49 node that is syncing atm. thoguht it was all 213 but i may have spread it for redundency.
+
+[2026-01-28T08:56:30]
+please give me a a bit sers
+
+[2026-01-28T08:56:43]
+there are many alternatives while i finish my IRL meeting
+
+[2026-01-28T08:56:55]
+we built in redundancy sers
+
+[2026-01-28T09:52:36]
+yup, using .49 there for gql
+
+[2026-01-28T09:52:40]
+lemme fix and rebuild sec
+
+[2026-01-28T09:52:46]
+wish these things had rollover :(
+
+[2026-01-28T09:56:11]
+when .49 is back up ill do one gql to that and one to 213
+
+[2026-01-28T09:58:11]
+FIXED
+
+[2026-01-28T09:58:25]
+pointing at kushti now, changed yml file and rebuilt gql on both LB's
+
+[2026-01-28T10:03:24]
+thanks for alerting us ser!
+
+[2026-01-28T10:43:20]
+not sure if code supports it, for no ill just split once .49 is up, perhaps anon_br can answer if that line in the .yml supports commas?
+
+[2026-01-28T10:44:28]
+i could prob write a script that tests a tx, and if it fails, to rewrite the yml and then rebuild gql
+
+[2026-01-28T10:44:46]
+that's super duct tape though ser, super
+
+[2026-01-28T10:49:45]
+it's in the github ser
+
+[2026-01-28T10:50:07]
+at least i didn't set it lol
+
+[2026-01-28T11:50:25]
+Yes. Will do.
+
+[2026-01-28T11:50:48]
+Yeah. I need to build in query checks to be more robust.
+
+[2026-01-28T21:18:22]
+@kushti_ru 
+
+I've updated the dashboard to check node indexed height as well as graphql reported height. any of the heights the dash checks will throw a color if they are off by 5 blocks.
+
+[2026-02-02T07:22:00]
+Have u tried queries direct with gql interface to make sure it isn't the node ser?
+
+[2026-02-06T12:50:50]
+it's been two years since i brought that site from broken server. i need to reacquaint myself... but yeah, michael want access when i do?
+
+[2026-02-06T12:51:09]
+from what i remember some stuff was added NOT via github, which is why i had such trouble recreating it
+
+[2026-02-06T12:51:25]
+not sure if i repeated the same quick and easy to just get it operational, or correct way
+
+[2026-02-06T13:38:52]
+Worst case there is a back end and u just add like any other cms.
+

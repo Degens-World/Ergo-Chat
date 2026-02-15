@@ -1,0 +1,2794 @@
+{
+  "sender": "Luivatra",
+  "total_messages": 697,
+  "messages": [
+    {
+      "date": "2021-12-23T10:59:26",
+      "text": "you can use mine, I have a lot :D"
+    },
+    {
+      "date": "2021-12-23T10:59:51",
+      "text": "9fbzAZAQauntRwsnCNFPb7DzT7854qWp4uxeWrhgiscW43aFGfN"
+    },
+    {
+      "date": "2022-01-08T06:18:45",
+      "text": "you removed the other tip bot?"
+    },
+    {
+      "date": "2022-01-08T06:19:03",
+      "text": "then I will change the command to /tip instead of /testtip"
+    },
+    {
+      "date": "2022-01-08T06:20:20",
+      "text": "/testtip 1 thisguyfucks for your wallet work! :)"
+    },
+    {
+      "date": "2022-01-08T06:25:56",
+      "text": "/t 1 thisguyfucks all wallet devs fuck (I feel way too old for saying this stuff lmao)"
+    },
+    {
+      "date": "2022-01-08T06:33:21",
+      "text": "ill have a look in the logs"
+    },
+    {
+      "date": "2022-01-08T06:37:12",
+      "text": "hmm, sometimes the generation of a new wallet seems to fail"
+    },
+    {
+      "date": "2022-01-08T06:39:47",
+      "text": "can you try tip the same guy again?"
+    },
+    {
+      "date": "2022-01-08T06:42:03",
+      "text": "👍"
+    },
+    {
+      "date": "2022-01-11T01:45:19",
+      "text": "@mhs_sam in the ergoprofitsharing scripts you use a hash of the ergotree bytes to check the output box has the right contract guarding it. Is that to make the script smaller?"
+    },
+    {
+      "date": "2022-01-11T03:17:22",
+      "text": "Awesome, will look at implementing that in python as well."
+    },
+    {
+      "date": "2022-01-13T07:24:42",
+      "text": "It seems very simple"
+    },
+    {
+      "date": "2022-01-13T07:24:56",
+      "text": "hah, just needed to complain about it"
+    },
+    {
+      "date": "2022-01-13T07:25:00",
+      "text": "speak to the manager"
+    },
+    {
+      "date": "2022-01-13T09:24:04",
+      "text": "Feedback is welcome!\n\nhttps://github.com/ergo-pad/ergopad/blob/staking-contracts/backend/app/contracts/staking.md"
+    },
+    {
+      "date": "2022-01-16T02:25:23",
+      "text": "Is it an L1 or sidechain or what? They say watch out solidity so I think running on EVM but then it later in the article sounds like it is their own chain?"
+    },
+    {
+      "date": "2022-01-16T14:59:38",
+      "text": "Sign a piece of data?"
+    },
+    {
+      "date": "2022-01-16T18:01:55",
+      "text": "Well it is always a tx. You can of course keep the boxes on the same address, but to change data in registers you need to spend the box and recreate it with new register values"
+    },
+    {
+      "date": "2022-01-17T00:06:36",
+      "text": "No dont know that"
+    },
+    {
+      "date": "2022-01-17T03:38:34",
+      "text": "Wth 🤣"
+    },
+    {
+      "date": "2022-02-06T15:48:48",
+      "text": "Thanks :)"
+    },
+    {
+      "date": "2022-02-08T09:13:58",
+      "text": "yikes"
+    },
+    {
+      "date": "2022-02-08T14:22:25",
+      "text": "Make sure to reserve some time, that is like syncing a full node**2 😅"
+    },
+    {
+      "date": "2022-02-08T14:23:27",
+      "text": "yes"
+    },
+    {
+      "date": "2022-02-08T14:24:19",
+      "text": "we started shortly after the issues around neta launch and it is still syncing (above 600k now so almost!). Running on a virtual machine though so might be throttled somewhere"
+    },
+    {
+      "date": "2022-02-08T14:25:19",
+      "text": "Yeah think so, might be ways to improve sync time, but I dont know @ergopad_leif is running it"
+    },
+    {
+      "date": "2022-02-08T15:58:18",
+      "text": "You can see an explorer as a node with the data in an indexed db, so search can be optimized. So guess some things are easier to do on explorer"
+    },
+    {
+      "date": "2022-02-26T04:16:11",
+      "text": "Yeah, setting maxtransactioncost in config doesnt seem to help. Will make an issue."
+    },
+    {
+      "date": "2022-02-28T04:00:28",
+      "text": "how much from scratch are we talking here? Any coding experience?"
+    },
+    {
+      "date": "2022-02-28T04:04:40",
+      "text": "in all cases it is important to understand how eutxo works, because that will influence how a dapp is built"
+    },
+    {
+      "date": "2022-02-28T04:05:22",
+      "text": "https://docs.ergoplatform.com/dev/"
+    },
+    {
+      "date": "2022-03-28T13:03:26",
+      "text": "Not just .24 .23 as well"
+    },
+    {
+      "date": "2022-03-28T13:03:41",
+      "text": "Seems like network is stuck"
+    },
+    {
+      "date": "2022-03-28T13:57:46",
+      "text": "Only 40ish in0uts and outputs"
+    },
+    {
+      "date": "2022-03-31T09:22:09",
+      "text": "trying to scam in a dev channel lmao"
+    },
+    {
+      "date": "2022-04-15T02:41:36",
+      "text": "Is there a limit on confirming transactions per address per block? When running compound I submit fe. 20 chained transactions fairly shortly after eachother, but they only get confirmed 3 at a time."
+    },
+    {
+      "date": "2022-04-15T03:37:20",
+      "text": "hmm, could be the issue I guess. JIT should help quite a bit though"
+    },
+    {
+      "date": "2022-04-26T02:09:33",
+      "text": "this only relates to mining reward transactions I assume?"
+    },
+    {
+      "date": "2022-05-09T00:14:18",
+      "text": "You can just read the oracle utxo. The info is all there in the registers"
+    },
+    {
+      "date": "2022-05-10T12:56:14",
+      "text": "What do you mean, how they get erg rewards?"
+    },
+    {
+      "date": "2022-05-14T23:02:48",
+      "text": "The way its build kind of prevents an open api sadly"
+    },
+    {
+      "date": "2022-05-15T01:45:36",
+      "text": "I would suggest using sigma rust or appkit to generate those wallets and show a qr code or something for the tip. Dont think the tip bot makes fits in this scenario"
+    },
+    {
+      "date": "2022-06-08T05:41:29",
+      "text": "you sign boxes though, so that would still basically lock the funds or else the tx wouldnt work"
+    },
+    {
+      "date": "2022-06-08T05:42:33",
+      "text": "guess if you want you can make a bank service that could handle things like this (maybe even on a L2 like scalahubs example)"
+    },
+    {
+      "date": "2022-06-10T05:32:20",
+      "text": "Ergopad staking depends on burning working like it does now, wallets should probably just write in big letters at the top what gets burned in a tx a user is about to sign."
+    },
+    {
+      "date": "2022-06-10T05:45:21",
+      "text": "But that wouldn't prevent this situation, because the dapp doesn't use the burn address"
+    },
+    {
+      "date": "2022-06-10T07:03:55",
+      "text": "That would break ergopad staking though, basically locking stake until no penalty is applied."
+    },
+    {
+      "date": "2022-06-13T10:32:31",
+      "text": "Yeah that would be great!"
+    },
+    {
+      "date": "2022-06-13T15:49:22",
+      "text": "I think there is a pretty print, but to call it human readable is a stretch imo, although it could maybe be readable if it gets some formatting?"
+    },
+    {
+      "date": "2022-06-18T07:50:54",
+      "text": "why not just mint?"
+    },
+    {
+      "date": "2022-06-23T06:01:18",
+      "text": "certainly useful, just needs to be able to take parameters/constants as well"
+    },
+    {
+      "date": "2022-06-27T06:02:37",
+      "text": "you mean 5.0 right? Almost done preparing a \"tx cost\" test setup for staking to compare tx cost values on 4.0.31 and 5.0"
+    },
+    {
+      "date": "2022-06-30T09:00:37",
+      "text": "Only issue I could see is it not playing well together with p2s input box, but could be resolved by making an intrawallet tx to spend the box, unless that doesnt work"
+    },
+    {
+      "date": "2022-07-08T11:28:09",
+      "text": "yeah eip mentions 255, guess stored in a short"
+    },
+    {
+      "date": "2022-07-08T11:30:07",
+      "text": "oh I see your comment now, yes"
+    },
+    {
+      "date": "2022-07-08T12:37:59",
+      "text": "Based on sigmarust, so could have happened in a lot places"
+    },
+    {
+      "date": "2022-07-08T13:02:15",
+      "text": "I would expect that limitation to be an issue even without nft's. Tokens with value, vesting keys, staking keys etc. Who knows what we deal with a year from now"
+    },
+    {
+      "date": "2022-07-08T13:42:26",
+      "text": "Agree 100%"
+    },
+    {
+      "date": "2022-07-09T02:33:46",
+      "text": "It could be a check in the endpoint that takes in transactions, add a tokensToBurn structure that the explorer/node can verify, but not change the protocol itself"
+    },
+    {
+      "date": "2022-07-09T02:34:09",
+      "text": "damnit kushti, too fast!"
+    },
+    {
+      "date": "2022-07-09T02:37:21",
+      "text": "Tbh, I think that would be an ok solution? I am more than happy to adapt the ergopad burning code for unstaking to safeguard people"
+    },
+    {
+      "date": "2022-07-11T07:14:22",
+      "text": "Probably easier to wait for babel fees implementation before you fork"
+    },
+    {
+      "date": "2022-07-19T06:11:05",
+      "text": "No"
+    },
+    {
+      "date": "2022-07-23T11:57:36",
+      "text": "Yeah, I need (ergoid, long) for staking but wouldnt want to be restricted to defaults in future"
+    },
+    {
+      "date": "2022-07-25T13:32:50",
+      "text": "hmm maybe I should just switch our entire code base to ASM 😅"
+    },
+    {
+      "date": "2022-07-29T05:27:36",
+      "text": "Didnt 35 have more aggressive peer removal on failure to deliver?"
+    },
+    {
+      "date": "2022-07-31T13:36:44",
+      "text": "Shit, I know its a bear but that is maybe taking it a bit far"
+    },
+    {
+      "date": "2022-07-31T13:38:51",
+      "text": "Too late! Already booked a flight!"
+    },
+    {
+      "date": "2022-07-31T13:39:22",
+      "text": "That is my big question as well"
+    },
+    {
+      "date": "2022-08-02T16:17:08",
+      "text": "True devs have no clue what day it is 😂"
+    },
+    {
+      "date": "2022-08-14T00:29:25",
+      "text": "I use it in my bots, although it would be possible to switch to just getting the transactions from the blocks."
+    },
+    {
+      "date": "2022-08-15T14:34:51",
+      "text": "Allow for usage of node instead of explorer for certain apis"
+    },
+    {
+      "date": "2022-08-18T15:58:15",
+      "text": "Right that would work as well of course"
+    },
+    {
+      "date": "2022-08-18T16:00:35",
+      "text": "Yes, much easier to ensure correctness"
+    },
+    {
+      "date": "2022-08-18T16:58:02",
+      "text": "Could a \"gap\" in the data occur if due to congestion the tree isnt updated within 10 blocks?"
+    },
+    {
+      "date": "2022-08-18T17:00:22",
+      "text": "Still, interesting nonetheless, feels like we are only scratching the surface of what is possible"
+    },
+    {
+      "date": "2022-08-19T04:24:29",
+      "text": "Yeah I believe so"
+    },
+    {
+      "date": "2022-08-26T08:56:07",
+      "text": "dont know if you are doing anything with them right now, but I am seeing transactions appear and disappear on the explorer, maybe one of the nodes is having issues?"
+    },
+    {
+      "date": "2022-08-26T08:57:03",
+      "text": "no this is confirmed transactions"
+    },
+    {
+      "date": "2022-09-04T06:11:16",
+      "text": "Cant burn erg, its just some weird p2s address"
+    },
+    {
+      "date": "2022-09-19T05:16:40",
+      "text": "That would be nice"
+    },
+    {
+      "date": "2022-09-19T05:30:18",
+      "text": "well you can just pass the same data in the context extension, but of course it will be a waste of space"
+    },
+    {
+      "date": "2022-09-19T05:31:16",
+      "text": "ah I see your point yes"
+    },
+    {
+      "date": "2022-09-19T05:33:41",
+      "text": "yeah, question is, is there a reason it is not supported or just an oversight? would it be possible to add in this functionality with a soft fork?"
+    },
+    {
+      "date": "2022-09-23T06:55:52",
+      "text": "Had no idea it was that common"
+    },
+    {
+      "date": "2022-09-27T05:08:50",
+      "text": "Activation could happen within a fairly short period (days?) What would the impact be if not all exchanges are on the new version?"
+    },
+    {
+      "date": "2022-10-03T02:22:04",
+      "text": "sure, was just looking at it, very simple actually cause the algorithm didnt really change, just the parameters + the capping at 50%"
+    },
+    {
+      "date": "2022-10-04T06:24:23",
+      "text": "@MrStahlfelge awesome consolidation feature on tokenjay. One of my wallets says oldest utxo is 3.2 years. Which I doubt :)"
+    },
+    {
+      "date": "2022-10-04T06:42:28",
+      "text": "oof, will have a look at what box it is"
+    },
+    {
+      "date": "2022-10-04T06:46:10",
+      "text": "and the culprit is.... Spectrum 😅"
+    },
+    {
+      "date": "2022-10-04T06:46:47",
+      "text": "so storage rent is based on creation height not settlement height?"
+    },
+    {
+      "date": "2022-10-04T06:51:21",
+      "text": "isn't that an issue? cant even protect from it in ergoscript"
+    },
+    {
+      "date": "2022-10-04T06:56:46",
+      "text": "yeah I see that, but if we have decentralized off chain code how do we prevent someone from setting the creation height to 0 and let it be taken by the miner on the next block"
+    },
+    {
+      "date": "2022-10-04T06:59:43",
+      "text": "someone could do an emission transaction for ergopad staking and set creation height on the new stake pool box to 0"
+    },
+    {
+      "date": "2022-10-04T07:00:56",
+      "text": "no, I am talking about malicous actors"
+    },
+    {
+      "date": "2022-10-04T07:01:43",
+      "text": "no, anyone can sign the contracts"
+    },
+    {
+      "date": "2022-10-04T07:02:01",
+      "text": "similar to the spectrum bots"
+    },
+    {
+      "date": "2022-10-04T07:02:33",
+      "text": "yes, although impact wouldnt be too big due to it having a lot of erg"
+    },
+    {
+      "date": "2022-10-04T07:04:29",
+      "text": "I assumed that was settlementheight"
+    },
+    {
+      "date": "2022-10-04T07:04:34",
+      "text": "but I can see now why it isnt"
+    },
+    {
+      "date": "2022-10-04T07:05:15",
+      "text": "Well, happy to find out now, and not when storage rent hits"
+    },
+    {
+      "date": "2022-10-04T07:50:47",
+      "text": "thank you for that :)"
+    },
+    {
+      "date": "2022-10-04T07:52:13",
+      "text": "ah right, didnt think of that!"
+    },
+    {
+      "date": "2022-10-04T08:08:06",
+      "text": "you didnt create an issue, you brought it to light, so ty (not sarcastic lol)"
+    },
+    {
+      "date": "2022-10-04T08:17:36",
+      "text": "think it depends on box size?"
+    },
+    {
+      "date": "2022-10-05T02:27:33",
+      "text": "So instead of focussing on 6.0 after 5.0 activation maybe we should focus on a storage rent SF. There is also the \"what to do with tokens\" issue when a large amount of tokens is in a box with low amount of erg and it is taken by storage rent, what happens with the tokens"
+    },
+    {
+      "date": "2022-10-05T04:08:33",
+      "text": "think he meant signing, but first submitting in the future"
+    },
+    {
+      "date": "2022-10-05T04:12:25",
+      "text": "yeah, 2 different cases"
+    },
+    {
+      "date": "2022-10-05T04:13:06",
+      "text": "what restrictions are there on creation height of the resulting utxo when a miner takes storage rent?"
+    },
+    {
+      "date": "2022-10-05T04:13:22",
+      "text": "if there are no restrictions he could set the creation height to 0 and take rent again next block"
+    },
+    {
+      "date": "2022-10-05T04:48:23",
+      "text": "this sounds good"
+    },
+    {
+      "date": "2022-10-05T04:49:42",
+      "text": "higher or equal (for chained tx)"
+    },
+    {
+      "date": "2022-10-05T04:55:18",
+      "text": "maybe we should put this on the forum so we can have a structured discussion"
+    },
+    {
+      "date": "2022-10-05T04:56:13",
+      "text": "certainly agree with this 😅"
+    },
+    {
+      "date": "2022-10-05T05:00:20",
+      "text": "oh that is great!"
+    },
+    {
+      "date": "2022-10-05T06:09:54",
+      "text": "also, creation height being lower than creation height of the inputs does not make much sense"
+    },
+    {
+      "date": "2022-10-05T14:11:45",
+      "text": "no"
+    },
+    {
+      "date": "2022-10-05T14:44:16",
+      "text": "NFT's on ergo are native, no need for smart contracts"
+    },
+    {
+      "date": "2022-10-06T02:23:23",
+      "text": "that same tx is still in mempool on explorer (at least in the UI) so can use that node to investigate I guess"
+    },
+    {
+      "date": "2022-10-06T02:31:42",
+      "text": "the tx was confirmed almost 24 hours ago, but is lingering in some mempools"
+    },
+    {
+      "date": "2022-10-06T02:35:23",
+      "text": "my guess (without knowing anything about the inner workings of the node) would be some fork handling logic not cleaning the mempool properly"
+    },
+    {
+      "date": "2022-10-06T10:46:53",
+      "text": "Yeah it was a neta stake tx"
+    },
+    {
+      "date": "2022-10-06T10:47:08",
+      "text": "Not submitted by me though"
+    },
+    {
+      "date": "2022-10-11T13:49:24",
+      "text": "Yeah, an end tag, this is where you go to stop with what you are doing and just dev"
+    },
+    {
+      "date": "2022-10-11T13:51:28",
+      "text": "Hey, HTML was my first programming language! (or so I thought when I was 11 😂)"
+    },
+    {
+      "date": "2022-10-11T13:52:42",
+      "text": "Would still take a phd to figure out what the hell was going on in MS Frontpage generated HTML"
+    },
+    {
+      "date": "2022-10-13T15:47:25",
+      "text": "Nothing special, think the appkit just needs to see block version 3 in the header"
+    },
+    {
+      "date": "2022-10-14T08:55:53",
+      "text": ".tps"
+    },
+    {
+      "date": "2022-10-14T09:07:24",
+      "text": "high tps is the domain of L2, doesnt make sense to cause bloat on L1"
+    },
+    {
+      "date": "2022-10-20T06:49:01",
+      "text": "maybe tweets costing something is not a bad thing looking at the load of worthless trash that gets posted on twitter 😂"
+    },
+    {
+      "date": "2022-10-31T15:16:38",
+      "text": "doesnt it cache though?"
+    },
+    {
+      "date": "2022-11-17T16:25:07",
+      "text": "@oskin regarding SPF, could you mint 2billion (instead of 1 billion) on both ergo and cardano and keep 1 billion to lock into rosen bridge on both sides once rosen is ready? that way they would both be native on each side and use the bridge once ready (if locking tokens in the bridge like that is possible @mhs_sam )"
+    },
+    {
+      "date": "2022-11-22T05:26:32",
+      "text": "that doesnt give double spent error?"
+    },
+    {
+      "date": "2022-11-23T10:15:30",
+      "text": "Need a trustworthy oracle source for it"
+    },
+    {
+      "date": "2022-12-04T14:03:10",
+      "text": "Complaining on twitter is much easier than writing an EIP"
+    },
+    {
+      "date": "2022-12-17T18:24:36",
+      "text": "Cant message be in context var of the users' first utxo input?"
+    },
+    {
+      "date": "2022-12-19T13:50:10",
+      "text": "P2pk utxo wont look in context variables"
+    },
+    {
+      "date": "2022-12-19T14:01:51",
+      "text": "Think they do sadly, think i got error about it"
+    },
+    {
+      "date": "2023-01-07T10:25:09",
+      "text": "Try use the new ergovaluebuilder"
+    },
+    {
+      "date": "2023-01-07T10:28:10",
+      "text": "https://github.com/ergoplatform/ergo-appkit/blob/develop/common/src/main/java/org/ergoplatform/appkit/scalaapi/ErgoValueBuilder.scala"
+    },
+    {
+      "date": "2023-01-08T15:35:35",
+      "text": "yeah, wth @oskin you cant just post a tease like that 😂"
+    },
+    {
+      "date": "2023-01-08T15:38:08",
+      "text": "I asked chatgpt to make println work in ergoscript but for some reason it didnt work...."
+    },
+    {
+      "date": "2023-01-12T01:38:09",
+      "text": "No need to go through the trouble of writing a python->ergotree compiler if the existing language doesnt suck 😅"
+    },
+    {
+      "date": "2023-01-12T01:40:35",
+      "text": "Awesome news for cardano though!"
+    },
+    {
+      "date": "2023-01-18T01:14:39",
+      "text": "one of the main reasons I tried Scala is Ergo 😂"
+    },
+    {
+      "date": "2023-01-18T06:44:54",
+      "text": "@kushti_ru some ghost transactions in (one of) the explorer mempools"
+    },
+    {
+      "date": "2023-01-27T06:00:53",
+      "text": "https://api.ergopad.io/projects/16"
+    },
+    {
+      "date": "2023-01-27T06:16:16",
+      "text": "Been there done that"
+    },
+    {
+      "date": "2023-01-31T12:22:47",
+      "text": "IRS wants to know your location"
+    },
+    {
+      "date": "2023-02-07T13:48:13",
+      "text": "maybe only use 1 node for mempool stuff if possible? to keep it consistent"
+    },
+    {
+      "date": "2023-03-06T08:04:02",
+      "text": "actually, the tokenid is already written to a register (R2?)"
+    },
+    {
+      "date": "2023-03-06T09:16:26",
+      "text": "Why use tokens for it though? Can just store the data in registers. Or do you have a use case for the tokens?"
+    },
+    {
+      "date": "2023-03-06T09:19:10",
+      "text": "But a token holds no data, you could just pass someone the box id of the first box in the chain"
+    },
+    {
+      "date": "2023-03-06T09:34:12",
+      "text": "Which one you using, ergpy?"
+    },
+    {
+      "date": "2023-03-07T04:47:19",
+      "text": "Why not use \"it\" 😅"
+    },
+    {
+      "date": "2023-03-20T04:40:53",
+      "text": "good, the wallet rescan is slow indeed"
+    },
+    {
+      "date": "2023-03-25T13:56:50",
+      "text": "The goal of storage rent is avoid dust & bloat, a box with 1k erg is no dust or bloat"
+    },
+    {
+      "date": "2023-03-26T14:37:12",
+      "text": "It combines some transactions into one, fe. swaps on spectrum"
+    },
+    {
+      "date": "2023-03-31T10:34:37",
+      "text": "Yeah, guess I could do that, just might be an issue if minimum fee changes"
+    },
+    {
+      "date": "2023-03-31T11:25:30",
+      "text": "yeah, will probably do that, either that or just a context var, could be he isnt smart enough to change the context var 😅"
+    },
+    {
+      "date": "2023-03-31T16:57:49",
+      "text": "Sorry about that, one of the paideia contracts is a bit big"
+    },
+    {
+      "date": "2023-04-03T10:43:39",
+      "text": "Doesnt even know how to mass mint, he must be new here"
+    },
+    {
+      "date": "2023-04-12T23:11:38",
+      "text": "Have you successfully send a simple transaction? Probably best to start with that, send 0.1 erg from one p2pk to anothet"
+    },
+    {
+      "date": "2023-04-12T23:51:31",
+      "text": "Minting an nft is a special type of transaction so make sure you can make a simple transaction first"
+    },
+    {
+      "date": "2023-04-14T05:42:34",
+      "text": "he would need to mint the zengate token, create babel fee boxes (with erg) and then make the minting tx more complex because of the need to include the babel box in the input and output. That is just minting with erg with a lot of extra steps :P"
+    },
+    {
+      "date": "2023-04-14T05:44:32",
+      "text": "I dont think Dan needs extra complexity in the minting process 😁"
+    },
+    {
+      "date": "2023-04-14T05:46:49",
+      "text": "its like you said, you need to get over that initial hurdle, it gets easier"
+    },
+    {
+      "date": "2023-04-14T05:49:27",
+      "text": "yeah, huge benefit both ways when a team lead kind of knows what is going on under the hood"
+    },
+    {
+      "date": "2023-04-14T05:51:51",
+      "text": "I started my professional career in PL/1 on z/OS mainframe and no I am not that old, just started at a dinosaur bank 😂"
+    },
+    {
+      "date": "2023-04-14T05:52:28",
+      "text": "well at least you are not carrying the punch cards to the compiler old"
+    },
+    {
+      "date": "2023-04-14T05:55:45",
+      "text": "These younguns dont know how good they have it! Now get off my lawn!"
+    },
+    {
+      "date": "2023-04-15T06:09:02",
+      "text": "Wouldnt that conversation happen in the gh issue though? Do agree this chat should be for dev related chatter, but can still have a bit of banter now and then"
+    },
+    {
+      "date": "2023-04-15T06:14:20",
+      "text": "No, funny banter only 😉"
+    },
+    {
+      "date": "2023-04-17T11:45:08",
+      "text": "Dont see why not"
+    },
+    {
+      "date": "2023-04-17T11:45:39",
+      "text": "Just have less space inside a box than context"
+    },
+    {
+      "date": "2023-04-17T11:50:19",
+      "text": "Just need to perform the same operations in the same order"
+    },
+    {
+      "date": "2023-04-17T12:04:30",
+      "text": "Its not that bad if you keep the state in between transactions. Off course takes a bit to sync from scratch"
+    },
+    {
+      "date": "2023-04-23T13:14:27",
+      "text": "Could take the indexed node ui further"
+    },
+    {
+      "date": "2023-04-23T13:16:51",
+      "text": "https://github.com/Luivatra/indexed-node-explorer"
+    },
+    {
+      "date": "2023-04-27T13:20:48",
+      "text": "Every token transfer on cardano needs a couple of ada attached to it"
+    },
+    {
+      "date": "2023-04-27T13:21:33",
+      "text": "Easy to get used to ergo tx fees"
+    },
+    {
+      "date": "2023-04-27T14:18:17",
+      "text": "no, it is not a tx fee, the receiving address gets the ada"
+    },
+    {
+      "date": "2023-04-27T14:18:45",
+      "text": "reward for watchers and guards"
+    },
+    {
+      "date": "2023-04-28T10:15:13",
+      "text": "doesnt the node complain if the cost is too high?"
+    },
+    {
+      "date": "2023-04-30T04:31:02",
+      "text": "yeah, mine is as well"
+    },
+    {
+      "date": "2023-04-30T14:42:44",
+      "text": "Isnt that a placeholder for an actual address?"
+    },
+    {
+      "date": "2023-04-30T14:52:03",
+      "text": "Ah ok, just use regex 😆"
+    },
+    {
+      "date": "2023-04-30T14:55:07",
+      "text": "Yeah, annoying"
+    },
+    {
+      "date": "2023-05-01T11:39:05",
+      "text": "I am going to update my node just to mess with your statistics"
+    },
+    {
+      "date": "2023-05-01T12:32:45",
+      "text": "The misconception is that batchers are inherently not decentralized. Its only if they are not freely available and closed source"
+    },
+    {
+      "date": "2023-05-02T10:46:21",
+      "text": "That has been an issue for a while, guess the generation breaks because multiple return types use the \"items\" field. Could use the indexed node for this specific endpoint though"
+    },
+    {
+      "date": "2023-05-03T15:16:51",
+      "text": "1/R6*10^9"
+    },
+    {
+      "date": "2023-05-08T09:54:22",
+      "text": "about time miners wake up"
+    },
+    {
+      "date": "2023-05-08T23:21:50",
+      "text": "Think he meant that the node doesnt accept tx with outputs with creation height smaller than max creation height of the inputs"
+    },
+    {
+      "date": "2023-05-12T11:38:19",
+      "text": "Can confirm"
+    },
+    {
+      "date": "2023-05-17T10:28:43",
+      "text": "Probably too many transactions"
+    },
+    {
+      "date": "2023-05-31T15:15:07",
+      "text": "Doesnt fleet have this built in though?"
+    },
+    {
+      "date": "2023-05-31T15:15:40",
+      "text": "https://github.com/fleet-sdk/fleet"
+    },
+    {
+      "date": "2023-05-31T15:16:19",
+      "text": "I dont do js though so dont know how well it works but made by nautilus dev so xant be too bad"
+    },
+    {
+      "date": "2023-06-02T07:54:41",
+      "text": "I put a max on it in the contracts. Then it is up to the bot operator to decide how much goes to the miner and how much to the operator"
+    },
+    {
+      "date": "2023-06-02T11:29:09",
+      "text": "Nothing scientific right now"
+    },
+    {
+      "date": "2023-06-08T01:09:27",
+      "text": "Doesnt sound like that is the end goal, what are all addresses needed for?"
+    },
+    {
+      "date": "2023-06-09T14:51:23",
+      "text": "Needs to be less than max utxo size, but of course need room for registers as well"
+    },
+    {
+      "date": "2023-06-09T14:53:23",
+      "text": "If really needed you can split the contract up into multiple utxos"
+    },
+    {
+      "date": "2023-06-09T16:48:25",
+      "text": "I have had issues with multi parameter custom functions in some cases, not sure why"
+    },
+    {
+      "date": "2023-06-12T02:33:37",
+      "text": "Gonna go out on a limb, but probably because noone has had the time and motivation?"
+    },
+    {
+      "date": "2023-06-13T06:12:43",
+      "text": "you can pin only your own stuff and not keep anything else stored afaik"
+    },
+    {
+      "date": "2023-06-20T22:02:32",
+      "text": "Trying to scam in the dev channel 🤦‍♂️"
+    },
+    {
+      "date": "2023-06-23T11:24:02",
+      "text": "Global index"
+    },
+    {
+      "date": "2023-06-23T12:30:49",
+      "text": "Yeah, it should"
+    },
+    {
+      "date": "2023-07-03T04:43:16",
+      "text": "was it a treasurywithdrawal with some \"extra\" withrawal on the side?"
+    },
+    {
+      "date": "2023-07-03T04:51:53",
+      "text": "not all, need to leave 10000000L nanoerg in 😂"
+    },
+    {
+      "date": "2023-07-03T04:52:56",
+      "text": "well this is a valuable lesson to a lot of people, thank you krasa for not making it an overly painful one"
+    },
+    {
+      "date": "2023-07-03T04:54:48",
+      "text": "not just that, important to learn that noone is infallible, we are all human, that is why blockchain+open source+time is so important"
+    },
+    {
+      "date": "2023-07-03T04:55:06",
+      "text": "people forgot about the time aspect because it came from trusted people"
+    },
+    {
+      "date": "2023-07-03T05:12:53",
+      "text": "yeah not sure how to handle the LP, luckily not too big, but someone could dump their hodlerg on spectrum after getting the refund from you"
+    },
+    {
+      "date": "2023-07-03T05:13:32",
+      "text": "maybe give people some time to remove liquidity from lp"
+    },
+    {
+      "date": "2023-07-04T03:12:06",
+      "text": "people might feel burned and dont want to jump in again"
+    },
+    {
+      "date": "2023-07-04T03:17:14",
+      "text": "Having a look, but 5% dev fee seems a bit much ;)"
+    },
+    {
+      "date": "2023-07-04T03:19:03",
+      "text": "I figured :)"
+    },
+    {
+      "date": "2023-07-04T12:34:10",
+      "text": "Price equalled 0 cause tvl was basically 0"
+    },
+    {
+      "date": "2023-07-04T12:38:40",
+      "text": "Can upcast any value you need to compare with to bigint"
+    },
+    {
+      "date": "2023-07-04T14:56:10",
+      "text": "I usually write proxy from user pov and main contract from protocol pov. Proxy protects user, main protects protocol"
+    },
+    {
+      "date": "2023-07-04T15:40:52",
+      "text": "Lol, I know the feeling"
+    },
+    {
+      "date": "2023-07-09T15:13:14",
+      "text": "It is tough to decide and the best option probably depends on specific usecases"
+    },
+    {
+      "date": "2023-07-10T13:56:34",
+      "text": "Is the type enforced or just syntactic sugar?"
+    },
+    {
+      "date": "2023-07-14T09:03:17",
+      "text": "Oops 😅"
+    },
+    {
+      "date": "2023-07-17T23:54:49",
+      "text": "Awesome, will look at it"
+    },
+    {
+      "date": "2023-07-18T01:15:14",
+      "text": "think the issue is that the settlementheight of an input box is not known when evaluating a transaction"
+    },
+    {
+      "date": "2023-07-18T01:18:00",
+      "text": "sadly not themselves, someone ran modified spectrum off chain bots that set creation height to 0"
+    },
+    {
+      "date": "2023-07-20T09:13:37",
+      "text": "All I need is block header id and tx id for mempool transactions, rest I can fetch from api"
+    },
+    {
+      "date": "2023-07-20T09:13:48",
+      "text": "Will send error later"
+    },
+    {
+      "date": "2023-07-20T11:36:59",
+      "text": "beautiful, will try it out tomorrow"
+    },
+    {
+      "date": "2023-07-23T16:59:32",
+      "text": "Sorry didnt get to it yet, will make time for it tomorrow"
+    },
+    {
+      "date": "2023-07-24T03:44:29",
+      "text": "Getting this error, running on 17:\n[10:43:16] Received ID(s) of transaction(s) in Inv message: 2d0babb062faab5fe70dd691bc4c141b5ebef46f6cc804c0a8cf8bb7928e27f0\nException in thread \"main\" java.lang.NoClassDefFoundError: org/bouncycastle/jcajce/provider/digest/Blake2b$Blake2b256\n  at com.satergo.ergonnection.ErgoSocket.send(ErgoSocket.java:85)\n  at com.satergo.example.TransactionLoggerExample.<init>(TransactionLoggerExample.java:44)\n  at com.satergo.example.TransactionLoggerExample.main(TransactionLoggerExample.java:65)\nCaused by: java.lang.ClassNotFoundException: org.bouncycastle.jcajce.provider.digest.Blake2b$Blake2b256\n  at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)\n  at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\n  at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)\n  ... 3 more"
+    },
+    {
+      "date": "2023-07-25T05:50:17",
+      "text": "working good now, also realized for my usecase I dont need to send any messages, the transaction/header id's are all I need"
+    },
+    {
+      "date": "2023-07-25T06:02:11",
+      "text": "blocking, all worked fine (used it from scala 2.13 btw)"
+    },
+    {
+      "date": "2023-07-25T06:04:27",
+      "text": "apparently up to jdk 21"
+    },
+    {
+      "date": "2023-07-25T07:01:13",
+      "text": "the socket's connection gets closed every 10 minutes, maybe because I dont send anything over it?"
+    },
+    {
+      "date": "2023-07-25T07:21:21",
+      "text": "yeah, requesting modifiers seems to have solved that"
+    },
+    {
+      "date": "2023-07-25T10:38:14",
+      "text": "yeah, already made it before sending modifier request messages, so should be fine :)"
+    },
+    {
+      "date": "2023-07-26T05:18:34",
+      "text": "one more question, getting quite a few errors where the magic bytes are not correct (fe. \" incorrect magic [31, -4, 74, -43] (must be [1, 0, 2, 4])\"). I am just ignoring them but wondering if you noticed the same"
+    },
+    {
+      "date": "2023-07-26T05:21:46",
+      "text": "no, only my own, but that one is connected to random I guess"
+    },
+    {
+      "date": "2023-07-26T05:24:31",
+      "text": "my node is a few versions behind, maybe time I update it anyways"
+    },
+    {
+      "date": "2023-08-02T04:48:57",
+      "text": "what kind of transactions?"
+    },
+    {
+      "date": "2023-08-02T05:21:14",
+      "text": "If you do it fast previously submitted tx hasnt reached ergopad node yet so it builds next with inputs already used in first tx"
+    },
+    {
+      "date": "2023-08-02T05:24:49",
+      "text": "More an issue with ergopad than the chain, need to update the code, its old"
+    },
+    {
+      "date": "2023-08-05T02:19:27",
+      "text": "Just because there is a misunderstanding doesnt mean there is an unwillingness to listen. I suspect making it more power efficient could hurt the asic resistance, but really need someone that knows what theyre talking about to way in."
+    },
+    {
+      "date": "2023-08-09T14:49:31",
+      "text": "What is ouch about that?"
+    },
+    {
+      "date": "2023-08-10T01:19:30",
+      "text": "Crux going rust as well"
+    },
+    {
+      "date": "2023-08-14T16:16:39",
+      "text": "Good question. Gets really buggy sometimes when it hits that so I have been reconnecting when it happens. Seems to work fairly well"
+    },
+    {
+      "date": "2023-08-14T17:02:55",
+      "text": "Not really, usually the magic is empty, maybe it just didnt receive it yet. Cant remember if I have seen it non empty"
+    },
+    {
+      "date": "2023-08-14T17:04:31",
+      "text": "And yeah, connected to my own node only"
+    },
+    {
+      "date": "2023-08-14T17:09:13",
+      "text": "Sorry, didnt realize it until now that it was showing empty magic in the error msg"
+    },
+    {
+      "date": "2023-08-15T11:36:29",
+      "text": "The chain part makes that a self answering question 😋"
+    },
+    {
+      "date": "2023-08-15T11:37:30",
+      "text": "How to chain across multiple mempools if part of the chain is not present"
+    },
+    {
+      "date": "2023-08-15T11:37:48",
+      "text": "(In the same mempool)"
+    },
+    {
+      "date": "2023-08-15T11:52:21",
+      "text": "Gotta throttle, you young whippersnapper!"
+    },
+    {
+      "date": "2023-08-16T04:23:57",
+      "text": "Will do tomorrow!"
+    },
+    {
+      "date": "2023-08-20T12:42:19",
+      "text": "What in the ocd is that 😂"
+    },
+    {
+      "date": "2023-08-20T12:47:22",
+      "text": "Well if the ocd is that strong they can do the math :p if there is a fee on paying a bill it wouldnt change the amount on the bill either"
+    },
+    {
+      "date": "2023-08-21T05:02:19",
+      "text": "@mewtoshi at first glance it all works fine, also managed to extract the height from the new blocks so mgpai should be happy :P"
+    },
+    {
+      "date": "2023-08-21T05:02:27",
+      "text": "will keep it running to see if it is stable as well"
+    },
+    {
+      "date": "2023-08-21T05:07:33",
+      "text": "aint nobody got time for selecting an emoji"
+    },
+    {
+      "date": "2023-08-22T23:41:16",
+      "text": "Dif adjust changed after that so I would say it is not irrelevant, but statistics after that would be interesting"
+    },
+    {
+      "date": "2023-08-23T14:52:52",
+      "text": "think I use it as well to make a clone of a tree"
+    },
+    {
+      "date": "2023-08-23T14:59:59",
+      "text": "That is what I use it for as well, and taking staking snapshots"
+    },
+    {
+      "date": "2023-08-30T10:30:03",
+      "text": "I am also at around 10hr for indexing crux db. I am sure it can be cut down, but tough to spend a lot of time optimizing a \"one time\" operation"
+    },
+    {
+      "date": "2023-08-30T10:39:57",
+      "text": "yeah. I focused on a simple basic data model, further \"indexing\" is done by performing heavy operations and put result in tables, for example extracting all spectrum liquidity pool boxes"
+    },
+    {
+      "date": "2023-08-30T10:40:32",
+      "text": "so havent had a need for working from scratch, only for specific sub tables"
+    },
+    {
+      "date": "2023-09-04T15:39:43",
+      "text": "Oh that is interesting, what will timestamp be?"
+    },
+    {
+      "date": "2023-09-04T16:23:24",
+      "text": "So no change there"
+    },
+    {
+      "date": "2023-09-04T23:32:27",
+      "text": "This would help with making storage rent tx's"
+    },
+    {
+      "date": "2023-09-05T01:41:43",
+      "text": "at least that is what I put together when he tagged you 😅"
+    },
+    {
+      "date": "2023-09-07T06:03:32",
+      "text": "Not sure what the full package program means, but I would suggest finding a few simple tutorials to learn the basics of programming, followed by back-end and front-end programming. Then see if you like it and which part you like more (front-end or back-end). There is nothing super special about an ergo developer compared to any other developer"
+    },
+    {
+      "date": "2023-09-07T06:12:59",
+      "text": "think it seems to cover both frontend and backend, so that is good. Opinions may vary on c#/.net but I like the language and in the end the language is not that important"
+    },
+    {
+      "date": "2023-09-07T06:17:18",
+      "text": "it deosnt really matter which language you learn as long as you keep in mind that the important things to take in are not language specific, but more algorithms and data structures. When you realize that you can use any language whenever it makes sense and still use your experience in other languages"
+    },
+    {
+      "date": "2023-09-07T06:18:08",
+      "text": "in the end it is still html and css what comes out of javascript sites right?"
+    },
+    {
+      "date": "2023-09-07T06:28:09",
+      "text": "Yeah kinda agree on that"
+    },
+    {
+      "date": "2023-09-07T06:29:37",
+      "text": "Google says it is ok"
+    },
+    {
+      "date": "2023-09-09T15:46:26",
+      "text": "Isnt that why api is versioned? Just make v2 version of same endpoint"
+    },
+    {
+      "date": "2023-09-12T13:56:29",
+      "text": "I have had something in appkit complain when not using consecutive indices, just an fyi"
+    },
+    {
+      "date": "2023-09-12T13:58:43",
+      "text": "No I mean context var's. Not sure if intended"
+    },
+    {
+      "date": "2023-09-12T13:59:03",
+      "text": "oh nvm, I see now you talk about something else"
+    },
+    {
+      "date": "2023-09-12T14:08:55",
+      "text": "Just so I understand the discussion, DeserializeContext = executeFromVar in ergoscript?"
+    },
+    {
+      "date": "2023-09-14T15:13:38",
+      "text": "Heavy metaldata, nice"
+    },
+    {
+      "date": "2023-09-15T02:30:09",
+      "text": "Application.conf is the defaults, ergo.conf overrides whatever you define in there"
+    },
+    {
+      "date": "2023-09-15T02:47:58",
+      "text": "Think mainnet.conf comes in between"
+    },
+    {
+      "date": "2023-09-15T03:17:10",
+      "text": "I am liking Rust for small microservices, because of the very low resource usage. There will never be a single language best for everything. If the rust node gave Kaspa a big boost it is probably because the old code was no good. If your code is no good and a big refactor is needed it is easier to sell that it is to use a new language than to say your old code is shit."
+    },
+    {
+      "date": "2023-09-15T03:17:37",
+      "text": "In totally unrelated news I will over time switch ergopads backend to Rust because Python sucks"
+    },
+    {
+      "date": "2023-09-15T03:18:11",
+      "text": "Yes, but I dont like my code 😂"
+    },
+    {
+      "date": "2023-09-15T03:20:17",
+      "text": "Python puts a lot of trust in the discipline of the programmer to produce good code, when you are (one of the) only dev on a project and stuff needs to be done fast it is tough to be disciplined like that"
+    },
+    {
+      "date": "2023-09-15T03:21:43",
+      "text": "yeah, weak typing requires strong programmer"
+    },
+    {
+      "date": "2023-09-16T09:39:46",
+      "text": "Ergo is still a small db and not that many users are hitting the db, it is the explorer datamodel that is the issue"
+    },
+    {
+      "date": "2023-09-16T09:43:58",
+      "text": "and I dont say that blaming anyone, making a well performing datamodel is not easy, but once you have a well performing data model sql is ridiculous in what it can do"
+    },
+    {
+      "date": "2023-09-16T09:46:10",
+      "text": "the portfolio query for crux was performing \"ok\" returning in 3 seconds, but I am usually not happy when it is more than 1s, so dug in, added 1 index supporting a join and it went down to like 0.5s"
+    },
+    {
+      "date": "2023-09-16T09:47:45",
+      "text": "just think the explorer data model with a table with outputs and a table with inputs doesnt work well, because you end up joining a lot of data just to get the small % that is unspent, which is what is most interesting for a lot of use cases"
+    },
+    {
+      "date": "2023-09-16T09:48:12",
+      "text": "have a lot of work experience, mostly mssql but a lot of stuff translates"
+    },
+    {
+      "date": "2023-09-16T09:48:57",
+      "text": "learn how to get a query plan for the query you are firing off, look at what is taking a long time and try to solve that"
+    },
+    {
+      "date": "2023-09-16T09:50:21",
+      "text": "in pgadmin you can turn on timing in the explain"
+    },
+    {
+      "date": "2023-09-16T09:51:47",
+      "text": "should have something similar in whatever db you use"
+    },
+    {
+      "date": "2023-09-16T09:52:44",
+      "text": "anyways, I am not a specialized db engineer but with a bit of effort you can get the basic knowledge around indices etc. and should help a lot"
+    },
+    {
+      "date": "2023-09-16T09:57:09",
+      "text": "funny thing is on my first job I worked on mainframe with DB2 db, when trying to deploy something with a query in it it would automatically run a query plan analyzer and if it sucked they would stop the deployment and tell you to try again"
+    },
+    {
+      "date": "2023-09-18T21:12:56",
+      "text": "Look in paideia-state code ;) box size in bytes * 360"
+    },
+    {
+      "date": "2023-09-25T01:13:43",
+      "text": "Pure tps is only relevant for chains that only transfer coins. Any other chain will have a variable transaction size/complexity making tps impossible to pin down"
+    },
+    {
+      "date": "2023-09-25T01:14:39",
+      "text": "If you want to compare fix the transaction to a known simple value for size & complexity"
+    },
+    {
+      "date": "2023-09-25T09:43:36",
+      "text": "Should be times blocks/min?"
+    },
+    {
+      "date": "2023-09-25T12:41:24",
+      "text": "Cost is ergotree complexity based"
+    },
+    {
+      "date": "2023-09-26T09:47:33",
+      "text": "I am thinking about turning off the eth/usd oracle. Is anyone using it?"
+    },
+    {
+      "date": "2023-09-27T12:29:51",
+      "text": "That is absolutely amazing"
+    },
+    {
+      "date": "2023-09-30T12:12:41",
+      "text": "Just look at the blockchain"
+    },
+    {
+      "date": "2023-09-30T12:14:57",
+      "text": "Quickest would be explorer api, boxes/unspent/byTokenId/{pool_id} then just divide tokens by erg value"
+    },
+    {
+      "date": "2023-10-04T11:34:14",
+      "text": "doubt it can be prevented 100% tbh, so tools to fix it should be user friendly I guess"
+    },
+    {
+      "date": "2023-10-04T11:43:16",
+      "text": "yeah, but wallets depend on explorer atm and explorer dies on that many utxos"
+    },
+    {
+      "date": "2023-10-06T06:05:35",
+      "text": "same reason the first bag of heroine is"
+    },
+    {
+      "date": "2023-10-06T06:06:07",
+      "text": "but it sure is a big bag"
+    },
+    {
+      "date": "2023-10-09T07:33:33",
+      "text": "I know appkit gets confused when calculating change amounts (it only takes one amount per token per box)"
+    },
+    {
+      "date": "2023-10-09T07:33:54",
+      "text": "is node using same logic?"
+    },
+    {
+      "date": "2023-10-09T07:35:06",
+      "text": "yeah I have seen boxes with the same token multiple times"
+    },
+    {
+      "date": "2023-10-09T09:06:57",
+      "text": "nice, good to know!"
+    },
+    {
+      "date": "2023-10-09T09:07:21",
+      "text": "I tend to make workarounds and never check if the issue has been fixed 😅"
+    },
+    {
+      "date": "2023-10-10T11:43:59",
+      "text": "most endpoints have offset & limit query parameters"
+    },
+    {
+      "date": "2023-10-10T11:48:21",
+      "text": "offset = 0\nlimit = 100\ndone = false\nwhile !done\n  response = apirequest(\"...?offset={offset}&limit={limit}\n  if len(response) < limit\n    done = true\n  offset += limit"
+    },
+    {
+      "date": "2023-10-10T11:49:08",
+      "text": "only annoying thing sometimes is that orders is sorted with newest first, meaning if while you are cycling through pages a new entry will shift everything"
+    },
+    {
+      "date": "2023-10-10T20:43:36",
+      "text": "Show coinbase & scripts"
+    },
+    {
+      "date": "2023-10-12T00:11:52",
+      "text": "Hehe, a significant % of all ergo boxes have been holding that token on that address"
+    },
+    {
+      "date": "2023-10-12T07:09:58",
+      "text": "not sure how ergpy does it, but shouldnt you specifiy box_id's for inputs rather than address?"
+    },
+    {
+      "date": "2023-10-12T07:12:37",
+      "text": "its just in most cases when having p2s input you need a specific box, not just any from that address"
+    },
+    {
+      "date": "2023-10-17T05:45:29",
+      "text": "Until they change the contracts 😉"
+    },
+    {
+      "date": "2023-10-17T06:36:31",
+      "text": "Sure, but new contract would mean improvement so they might encourage moving liquidity over. Anyways, not really relevant right now"
+    },
+    {
+      "date": "2023-11-10T01:18:36",
+      "text": "There is update"
+    },
+    {
+      "date": "2023-11-10T01:22:02",
+      "text": "https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/docs/LangSpec.md#avltree"
+    },
+    {
+      "date": "2023-11-10T04:14:41",
+      "text": "Think its in eip 4"
+    },
+    {
+      "date": "2023-11-10T04:25:59",
+      "text": "Yes, eip 4 is a meta data standard for token minting but believe it describes what you just wrote as well"
+    },
+    {
+      "date": "2023-11-10T04:28:42",
+      "text": "Agree!"
+    },
+    {
+      "date": "2023-11-10T04:34:43",
+      "text": "The average crypto investor doesnt care about elegant design, but elegant design gives a stable foundation and longevity, it will come"
+    },
+    {
+      "date": "2023-11-13T01:09:03",
+      "text": "I will give an example when I get to my pc"
+    },
+    {
+      "date": "2023-11-20T01:59:25",
+      "text": "You could use .slice to look for a sequence of bytes I guess, but not sure it would work"
+    },
+    {
+      "date": "2023-11-20T02:38:54",
+      "text": "Yeah that is going to be difficult to implement in eutxo I think"
+    },
+    {
+      "date": "2023-11-20T03:29:03",
+      "text": "Interesting idea"
+    },
+    {
+      "date": "2023-11-20T04:15:58",
+      "text": "how do you force the inclusion of a dataInput in every transaction a certain token is in"
+    },
+    {
+      "date": "2023-11-20T04:18:13",
+      "text": "this is a huge pro or a huge con of ergo depending who you ask :D"
+    },
+    {
+      "date": "2023-11-21T00:12:01",
+      "text": "@kushti_ru my node was using quite a lot of cpu and saw a lot of misbehavior penalties in the log"
+    },
+    {
+      "date": "2023-11-21T00:15:17",
+      "text": "and it keeps being the same ip that gets the misbehavior penalty"
+    },
+    {
+      "date": "2023-11-21T00:17:38",
+      "text": "956726-mn-ergo-node  | 06:16:56.278 INFO  [tor.default-dispatcher-30] s.c.n.PeerConnectionHandler - Send message MessageSpec(22: RequestModifier) to ConnectionId(remote=/15.235.13.47:9030, local=/172.21.0.2:42058, direction=Outgoing)\n956953-mn-ergo-node  | 06:16:56.486 INFO  [tor.default-dispatcher-30] o.e.n.ErgoNodeViewSynchronizer - Got 1 modifiers of type 102 from remote connected peer: ConnectionId(remote=/15.235.13.47:9030, local=/172.21.0.2:42058, direction=Outgoing)\n957190-mn-ergo-node  | 06:16:56.499 WARN  [tor.default-dispatcher-30] o.e.n.ErgoNodeViewSynchronizer - Failed to parse modifier with declared id be40351ba48bd5cb1cc43ba74f4f67ed231c912edb9a749f5e4c1f7ed1c77635 from ConnectedPeer(connection: ConnectionId(remote=/15.235.13.47:9030, local=/172.21.0.2:42058, direction=Outgoing) , remote version: Some(5.0.15))\n957541:mn-ergo-node  | 06:16:56.499 INFO  [tor.default-dispatcher-42] s.c.n.peer.PeerManager - /15.235.13.47:9030 penalized, penalty: MisbehaviorPenalty"
+    },
+    {
+      "date": "2023-11-21T00:18:02",
+      "text": "not sure if that had anything to do with high cpu though"
+    },
+    {
+      "date": "2023-11-21T02:38:07",
+      "text": "forgot this node was on 5.0.14, will update see if it persists"
+    },
+    {
+      "date": "2023-11-21T05:11:10",
+      "text": "Yes"
+    },
+    {
+      "date": "2023-11-22T04:00:36",
+      "text": "same issue here"
+    },
+    {
+      "date": "2023-11-22T06:53:34",
+      "text": "but why do they disappear after being confirmed? Seen it happen multiple times today"
+    },
+    {
+      "date": "2023-12-08T19:57:42",
+      "text": "The max possible inputs got higher after node 5.0"
+    },
+    {
+      "date": "2023-12-13T12:16:59",
+      "text": "Think its a js bug when converting big number to string"
+    },
+    {
+      "date": "2023-12-13T12:34:13",
+      "text": "Register can be bigint though"
+    },
+    {
+      "date": "2023-12-13T12:39:53",
+      "text": "That shit scares me lol"
+    },
+    {
+      "date": "2023-12-13T13:00:36",
+      "text": "oof, that is a nasty one"
+    },
+    {
+      "date": "2023-12-14T09:06:58",
+      "text": "can confirm, 5.0.14 indexed node is fine, 5.0.16 indexed node stuck on that height (the index is stuck, the node itself is fine)"
+    },
+    {
+      "date": "2023-12-23T02:47:14",
+      "text": "Think sub blocks is better solution tbh."
+    },
+    {
+      "date": "2023-12-23T10:15:10",
+      "text": "I am hitting limit for size before complexity since v5 on transactions, guess it will be similar for blocks"
+    },
+    {
+      "date": "2023-12-23T23:49:57",
+      "text": "Why?"
+    },
+    {
+      "date": "2023-12-24T16:54:09",
+      "text": "How about a structure of a combination of types? Found that the biggest plus when working with cardano"
+    },
+    {
+      "date": "2023-12-27T03:39:42",
+      "text": "Address is derived from guardscript, so no"
+    },
+    {
+      "date": "2023-12-27T03:41:00",
+      "text": "You can make a guardscript have a user signing as a confition though, but would need to implement it in a wallet to show it there"
+    },
+    {
+      "date": "2023-12-29T04:58:46",
+      "text": "Storage rent claim spends the utxo"
+    },
+    {
+      "date": "2023-12-29T04:59:45",
+      "text": "I would not assume the registers are identical, but could be wrong"
+    },
+    {
+      "date": "2023-12-29T07:23:22",
+      "text": "Ok cool, good to know"
+    },
+    {
+      "date": "2024-01-03T14:25:59",
+      "text": "If a dapp already uses mempool + transaction chaining sub blocks wont do much difference, other than it might make it easier to make sense of the chaos that is the mempool, depending on sub blocks might help avoid ghost transactions etc. in the mempool"
+    },
+    {
+      "date": "2024-01-03T14:28:06",
+      "text": "I would love to see wallets have an option to show unconfirmed balance, I think that would resolve a lot of UX issues. Sub blocks are great on their own if they improve propagation of transactions, spreading the load instead of peaking when the block is mined"
+    },
+    {
+      "date": "2024-01-13T02:23:50",
+      "text": "That is just a multisig right? Or am I reading it wrong"
+    },
+    {
+      "date": "2024-02-02T12:59:44",
+      "text": "Can you consider those active?"
+    },
+    {
+      "date": "2024-02-22T09:42:13",
+      "text": "kushti doesnt have such a check either😁"
+    },
+    {
+      "date": "2024-02-24T00:25:01",
+      "text": "If you mint into the ephemeral sc your register requirements clash with eip 4"
+    },
+    {
+      "date": "2024-02-24T09:41:16",
+      "text": "r4-r6 are used in eip 4"
+    },
+    {
+      "date": "2024-02-24T10:13:55",
+      "text": "ah ok, now I see, didnt realize you wanted to name the token as the address"
+    },
+    {
+      "date": "2024-02-24T10:21:21",
+      "text": "how would this interact with other protocols though, if the token is stuck in the ephemeral contract"
+    },
+    {
+      "date": "2024-02-24T10:23:13",
+      "text": "ok so protocols need to be supporting it, using datainputs to prove ownership"
+    },
+    {
+      "date": "2024-03-02T07:06:38",
+      "text": "Maybe ipfs issue, or issue with some http mirror"
+    },
+    {
+      "date": "2024-03-12T00:42:48",
+      "text": "Needs to be at least the max creationheight of the inputs"
+    },
+    {
+      "date": "2024-03-12T00:43:37",
+      "text": "Relatively new yes"
+    },
+    {
+      "date": "2024-03-12T06:53:04",
+      "text": "who is this Kushti telling me how to PR, he is not the boss of ergo"
+    },
+    {
+      "date": "2024-03-12T06:58:34",
+      "text": "It should be a discussion with all contributors, not just Kushti. Make a thread on forum, work out rules people are happy with and get them implemented"
+    },
+    {
+      "date": "2024-03-12T07:01:59",
+      "text": "yeah issue makes sense"
+    },
+    {
+      "date": "2024-03-14T06:25:14",
+      "text": "I would say in general it is very similar, both being eutxo. Biggest difference is probably resources, where in ergo 1 person is dealing with a problem to solve in cardano there might be 20, that together with catalyst funding gives incentive to make more fleshed out tooling where the 1 ergo dev might feel it is not worth making a generic solution and just do something specific."
+    },
+    {
+      "date": "2024-03-14T06:28:44",
+      "text": "Only thing I would really like on ergo is deserialize/serialize types in ergoscript, especially if those types can be composites (structs of other types). Think that would be a nice thing to have and make contracts cleaner and more readable. I really enjoyed that in Aiken."
+    },
+    {
+      "date": "2024-03-14T08:58:02",
+      "text": "what in the languageception is that"
+    },
+    {
+      "date": "2024-03-14T08:58:28",
+      "text": "😂"
+    },
+    {
+      "date": "2024-03-14T08:59:13",
+      "text": "Yeah Aiken is nice for sure"
+    },
+    {
+      "date": "2024-03-14T09:02:35",
+      "text": "got tired of copying reused code so made a simple import preprocessor for paideia contracts"
+    },
+    {
+      "date": "2024-03-15T05:19:52",
+      "text": "Beautiful, it looks super nice"
+    },
+    {
+      "date": "2024-03-15T07:35:49",
+      "text": "Policy id is just hash of a contract that decides if some token can be minted or burned."
+    },
+    {
+      "date": "2024-04-03T09:12:43",
+      "text": "depends on composability of contracts used I guess. arbitrage between for example spectrum LP erg/sigusd and sigmausd bank could be done in 1 transaction if composability allows it in those contracts"
+    },
+    {
+      "date": "2024-04-03T09:21:36",
+      "text": "yeah, only possible if you can somehow build it into 1 transaction"
+    },
+    {
+      "date": "2024-04-03T09:23:10",
+      "text": "take for example 3 LP's with erg/A, A/B and erg/B, you could arb it in 1 tx?"
+    },
+    {
+      "date": "2024-04-03T09:26:11",
+      "text": "someone can break the chain by outbidding the fee"
+    },
+    {
+      "date": "2024-04-04T08:55:05",
+      "text": "It has been a while since I ran a testnet node, anyone has an example config of the current testnet node?"
+    },
+    {
+      "date": "2024-04-10T13:00:58",
+      "text": "I usually use /transactions/unconfirmed/byErgotree and confirmed utxos + unconfirmed -spent based on that. But makes sense to do that in node api cause its such a general use case"
+    },
+    {
+      "date": "2024-04-26T13:57:48",
+      "text": "Any paideia-state instance will handle all dao's on paideia, so not needed, but of course good for redundancy"
+    },
+    {
+      "date": "2024-05-02T11:38:43",
+      "text": "it is not an easy one to test though, but guess most important thing to test is that it doesnt break anything :)"
+    },
+    {
+      "date": "2024-05-09T13:47:37",
+      "text": "Blake2b256(SELF.propositionBytes) == getVar[Coll[Byte]](0) && executeFromVar(getVar[Coll[Byte]](0))"
+    },
+    {
+      "date": "2024-05-09T13:51:11",
+      "text": "Probably wrong lol"
+    },
+    {
+      "date": "2024-05-09T13:52:37",
+      "text": "The hash should be around getvar and compare to hardcoded hash value"
+    },
+    {
+      "date": "2024-05-14T05:44:53",
+      "text": "Sounds good"
+    },
+    {
+      "date": "2024-05-15T05:16:27",
+      "text": "anyone has some testnet erg to send?\n3WxsFN4JMwXcVHooc95Kj68AnhJToXwfZqFz4rbmsdjeuj8tCMEy"
+    },
+    {
+      "date": "2024-05-16T13:03:23",
+      "text": "yes agree, a generic serialize function would be great!"
+    },
+    {
+      "date": "2024-05-16T13:03:47",
+      "text": "and keep the old ones for backwards compatibility ofc"
+    },
+    {
+      "date": "2024-05-28T00:29:26",
+      "text": "Same thing that got us started"
+    },
+    {
+      "date": "2024-05-28T03:29:41",
+      "text": "Im just saying that most devs here arent in it for the money (alone) so nothing is different compared to a year ago"
+    },
+    {
+      "date": "2024-06-18T09:08:42",
+      "text": "Not exactly afaik. They both exist, miner chooses right?"
+    },
+    {
+      "date": "2024-06-18T09:11:40",
+      "text": "Yes but important to know when chaining that multiple branches can exist in the mempool in parallel"
+    },
+    {
+      "date": "2024-06-18T09:14:45",
+      "text": "So if you want you can chain onto each branch to make sure you are part of the winning chain"
+    },
+    {
+      "date": "2024-06-20T06:26:48",
+      "text": "Bit buggy and unoptimized, but I used a few hours to make a graphql layer on top of indexed node that supports all Nautilus usage. It pulls data from indexed node and feeds mempool boxes as if they are confirmed to be used as an experimental graphql server for nautilus to see how the UX is with instant changes happening in the UI/balance after making transactions: https://github.com/Luivatra/indexed-node-graphql"
+    },
+    {
+      "date": "2024-06-20T06:26:54",
+      "text": "@Pulsarzz based on your idea"
+    },
+    {
+      "date": "2024-06-20T06:58:04",
+      "text": "it depends on the /blockchain/box endpoints though, so might hit same issue as rosenbridge"
+    },
+    {
+      "date": "2024-06-21T08:00:52",
+      "text": "Appkit does at least"
+    },
+    {
+      "date": "2024-06-23T14:37:11",
+      "text": "script tokens and additionalregisters contributes to size. amount of erg does matter but not much"
+    },
+    {
+      "date": "2024-06-25T10:56:52",
+      "text": "nemo is working on a repo right?"
+    },
+    {
+      "date": "2024-06-25T11:01:34",
+      "text": "ah similar to the cardano registry"
+    },
+    {
+      "date": "2024-06-28T01:14:51",
+      "text": "I am thinking they are submitted in one go and also limited in size to at least max block size"
+    },
+    {
+      "date": "2024-06-28T07:31:34",
+      "text": "Would be nice for indexed node nautilus."
+    },
+    {
+      "date": "2024-07-02T23:28:49",
+      "text": "Yes, the http service breaks sometimes"
+    },
+    {
+      "date": "2024-07-03T00:57:48",
+      "text": "Seems not right to me, what is your process for doing this?"
+    },
+    {
+      "date": "2024-07-03T12:10:28",
+      "text": "we will close the api at some point and open up access based on subscription if the demand is there for it, so yes you can, just not sure when you will be rugged"
+    },
+    {
+      "date": "2024-07-04T01:19:59",
+      "text": "Crux"
+    },
+    {
+      "date": "2024-07-05T05:56:17",
+      "text": "Not yet afaik"
+    },
+    {
+      "date": "2024-07-06T13:46:11",
+      "text": "@kushti_ru you found the cause of the http server failing on indexed nodes?"
+    },
+    {
+      "date": "2024-07-06T13:51:23",
+      "text": "ergo_node  | Exception in thread \"main\" java.util.concurrent.TimeoutException: Futures timed out after [3 seconds]\nergo_node  |    at scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:259)\nergo_node  |    at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:263)\nergo_node  |    at scala.concurrent.Await$.$anonfun$result$1(package.scala:220)\nergo_node  |    at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:57)\nergo_node  |    at scala.concurrent.Await$.result(package.scala:146)\nergo_node  |    at org.ergoplatform.http.api.BlockchainApiRoute.$anonfun$segmentTreshold$1(BlockchainApiRoute.scala:36)\nergo_node  |    at org.ergoplatform.http.api.BlockchainApiRoute.$anonfun$segmentTreshold$1$adapted(BlockchainApiRoute.scala:35)\nergo_node  |    at scala.Option.map(Option.scala:230)\nergo_node  |    at org.ergoplatform.http.api.BlockchainApiRoute.<init>(BlockchainApiRoute.scala:35)\nergo_node  |    at org.ergoplatform.ErgoApp.<init>(ErgoApp.scala:186)\nergo_node  |    at org.ergoplatform.ErgoApp$.$anonfun$main$1(ErgoApp.scala:306)\nergo_node  |    at scala.Option.foreach(Option.scala:407)\nergo_node  |    at org.ergoplatform.ErgoApp$.main(ErgoApp.scala:305)\nergo_node  |    at org.ergoplatform.ErgoApp.main(ErgoApp.scala)"
+    },
+    {
+      "date": "2024-07-06T13:51:33",
+      "text": "seeing this during startup"
+    },
+    {
+      "date": "2024-07-06T14:09:57",
+      "text": "actually it seems to crash the whole startup of the api, panel is unreachable as is swagger"
+    },
+    {
+      "date": "2024-07-06T14:10:12",
+      "text": "but now managed to startup without that error and still api broken"
+    },
+    {
+      "date": "2024-07-06T14:10:17",
+      "text": "so not sure..."
+    },
+    {
+      "date": "2024-07-06T14:11:37",
+      "text": "not responding on any endpoint"
+    },
+    {
+      "date": "2024-07-06T14:12:55",
+      "text": "yes"
+    },
+    {
+      "date": "2024-07-06T14:14:25",
+      "text": "oh nvm, my browser decided to add https in front instead of http..."
+    },
+    {
+      "date": "2024-07-06T14:14:48",
+      "text": "so I do think that error I pasted before is what crashes the http server"
+    },
+    {
+      "date": "2024-07-07T10:37:24",
+      "text": "Busted 😂"
+    },
+    {
+      "date": "2024-07-15T12:43:04",
+      "text": "Is this gridbot? https://explorer.ergoplatform.com/en/addresses/873uAozZGWZtbb5NskvFGM7h9uVm1VHnSnThQ4X8dwXms1DGHzGU3QjqwR6s3hXhaZgfmZjmFZaq5A3w2iaeAvMnS4fkFZFpUD8NqLEkPE1crXtNYNz8g7j96fm6ywXfQpzTk8SCo7Q6vYQbBfnzsZYVjWUhqoAh1TqruisuFJf3okNZKY5Zo8TCczvXAFuptYjsgTXcW6tQDxD719mYf5p97FPZpxeDC9amornQf19VQeEVsWeckzXqRKvZBvv6kYzg3b7bgpvwvRPNgeSMgjDSzjoPhXTQM7E9r4Z5GCuui9CyjeKueySeQ6wc966JnvKn1wfiTpxLm3nUZrcvooe11ZvuBy6ZxLsmNUzP7jnvhAXWgFu1aXx8zCU9GHG5XUU6eGk3S4z4ZLECQsMVZqFrmuaRp59DHMLL9CERvNqJiFWebcs1YMxdG3XLodsKdJqGKii6Hadakkh5aKbNAvMRGMRWYWirtZXnBrCdvg4cuzfk8eUBFsp7i4WcNb46Zszx1mstyyjwtkpXv8yXoQUv2QPbradxsyeQFex87k5zGeHJmLpXbdDieXfvEsjCef3YgeVtaWEeTQaMx8CFyPrQegot5b9nvTfUo6ryCjYYKgE4XNa7PXxNJ3x4B8jkagf9FMXPRU6Kfcqk738SbCNQDTCmwHyjjJWtnx1adTAujLU8wSJFYwWG3bzCdoDBfmcc3dARZxLMV6YpPkQ6hLZu148ZN7d1T8UuLu1gQLxAbcsVXkBpSLfP4EGu85te1BZazrF6BCVmw52V5246vzUXQm5VVPzXG3NiZRjZ2BGcnR479Z1DU9Vzvd34KQMnjMXmoxeELLAtTfeLp1musyJKURRXaRiYhK9F5Q5vAfBBU3NX8Vmtv4LJNDm8TKRVGrbkacTQnc8vGfitrw8m45CjFdbFjCvgxVuLAJ6eUgg"
+    },
+    {
+      "date": "2024-07-16T02:36:23",
+      "text": "@MGpai0 havent had time to watch your presentation. What can we learn from alephium dev experience?"
+    },
+    {
+      "date": "2024-07-16T06:31:38",
+      "text": "Great!"
+    },
+    {
+      "date": "2024-07-18T06:11:31",
+      "text": "@kushti_ru instead of writing on the forum about eutxo design patterns, maybe we can create a repo on ergoplatform github with a .md describing each pattern and an overview .md grouping them? Each describing how the pattern works and pros and cons"
+    },
+    {
+      "date": "2024-07-19T04:54:59",
+      "text": "token amount is stored as a long so less than that"
+    },
+    {
+      "date": "2024-07-19T05:35:48",
+      "text": "isnt uint64 unsigned long?"
+    },
+    {
+      "date": "2024-07-19T05:36:46",
+      "text": "and is it stored as uint64? in ergoscript it is just long, so kind of assumed it was signed"
+    },
+    {
+      "date": "2024-07-19T05:38:02",
+      "text": "I am confused lol"
+    },
+    {
+      "date": "2024-07-19T05:40:19",
+      "text": "yes, and that discussion was just about javascript being javascript"
+    },
+    {
+      "date": "2024-07-19T05:40:58",
+      "text": "Javascript dev: how is 58 bits not enough?"
+    },
+    {
+      "date": "2024-07-19T05:42:56",
+      "text": "on such a big number who cares about the last digits"
+    },
+    {
+      "date": "2024-07-19T05:50:10",
+      "text": "Made the language just to have animated banners and mouse cursor trails on websites, noone will use it for anything serious"
+    },
+    {
+      "date": "2024-07-19T06:27:55",
+      "text": "https://x.com/Luivatra/status/1814260344665047167"
+    },
+    {
+      "date": "2024-07-21T08:25:48",
+      "text": "yes that is a workaround, executefromvar would be nicer"
+    },
+    {
+      "date": "2024-07-21T08:26:50",
+      "text": "sending funds from treasury supports sending to a p2s with registers filled out, so could use a proxy contract for it"
+    },
+    {
+      "date": "2024-07-21T10:43:28",
+      "text": "360 nanoerg per byte"
+    },
+    {
+      "date": "2024-07-21T10:45:21",
+      "text": "oh didnt know it was there, good to know :D"
+    },
+    {
+      "date": "2024-07-21T11:43:07",
+      "text": "yeah I have been caught out by everything being fine in tests just to realize when testing on chain my utxos didnt have enough nanoerg :)"
+    },
+    {
+      "date": "2024-07-21T11:48:32",
+      "text": "I had it tattood on my hand, hope the miners dont change it"
+    },
+    {
+      "date": "2024-07-21T16:14:16",
+      "text": "Would be nice, but can update contracts later if its not up in time"
+    },
+    {
+      "date": "2024-07-22T22:21:21",
+      "text": "Provide ergotree in context var and evaluate it into sigmaprop"
+    },
+    {
+      "date": "2024-07-23T04:24:47",
+      "text": "heh that might be better response"
+    },
+    {
+      "date": "2024-07-23T08:52:53",
+      "text": "sonatype having some issues by the looks of it"
+    },
+    {
+      "date": "2024-07-23T14:00:53",
+      "text": "your ergohack video was super clear, but maybe not to the average user, made me look forward to it at least"
+    },
+    {
+      "date": "2024-07-26T00:52:17",
+      "text": "Sigma-rust can compile right?"
+    },
+    {
+      "date": "2024-07-26T02:12:24",
+      "text": "Lsp and move to template standard would be nice. Issue is debugging off chain code for testing when off chain code base only has template json"
+    },
+    {
+      "date": "2024-07-26T14:17:37",
+      "text": "How to keep RR aligned?"
+    },
+    {
+      "date": "2024-07-26T14:25:24",
+      "text": "Reserve ratio. If someone mints on one utxo and redeems on another the ratio wont be the same"
+    },
+    {
+      "date": "2024-07-26T14:29:22",
+      "text": "Altho market forces could balance them out i guess"
+    },
+    {
+      "date": "2024-07-28T16:10:20",
+      "text": "I seem to have hit an issue in sigma rust, making it fail signing a Paideia stake transaction: https://github.com/ergoplatform/sigma-rust/issues/757"
+    },
+    {
+      "date": "2024-07-28T16:10:35",
+      "text": "who is maintaining sigma-rust atm?"
+    },
+    {
+      "date": "2024-07-29T06:04:40",
+      "text": "ty for the quick work!"
+    },
+    {
+      "date": "2024-07-30T03:14:06",
+      "text": "does look nice, less convoluted than react"
+    },
+    {
+      "date": "2024-07-30T03:15:57",
+      "text": "haha, might even get into frontend myself with that 😂"
+    },
+    {
+      "date": "2024-08-02T02:07:31",
+      "text": "@kushti_ru you mentioned avl+ being better than mpt, any references on that?"
+    },
+    {
+      "date": "2024-08-02T04:54:38",
+      "text": "ty!"
+    },
+    {
+      "date": "2024-08-04T16:11:32",
+      "text": "Yeah the contract was quite complex, last 2 parameters were token ids so just concatenated them into 1 coll[byte]"
+    },
+    {
+      "date": "2024-08-05T03:39:20",
+      "text": "if they are both mining and only 2 nodes maybe they are both living on a different fork?"
+    },
+    {
+      "date": "2024-08-05T08:26:37",
+      "text": "Ohh, my mind was in weekend mode, the issue was with contract template with more than 5 parameters, not with subsconstants."
+    },
+    {
+      "date": "2024-08-10T12:34:17",
+      "text": "Defragment wallet"
+    },
+    {
+      "date": "2024-08-10T12:34:41",
+      "text": "Needs an animation just like in win 95"
+    },
+    {
+      "date": "2024-08-16T05:20:54",
+      "text": "Anyone has seen an error like this?\n\"Malformed transaction: Scripts of all transaction inputs should pass verification. e989df2c1384d3d24b4e9acb9673d12e3f98d81b44332e4622adfc49211abf83: #1 => Success((false,403))\""
+    },
+    {
+      "date": "2024-08-16T05:21:22",
+      "text": "when trying to sign a transaction with nautilus abyss, so guessing it is in sigma-rust"
+    },
+    {
+      "date": "2024-08-16T05:22:11",
+      "text": "the hash value is not present in the unsigned tx json so not sure where that is originating from"
+    },
+    {
+      "date": "2024-08-16T05:29:12",
+      "text": "oh maybe it is when submitting to node... I am bad at js breakpoints apparently :)"
+    },
+    {
+      "date": "2024-08-16T05:41:10",
+      "text": "so the 403 points to extension key length issue? seems weird to me"
+    },
+    {
+      "date": "2024-08-16T05:53:42",
+      "text": "@kushti_ru guessing you would be best to answer this, getting verification error 403 (exKeyLength?) when submitted a signed transaction to node"
+    },
+    {
+      "date": "2024-08-16T06:14:00",
+      "text": "let me check"
+    },
+    {
+      "date": "2024-08-16T06:19:06",
+      "text": "nothing in logs"
+    },
+    {
+      "date": "2024-08-16T07:18:26",
+      "text": "oh that didnt even cross my mind it could be one of the p2pk inputs"
+    },
+    {
+      "date": "2024-08-16T10:01:37",
+      "text": "One is always the paideia dao, the other is the dao the proposal is created in. Now I find the correct data input dynamically I could remove the duplicate in the tx building, just forgot to do that"
+    },
+    {
+      "date": "2024-08-16T10:02:37",
+      "text": "Does that endpoint give more info?"
+    },
+    {
+      "date": "2024-08-16T11:23:02",
+      "text": "Oh I see, the p2s input has a time based condition so the transaction kind of \"timed out\" causing the first input to fail now"
+    },
+    {
+      "date": "2024-08-16T15:56:05",
+      "text": "I found one repo, 1 sec"
+    },
+    {
+      "date": "2024-08-16T16:02:59",
+      "text": "https://maven.scijava.org/content/repositories/public/"
+    },
+    {
+      "date": "2024-08-17T03:12:25",
+      "text": "but that was a p2pk, could it be due to difference in preheader or something?"
+    },
+    {
+      "date": "2024-08-17T03:23:57",
+      "text": "and where does the hash in the error message come from"
+    },
+    {
+      "date": "2024-08-17T11:46:33",
+      "text": "But its a signed p2pk and the hash is different than the tx id in the signed tx generated by sigma rust"
+    },
+    {
+      "date": "2024-08-17T12:39:40",
+      "text": "right, so the question becomes, why is the tx id different, I am really not sure what to make of this one"
+    },
+    {
+      "date": "2024-08-17T12:40:48",
+      "text": "what is included in the tx id?"
+    },
+    {
+      "date": "2024-08-19T12:23:38",
+      "text": "Any idea what can cause a tx to sign fine with sigma-rust and be rejected by the node?"
+    },
+    {
+      "date": "2024-08-19T13:15:49",
+      "text": "Yes, using it all the time for testing, just spent that utxo in a normal tx"
+    },
+    {
+      "date": "2024-08-22T23:37:30",
+      "text": "Tried graalvm ages ago and hit many roadblocks with getting it working. Might be better now though"
+    },
+    {
+      "date": "2024-08-23T13:49:27",
+      "text": "@CheeseEnthusiast this you? https://explorer.ergoplatform.com/transactions/14ee89106c6d6441d3f2a10b39a1dd3e535d350284bc4b87055eceb2071097cb"
+    },
+    {
+      "date": "2024-08-23T14:06:25",
+      "text": "Looks like it"
+    },
+    {
+      "date": "2024-08-26T02:42:45",
+      "text": "I signed it with Nautilus so 🤷‍♂️"
+    },
+    {
+      "date": "2024-08-26T02:43:48",
+      "text": "Yes"
+    },
+    {
+      "date": "2024-08-26T02:45:38",
+      "text": "Might be a json serialization thing"
+    },
+    {
+      "date": "2024-08-26T02:48:46",
+      "text": "Seem to recall @kushti_ru was working on something similar, a map datatype with predictable serialisation"
+    },
+    {
+      "date": "2024-08-26T03:23:33",
+      "text": "it actually does, but the json serialisation messes the order up, will see what I can do to keep it in line"
+    },
+    {
+      "date": "2024-08-26T03:25:15",
+      "text": "ty for finding the cause, that was a tricky one"
+    },
+    {
+      "date": "2024-08-26T07:02:55",
+      "text": "Ok, managed to align the unsigned json with the order used in appkit, but seems somewhere between nautilus receiving the json and sigma-rust doing the signing the order is changed. Even changing the order of the context variables in the json results in the same signed tx id, which does not match the node generated transaction id. @nemo429 any way to ensure the context extension maintains the same order as the unisnged tx json?"
+    },
+    {
+      "date": "2024-08-28T09:03:19",
+      "text": "1 sec"
+    },
+    {
+      "date": "2024-08-28T09:06:29",
+      "text": "32e61415b2d95b25df9021ede1f7a0af501830e40ac4703297695a9c225477d1"
+    },
+    {
+      "date": "2024-08-30T07:41:47",
+      "text": "Something with the http server thread crashing, think kushti and co were working on a fix, not sure what version."
+    },
+    {
+      "date": "2024-08-30T07:43:53",
+      "text": "Explorer mempool has been a mess for a while"
+    },
+    {
+      "date": "2024-09-02T05:54:16",
+      "text": "you can omit datainputsraw, and fee is too small, should be 1_000_000 at least"
+    },
+    {
+      "date": "2024-09-02T06:07:41",
+      "text": "oh of course, that caused the error message, other points still stand"
+    },
+    {
+      "date": "2024-09-04T03:30:08",
+      "text": "working with blockchain is like working with the internet in the 90's while everyone thinks all it is used for is porn"
+    },
+    {
+      "date": "2024-09-09T08:40:35",
+      "text": "node doesnt have that restriction (maybe node wallet?) where are you hitting that limit"
+    },
+    {
+      "date": "2024-10-09T04:17:39",
+      "text": "You know, going on a rage barrage of angry messages about there not being a critical discussion when some questionable research is posted instead of calmly starting a critical discussion will drive more devs away than posting a link to some research that may or may not have validity."
+    },
+    {
+      "date": "2024-10-11T05:50:32",
+      "text": "@kushti_ru workaround with using max 4 context variables is confirmed to work, thank you for the tip!"
+    },
+    {
+      "date": "2024-10-11T07:58:17",
+      "text": "Tried that, didnt solve it. Somewhere along the way going from object to json back to object the order got messed up"
+    },
+    {
+      "date": "2024-10-18T16:23:03",
+      "text": "Changing stuff because its \"better\" is annoying for existing codebases. Or is there an issue with the old method?"
+    },
+    {
+      "date": "2024-10-18T16:32:21",
+      "text": "Ah yeah that is an issue actually. Kinda caused me to use different types all over as well. So consistent methods with overloaded deprecated methods makes sense yes"
+    },
+    {
+      "date": "2024-10-22T09:22:07",
+      "text": "will try get to it tomorrow"
+    },
+    {
+      "date": "2024-10-28T08:58:23",
+      "text": "not yet, got sidetracked im afraid, was there a specific branch?"
+    },
+    {
+      "date": "2024-10-30T04:29:15",
+      "text": "I added shadowJar plugin to build that, am testing now. If all good and once the new version is deployed I will update ergo-node-zmqpub to fetch the dependency from maven instead of from jar"
+    },
+    {
+      "date": "2024-10-30T05:25:12",
+      "text": "@mewtoshi sending ModifierRequest with ErgoTransaction type seems to crash the socket connection, Header type works fine"
+    },
+    {
+      "date": "2024-10-30T12:40:47",
+      "text": "hmm, maybe it happens all the time 😅 let me check current version"
+    },
+    {
+      "date": "2024-10-30T12:41:47",
+      "text": "yeah current version seems fine, so something is not sitting well"
+    },
+    {
+      "date": "2024-10-30T13:02:03",
+      "text": "ok will verify tomorrow"
+    },
+    {
+      "date": "2024-10-30T14:03:48",
+      "text": "I didnt have signatory setup so thought shadowjar was easier 😅"
+    },
+    {
+      "date": "2024-10-30T14:53:41",
+      "text": "ah I see"
+    },
+    {
+      "date": "2024-11-05T06:53:25",
+      "text": "Tomorrow almost turned into 2 weeks, but verified to work for the zmqpub usecase :) Let me know when it is on maven then I can make a cleaner dependency in my project"
+    },
+    {
+      "date": "2024-11-05T08:07:58",
+      "text": "Hmm actually, @mewtoshi , after letting it run for a while I got this error:\nergo-node-zmqpub  | [error] java.lang.IllegalStateException: Incorrect magic [65, 0, 0, 3] received (must be [1, 0, 2, 4])\nergo-node-zmqpub  | [error]     at com.satergo.ergonnection.ErgoSocket.acceptMessage(ErgoSocket.java:111)\nergo-node-zmqpub  | [error]     at EventPublish$.main(EventPublish.scala:56)\nergo-node-zmqpub  | [error]     at EventPublish.main(EventPublish.scala)\nergo-node-zmqpub  | [error]     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\nergo-node-zmqpub  | [error]     at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\nergo-node-zmqpub  | [error]     at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\nergo-node-zmqpub  | [error]     at java.base/java.lang.reflect.Method.invoke(Method.java:568)"
+    },
+    {
+      "date": "2024-11-05T08:15:48",
+      "text": "Dont know if that is something that just \"happens\" and I handle it (reconnecting socket) or if it is something that shouldnt happen"
+    },
+    {
+      "date": "2024-11-08T13:06:06",
+      "text": "yes"
+    },
+    {
+      "date": "2024-11-14T23:59:54",
+      "text": "Each dao has a treasury address and a profit sharing address, profit sharing is automatically split between stakers and treasury, both dont need any registers filled out or othe contract interaction so it should be as easy as sending to any address"
+    },
+    {
+      "date": "2024-11-21T14:06:15",
+      "text": "@kushti_ru is there a list of what is added to ergoscript in 6.0?"
+    },
+    {
+      "date": "2024-11-21T19:29:21",
+      "text": "Ty"
+    },
+    {
+      "date": "2024-11-22T14:48:16",
+      "text": "Spasiba"
+    },
+    {
+      "date": "2024-11-22T15:02:04",
+      "text": "Would verifying signature of arbitrary byte array be possible in ergoscript?"
+    },
+    {
+      "date": "2024-11-22T15:13:44",
+      "text": "Awesome ty"
+    },
+    {
+      "date": "2024-11-23T15:19:49",
+      "text": "I do this by comparing bytes directly, give me 1 sec"
+    },
+    {
+      "date": "2024-11-23T15:23:29",
+      "text": "Not exactly what you want but might inspire you: https://github.com/paideiadao/paideia-sdk/blob/dev/src/main/resources/ergoscript/lib/bytesWithoutCreationInfo/1.0.0/bytesWithoutCreationInfo.es"
+    },
+    {
+      "date": "2024-11-25T06:25:50",
+      "text": "Yes, was daydreaming about dex/cex with deposits into contract which holds people's balance in avltree and transactions handled by signing balance changes (for example setting an order) with private key and contract verifying this when avltree updates are settled on ergo"
+    },
+    {
+      "date": "2024-11-25T06:40:07",
+      "text": "@kushti_ru"
+    },
+    {
+      "date": "2024-11-25T22:02:03",
+      "text": "Yes, L2, centralized or not. But perhaps more efficient than transaction chaining"
+    },
+    {
+      "date": "2024-11-25T22:02:44",
+      "text": "Yes, couldn't remember where to put it, will post on forum for now"
+    },
+    {
+      "date": "2024-11-26T03:57:33",
+      "text": "the eip-5 writeup, now on forum: https://www.ergoforum.org/t/ergoscript-and-contract-templates-why-how-eip-5/5006"
+    },
+    {
+      "date": "2024-11-26T12:38:10",
+      "text": "Would be nice to get a cli ergoscript compiler that produces eip-5 json"
+    },
+    {
+      "date": "2024-11-27T23:55:12",
+      "text": "Its average, but shouldnt be taken as exact especially over shorter time periods."
+    },
+    {
+      "date": "2024-12-02T05:37:07",
+      "text": "could probably provide the metadata in context variables and hash it to compare with hash value in contract"
+    },
+    {
+      "date": "2024-12-02T05:37:34",
+      "text": "oh ofc it is in the output boxes, no need for context var"
+    },
+    {
+      "date": "2024-12-02T05:38:07",
+      "text": "unless you want only 1 hash, then you provide all 159 in context to verify"
+    },
+    {
+      "date": "2024-12-02T05:41:12",
+      "text": "or put metadata in avl tree"
+    },
+    {
+      "date": "2024-12-02T05:42:32",
+      "text": "there is no avltree support in frontend libraries?"
+    },
+    {
+      "date": "2024-12-02T05:46:06",
+      "text": "could just have it hard coded in the javascript 😁"
+    },
+    {
+      "date": "2024-12-02T05:46:37",
+      "text": "json with all data, fill avl tree in frontend code, create proof"
+    },
+    {
+      "date": "2024-12-02T05:47:08",
+      "text": "its just a static tree anyways"
+    },
+    {
+      "date": "2024-12-03T00:08:20",
+      "text": "Think js is fine as first language, frontend is also nice to be able to see results, but depends what you want to achieve I guess"
+    },
+    {
+      "date": "2024-12-04T08:56:54",
+      "text": "yes"
+    },
+    {
+      "date": "2024-12-06T17:04:23",
+      "text": "in my experience they are, but not sure it is guaranteed"
+    },
+    {
+      "date": "2024-12-06T17:41:07",
+      "text": "Using bank as your quick exit is dodgy anyways. In this case it is locked for half an hour and you can try again. Now a whale can mint sigusd down to 400% rr and you are locked until price recovers"
+    },
+    {
+      "date": "2024-12-07T03:17:08",
+      "text": "So maybe it is important to talk about the why. Many people complained about bearwhale manipulating the protocol and extracting value from rsv and at the same time having an incentive to crash erg price on cex giving bad optics. Instead of focussing on 16k (which would be a larger value if erg rises in price) maybe discuss other solutions or argue for not changing it at all"
+    },
+    {
+      "date": "2024-12-10T00:33:26",
+      "text": "My node has stopped working twice where it just basically stops, log stops producing new entries, but no errors and it does not crash, any ideas?"
+    },
+    {
+      "date": "2024-12-11T04:24:03",
+      "text": "yes"
+    },
+    {
+      "date": "2024-12-11T04:30:23",
+      "text": "a restart gets it going no issue btw"
+    },
+    {
+      "date": "2024-12-11T09:09:12",
+      "text": "stupid guards sleeping again"
+    },
+    {
+      "date": "2024-12-15T13:37:39",
+      "text": "what is the originating ip?"
+    },
+    {
+      "date": "2024-12-15T13:51:52",
+      "text": "Dont think I use 213 anywhere"
+    },
+    {
+      "date": "2024-12-16T13:36:22",
+      "text": "I found an exploit in the paideia staking contracts, I will be working on a fix but in the meantime I have taken the 55 million staked paideia out using the exploit. Whoever finds the exploit I used first will win 25k paideia. It is NOT a complex exploit, so please while you are at it also have a look for other exploits, could be you can earn some bug bounties in the mean time!"
+    },
+    {
+      "date": "2024-12-16T14:36:40",
+      "text": "I agree, we need to get a better auditing culture, but it is difficult when even the devs themselves are on a shoestring budget paying someone for an audit is not always possible"
+    },
+    {
+      "date": "2024-12-16T14:48:48",
+      "text": "/t 10000 paideia for helping me find it"
+    },
+    {
+      "date": "2024-12-16T14:49:08",
+      "text": "25k is still available for whoever dm's me the method"
+    },
+    {
+      "date": "2024-12-16T14:56:18",
+      "text": "still have no idea what you encountered, it looked like a normal dex transaction to me, just had a stake key in the change box, unless I missed something (which apparently happens)"
+    },
+    {
+      "date": "2024-12-16T15:47:56",
+      "text": "https://github.com/paideiadao/paideia-sdk/tree/dev/src/main/resources/ergoscript/Stake/1.0.0"
+    },
+    {
+      "date": "2024-12-16T16:09:33",
+      "text": "/t 5000 paideia could be minor what you found, but rounding up in your benefit"
+    },
+    {
+      "date": "2024-12-16T23:57:57",
+      "text": "Yeah looks fine to me"
+    },
+    {
+      "date": "2024-12-20T05:09:41",
+      "text": "one of the things I want for the crux matching engine, buy on dex until price matches sigusd bank -> rest minted from sigusd bank"
+    },
+    {
+      "date": "2024-12-20T06:35:11",
+      "text": "will run it in parallel on my server, once synced will switch my services to this one, see how it performs"
+    },
+    {
+      "date": "2024-12-20T07:58:28",
+      "text": "it would increase price impact"
+    },
+    {
+      "date": "2024-12-20T07:59:11",
+      "text": "there needs to be a \"verified\" contract repository, supporting templates and wallets need to integrate that to inform the user"
+    },
+    {
+      "date": "2024-12-20T08:00:02",
+      "text": "of course where possible p2p interaction is best and where utxo shines"
+    },
+    {
+      "date": "2024-12-20T08:00:51",
+      "text": "probably better to go for limit order boxes then"
+    },
+    {
+      "date": "2024-12-20T08:02:49",
+      "text": "some automatic order creation bot to provide liquidity, grid bot"
+    },
+    {
+      "date": "2024-12-20T08:04:10",
+      "text": "the thing is, liquidity is king and amm is much better ux for liquidity provider, just set and forget"
+    },
+    {
+      "date": "2024-12-20T08:32:35",
+      "text": "its a duckpools loan"
+    },
+    {
+      "date": "2024-12-20T08:32:41",
+      "text": "so they  are longing"
+    },
+    {
+      "date": "2024-12-20T08:33:31",
+      "text": "oh just coincidence then heh"
+    },
+    {
+      "date": "2024-12-20T08:37:56",
+      "text": "I tried to start something up, but think it should perhaps be in the hands of something more central like the ergodevs dao https://github.com/cruxfinance/ergo-address-labels"
+    },
+    {
+      "date": "2024-12-20T08:46:38",
+      "text": "its a repository with jsons, beauty is in the eye of the beholder"
+    },
+    {
+      "date": "2024-12-20T08:54:45",
+      "text": "Yeah that is what I meant with it needs to support templates, not trivial"
+    },
+    {
+      "date": "2024-12-20T08:55:25",
+      "text": "Maybe repo just should hold eip-5 style json"
+    },
+    {
+      "date": "2024-12-20T08:55:49",
+      "text": "And consuming service deduce parameter values"
+    },
+    {
+      "date": "2024-12-27T01:46:45",
+      "text": "has config for turning on indexing changed in 5.1? My 5.1.1 node doesnt want to index"
+    },
+    {
+      "date": "2024-12-27T01:48:47",
+      "text": "weird, did the same"
+    },
+    {
+      "date": "2024-12-27T01:48:55",
+      "text": "but isExplorer=false"
+    },
+    {
+      "date": "2024-12-27T01:52:32",
+      "text": "can you send your config?"
+    },
+    {
+      "date": "2024-12-27T02:01:34",
+      "text": "Lol my phone gives reddit and google wallet as options to open .conf"
+    },
+    {
+      "date": "2024-12-27T02:24:04",
+      "text": "weird, had a few other settings which I removed now so it is the same basically, still nothing"
+    },
+    {
+      "date": "2024-12-27T02:24:16",
+      "text": "running it in docker?"
+    },
+    {
+      "date": "2024-12-27T03:04:37",
+      "text": "Yeah, will check api key to be sure"
+    },
+    {
+      "date": "2024-12-27T03:10:46",
+      "text": "right now same as puls"
+    },
+    {
+      "date": "2024-12-27T03:46:00",
+      "text": "actually seems like it doesnt pick up the conf at all"
+    },
+    {
+      "date": "2024-12-27T03:46:12",
+      "text": "@Pulsarzz you use compose?"
+    },
+    {
+      "date": "2024-12-27T03:47:58",
+      "text": "ok, it was just a permission issue on ergo.conf, weird the node doesnt log an error on that"
+    },
+    {
+      "date": "2024-12-29T02:04:25",
+      "text": "Yes, lets do it"
+    },
+    {
+      "date": "2025-01-12T15:18:56",
+      "text": "Address.create(\"9hhjjgxv...\")"
+    },
+    {
+      "date": "2025-01-12T15:19:02",
+      "text": "Iirc"
+    },
+    {
+      "date": "2025-02-01T03:53:31",
+      "text": "I don't think it is good design to put that into the node codebase, that is explorer db stuff"
+    },
+    {
+      "date": "2025-02-09T15:21:56",
+      "text": "Awesome, will make a poc for paideia updated contracts"
+    },
+    {
+      "date": "2025-02-17T08:14:19",
+      "text": "I am 90% sure that is @Armeanio running those nodes"
+    },
+    {
+      "date": "2025-02-17T08:16:34",
+      "text": "who else knows about your \"sizes\""
+    },
+    {
+      "date": "2025-02-17T08:16:50",
+      "text": "oh this is dev chat, not baseless"
+    },
+    {
+      "date": "2025-02-21T03:18:52",
+      "text": "when possible (ie. no complicated off chain backend needed) dapps should normalize being able to choose your own node, this is great"
+    },
+    {
+      "date": "2025-02-27T13:55:50",
+      "text": "Updates main goal right now is save the update utxo from storage rent afaik"
+    },
+    {
+      "date": "2025-02-27T14:09:31",
+      "text": "Hah"
+    },
+    {
+      "date": "2025-03-03T16:16:20",
+      "text": "will do it tomorrow, forgot to restore that wallet on a node"
+    },
+    {
+      "date": "2025-03-04T04:32:16",
+      "text": "what is the significance of scala 3, why is it needed"
+    },
+    {
+      "date": "2025-03-04T13:05:54",
+      "text": "They are not connected to internet right"
+    },
+    {
+      "date": "2025-03-04T13:33:11",
+      "text": "Yeah it might miss out on updates, but should still work in existing setup"
+    },
+    {
+      "date": "2025-03-09T14:29:57",
+      "text": "What do you mean with \"for indexing data from the node\""
+    },
+    {
+      "date": "2025-03-14T17:02:33",
+      "text": "could be permission issue"
+    },
+    {
+      "date": "2025-03-17T05:01:12",
+      "text": "pff, just make robust code that can handle it! *quickly checks crux backend*"
+    },
+    {
+      "date": "2025-03-17T05:21:46",
+      "text": "executeFromVar is great but would it be possible to generalize that to executeFrom(ergotree: Coll[Byte])? That would open up for things like reference scripts on cardano (refer to ergotree in register of a data input)"
+    },
+    {
+      "date": "2025-04-05T01:48:31",
+      "text": "I can help too"
+    },
+    {
+      "date": "2025-05-18T06:22:53",
+      "text": "its a function of box size in bytes"
+    },
+    {
+      "date": "2025-05-18T06:23:16",
+      "text": "360 nanoerg per byte (I think, cant remember number)"
+    },
+    {
+      "date": "2025-05-18T06:27:18",
+      "text": "calculating box size in bytes is a bit of a hassle, should actually be functionality in the libraries"
+    },
+    {
+      "date": "2025-05-18T06:29:05",
+      "text": "oh its part of fleet? nice"
+    },
+    {
+      "date": "2025-06-10T10:07:52",
+      "text": "@kushti_ru is there a reason for there being executeFrom* functions instead of a generic executeFrom(byte: Coll[Byte])?"
+    },
+    {
+      "date": "2025-06-10T10:23:12",
+      "text": "Ah so it is executing in the context of the caller"
+    },
+    {
+      "date": "2025-06-10T10:39:49",
+      "text": "Was just thinking about a potential pattern with a dataInput having an ergotree(template) in one of its registers so that any other script can \"call\" it by doing an executeFrom(substConstants(dataInputs[x], parameterIndices, parameters)). That way you could have reusable functions that do not take up any space in a transaction, not even in the context."
+    },
+    {
+      "date": "2025-06-26T07:47:23",
+      "text": "Indexing doesn't use network (I assume?)"
+    },
+    {
+      "date": "2025-06-26T16:01:07",
+      "text": "Make a separate one called ergo-rocks maybe?"
+    },
+    {
+      "date": "2025-06-26T16:11:34",
+      "text": "Ergo:rocks-v6.0.0 ergo:level-v6.0.0 ergo:rocks (points to latest rocks version) ergo:level (points to latest leveldb version) and ergo:latest, a synonym for ergo:level?"
+    },
+    {
+      "date": "2025-08-21T11:19:14",
+      "text": "Maybe we can make some script to generate a tx per second and have that running on multiple nodes as a stress test"
+    },
+    {
+      "date": "2025-09-08T13:30:41",
+      "text": "Be aware if using ts/js: https://fasterthanli.me/articles/color-npm-package-compromised"
+    },
+    {
+      "date": "2025-09-09T10:45:56",
+      "text": "has the extraIndex config changed in v6 node?"
+    },
+    {
+      "date": "2025-09-09T10:54:48",
+      "text": "weird, my v6 node is not running in \"explorer\" mode even though extraIndex = true"
+    },
+    {
+      "date": "2025-09-09T10:55:15",
+      "text": "while trying to reset the index folder I deleted the wrong folder heh so trying from scratch now"
+    },
+    {
+      "date": "2025-09-09T10:58:03",
+      "text": "its a copy of my v5 node, so should be fine, 1 sec"
+    },
+    {
+      "date": "2025-09-09T10:58:23",
+      "text": "ergo {\n  networkType = \"mainnet\"\n  node {\n    mining = false\n    extraIndex = true\n  }\n}"
+    },
+    {
+      "date": "2025-11-21T01:37:28",
+      "text": "At my first job pushing a query to production that didn't hit an index was automatically blocked"
+    },
+    {
+      "date": "2025-11-21T06:54:15",
+      "text": "Many things suck about working on a mainframe but because cpu time is expensive as hell they (the mainframe gurus) don't tolerate stuff that doesn't perform 😁"
+    },
+    {
+      "date": "2025-11-21T06:54:54",
+      "text": "Working on taxing the Danes more efficiently"
+    },
+    {
+      "date": "2025-11-30T15:58:37",
+      "text": "So ergo tree template for USE changed compared to dexygold?"
+    },
+    {
+      "date": "2025-11-30T16:00:10",
+      "text": "In particular for the pool that is"
+    },
+    {
+      "date": "2025-11-30T23:31:44",
+      "text": "We will see if my indexer picks it up or if I need to add something 😊"
+    },
+    {
+      "date": "2025-12-01T00:14:16",
+      "text": "I wrote pool in particular, but some others as well to identify the action taken on pool"
+    },
+    {
+      "date": "2025-12-01T12:01:13",
+      "text": "Yes, it is used by paideia, so should be fine 😊"
+    },
+    {
+      "date": "2025-12-03T14:29:42",
+      "text": "Forgot about that heh, see my update earlier 😊"
+    },
+    {
+      "date": "2025-12-18T10:07:58",
+      "text": "working ergoscript lsp poc"
+    },
+    {
+      "date": "2025-12-18T10:08:06",
+      "text": "fully vibecoded 😅"
+    },
+    {
+      "date": "2025-12-18T16:24:58",
+      "text": "Heh didn't realize some work was done on lsp during hackathon"
+    },
+    {
+      "date": "2025-12-18T16:25:28",
+      "text": "Any complete lsp projects?"
+    },
+    {
+      "date": "2025-12-19T01:25:33",
+      "text": "equivalent to the java thing we have been using?"
+    },
+    {
+      "date": "2025-12-19T08:14:13",
+      "text": "Vibe coded ergoscript (eip5 supporting) compiler and lsp: https://github.com/Luivatra/ergoscript-compiler-lsp"
+    },
+    {
+      "date": "2025-12-19T08:14:51",
+      "text": "Vibe coded zed extension using the lsp: https://github.com/Luivatra/ergoscript-zed-extension"
+    },
+    {
+      "date": "2025-12-19T08:15:55",
+      "text": "Type inferrence:"
+    },
+    {
+      "date": "2025-12-19T08:18:40",
+      "text": "and sort of working error reporting:"
+    },
+    {
+      "date": "2025-12-19T09:27:41",
+      "text": "Awesome!"
+    },
+    {
+      "date": "2025-12-21T03:36:54",
+      "text": "Still not fully working, but think I can get both imports and tests working"
+    },
+    {
+      "date": "2026-01-03T08:16:16",
+      "text": "Where perl?"
+    },
+    {
+      "date": "2026-01-07T03:34:45",
+      "text": "Trying to see what claude code is capable of"
+    },
+    {
+      "date": "2026-01-07T03:34:48",
+      "text": "so far so good"
+    },
+    {
+      "date": "2026-01-07T08:04:59",
+      "text": "building one, syncing headers and blocks, but due to the brute force nature of claude code my node is blacklisted all over 😂 guess it needs a break"
+    },
+    {
+      "date": "2026-01-08T09:56:18",
+      "text": "I just realized that blacklist is permanent lol, so that is interesting considering my ip is static 😅"
+    },
+    {
+      "date": "2026-01-08T11:19:51",
+      "text": "It's a bit annoying heh. Also bit surprising that a slightly malformed message almost instantly leads to permanent blacklist, but I don't know much about what is needed to protect from bad actors"
+    },
+    {
+      "date": "2026-01-08T14:09:53",
+      "text": "Headers syncing nicely!\n{\"name\":\"ergo-rust-node\",\"appVersion\":\"0.1.0\",\"fullHeight\":0,\"headersHeight\":400903,\"bestHeaderId\":\"6b07f23fc1271a5a994f834b342fb07386ab489229766aa50a0e4542e48c7f88\",\"bestFullBlockId\":\"6b07f23fc1271a5a994f834b342fb07386ab489229766aa50a0e4542e48c7f88\",\"stateRoot\":\"0000000000000000000000000000000000000000000000000000000000000000\",\"isMining\":false,\"peerCount\":18,\"unconfirmedCount\":0,\"stateType\":\"utxo\",\"isSynced\":false}"
+    },
+    {
+      "date": "2026-01-08T14:46:50",
+      "text": "{\"name\":\"ergo-rust-node\",\"appVersion\":\"0.1.0\",\"fullHeight\":0,\"headersHeight\":1130275,\"bestHeaderId\":\"dff397203d643e49c54cbe2e6c9f97c9ed286a2af86cfca3a1dc66bda4181cfa\",\"bestFullBlockId\":\"dff397203d643e49c54cbe2e6c9f97c9ed286a2af86cfca3a1dc66bda4181cfa\",\"stateRoot\":\"0000000000000000000000000000000000000000000000000000000000000000\",\"isMining\":false,\"peerCount\":26,\"unconfirmedCount\":0,\"stateType\":\"utxo\",\"isSynced\":false}"
+    },
+    {
+      "date": "2026-01-08T14:47:26",
+      "text": "how fast is header sync nowadays on the normal node? been a while since I did one from scratch. Just wondering if I am in the same ballpark"
+    },
+    {
+      "date": "2026-01-09T00:56:15",
+      "text": "Yeah I probably should have done that lol"
+    },
+    {
+      "date": "2026-01-10T12:27:06",
+      "text": "Yes"
+    },
+    {
+      "date": "2026-01-10T13:44:25",
+      "text": "guess the issue here is that someone could mint a token in such a way that minted supply on explorers etc looks to be x amount, but actual amount is 10x, where the minter holds 90% supply and they can try and fool people with that."
+    },
+    {
+      "date": "2026-01-10T14:39:11",
+      "text": "Need to check crux, can't remember if I handled that case. Guess could also result in larger than max long amount minted of a token."
+    },
+    {
+      "date": "2026-01-10T16:15:28",
+      "text": "Yeah that is what I would expect, still a weird situation."
+    },
+    {
+      "date": "2026-01-10T16:16:09",
+      "text": "I actually think spectrum yield farming used this, unless I remember wrong."
+    },
+    {
+      "date": "2026-01-10T16:16:25",
+      "text": "I mean minting into two outputs"
+    },
+    {
+      "date": "2026-01-11T07:08:15",
+      "text": "Anything in the console? Probably something in the unsigned tx it doesn't like"
+    },
+    {
+      "date": "2026-01-11T09:43:24",
+      "text": "on the website console or on the extension console?"
+    },
+    {
+      "date": "2026-01-11T15:10:51",
+      "text": "Getting there :)"
+    },
+    {
+      "date": "2026-01-11T15:55:59",
+      "text": "https://github.com/Luivatra/ergo-rust-node Fully vibe coded"
+    },
+    {
+      "date": "2026-01-11T15:56:25",
+      "text": "biggest thing missing (partially implemented) is indexed node, and need to test mining functionality etc."
+    },
+    {
+      "date": "2026-01-11T15:57:20",
+      "text": "But please use it with caution. It seems fine now but it got me blacklisted on quite a few node 😂"
+    },
+    {
+      "date": "2026-01-11T15:59:51",
+      "text": "resource usage seems promising though"
+    },
+    {
+      "date": "2026-01-12T00:27:12",
+      "text": "Maybe it would be best to try it out. Create issues of what is not working and then take ownership of an issue before fixing it. Else it will be chaos and cherry picking between 2 vibe coded branches sounds horrible 😂"
+    },
+    {
+      "date": "2026-01-12T02:27:50",
+      "text": "Yeah it's fine by me, this was mostly an experiment to see how far I could get. Please take it in whatever way you want!"
+    },
+    {
+      "date": "2026-01-12T05:28:19",
+      "text": "1 hour of syncing from scratch"
+    },
+    {
+      "date": "2026-01-12T05:56:45",
+      "text": "First blocks are usually the fastest to sync though"
+    },
+    {
+      "date": "2026-01-12T05:58:31",
+      "text": "Yeah I am quite happy with it, lets see how long full sync takes (and still need to finish implementing indexing)"
+    },
+    {
+      "date": "2026-01-12T07:17:11",
+      "text": "Thanks, will capture that in an issue!"
+    },
+    {
+      "date": "2026-01-12T07:19:54",
+      "text": "It is a choice, it can bog down when running on a slow disk, but I spent some time tuning the rocksdb to take it easy on the disk. Theoretically you could probably also do the indexing in parallel, but that might be a bit too much."
+    },
+    {
+      "date": "2026-01-12T09:06:41",
+      "text": "No doubt, will take a bit to ensure complete parity"
+    },
+    {
+      "date": "2026-01-12T09:35:57",
+      "text": "Yes"
+    },
+    {
+      "date": "2026-01-22T09:29:48",
+      "text": "yes, this was just claude being a bit idiotic though, think that library seems fine. I am trying to copy as many tests over from the scala node to the rust node so it is more certain it is compatible"
+    },
+    {
+      "date": "2026-01-22T09:32:59",
+      "text": "like not putting genesis boxes in the tree, not performing actions on the tree in the same order. Claude code is great, but when you need 100% accuracy even 99% correctness ends in failure"
+    },
+    {
+      "date": "2026-01-22T09:39:33",
+      "text": "I mean claude forgot to do that, so avl tree was wrong from height 1 :D"
+    },
+    {
+      "date": "2026-02-06T15:51:08",
+      "text": "@kushti_ru I know you are maybe not the rust guy, but I do remember you talking about making the map behaviour consistent in the scala code. Does this look consistent with the scala map? https://github.com/ergoplatform/sigma-rust/pull/843"
+    },
+    {
+      "date": "2026-02-07T03:39:24",
+      "text": "Just fyi, opus 4.6 figured out the issue and made the fix. Would have made the pr automatically if I had not stopped it 😂 it took a long time to find the root cause but still impressive that it did"
+    }
+  ]
+}

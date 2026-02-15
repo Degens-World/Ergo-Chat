@@ -1,0 +1,106 @@
+{
+  "sender": "Anastasia Polozova",
+  "total_messages": 25,
+  "messages": [
+    {
+      "date": "2024-06-15T12:59:23",
+      "text": "Hi guys. Could you tell me if there is any ERG faucet? And where could I get it?"
+    },
+    {
+      "date": "2025-02-09T17:16:05",
+      "text": "@anon_br Hi, I am getting an error. What am I doing wrong?\n\n\nUnhandled Runtime Error\nError: Invalid tuple declaration."
+    },
+    {
+      "date": "2025-02-09T17:28:54",
+      "text": "And what’s the different?"
+    },
+    {
+      "date": "2025-02-09T17:30:47",
+      "text": "And I am not sure, that’s the reason why I asked"
+    },
+    {
+      "date": "2025-02-09T17:33:50",
+      "text": "😅 I feel a little bit confused."
+    },
+    {
+      "date": "2025-02-09T17:45:59",
+      "text": "\"@fleet-sdk/core\": \"^0.1.2\",\n    \"@fleet-sdk/serializer\": \"^0.8.0\",\n    \"@fleet-sdk/wallet\": \"^0.8.1\","
+    },
+    {
+      "date": "2025-02-09T17:57:45",
+      "text": "Thank you ❤️ I am surprised how it worked before, but now it’s getting better."
+    },
+    {
+      "date": "2025-03-05T17:34:04",
+      "text": "Hi guys, could you help me with that error -     \n\nNextJS 10\nUncaught (in promise) \nObject { code: -2, info: \"No addresses found.\" }\n\n\nI've always connected in Chrome when developing, but today when doing a demo, a person installed the new wallet first in Safari, then in firefox and we caught this bug.\n\nThe person tries to connect, a confirmation window appears and after confirmation an error pops up.\nWhere to look?"
+    },
+    {
+      "date": "2025-03-06T06:13:46",
+      "text": "Hi, yes, portal to connect specialist and clients without borders."
+    },
+    {
+      "date": "2025-03-06T06:14:57",
+      "text": "@arobsn\nHi, could you help with an error?\n\nNextJS 10\nUncaught (in promise) \nObject { code: -2, info: \"No addresses found.\" }\n\n\nI've always connected in Chrome when developing, but today when doing a demo, a person installed the new wallet first in Safari, then in firefox and we caught this bug.\n\nThe person tries to connect, a confirmation window appears and after confirmation an error pops up.\nWhere to look?"
+    },
+    {
+      "date": "2025-03-06T07:28:40",
+      "text": "if (connected) {\n      const ergo = await ergoConnector.nautilus.getContext();\n      const usedAddresses = await ergo.get_used_addresses();\n      const change_address = await ergo.get_change_address();\n\n      const uniqueAddresses = [change_address, ...new Set(usedAddresses)];\n\n      dispatch(ergoConnectNautilus(uniqueAddresses, true, \"nautilus\"));\n      dispatch(selectBlockchain(\"ergo\"));\n      dispatch(actions.toggleWalletSelector());\n\n    } else {\n      console.log(\"Not connected!\");\n    }\n\n\nThat’s code"
+    },
+    {
+      "date": "2025-03-06T11:04:28",
+      "text": "Thank you) \n\nAnd one more question:  could you add internationalization to the wallet?\n\nIn the app that I am building we have Russian and English. It's hard to explain to people who are not familiar with Ergo and crypto, and don't speak English how to use wallet"
+    },
+    {
+      "date": "2025-03-06T17:10:46",
+      "text": "I'll take a look, thanks"
+    },
+    {
+      "date": "2025-04-05T15:23:37",
+      "text": "Hi guys, I need a mentor who will explain to me offchain code. There is smart-contract and my FE experience, but offchain code is the weakest point.\n\nEven with Athena I am not sure what's going on. \nPls, DM me"
+    },
+    {
+      "date": "2025-04-05T15:56:32",
+      "text": "I want to connect smart-contract to the website and not fully understand how offchain code should work"
+    },
+    {
+      "date": "2025-04-05T16:18:39",
+      "text": "What is offchain bot? I am not sure that we understand each other"
+    },
+    {
+      "date": "2025-04-07T14:52:58",
+      "text": "Like websocets?"
+    },
+    {
+      "date": "2025-07-01T08:49:29",
+      "text": "Hi guys. I am making NFTs Pass at the https://ergoauctions.org/.\n\nI’ve alredy made a mint with wepb and jpg images but I still can’t see a picture in my NFT.\n\nWhat format does this site expect?"
+    },
+    {
+      "date": "2025-07-01T08:54:28",
+      "text": "Thank you for recommendation)"
+    },
+    {
+      "date": "2025-07-01T09:03:36",
+      "text": "The same history, the NFT returned without image. Really sad"
+    },
+    {
+      "date": "2025-07-01T09:04:25",
+      "text": "a30bc23730eaec29c705f2d07fb524eb134175fb3de4d2889d5c33b920035ce0"
+    },
+    {
+      "date": "2025-07-01T09:15:00",
+      "text": "Yes, this image"
+    },
+    {
+      "date": "2025-07-01T09:16:00",
+      "text": "Thank you 😊.  I'll come if smth goes wrong again"
+    },
+    {
+      "date": "2025-07-01T12:23:49",
+      "text": "🤪 publicity."
+    },
+    {
+      "date": "2025-11-19T05:04:02",
+      "text": "Hi guys. I need help with cardano smart contract integration. It’s pretty urgent. \nIf you know someone, who can help, or could help himself, please, let me know."
+    }
+  ]
+}

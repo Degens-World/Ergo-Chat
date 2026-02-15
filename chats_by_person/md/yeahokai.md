@@ -1,0 +1,114 @@
+# yeahokai
+
+**Total messages:** 18
+
+---
+
+**2025-09-23T00:28:53**
+
+Hey there, I'm trying to get a project up and running and am looking to get in touch with devs that may be interested in working on such a project
+
+---
+
+**2025-09-23T00:29:18**
+
+First am looking to get feedback
+
+---
+
+**2025-09-23T00:30:27**
+
+This is a basic overview of the idea
+
+---
+
+**2025-09-23T00:31:03**
+
+I also have idea about bootstrapping development costs without creating new token
+
+---
+
+**2025-09-23T04:07:49**
+
+Idea was to get like 10 investors willing to put in a sizeable amount to fund development for exchange of protocol fees until they see a sufficient return say 100% on their investment. We would use an nft to represent their share of the protocol fees and there would only be 10 of them
+
+---
+
+**2025-09-23T04:08:00**
+
+This is just one method
+
+---
+
+**2025-09-23T04:12:09**
+
+Yeah we can discuss it but I will also create graphic that shows the idea
+
+---
+
+**2025-09-23T04:12:28**
+
+Happy to hear and share ideas
+
+---
+
+**2025-09-23T19:01:14**
+
+So what's this idea, would like to hear about it
+
+---
+
+**2025-09-23T19:02:03**
+
+So how would this work?
+
+---
+
+**2025-09-23T19:02:37**
+
+Also is this the best place to get in touch with devs that may be interested on building this out?
+
+---
+
+**2025-09-23T19:05:17**
+
+It's basically going to be a perps protocol (using sub-blocks) that powers an lst protocol for ERG (using fees generated from perps) that then turns into yield collateralization protocol
+
+---
+
+**2025-09-23T19:05:49**
+
+Work will be done in phases
+
+---
+
+**2025-09-24T00:58:14**
+
+Ohk thank you, hopefully someone will reach out. As for the funding mechanism, it can be anything as long as it fulfills the idea of having a small group of investors that will get something to represent their share of the protocol fees up to a certain amount. I just know that an NFT seems like a very easy option as each investor will get one and fees will be distributed to them each month. I'm not technical so maybe a different method would be better for this idea.
+
+---
+
+**2025-09-24T10:30:34**
+
+If anyone would like to work on this please reach out - this is just to convey the general idea and things are open to be changed and altered. Feel free to message if you have any questions.
+
+---
+
+**2025-09-24T15:05:05**
+
+Implement which part?
+
+---
+
+**2025-09-24T17:45:26**
+
+Awesome thank you!
+
+---
+
+**2025-10-08T22:43:56**
+
+I'm looking for devs
+
+---
+

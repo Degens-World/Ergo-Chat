@@ -1,0 +1,10 @@
+{
+  "sender": "C₳RD₳NO IRAN🇮🇷 🐾 🐐",
+  "total_messages": 1,
+  "messages": [
+    {
+      "date": "2024-06-16T20:42:51",
+      "text": "Hi\nI need help to run some TXs on testnet\nCan you help me with this: \n\n\n\nfrom ergoplatform import ErgoTx\ntx = ErgoTx()\n# Set the sender address\ntx.set_sender(\"9epUjhJWgobZTCHxuSmtfK7w3UypeLQT2TREzExS7CzYYXYQahm\")\n\n# Set the recipient address\ntx.set_recipient(\"9epUjhJWgobZTCHxuSmtfK7w3UypeLQT2TREzExS7CzYYXYQahm\")\n\n# Set the amount\ntx.set_amount(10)\n\n# Set the fee\ntx.set_fee(1.0000000)\n\n# Sign tx\ntx.sign()\n\n# Send tx\ntx.send()"
+    }
+  ]
+}

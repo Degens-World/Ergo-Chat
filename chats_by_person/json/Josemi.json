@@ -1,0 +1,298 @@
+{
+  "sender": "Josemi",
+  "total_messages": 73,
+  "messages": [
+    {
+      "date": "2025-07-30T11:46:38",
+      "text": "Yes of course."
+    },
+    {
+      "date": "2025-07-30T11:49:26",
+      "text": "Have into account that with Ubuntu 24 I had problems because of the docker version ..."
+    },
+    {
+      "date": "2025-08-03T04:41:30",
+      "text": "Yeah, it's python3.11\n\nUse python3-venv for isolate python dependencies.\n\nAnd the docker version that works on Ubuntu 24 made problems to me in the past.  I always use Ubuntu 22"
+    },
+    {
+      "date": "2025-08-06T08:39:26",
+      "text": "What happened.?   Execution or packing?   Or fails during installation.?"
+    },
+    {
+      "date": "2025-08-06T08:40:43",
+      "text": "Anyway, I will try directly on u24 this month to ensure everything works perfectly"
+    },
+    {
+      "date": "2025-08-06T15:30:29",
+      "text": "👍.   Python3.11 should work"
+    },
+    {
+      "date": "2025-08-14T10:18:25",
+      "text": "yes please, could be great"
+    },
+    {
+      "date": "2025-08-14T10:22:11",
+      "text": "mmm okey, im going to try to do that.   Thanks"
+    },
+    {
+      "date": "2025-08-16T09:01:52",
+      "text": "Cool , im with fleet sdk so perfect.    Thanks"
+    },
+    {
+      "date": "2025-08-18T00:54:28",
+      "text": "This command https://github.com/moon-miner/feeless-Ergodex-run-script?tab=readme-ov-file#one-line-installation don't worked to me.  The other ones worked"
+    },
+    {
+      "date": "2025-08-18T01:00:08",
+      "text": "anyway, the repo for https://www.ergodex.io/ergo/swap is not public? seem a more clean ui to me @Patato55"
+    },
+    {
+      "date": "2025-08-18T05:06:48",
+      "text": "Ah okey, me too, maybe not public"
+    },
+    {
+      "date": "2025-08-19T00:17:01",
+      "text": "@anon_br Ey;   i receive an error \"Maximum call stack size exceeded\" when i execute a tx. with a long double loop in one of the  ergo script.  \nThe problem is on the JS implementation? \nOr for some reason spent this super heavy contract is not possible?"
+    },
+    {
+      "date": "2025-08-19T00:18:05",
+      "text": "Basically (in ergo script)\nfor i in 1000:\n      for j in [1...5]:\n              {compare maximum}\n\nWith 100 it works."
+    },
+    {
+      "date": "2025-08-20T08:12:31",
+      "text": "Yes, mock-chain"
+    },
+    {
+      "date": "2025-08-24T12:52:01",
+      "text": "How i add a token logo on nautilus wallet? It takes the image from a mint box registry? Or manually added on the source code?"
+    },
+    {
+      "date": "2025-08-24T13:15:38",
+      "text": "ohh okey   thanks"
+    },
+    {
+      "date": "2025-09-17T08:26:00",
+      "text": "Game of Prompts\n\n- Some improvements at reputation system.\n- Working with frontend  judges part"
+    },
+    {
+      "date": "2025-09-22T12:08:06",
+      "text": "Okey thanks 🙏"
+    },
+    {
+      "date": "2025-09-22T12:11:49",
+      "text": "Just out of curiosity, what’s the maximum number of inputs that have been spent in a single transaction? More or less?"
+    },
+    {
+      "date": "2025-09-22T12:51:57",
+      "text": "Cool"
+    },
+    {
+      "date": "2025-09-23T02:21:56",
+      "text": "Hi!   How do you think to do that?"
+    },
+    {
+      "date": "2025-09-24T11:21:20",
+      "text": "Game of Prompts \n\n- Judge system done.  So basically now all the main stuff is implemented. \n- This week I have been seeing some issues if the judges have a lot of opinions, so I need to update the reputation system again 😅.\n- The current implementation allows for 20-50 participants, which is great, but probably can be unlimited or extremely high, so I will try to improve this too."
+    },
+    {
+      "date": "2025-09-24T11:23:51",
+      "text": "If this goes forward, when the time comes I could implement it."
+    },
+    {
+      "date": "2025-09-24T15:07:11",
+      "text": "contracts"
+    },
+    {
+      "date": "2025-10-02T16:31:21",
+      "text": "When using an input that has a token, is it possible to omit that token from the outputs and thus remove the token from the network’s state? I thought this wasn’t possible to do."
+    },
+    {
+      "date": "2025-10-02T17:12:04",
+      "text": "ohh okey, i thought that burn was something like an output with a script that is always false. In case of ERGs is different right? burn ERGs is only possible with an always false script (without considering rent)."
+    },
+    {
+      "date": "2025-10-08T09:21:23",
+      "text": "For funding there are multiple options:\n - ErgoRaffle: Smart Contract based that sends a percentage for one of the founders using randomness. Has been used for a lot of community funding.\n - Mew fund: centralized but powerful, with a lot of options;\n - Stability Nexus' Bene: Smart Contract based and p2p (no backend required to be executed by anyone). But for now only supports ERG tokens exchanged for your custom token (not, for example, sigusd)."
+    },
+    {
+      "date": "2025-10-08T16:12:14",
+      "text": "We've got the functionality in place to support any token. Now we just need to do some more in-depth testing and sort out a few UI bugs."
+    },
+    {
+      "date": "2025-11-20T13:37:28",
+      "text": "Question about templates: in an Ergo script I have a template where I put any 32-character hexadecimal string and I get the same template_id… however, if I put 32 zeros, the template_id changes."
+    },
+    {
+      "date": "2025-11-20T15:49:29",
+      "text": "Not sure if this is the best way to share the code ... https://github.com/StabilityNexus/BenefactionPlatform-Ergo/commit/ea59d6a1d1cc26eb16977d41742f287770dc7657\n\n==\n\nIn Bene we need to distinguish between using ERG or any other token. So far we’ve left ERG empty (base_token_id == \"\"), but its template differs from the token version—presumably due to the constant’s length.\n\nI tried using hexadecimal 0, but the template still changes only in this case (see paper.md).\nDoes that make sense?"
+    },
+    {
+      "date": "2025-11-21T06:27:43",
+      "text": "https://github.com/StabilityNexus/BenefactionPlatform-Ergo/blob/ea59d6a1d1cc26eb16977d41742f287770dc7657/contracts/bene_contract/contract_v1_2.es#L372\n\nIsErgBased variable is used in the contract.\nUnique difference is 0s instead of anything else"
+    },
+    {
+      "date": "2025-11-21T06:50:45",
+      "text": "Okey thanks... I will fetch both templates for now"
+    },
+    {
+      "date": "2025-11-21T10:01:28",
+      "text": "About this… it seems that a 0’s value is treated the same as an empty Coll[Byte]. And I understand that the template ID changes because it has a different length.\nI think I’ll have to work with both templates.\n@kushti_ru"
+    },
+    {
+      "date": "2025-11-24T12:17:04",
+      "text": "I'm not sure I understood you correctly. The problem is that there really isn’t any trusted node to confirm the transaction. Does the NIPoPoW proof make it possible to ensure that the transaction was carried out (with a preselected difficulty and number of confirmations) without needing to rely on a node afterward?"
+    },
+    {
+      "date": "2025-11-24T12:26:16",
+      "text": "I’m not sure I’m explaining myself well. A practical example: I’m going to a deserted island to set up a coconut shop. I want to accept ERG payments from my island, which has no internet connection. So I write down in a notebook the last block of the network and the current difficulty.\n\nI tell everyone that whoever wants to come to my island to buy coconuts must bring proof that they’ve paid me 1 ERG for each coconut they want. So they arrive on my island and say: “Hey, look, this is the new block X. In it you can find transaction T, which you can clearly see sends 2 ERGs to your address, so give me two coconuts. It was mined with this difficulty, and before it is the last block you saw before coming here.” And I, even while being on my deserted island, will know that the person is either telling me the truth, or is such a chad that they mined a block by themselves just to get two of my coconuts (they lied, but I don’t care, let them have the two coconuts).\n\nWill I be able to run my coconut shop with peace of mind, trusting that my ERG wallet is filling up even though I can never actually verify it? (Except in cases where chads show up who mine fake blocks—but I don’t care about those.)"
+    },
+    {
+      "date": "2025-11-25T08:30:39",
+      "text": "https://app.rosen.tech/events/43acfb9f8b44abe197d5e01e2f3724195d047fd15df22878fc4502669e70c436\n\n\"Application error: a client-side exception has occurred (see the browser console for more information).\"\n\"TypeError: Cannot read properties of null (reading 'slice')\""
+    },
+    {
+      "date": "2025-11-26T09:00:26",
+      "text": "🔥🔥 perfect !!! That is great news"
+    },
+    {
+      "date": "2025-11-26T09:01:55",
+      "text": "is there a library to validate this type of things.??   sigma-rust can be used for that?"
+    },
+    {
+      "date": "2025-11-27T09:08:03",
+      "text": "Cool... What is the state of this?? Is done?"
+    },
+    {
+      "date": "2025-12-04T01:49:06",
+      "text": "I'm still working on Game of Prompts. This will allow me to give the Celaut node a first real use in terms of how services are built and distributed, even though each user runs the services on their own node. A real application will let me see potential issues that I might not notice by simply testing with dummy services.\nAfter that, I'll work on bringing the payment/reputation systems from alpha to beta and moving that toward Basis."
+    },
+    {
+      "date": "2025-12-05T04:42:38",
+      "text": "Really?"
+    },
+    {
+      "date": "2025-12-11T12:09:16",
+      "text": "Opinions about use an ERG wrapper?\nhttps://ergoforum.aap.cornell.edu/t/simplifying-game-of-prompts-contracts-why-not-use-only-tokens/5293"
+    },
+    {
+      "date": "2025-12-16T23:58:18",
+      "text": "val authorizedToEnd: SigmaProp = {\n\n        val resolverAuth: SigmaProp = {\n          val prefix = resolverPK.slice(0, 3)\n          val addr_content = resolverPK.slice(3, resolverPK.size)\n\n          val isP2PK = prefix == P2PK_ERGOTREE_PREFIX\n          if (isP2PK) {\n            proveDlog(decodePoint(addr_content))\n          }\n          else {\n            sigmaProp(INPUTS.exists({ (box: Box) => box.propositionBytes == resolverPK }))\n          }\n        }\n        \n        val winnerAuth: SigmaProp = {\n          val winnerBoxes = INPUTS.filter({ (box: Box) => \n              blake2b256(box.propositionBytes) == PARTICIPATION_SCRIPT_HASH && \n              box.R5[Coll[Byte]].get == winnerCandidateCommitment \n          })\n          if (winnerBoxes.size > 0) {\n            val winnerPK = winnerBoxes(0).R4[Coll[Byte]].get\n            val prefix = winnerPK.slice(0, 3)\n            val addr_content = winnerPK.slice(3, winnerPK.size)\n\n            val isP2PK = prefix == P2PK_ERGOTREE_PREFIX\n            if (isP2PK) {\n              proveDlog(decodePoint(addr_content))\n            }\n            else {\n              sigmaProp(INPUTS.exists({ (box: Box) => box.propositionBytes == winnerPK }))\n            }\n          } else {\n            // Si no se encuentra la caja del ganador, la autorización falla\n            sigmaProp(false)\n          }\n        }\n\n        if (winnerCandidateCommitment != Coll[Byte]()) {\n          winnerAuth || resolverAuth\n        } else {\n          resolverAuth\n        }\n      }\n\n\n\nThis raises \"Malformed transaction: Scripts of all transaction inputs should pass verification. b32bbdd8dd9b5d92894439d0a60c1ba6201d727b9dbd5f419786f510046ad02d: #0 => Success((false,1712))\"\n\n\nBut the same replacing \"winnerAuth || resolverAuth\" with \"winnerAuth\"  works.   (winnerPK == resolverPK)\n\n\nWhat is the problem here?"
+    },
+    {
+      "date": "2025-12-16T23:59:05",
+      "text": "I don't understand why, but with fleetsdk - mockchain works.\nFails on-chain."
+    },
+    {
+      "date": "2025-12-17T08:34:04",
+      "text": "val P2PK_ERGOTREE_PREFIX = fromBase16(\"0008cd\")\n\nresolverPK and winnerPK are proposition_bytes. So the prefix lets us know whether we can perform proveDlog; if we can’t, it proves authenticity by spending some input."
+    },
+    {
+      "date": "2025-12-17T13:20:57",
+      "text": "Game of Prompts: I’m finishing up the interface and the contract. I’ll very likely have it completed before the end of the year. I’d like to run a small test competition with anyone who wants to participate, to try things out and gather feedback.\n\nThe Bene Wallet UI library received two or three PRs implementing ErgoPay, which has now been added to Nautilus and Safew.\n\nBene received more than 50 PRs!!! Some of them (I think four) focused on searching for potential bugs in the contract. In the end, they all turned out to be false positives, but it’s great to see the effort people put into reviewing the contract. It’s reassuring that multiple third parties took the time to examine it carefully, even if no issues were ultimately found."
+    },
+    {
+      "date": "2025-12-17T13:22:28",
+      "text": "I didn’t mention it before, but all of the PRs came from the Unstoppable Hackathon."
+    },
+    {
+      "date": "2026-01-10T11:27:52",
+      "text": "I think I don’t understand a simple concept about token uniqueness in Ergo. When minting a token, can it end up in two output boxes at the same time? How is this possible?\n\nThis is the token:\nhttps://explorer.ergoplatform.com/en/token/a4a52dd17d6c1af1a024422b06906d3060ac12c7aa5fdbfaec92240c24a2d619\n\nAnd this is the mint tx of the token:\nhttps://explorer.ergoplatform.com/en/transactions/576bcd3afc4dc4d1d1b89b0617dba93c2e0aa38cfab55c5a13f45ca3b9067ded\n\nAs you can see, Output(0) and Output(1), both, contains the emission amount of the token.\nWhy is that possible?"
+    },
+    {
+      "date": "2026-01-10T12:25:14",
+      "text": "In that case the emission amount is not 100000002, is 200000004"
+    },
+    {
+      "date": "2026-01-10T12:25:28",
+      "text": "??"
+    },
+    {
+      "date": "2026-01-10T13:22:21",
+      "text": "So the explorer is wrong @kushti_ru @LuivatraEP"
+    },
+    {
+      "date": "2026-01-10T18:12:44",
+      "text": "Yeah, that's an issue 😅"
+    },
+    {
+      "date": "2026-01-10T18:15:49",
+      "text": "Hide emission amount or fix it, I agree. But show an incorrect emission amount is a problem"
+    },
+    {
+      "date": "2026-01-10T18:24:35",
+      "text": "I approved Bene’s PR to mint an EIP-004 NFT and add it directly to the contract in a single transaction... It seemed strange to me, but I tested it and saw that it worked... Although, checking it more thoroughly today, I’ve noticed this. I'll have to use chained transactions"
+    },
+    {
+      "date": "2026-01-11T05:02:16",
+      "text": "maybe, there is a gql ui to check?"
+    },
+    {
+      "date": "2026-01-11T07:56:13",
+      "text": "Okey.  You see an error on the tx code?"
+    },
+    {
+      "date": "2026-01-11T07:56:54",
+      "text": "No, nothing in console."
+    },
+    {
+      "date": "2026-01-11T10:44:29",
+      "text": "oh, i don't checked extension console.\n\nbut was due to pass an array of objects because of chained tx. \nNow is solved.       Sign each tx one per one is required, but works."
+    },
+    {
+      "date": "2026-01-16T12:25:25",
+      "text": "I’m finishing the Game of Prompts app. Just small details left, in fact; the contracts (both on-chain and off-chain) look pretty solid to me.\n\nI’m planning to organize a first test competition with the Snake game at no cost (a minimal amount of ERG or a test token), but in such a way that the winner still receives the prize NFT and the judges can earn reputation.\n\nIf anyone is interested, they can join the Game of Prompts Telegram to stay up to date or ask anything they want."
+    },
+    {
+      "date": "2026-01-16T12:26:00",
+      "text": "After testing it thoroughly, I’ll work on games related to algorithmic trading, possibly."
+    },
+    {
+      "date": "2026-01-16T13:30:02",
+      "text": "I can't share, messages are deleted with link"
+    },
+    {
+      "date": "2026-01-22T00:37:03",
+      "text": "Game of Prompts\n\nShared a video, docs, and an app on TG with some mates. After receiving some feedback, I’ll need to add another action to the contract, so it’s still in development.\n\nCelaut Project\n\nAfter four months without touching my beloved node…\n\nI worked on a rootless configuration of the node, but abandoned it because it’s a dead end.\n\nFor those who don’t want to trust running the node with sudo, an .ova will be distributed; it’s the only feasible solution I can think of.\n\nLikewise, several commands have been added, and the node’s use of Docker is now isolated from any Docker the user may be using."
+    },
+    {
+      "date": "2026-01-23T03:48:35",
+      "text": "Some explorer working??"
+    },
+    {
+      "date": "2026-01-23T03:52:51",
+      "text": "okeyy"
+    },
+    {
+      "date": "2026-01-23T06:07:43",
+      "text": "I still get errors with this nautilus endpoints"
+    },
+    {
+      "date": "2026-01-28T08:31:44",
+      "text": "Are the explorers having the same problem as last week? I’m getting ‘Malformed transaction… Missing inputs: 0.’"
+    },
+    {
+      "date": "2026-01-28T08:33:41",
+      "text": "sending a token with nautilus"
+    },
+    {
+      "date": "2026-01-28T10:25:08",
+      "text": "Thanks you for the support"
+    },
+    {
+      "date": "2026-02-02T15:39:22",
+      "text": "Is there any reason why EIP-4 uses SHA-256 instead of BLAKE?"
+    },
+    {
+      "date": "2026-02-03T16:22:33",
+      "text": "I’m facing a \"ghost register\" issue with @fleet-sdk/core ^0.12.0 that makes no sense.\n\nThe Setup:\n\nI have a contract UTXO. I log its R5 before and after TransactionBuilder.build().\n\nconsole.log always shows R5: 05a49ed101 (1714066).\n\nThe unsignedTransaction.inputs[0] also shows the same value.\n\n\nWhen I call ergo.sign_tx and submit_tx, the Node rejects it with a script error, but the Diagnostic Info shows a completely different R5 for that same input (same index)!\n\nTest 1: Node says SELF.R5 is 1714239.\n\nTest 2: Node says SELF.R5 is 1714260.\n\nHow is this possible? 1. If the input box is the same, why does the Node see different Register values than what Fleet has in the unsignedTransaction?\n\n2. Does ergo.sign_tx (Wallet) fetch the box again and overwrite the registers I manually set in the inputs array?\n\n3. Is it possible that the Wallet is injecting a different version of the UTXO from its own cache?\n\nparseBox and TransactionBuilder seem to hold the \"correct\" local value, but it \"mutates\" upon signing/submission. Any clues?"
+    },
+    {
+      "date": "2026-02-03T16:26:15",
+      "text": "https://github.com/game-of-prompts/app/blob/main/src/lib/ergo/actions/drain_cancelled_game_stake.ts#L73"
+    },
+    {
+      "date": "2026-02-06T07:38:33",
+      "text": "Thanks a lot ser! 🫡"
+    }
+  ]
+}

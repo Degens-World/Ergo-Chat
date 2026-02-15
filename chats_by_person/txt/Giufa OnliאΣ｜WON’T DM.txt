@@ -1,0 +1,108 @@
+=== Chat history for: Giufa OnliאΣ｜WON’T DM ===
+=== Total messages: 21 ===
+
+[2023-07-23T05:54:33]
+Hello all
+
+[2023-07-23T05:54:58]
+I get this kind of notification from Bit Defender for the past few days ;
+
+[2023-07-23T05:55:24]
+"An infected Web resource has been detected
+now
+
+Feature:
+Online threat prevention
+
+We have blocked this dangerous page for your protection: 
+https://oracle-core.ergopool.io/
+Accessed by: brave.exe
+Dangerous pages attempt to install potentially damaging software, collect information or act without your consent."
+
+[2023-07-23T05:55:40]
+Never before
+
+[2023-07-23T05:56:42]
+Anyone else in the same situation?
+
+[2023-07-23T06:02:08]
+Are you sure?
+
+[2023-07-23T06:03:53]
+sorry for my paranoia  
+I've had very bad experiences in the past
+
+[2023-07-23T06:05:22]
+is it from Spectrum.fi or another site?
+
+[2023-07-23T15:17:54]
+Hi 👋🏼 
+
+why do I regularly receive this kind of notification from my anti virus ?
+
+[2023-07-23T15:44:03]
+all the time when I'm on Spectrum.fi
+
+or https://ergexplorer.com/
+
+I'm not sure which one causes my anti-virus to go off.
+
+[2023-07-23T15:44:39]
+it started a few days ago
+I had never had this kind of notification before
+
+[2023-07-23T16:04:28]
+thx @AcoSmrkas
+
+[2023-07-23T16:04:36]
+thank you
+
+[2023-07-23T16:12:35]
+not me sir
+
+[2023-11-08T08:59:43]
+ErgOne
+
+- We decided to change the voting-for-content period from the first to the last day of each month. It was too complicated until now. All the front end and back end modification will be done before next week. So it will be active in November.
+- To incentive users to create content even if they don’t own any Ergone tokens, all users (sign-up + ergo address registered) will automatically have at least 1 point to submit a link to the protocol. But 0 free point for votes (in order to avoid cheaters). Then, if these users create good content and receive votes from other users ⇒ they’ll start to win some rewards at the beginning of the following month.
+- October Rewards will be distributed next week. The tx is built automatically but we want to validate its signature during the next 3 months to be sure everything is ok. (We use ergpy)
+
+• We continue improving ux with better access to the contents.
+
+• In parallel, we are building a script to consolidate the users virality scores and automize the tx for rewards distribution. It will be ok for October 5th (Rewards distribution date).
+
+From Next month, The first Rewards Halving will start
+
+A milestone in the development of PoCoP ( Rewards will increase from 5000 to 2500 $ErgOne for all users of our app.ergone.io )
+
+We strongly encourage all members of the ecosystem to use our app.
+
+PoCoP is a virtuous circle:
+
+the more people use it, the more the #ergo hashtag will spread on all social networks.
+the more Ergo will be engraved in people's minds
+
+It's a team work 
+
+Thanks for your attention
+
+[2024-09-07T03:19:32]
+Gm guys
+
+[2024-09-07T03:20:57]
+On Nautilus I noticed that the price of ergone was no longer shown.
+
+[2024-09-07T06:34:13]
+Yessir
+
+[2024-09-07T06:34:39]
+It's the first time we don't see amount in dollars
+
+[2024-09-30T09:37:13]
+You need to use this explorer:
+https://ergexplorer.com/
+
+[2024-09-30T09:39:07]
+Okay I see HQ answered you 
+Sorry for the double
+

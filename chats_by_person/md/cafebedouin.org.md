@@ -1,0 +1,166 @@
+# cafebedouin.org
+
+**Total messages:** 26
+
+---
+
+**2024-01-03T11:20:37**
+
+It seems reasonable to ask what the point of sub-blocks are, and I think the short answer is to improve user experience and wait times for dApp users. It also allows for better network utilization. Trade offs seem to be that there might be slightly less security for dApps using sub-blocks, but for many applications, that may not matter.
+
+---
+
+**2024-01-03T11:22:00**
+
+It's an option. Uses to be determined.
+
+---
+
+**2024-01-03T11:26:14**
+
+You cannot change Ergo's speed without a hard fork and changing fundamental assumptions. Speed, and addressing other issues, comes from L2s.
+
+---
+
+**2024-01-03T11:28:05**
+
+Although, sub-blocks does address it, but it seems to change assumptions the way a L2 would. But, it does address the speed concern.
+
+---
+
+**2024-01-03T11:36:37**
+
+The perennial problem.
+
+---
+
+**2024-01-03T11:57:45**
+
+Isn't plasma an L2? Isn't Spectrum building one?
+
+---
+
+**2024-01-23T07:26:39**
+
+https://ergoplatform.org/en/blog/2020-11-09-first-steps-towards-interoperability-with-cardano-oracles/
+
+---
+
+**2024-03-11T19:19:53**
+
+Perhaps the question is what are the requirements for someone to have the kind of access stenolog has asked for. I'd guess that not only are the requirements technical but also trust-based, where you'd want to see contributions over multiple years that show good judgment with handling node level code. Who should have that kind of access, morphic?
+
+---
+
+**2024-03-24T18:55:58**
+
+Probably better to have that aimed at localhost, 127.0.0.1
+
+---
+
+**2024-04-04T08:46:07**
+
+https://api.tokenjay.app/peers/list?unreachable=false&closedApi=false&limit=50
+
+---
+
+**2024-04-04T09:01:23**
+
+Suppose I should add: That's the list of mainnet peers, just swap ports to find ones running testnet.
+
+---
+
+**2024-04-04T09:02:46**
+
+https://docs.ergoplatform.com/node/testnet/testnet-resources/
+
+---
+
+**2024-04-20T12:04:44**
+
+@kushti_ru Is anyone currently collecting storage rent? Any way to find out how much is available to collect?
+
+---
+
+**2024-04-20T14:23:28**
+
+I remember kushti saying that anyone can collect storage rent, but miners are in the best position to collect it because they put together a block. If traditional pools are not collecting it, and according to Cheese putting together a pool level collector requires a custom node and some middleware to put select eligible blocks and to insert them into a custom block that takes the rent.
+
+Now, it's possible someone has done all that. Otherwise, there's going to need to be quite the backlog to charge rent when someone starts actually doing it.
+
+---
+
+**2024-04-20T14:26:52**
+
+In any event, there is some ambiguity here I'm trying to get clarity on because I don't understand what is happening.
+
+---
+
+**2024-11-30T19:53:59**
+
+Did you try looking at Lui's repo, Pratir? https://github.com/ergopad/pratir-backend
+
+---
+
+**2024-12-20T09:29:59**
+
+Requires running back end, which Nemo is against on principle.
+
+---
+
+**2024-12-20T09:37:47**
+
+Aberg added Bluetooth to Satergo, which changes data limits from QR.
+
+---
+
+**2024-12-20T09:41:40**
+
+True. On the other hand, hard to run locally or call it decentraluzed if it requires someone else to serve unsigned txs.
+
+---
+
+**2024-12-24T00:07:23**
+
+Can whoever maintains AuctionCoin point the link on the main page and the buyback contract to a dex other than spectrum? Thanks!
+
+---
+
+**2025-01-02T11:20:52**
+
+It's bad security practice, like walking around with your zipper down and no underpants.
+
+---
+
+**2025-01-09T13:04:59**
+
+Two points. One, there's probably some function of percent of compromised nodes and necessary hops to eliminate that as an attack vector, and in this case, there is bidirectionality on the network which they call privacy and safety routes. I haven't look at it in detail, but there's a lot going on. 
+
+Two, I'm sure there aren't a lot of people that know more about how this kind of network should work than dildog.
+
+---
+
+**2025-01-25T00:34:50**
+
+Looks like Sigmafi.app needs a domain reregistration, @nemo429.
+
+---
+
+**2025-01-29T00:01:14**
+
+Anyone have an ergo.conf for a testnet node? Does it require anything special?
+
+---
+
+**2025-01-29T00:04:57**
+
+Got it. https://docs.ergoplatform.com/node/testnet/testnet-full/
+
+---
+
+**2025-12-21T02:06:10**
+
+https://gitlab.com/fdroid/fdroiddata/blob/master/CONTRIBUTING.md
+
+---
+

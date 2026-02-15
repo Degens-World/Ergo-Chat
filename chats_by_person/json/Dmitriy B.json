@@ -1,0 +1,38 @@
+{
+  "sender": "Dmitriy B.",
+  "total_messages": 8,
+  "messages": [
+    {
+      "date": "2025-04-02T06:38:53",
+      "text": "Hi everyone, I'm writing some offchain code and I'm having a hard time understanding how it should work."
+    },
+    {
+      "date": "2025-04-02T06:40:16",
+      "text": "Here's this part in SC:"
+    },
+    {
+      "date": "2025-04-02T06:40:47",
+      "text": "and also:"
+    },
+    {
+      "date": "2025-04-02T06:41:47",
+      "text": "If you can recommend any docs on how to build offchain, or any other recommendations, I'd be more then happy"
+    },
+    {
+      "date": "2025-04-07T13:52:44",
+      "text": "What's the best way to verify that transaction is onchain? My first approach was to extract singleton like this: signedTransaction?.outputs?.at(0)?.assets?.at(0)?.tokenId And save it to DB, but today when I was testing signed transaction didn't go through twice! What approach would you recommend?"
+    },
+    {
+      "date": "2025-04-07T14:09:58",
+      "text": "Thanks! So, there should be some blockchain listener that will notify once transaction with the id / singleton is added? And how long is enough (1 min / 5 min)? At what point would it be appropriate to tell user that his tx failed?"
+    },
+    {
+      "date": "2025-10-15T08:32:57",
+      "text": "Mindhealer\n* Group Video calls SC for seminars and lectures\n* Integrating coinRemitter to accept payments with various coins"
+    },
+    {
+      "date": "2025-10-21T09:55:55",
+      "text": "I don't know if it's doable, but you can think of adding some old school game (because they already have their fans) and add blockchain tokenomics to it."
+    }
+  ]
+}

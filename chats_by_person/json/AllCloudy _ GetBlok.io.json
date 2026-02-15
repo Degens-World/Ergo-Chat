@@ -1,0 +1,58 @@
+{
+  "sender": "AllCloudy | GetBlok.io",
+  "total_messages": 13,
+  "messages": [
+    {
+      "date": "2022-02-08T16:30:00",
+      "text": "@kushti_ru anything you can do to alleviate this problem short term? As you can imagine, this is a big issue for GetBlok as we have significant focus on our POV effort and do not want that to go to waste it will take time for us to ramp up our own explorer"
+    },
+    {
+      "date": "2022-02-08T16:42:11",
+      "text": "That be awesome.  Long term we will spin up our own explorer but worried this may take some time."
+    },
+    {
+      "date": "2022-02-08T16:42:32",
+      "text": "Whichever is easiest"
+    },
+    {
+      "date": "2022-02-08T16:52:38",
+      "text": "Thanks, unfortunately our constituents won’t accept 3-4 days of no payouts 😝 well see if abchris can help in short term."
+    },
+    {
+      "date": "2022-07-11T15:14:27",
+      "text": "@kushti_ru  this is you right?"
+    },
+    {
+      "date": "2022-07-25T16:37:40",
+      "text": "Not sure what you are referring to? all our nodes have public URL defined."
+    },
+    {
+      "date": "2022-07-25T16:46:51",
+      "text": "Ah yes.  Well none of our nodes have the rest api exposed (yet).  On our to do list."
+    },
+    {
+      "date": "2022-09-07T16:38:12",
+      "text": "Was same URL. We now have all 3 services deployed (UI, API, and GraphQL)."
+    },
+    {
+      "date": "2022-09-07T16:38:46",
+      "text": "and reverse proxy to handle the appropriate paths (e.g. \"/\" for UI, \"/api\" for API, and \"/graphql\" for Graphql)"
+    },
+    {
+      "date": "2022-09-29T18:36:30",
+      "text": "Yeah i think profitability (price) is a completely different topic than block adjustments.  Dependent but one does not alone fix the other"
+    },
+    {
+      "date": "2022-10-08T23:02:50",
+      "text": "Latest version of gql from abchris v 0.4.0"
+    },
+    {
+      "date": "2022-10-14T08:51:15",
+      "text": "possibly. I will look"
+    },
+    {
+      "date": "2022-11-02T18:16:25",
+      "text": "Yep and will be down for the foreseeable future."
+    }
+  ]
+}

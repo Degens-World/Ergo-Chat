@@ -1,0 +1,150 @@
+# Saphuza
+
+**Total messages:** 13
+
+---
+
+**2024-04-22T18:30:10**
+
+Does this look right?
+
+---
+
+**2024-04-22T18:30:10**
+
+//source// 
+//dice-command//
+//dice-sides-6//
+//command-1//-(exempt)
+//command-2//-(exempt)
+//command-3//-(exempt)
+//command-4//-(exempt)
+//command-5//-(You-Win-1/10-tokens)
+//command-6//-(You-Win-10/20-tokens)
+//time-limit//
+//per-24-hour//
+
+---
+
+**2024-04-22T18:30:39**
+
+Code test. What script is this?
+
+---
+
+**2024-04-22T18:36:17**
+
+This should be a meme lmao 
+//source//
+//fix-ED-Command//
+//grow-inches-//-(10)
+
+---
+
+**2025-01-11T20:16:36**
+
+You take old PCs that are expiring soon.
+Buy a bunch of decent graphics cards.
+
+You make a gaming tournament website and hosting service.
+
+You offer people pay to make a tournament to build a raffle/jackpot game you can customize. The service has them all send crypto currency tokens with these rules below as transparent as possible.
+
+Buy the token to enter championship incentive
+
+100 tokens per person when we start of dev team. Made on ERGO.
+
+Staking up to 1% on new token mints yearly.
+
+10 000 token supply
+
+The tokens increase 5k each year. With ladder progression.
+
+The token is bought by new tournament entries.
+
+The token can be won in a raffle jackpot tournament.
+
+---
+
+**2025-01-11T20:16:44**
+
+NFT trading card game promotion for Blitz lets say
+
+They get 2 free entries or more.
+
+The entry is to earn our tokens we put up for grabs.
+
+There is a catch, they get 1 or 2 lives to beat us. We get full lives amount.
+
+Speed run competitions for pay. A side hussle token.
+
+Speedrun token, is used for competition speed running.
+
+Speedrunning is paid by bounties completed.
+
+Bounties cost money to challenge.
+
+Most will fail but the few that can master sacred glitches can earn revenue.
+
+Raffles for less fortunate on the site in the gaming community with a service fee.
+
+Raffle coin for site that earns staking awards low trade value more of a token.
+
+Call it GamersHub
+
+---
+
+**2025-01-11T20:16:59**
+
+The token is bought by new tournament entries.
+
+The token can be won in a raffle jackpot tournament.
+
+The games are widely available on the PC with steam, xbox gamepass, sony or nintnedo.
+
+We back the token by my Bitcoin at start.
+
+NFTs for winning game titles to show reputation. Can be for a crypto inspired game like a elite club like Crypto Apes.
+
+If I do receive my bitcoin from satoshi on the day agreed, this is my plan.
+
+(He is force holding bitcoin for me)
+
+---
+
+**2025-01-11T20:35:39**
+
+Get a tin foil hat perk to use my NFTs (Alien token)
+
+---
+
+**2025-01-11T20:36:06**
+
+Make one quick, the aliens can hear our thoughts!
+
+---
+
+**2025-01-11T20:36:20**
+
+👽
+
+---
+
+**2025-01-11T20:37:57**
+
+Alien spaceship needs you liquid if you got any tokens 😉 😜 👽 🚀 any bit helps the take off from earth 🌎 😉 😀
+
+---
+
+**2025-01-11T20:38:22**
+
+Alien dice is down, hope you earned you wage back when we take off.
+
+---
+
+**2025-01-11T20:39:51**
+
+Thank you RustIn
+
+---
+

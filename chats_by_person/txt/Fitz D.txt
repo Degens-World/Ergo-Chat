@@ -1,0 +1,23 @@
+=== Chat history for: Fitz D ===
+=== Total messages: 4 ===
+
+[2025-11-15T09:18:26]
+Where’s more on this I could find?
+
+[2025-11-15T09:19:31]
+Are you saying a miner could mine and provide inference at the same?
+
+[2026-01-15T12:27:53]
+Vibe-coding is making execution cheap, so the real moat shifts to principles and initial conditions. 
+
+You can copy features and ship apps fast, but you cannot retroactively vibe-code legitimacy, credible neutrality, durable security incentives, or a genuinely decentralized power structure. 
+
+Those are path-dependent properties determined by launch mechanics, distribution, and economic design. That is why “same label, different foundations” matters. 
+
+The word “blockchain” tells you almost nothing about who holds power or how the network behaves under stress. In that lens, Ergo’s “no ICO, no premine, no VC allocation, open PoW from block one” is a concrete claim about participation-based distribution and lower capture risk. 
+
+In the vibe-coding era, the key question is not “can you build it,” but “what are you building on top of, what constraints are baked in, and who does the system structurally empower?”
+
+[2026-01-15T12:28:05]
+Thoughts after our talk
+

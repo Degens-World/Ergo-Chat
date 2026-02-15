@@ -1,0 +1,1066 @@
+{
+  "sender": "Michael",
+  "total_messages": 265,
+  "messages": [
+    {
+      "date": "2024-01-03T07:59:16",
+      "text": "so now between each block there is 64 sub ?"
+    },
+    {
+      "date": "2024-01-03T09:34:13",
+      "text": "would rather like to pay 10x the current transaction fee"
+    },
+    {
+      "date": "2024-01-03T09:35:57",
+      "text": "for using the subblock , would rather pay 0.01 erg rather than 0.001 erg"
+    },
+    {
+      "date": "2024-01-03T09:36:11",
+      "text": "why do we need another coin"
+    },
+    {
+      "date": "2024-01-03T09:36:21",
+      "text": "that should be a good incentive no ?"
+    },
+    {
+      "date": "2024-01-03T09:40:21",
+      "text": "No incentives to generate and propagate sub-blocks are planned for the Ergo core protocols at the moment. At the same time, incentives can be provided on the sub-block based merge-mined sidechains, or via application-specific agreements (where applications may pay to miners for faster confirmations)."
+    },
+    {
+      "date": "2024-01-03T09:40:55",
+      "text": "last sentence ?"
+    },
+    {
+      "date": "2024-01-30T08:44:38",
+      "text": "https://miningpoolstats.stream/ergo"
+    },
+    {
+      "date": "2024-02-06T09:35:08",
+      "text": "better have 5 dapps doing different things or 20 doing the same ?"
+    },
+    {
+      "date": "2024-02-07T15:22:30",
+      "text": "there was a project called spreadly no idea who was behind it tho"
+    },
+    {
+      "date": "2024-02-09T11:24:56",
+      "text": "this ? \nhttps://api.ergoplatform.com/info/supply"
+    },
+    {
+      "date": "2024-03-02T07:14:06",
+      "text": "can i have multiple wallet with different seed in my node ?"
+    },
+    {
+      "date": "2024-03-02T07:33:12",
+      "text": "so i can't use 1 node to run for example duckpools bot and oracle core , since both require the node addres ... ?"
+    },
+    {
+      "date": "2024-03-02T13:15:26",
+      "text": "doesn't spectrum env have mnemonic ? so it is possible with same node just new wallet generated elsewhere\nsame thing with rosen watcher\nwould be nice to see such standard so own node could be used with multiple dapps and without using node wallet whenever possible"
+    },
+    {
+      "date": "2024-03-02T13:19:45",
+      "text": "it is recommended to use your node to submit faster but no node wallet needed and can use public node"
+    },
+    {
+      "date": "2024-03-02T13:20:45",
+      "text": "will it be possible at some point to have this option ? (having seed in env/conf and using any node )"
+    },
+    {
+      "date": "2024-03-13T08:41:45",
+      "text": "."
+    },
+    {
+      "date": "2024-05-03T08:37:14",
+      "text": "5.0.21 after pc turned off"
+    },
+    {
+      "date": "2024-05-03T09:43:18",
+      "text": "didn't work , need to delete history/extra and reindex ?"
+    },
+    {
+      "date": "2024-05-14T15:01:54",
+      "text": "any specific reason why orcale core used node wallet rather than seed in .env or something similar ?"
+    },
+    {
+      "date": "2024-05-15T05:19:27",
+      "text": "sent"
+    },
+    {
+      "date": "2024-05-15T13:32:50",
+      "text": "it could be like a box , fill 1000 erg send ..."
+    },
+    {
+      "date": "2024-06-05T10:12:06",
+      "text": "@yee0576"
+    },
+    {
+      "date": "2024-06-09T15:16:09",
+      "text": "if i understand correcly from the recent dev update transaction and headers can be included in ergo \nso possibly if you add your address ergo can see you btc amount\nbut how will this work on defi you add collateral you get erg or whatever asset than you send btc to another wallet , than what happens you get free erg and btc part can't be upent by only you ?"
+    },
+    {
+      "date": "2024-06-12T09:32:47",
+      "text": "can i run 2 node on the same pc without vm ? how and what to change"
+    },
+    {
+      "date": "2024-06-12T09:44:56",
+      "text": "watcher ? 😅"
+    },
+    {
+      "date": "2024-06-12T09:45:39",
+      "text": "you know about the node ?"
+    },
+    {
+      "date": "2024-06-12T09:48:13",
+      "text": "running oracle on one and need another for a different thing since only 1 wallet allowed"
+    },
+    {
+      "date": "2024-06-12T09:50:21",
+      "text": "add this to second node only right ?"
+    },
+    {
+      "date": "2024-06-12T09:50:33",
+      "text": "main will still default to 53"
+    },
+    {
+      "date": "2024-06-12T09:55:19",
+      "text": "so this somewhere few days ago \nit's fast so will wait from 0"
+    },
+    {
+      "date": "2024-06-12T09:59:44",
+      "text": "my patience is out of this world"
+    },
+    {
+      "date": "2024-06-12T10:00:05",
+      "text": "thank you all"
+    },
+    {
+      "date": "2024-06-12T10:38:24",
+      "text": "both should be changed ? or keep 9030 and change 5x ?"
+    },
+    {
+      "date": "2024-06-12T10:38:38",
+      "text": "getting history being used by another node"
+    },
+    {
+      "date": "2024-06-12T10:56:28",
+      "text": "worked , it was issue with copying while node was running"
+    },
+    {
+      "date": "2024-06-12T13:19:27",
+      "text": "but bitcoin isn't a defi platform is it"
+    },
+    {
+      "date": "2024-06-12T13:20:49",
+      "text": "as i said many time 2 min is ok but many things could be done at wallets and dapps level \nfrom fixing chained transaction in mobile wallet to be able to see unconfirmed balance in wallet/dapps so you can trade and not wait for the 2 min block islf you are lucky and get 2 minutes"
+    },
+    {
+      "date": "2024-06-12T13:21:31",
+      "text": "well people aren't even using the chain if you remove bot from spectrum you barely can see traders ....."
+    },
+    {
+      "date": "2024-06-12T13:22:00",
+      "text": "so l2 / side chain doesn't make sense at this point"
+    },
+    {
+      "date": "2024-06-12T13:43:40",
+      "text": "so like deposit 100 erg but you can trade 50 ? than 25 ...."
+    },
+    {
+      "date": "2024-06-12T13:46:30",
+      "text": "isn't that what c8 did ? you need to lock to be traded ?"
+    },
+    {
+      "date": "2024-06-12T15:32:10",
+      "text": "would be nice in the future to have a popup message for each block on what it can do"
+    },
+    {
+      "date": "2024-06-16T03:03:33",
+      "text": "restored seed in node now checking it shows different address , deleted wallet folder restored again and it show another different address"
+    },
+    {
+      "date": "2024-06-16T03:04:10",
+      "text": "i did"
+    },
+    {
+      "date": "2024-06-16T03:04:42",
+      "text": "didn't work"
+    },
+    {
+      "date": "2024-06-16T03:05:25",
+      "text": "address was changed on it's own it was correct than poof"
+    },
+    {
+      "date": "2024-06-16T03:22:14",
+      "text": "i don't have mnemonic only normal wallet password"
+    },
+    {
+      "date": "2024-06-16T03:31:01",
+      "text": "5.0.21"
+    },
+    {
+      "date": "2024-06-16T03:31:19",
+      "text": "yes mnemonic pass skipped skipped"
+    },
+    {
+      "date": "2024-06-16T03:34:00",
+      "text": "i had 1 node copied it deleted wallet folder and created a new wallet, than the node broke copied wallet folder but was corrupted for some reason so restored wallet it was correct thsn now was checking it was a different address"
+    },
+    {
+      "date": "2024-06-16T03:34:34",
+      "text": "deleted wallet folder reatored again and another new address"
+    },
+    {
+      "date": "2024-06-16T03:35:14",
+      "text": "and when running the node the ui show wallet syncing even if i deleted wallet folder so no idea were it's getting the wallet to sync"
+    },
+    {
+      "date": "2024-06-16T05:07:15",
+      "text": "windows , jar"
+    },
+    {
+      "date": "2024-06-16T05:22:08",
+      "text": "done"
+    },
+    {
+      "date": "2024-06-16T16:22:26",
+      "text": "ERROR oracle_core - Failed to get datapoint with error: No datapoints from any source"
+    },
+    {
+      "date": "2024-06-19T05:07:36",
+      "text": "how to restore wallet for node if there is a current active one without deleting wallet folder ?"
+    },
+    {
+      "date": "2024-06-19T05:29:16",
+      "text": "how to i do that is ui ?\ni saw restore in swagger will that remove the excisting one ?"
+    },
+    {
+      "date": "2024-06-19T06:04:55",
+      "text": "it's changing the address , had the issue few times so trying to see better way without waiting to rescan"
+    },
+    {
+      "date": "2024-06-19T06:48:52",
+      "text": "it always tries to rescan wallet after deleting the wallet folder"
+    },
+    {
+      "date": "2024-06-19T06:50:14",
+      "text": "and even with that the wallet address will change (kushti was looking into it)"
+    },
+    {
+      "date": "2024-06-19T06:51:01",
+      "text": "so just need the fastest way to restore it"
+    },
+    {
+      "date": "2024-06-19T07:04:53",
+      "text": "what this one do ?\nalso super weird that it's called restore and next to it create new wallet"
+    },
+    {
+      "date": "2024-06-19T08:28:11",
+      "text": "done , let's see if it stays with the same address 😘"
+    },
+    {
+      "date": "2024-06-20T11:02:18",
+      "text": "how is it possible that 2 node on pu get corrupted at the same time ?"
+    },
+    {
+      "date": "2024-06-20T11:02:25",
+      "text": "[oref-indexer-dispatcher-7] o.e.n.h.extra.ExtraIndexer - Started extra indexer at height 1290627 \n ERROR [ref-critical-dispatcher-5] scorex.db.StoreRegistry - Failed to initialize storage: org.fusesource.leveldbjni.internal.NativeDB$DBException: Corruption: 14 missing files; e.g.: C:\\.ergo\\state\\ldb_main/980946.ldb. Please check that directory C:/.ergo\\state\\ldb_main exists and is not used by some other active node"
+    },
+    {
+      "date": "2024-06-20T11:03:32",
+      "text": "i beleive so"
+    },
+    {
+      "date": "2024-06-20T11:03:35",
+      "text": "INFO  [oref-indexer-dispatcher-8] o.e.n.h.extra.ExtraIndexer - Started extra indexer at height 1290627 \n ERROR [ref-critical-dispatcher-6] scorex.db.StoreRegistry - Failed to initialize storage: org.fusesource.leveldbjni.internal.NativeDB$DBException: Corruption: 16 missing files; e.g.: D:\\.ergo\\state\\ldb_main/991975.ldb. Please check that directory D:.ergo\\state\\ldb_main exists and is not used by some other active node"
+    },
+    {
+      "date": "2024-06-20T11:06:31",
+      "text": "anyway to fix it ? other than rescan"
+    },
+    {
+      "date": "2024-06-20T11:11:11",
+      "text": "better than waiting 2 days for rescan"
+    },
+    {
+      "date": "2024-06-20T11:11:25",
+      "text": "will have to keep a rar as a backup"
+    },
+    {
+      "date": "2024-06-20T13:41:45",
+      "text": "never tried this kind of thing before , those file i need to edit in the jar file ?"
+    },
+    {
+      "date": "2024-06-20T13:43:23",
+      "text": "yes please , thank you"
+    },
+    {
+      "date": "2024-06-21T15:54:46",
+      "text": "anyone know a hosting service to deploy multiple nodes and get paied in crypto ?"
+    },
+    {
+      "date": "2024-06-21T16:13:37",
+      "text": "thanks"
+    },
+    {
+      "date": "2024-06-21T16:15:50",
+      "text": "how many cpu core you think i need for 2 nodes ?"
+    },
+    {
+      "date": "2024-06-22T01:08:47",
+      "text": "i was running 2 on 2012 i7 4 core"
+    },
+    {
+      "date": "2024-06-22T01:09:07",
+      "text": "node broke again 😭\nwhen rockdb"
+    },
+    {
+      "date": "2024-06-22T05:14:24",
+      "text": "yes power outage\nwindows x64"
+    },
+    {
+      "date": "2024-06-22T06:03:20",
+      "text": "delete all .ergo ?"
+    },
+    {
+      "date": "2024-06-24T02:41:10",
+      "text": "ERROR oracle_core - error getting live epoch state: pool box not found\nWARN oracle_core::state - No oracle pool found, needs bootstrap or wait for bootstrap txs to be on-chain\nERROR oracle_core - error: pool box not found"
+    },
+    {
+      "date": "2024-06-24T02:41:55",
+      "text": "did a manual rescan from 1.2 M \nshould be from 0 or something else happened ?"
+    },
+    {
+      "date": "2024-06-24T02:43:14",
+      "text": "thank you"
+    },
+    {
+      "date": "2024-06-24T03:24:01",
+      "text": "same issue"
+    },
+    {
+      "date": "2024-06-24T03:24:27",
+      "text": "also printing reward show no datapoint box exist"
+    },
+    {
+      "date": "2024-06-24T03:25:27",
+      "text": "yes"
+    },
+    {
+      "date": "2024-06-26T04:16:14",
+      "text": "this is the best for all user"
+    },
+    {
+      "date": "2024-06-26T04:27:34",
+      "text": "great idea"
+    },
+    {
+      "date": "2024-06-26T04:27:52",
+      "text": "ptsd from node ui 😅"
+    },
+    {
+      "date": "2024-06-26T05:28:14",
+      "text": "213 is down"
+    },
+    {
+      "date": "2024-06-26T07:57:09",
+      "text": "it's up now"
+    },
+    {
+      "date": "2024-06-27T13:31:31",
+      "text": "isn't the block 8mb ? so 5.7gb daily ?"
+    },
+    {
+      "date": "2024-06-27T13:32:18",
+      "text": "also miner prefer fee per size so need to pay huge miner fee"
+    },
+    {
+      "date": "2024-07-04T13:27:48",
+      "text": "any update on yours ?"
+    },
+    {
+      "date": "2024-07-04T14:21:21",
+      "text": "is it possible to move usd oracle to 2.0 and update sigmausd contract to have a fee for buyback ?"
+    },
+    {
+      "date": "2024-07-24T11:44:34",
+      "text": "are they nft ? can add royalties ?"
+    },
+    {
+      "date": "2024-08-06T05:08:19",
+      "text": "1- safew import doesn't work with huge transaction amount usually\n2- you can try mobile wallet add the address as read only and you can import ( you have to scroll to the date you want could be a pain )"
+    },
+    {
+      "date": "2024-08-10T12:17:55",
+      "text": "optimize wallet ?"
+    },
+    {
+      "date": "2024-08-14T06:43:42",
+      "text": "in 1 hour 15 min"
+    },
+    {
+      "date": "2024-08-20T04:04:49",
+      "text": "does this has to do with the fact that if a cex require 10 confirmation you only receive after 11 confirmation in explorer ?\nso now 10 explorer conf. should receive in cex ?"
+    },
+    {
+      "date": "2024-08-30T05:32:20",
+      "text": "what causes the node ui not loading ? and needing to restart"
+    },
+    {
+      "date": "2024-08-30T07:39:55",
+      "text": "chain ok ?"
+    },
+    {
+      "date": "2024-08-30T07:42:00",
+      "text": "interacting with gluon can't see transaction on explorer than poof it's all there"
+    },
+    {
+      "date": "2024-08-30T07:42:29",
+      "text": "so showing only when confirmed"
+    },
+    {
+      "date": "2024-08-30T07:46:49",
+      "text": "working , thanks"
+    },
+    {
+      "date": "2024-08-30T07:47:04",
+      "text": "when ergexplorer on go 😁"
+    },
+    {
+      "date": "2024-08-30T12:37:03",
+      "text": "yes"
+    },
+    {
+      "date": "2024-08-30T13:51:18",
+      "text": "can you also make a rockdb release ?"
+    },
+    {
+      "date": "2024-09-04T08:29:47",
+      "text": "can run rockdb release if it's ( run it to see if it break testing )"
+    },
+    {
+      "date": "2024-09-04T08:37:46",
+      "text": "indexer on , since i started using it had like 3-5 times ui doen't load\nand 2 crashes ( high probability it's ram issue )"
+    },
+    {
+      "date": "2024-09-04T08:38:24",
+      "text": "this one"
+    },
+    {
+      "date": "2024-09-09T08:35:03",
+      "text": "is there a settings to allow the node to send certain amount of utxo ? more than 100"
+    },
+    {
+      "date": "2024-09-09T08:42:05",
+      "text": "node wallet"
+    },
+    {
+      "date": "2024-09-09T08:57:46",
+      "text": "failed to find boxes to assemble a transaction for list (ergoboxcandidate(.......\n\nreason MaxInputsExceededError (xxx boxes exceed max inputs in transaction (100))"
+    },
+    {
+      "date": "2024-09-09T09:48:51",
+      "text": "same issue droped the amount a bit and it worked"
+    },
+    {
+      "date": "2024-09-09T09:49:18",
+      "text": "also weird that node doesn't have confirmation to do anything"
+    },
+    {
+      "date": "2024-09-18T02:04:39",
+      "text": "kushti \n1- 213 is down\n2- setting 213 as mobile wallet node show huge amount of $ for token value ( only this node afaik ) any idea why"
+    },
+    {
+      "date": "2024-09-18T02:53:55",
+      "text": "fixed"
+    },
+    {
+      "date": "2024-09-18T03:13:53",
+      "text": "yes it have a check for node explorer api"
+    },
+    {
+      "date": "2024-09-18T14:50:06",
+      "text": "there is a nautilus testnet version if that's what you're looking for\n\nhttps://github.com/nautls/nautilus-wallet/releases"
+    },
+    {
+      "date": "2024-09-20T01:42:23",
+      "text": "explorer showing blocks from like 12 hours ago\nappear than disappear"
+    },
+    {
+      "date": "2024-09-23T02:52:46",
+      "text": "Request header field too large \n\nwhen trying boxes/byaddress\nfor gluon contract"
+    },
+    {
+      "date": "2024-09-23T04:22:12",
+      "text": "dmed 👍🏻"
+    },
+    {
+      "date": "2024-09-24T04:34:17",
+      "text": "🚀 ErgoHack IX is Here! 🚀\nTheme: Advancing UI/UX Design & Mining Solutions on Ergo\n\nWe're excited to announce the next big event in the Ergo ecosystem—ErgoHack IX, where innovation meets blockchain! 🛠️ This is your chance to help shape the future of Ergo by designing cutting-edge mining solutions and improving UI/UX for a smoother, more user-friendly experience.\n\n📅 Date: October 25-31, 2024\n📍 Location: Ergo's Discord\n\n💻 Whether you're a blockchain developer, UI/UX designer, front-end engineer, mining enthusiast, or just passionate about the space, this hackathon is for you!\n\n🏆 Prizes:\n\n🥇1st Place: $5,000 in ERG + Feature on Ergo Blog + Exclusive AMA\n🥈2nd Place: $3,000 in ERG + Social Media Promotion + Swag Pack\n🥉3rd Place: $1,500 in ERG + Swag Pack\n\nSpecial awards for best UI/UX design, mining innovation, and community choice.\nDon't miss out— REGISTER NOW and check the full schedule here: ErgoHack IX 🔗\n\n#ErgoHack9"
+    },
+    {
+      "date": "2024-09-25T08:28:45",
+      "text": "idea #3 by paul\n\nonchain procedural nfts constructed from a bunch if tokens as pieces and a contract ?"
+    },
+    {
+      "date": "2024-09-25T08:28:45",
+      "text": "ErgoHack9\n\nIdea#5 by Pavel\n\nI'd like to see the visualisation of the memory pool for normal people. I'd like to know what is going to happen before it happens."
+    },
+    {
+      "date": "2024-09-25T08:28:45",
+      "text": "ErgoHack9\n\nIdea#7 by Armeanio\n\nFIMO launch tool would be cool to see.\nMaybe emission contract tool idk."
+    },
+    {
+      "date": "2024-10-02T08:47:36",
+      "text": "https://ift.tt/oOfuIZz"
+    },
+    {
+      "date": "2024-10-03T11:53:55",
+      "text": "mart.mewfinance.com\nskyharbor.io\nergoauctions.org"
+    },
+    {
+      "date": "2024-10-10T14:06:41",
+      "text": "need more ?"
+    },
+    {
+      "date": "2024-10-19T14:52:30",
+      "text": "45 GB indexed node"
+    },
+    {
+      "date": "2024-11-06T08:24:52",
+      "text": "moving sigusd to oracle 2.0 ?\non my end can run infra and do some test \nnot running testnet node at the moment will try to do it this weekend"
+    },
+    {
+      "date": "2024-11-06T09:59:02",
+      "text": "could you try to make it mnemonic based and not node wallet ?"
+    },
+    {
+      "date": "2024-11-07T04:04:39",
+      "text": "yeah having it on 2.0 will make it more sustainable \nsmall fee from sigusd\nsmall fee from other product (lile forecast ...)"
+    },
+    {
+      "date": "2024-11-07T04:05:10",
+      "text": "what is needed from testnet node \nnormal one or indexed ?"
+    },
+    {
+      "date": "2024-11-08T07:45:46",
+      "text": "syncing 👍🏻"
+    },
+    {
+      "date": "2024-11-08T13:20:44",
+      "text": "https://api.ergoplatform.com/api/v1/boxes/unspent/byTokenId/011d3364de07e5a26f0c4eef0852cddb387039a921b7154ef3cab22c6eda887f"
+    },
+    {
+      "date": "2024-11-08T13:23:50",
+      "text": "this one should be for sigusd price , no idea if it have other info"
+    },
+    {
+      "date": "2024-11-08T13:25:05",
+      "text": "contract : \n\nMUbV38YgqHy7XbsoXWF5z7EZm524Ybdwe5p9WDrbhruZRtehkRPT92imXer2eTkjwPDfboa1pR3zb3deVKVq3H7Xt98qcTqLuSBSbHb7izzo5jphEpcnqyKJ2xhmpNPVvmtbdJNdvdopPrHHDBbAGGeW7XYTQwEeoRfosXzcDtiGgw97b2aqjTsNFmZk7khBEQywjYfmoDc9nUCJMZ3vbSspnYo3LarLe55mh2Np8MNJqUN9APA6XkhZCrTTDRZb1B4krgFY1sVMswg2ceqguZRvC9pqt3tUUxmSnB24N6dowfVJKhLXwHPbrkHViBv1AKAJTmEaQW2DN1fRmD9ypXxZk8GXmYtxTtrj3BiunQ4qzUCu1eGzxSREjpkFSi2ATLSSDqUwxtRz639sHM6Lav4axoJNPCHbY8pvuBKUxgnGRex8LEGM8DeEJwaJCaoy8dBw9Lz49nq5mSsXLeoC4xpTUmp47Bh7GAZtwkaNreCu74m9rcZ8Di4w1cmdsiK1NWuDh9pJ2Bv7u3EfcurHFVqCkT3P86JUbKnXeNxCypfrWsFuYNKYqmjsix82g9vWcGMmAcu5nagxD4iET86iE2tMMfZZ5vqZNvntQswJyQqv2Wc6MTh4jQx1q2qJZCQe4QdEK63meTGbZNNKMctHQbp3gRkZYNrBtxQyVtNLR8xEY8zGp85GeQKbb37vqLXxRpGiigAdMe3XZA4hhYPmAAU5hpSMYaRAjtvvMT3bNiHRACGrfjvSsEG9G2zY5in2YWz5X9zXQLGTYRsQ4uNFkYoQRCBdjNxGv6R58Xq74zCgt19TxYZ87gPWxkXpWwTaHogG1eps8WXt8QzwJ9rVx6Vu9a5GjtcGsQxHovWmYixgBU8X9fPNJ9UQhYyAWbjtRSuVBtDAmoV1gCBEPwnYVP5GCGhCocbwoYhZkZjFZy6ws4uxVLid3FxuvhWvQrVEDYp7WRvGXbNdCbcSXnbeTrPMey1WPaXX"
+    },
+    {
+      "date": "2024-11-08T13:31:32",
+      "text": "what the rendervalue represent ?"
+    },
+    {
+      "date": "2024-11-08T13:35:36",
+      "text": "yeah i know for r4 but r5 is 13xxx"
+    },
+    {
+      "date": "2024-11-08T13:35:50",
+      "text": "few message above"
+    },
+    {
+      "date": "2024-11-09T05:37:58",
+      "text": "fully synced"
+    },
+    {
+      "date": "2024-11-15T12:46:41",
+      "text": "what does spam attempt and spampenalty mean in node logs ? what can cause it ?"
+    },
+    {
+      "date": "2024-11-15T12:53:16",
+      "text": "hmmmm seems died at some block couldn't go past it"
+    },
+    {
+      "date": "2024-11-15T12:54:37",
+      "text": "mainnet but it's my other node been turned off file replaced many times"
+    },
+    {
+      "date": "2024-11-15T12:59:33",
+      "text": "1391442\n\nhow can i know fork or main ?"
+    },
+    {
+      "date": "2024-11-15T13:01:57",
+      "text": "best block id \n1391443"
+    },
+    {
+      "date": "2024-11-15T13:09:57",
+      "text": "this one always start differrent from my main wallet\nshowing many lines\n java..... \nweirdly can't see them in log\n\nas for syncing no still nothing"
+    },
+    {
+      "date": "2024-11-15T22:44:48",
+      "text": "3WvjmwdM9Lupn7fXPMB2uojweHwQQiLzdLSo1XRo3tgVCoBfL4ny"
+    },
+    {
+      "date": "2024-11-23T14:41:36",
+      "text": "anything happened at block \n1402187"
+    },
+    {
+      "date": "2024-11-23T14:46:39",
+      "text": "can't yet apply persistent modifier....\nto history nt header with id \"id\" is not defined"
+    },
+    {
+      "date": "2024-11-23T14:50:49",
+      "text": "yes connection is good"
+    },
+    {
+      "date": "2024-11-23T14:55:47",
+      "text": "next one  1402188"
+    },
+    {
+      "date": "2024-11-23T15:01:56",
+      "text": "my bad, persistant is block 1402188\nis is not defined is 1402187"
+    },
+    {
+      "date": "2024-11-25T06:48:05",
+      "text": "don't have log handy now but i believe so yes\nhad a recent backup so up and running now"
+    },
+    {
+      "date": "2024-11-27T14:34:06",
+      "text": "@MGpai0 can you check lilium ergopay server please"
+    },
+    {
+      "date": "2024-11-27T22:57:51",
+      "text": "synced , height 1493090\nbut seems explorer is stuck since 20/11"
+    },
+    {
+      "date": "2024-11-28T01:58:16",
+      "text": "private will only use it for sigmabank update and turn it off if it isn't needed anymore"
+    },
+    {
+      "date": "2024-12-01T01:41:27",
+      "text": "moved recently to mgpai jar seems my address has changed \nlet me know what you need, when you what to start ..."
+    },
+    {
+      "date": "2024-12-01T01:46:40",
+      "text": "3Wvd1hML9DLxNJEbS1VuDuwgsZeNcyoBtyGqvheiQodFxpZBoz2b"
+    },
+    {
+      "date": "2024-12-03T00:31:41",
+      "text": "https://www.chatbase.co/chatbot-iframe/INAIfQ2ts4E6ykf4rseVu"
+    },
+    {
+      "date": "2024-12-03T00:32:05",
+      "text": "this one is trained for ergoscript also"
+    },
+    {
+      "date": "2024-12-03T12:36:07",
+      "text": "ergo{ ... node.nipopow.nipopowBootstrap = true\nnode.utxo.utxoBootstrap = true ... }"
+    },
+    {
+      "date": "2024-12-03T12:36:24",
+      "text": "the other one is digest"
+    },
+    {
+      "date": "2024-12-07T09:39:33",
+      "text": "higher fee can go to oracle + bank so rsv holder have incentive\ngluon doing the dynamic fee by checking how much transmite is being made could see same concept , high usd mint , rsv ...."
+    },
+    {
+      "date": "2024-12-16T16:24:53",
+      "text": "at your service anyday 🫡"
+    },
+    {
+      "date": "2024-12-19T16:11:38",
+      "text": "many talked about oracle 2.0 including me"
+    },
+    {
+      "date": "2024-12-19T16:12:13",
+      "text": "seems a good idea even more now"
+    },
+    {
+      "date": "2024-12-19T16:42:41",
+      "text": "yeah but since bank under upgrade why not ?\nsame as gort send few oracle token to participant /helper and sell few and create a pool ...."
+    },
+    {
+      "date": "2024-12-20T05:23:56",
+      "text": "probably will never do"
+    },
+    {
+      "date": "2024-12-20T10:23:38",
+      "text": "and here but noone is using any \n\nhttps://github.com/nautls/ergo-meta/tree/master/metadata/contracts"
+    },
+    {
+      "date": "2024-12-20T11:12:49",
+      "text": "yeah , the point is someone stated it than pooff"
+    },
+    {
+      "date": "2024-12-20T14:37:30",
+      "text": "got peer connection destroyed than node shutdown , any idea ?"
+    },
+    {
+      "date": "2024-12-20T14:53:43",
+      "text": "5.0.21-69-d3c.....\nrockdb you sent me"
+    },
+    {
+      "date": "2024-12-20T14:53:58",
+      "text": "will dm part of log"
+    },
+    {
+      "date": "2024-12-20T14:55:58",
+      "text": "ncaught error from thread [ergoref-akka.io.pinned-dispatcher-12]: Java heap space, shutting down JVM since 'akka.jvm-exit-on-fatal-error' is enabled for ActorSystem[ergoref]java.lang.OutOfMemoryError: Java heap space"
+    },
+    {
+      "date": "2024-12-20T23:11:29",
+      "text": "yes, much less than 4gb"
+    },
+    {
+      "date": "2024-12-21T04:30:36",
+      "text": "was using 256M than it crashed few weeks ago , using 512 now"
+    },
+    {
+      "date": "2024-12-21T08:19:58",
+      "text": "don't think it ever register tho, task manager shows 3xx mb but seems node will eventially die after couple days even woth 512"
+    },
+    {
+      "date": "2024-12-21T08:20:25",
+      "text": "full node indexed btw , after fully synced"
+    },
+    {
+      "date": "2024-12-22T02:51:25",
+      "text": "kushti is my testnet node needed anymore ?"
+    },
+    {
+      "date": "2024-12-23T00:44:02",
+      "text": "will keep it on them if something is to be needed"
+    },
+    {
+      "date": "2025-01-02T11:20:08",
+      "text": "i think arobsn was working/researching it can't find the message tho"
+    },
+    {
+      "date": "2025-01-02T11:22:33",
+      "text": "can make a reset period no ? \nno sign in 10 min and than you need password again"
+    },
+    {
+      "date": "2025-01-06T11:46:59",
+      "text": "working on my end"
+    },
+    {
+      "date": "2025-01-17T16:56:58",
+      "text": "yes node still running"
+    },
+    {
+      "date": "2025-01-23T09:16:16",
+      "text": "https://github.com/noob77777/ergo-randgen"
+    },
+    {
+      "date": "2025-01-23T09:19:00",
+      "text": "full video explaining\n\nhttps://www.youtube.com/watch?v=flJWESKXOug"
+    },
+    {
+      "date": "2025-01-29T08:17:18",
+      "text": "i think false"
+    },
+    {
+      "date": "2025-01-29T08:17:44",
+      "text": "as bank can also remove dexy only from lp to restore pegg"
+    },
+    {
+      "date": "2025-01-29T08:23:08",
+      "text": "extraction tx:\n\nhttps://testnet.ergoplatform.com/en/transactions/fd20078191c92ad03cecfd409c41478708fe1dfb2c71ff1f116bc3a54f8d6b04"
+    },
+    {
+      "date": "2025-03-05T13:03:06",
+      "text": "mr s once told me you need like a special setting\nthe node actually work with ergopay in dapp but doesn't send from the wallet p2p"
+    },
+    {
+      "date": "2025-03-06T08:16:46",
+      "text": "was testing abyss with fresh wallet most dapp couldn't connect on fresh wallet\ncould this be the same issue ?"
+    },
+    {
+      "date": "2025-03-13T02:20:18",
+      "text": "were you able to send to normal address ?"
+    },
+    {
+      "date": "2025-03-13T08:47:45",
+      "text": "ergo node require 25gb of free storage \nneed to be changed no ?"
+    },
+    {
+      "date": "2025-03-14T16:44:09",
+      "text": "running another node on the same port ?"
+    },
+    {
+      "date": "2025-03-17T08:09:06",
+      "text": "is there an issue with testnet ? \nalso drop menu to switch from mainnet to testnet on explorer is gone"
+    },
+    {
+      "date": "2025-03-18T09:30:01",
+      "text": "isn't keystone done/taken for pgr ?"
+    },
+    {
+      "date": "2025-03-19T06:37:43",
+      "text": "it doesn't even support top blockchain in the first place"
+    },
+    {
+      "date": "2025-03-19T06:38:02",
+      "text": "can use it for rserg on eth tho"
+    },
+    {
+      "date": "2025-05-06T12:06:48",
+      "text": "is it possible to integrate ergo to wallet connect ?"
+    },
+    {
+      "date": "2025-05-06T12:36:45",
+      "text": "https://walletconnect.network/"
+    },
+    {
+      "date": "2025-05-06T12:36:52",
+      "text": "\"ergopay\""
+    },
+    {
+      "date": "2025-05-06T12:36:59",
+      "text": "most used in evm ...."
+    },
+    {
+      "date": "2025-05-06T13:28:37",
+      "text": "would be a nice standard to use if possible rather than each app have their own ergopay server"
+    },
+    {
+      "date": "2025-05-07T09:04:25",
+      "text": "is there a reason why all rockdb node are under 5.1.0 ?"
+    },
+    {
+      "date": "2025-05-07T09:07:50",
+      "text": "no no i mean 5.1.1 , 5.1.2 and 5.1.3 node name is still 5.1.0"
+    },
+    {
+      "date": "2025-05-07T09:10:09",
+      "text": "was checking ergonodes.net to see how many moved to new version but you can't really know with 5.1"
+    },
+    {
+      "date": "2025-07-02T08:36:41",
+      "text": "add me also please ( if it is a new group and not the old one )"
+    },
+    {
+      "date": "2025-07-02T09:41:38",
+      "text": "deployed to gluon.gold also"
+    },
+    {
+      "date": "2025-07-16T08:55:38",
+      "text": "Lithos Update: \n \n- Finished storage rent contract, now in testing phase\n- Resumed testing Fraud proof NISP contracts\n- Small changes to diff calculations as test NISP-based work calculations on different hashrates and settings\n- Deployed “holding contract” (initial part of rollup) on devnet successfully, will be moving over to public 6.0 testnet later this week\n\nMachina Finance Update:\n\n- AVL Tree serializations are done, slowly going over some operation examples, so it can be implemented on FleetSDK\n- community review of machina contracts, exploring ways for a quick bootstrap. \n- working on machina real-time order aggregation backend in rust\n\nRosen Bridge Update:\n\n- Deployed the Doge Bridge\n- Working on Runes Integration\n- Investigating Monero Integration Framework"
+    },
+    {
+      "date": "2025-07-17T04:57:05",
+      "text": "my testnet stuck at height 801365 any ideas ?\n6.1.0"
+    },
+    {
+      "date": "2025-07-17T04:58:40",
+      "text": "Failed to parse modifier with declared id 070d899ddf3e99351d81b6c49413024c2401f072b5a071e5f2ec1dba486712af from ConnectedPeer"
+    },
+    {
+      "date": "2025-07-28T14:53:11",
+      "text": "isn't it better to have a repo in github.com/ergoplatform for all metadata, token name, logo....\nso all dapp/wallet can use it rather than each one create a solution"
+    },
+    {
+      "date": "2025-07-29T14:22:29",
+      "text": "ergo {\n    node {\n        mining = false\n    }\n}\nscorex {\n  network {\n    knownPeers = [\"108.6.14.230:9020\",\"108.6.14.230:9022\",\"5.161.73.235:9022\",\"176.9.15.237:9021\",\"195.201.82.115:9021\",\"37.27.85.107:9022\",\"213.239.193.208:9022\",\"135.181.89.19:9022\"]\n    peerDiscovery = true\n  }\n}"
+    },
+    {
+      "date": "2025-07-29T14:22:42",
+      "text": "java -jar -Xmx2G ergo-6.1.0.jar --testnet -c ergo.conf"
+    },
+    {
+      "date": "2025-07-29T14:23:36",
+      "text": "change for the version you using"
+    },
+    {
+      "date": "2025-07-29T14:26:21",
+      "text": "there was an issue on my end no idea if it got fixed and merged yet"
+    },
+    {
+      "date": "2025-07-29T14:30:11",
+      "text": "i used 512M 😅"
+    },
+    {
+      "date": "2025-07-30T09:21:04",
+      "text": "Update for Lithos: @LithosProtocol \n\n- Finished testing for all fraud proofs contracts\n- Continued work on difficulty contract\n- Changes to stratum to help with certain mining softwares (TRM)\n\nDifficulty contract is the last one to make.\n\nThen all ergoscript work is done. After that more off-chain code and then…\n\nWe can start up the testnet.🍻"
+    },
+    {
+      "date": "2025-07-30T09:22:18",
+      "text": "[vorujack] Minotaur version 3.0.0 released\nMajor Changes\n- Update multi-sig communication data format\n\nMinor Changes\n- Extract utils package\n- Move types to new package\n- AirDrop dapp added\n- add createChangeBox to all dapps\n\nPatch Changes\n- Fix scanning qrcode for multi-sig transaction\n- Fix address validation and amount validation\n- Ensure amount be lower or equal than maximum available sigUSD/sigRSV\n- Fix address book element modification bug\n- Implement error feedback for failed transaction generation\n- Validate addresses before inserting a new wallet\n- Fix a bug which cause all wallet disappeared when new wallet restored\n- Validate the available amounts of Erg and tokens before transaction\n- Fix delete wallet bug\n- Ensure implementorFee min value ≥ wasm.BoxValue.SAFE_USER_MIN\n- Updated dependencies\n- @minotaur-ergo/utils@1.1.0\n- @minotaur-ergo/icons@1.2.0\n- @minotaur-ergo/types@1.1.0\n\nbe careful For multi-sig transaction this version is NOT compatible with older version."
+    },
+    {
+      "date": "2025-07-30T09:22:18",
+      "text": "[vorujack] Fixed in v3.0.1\nPlease use this version.\nv3.0.0 removed because white screen problem"
+    },
+    {
+      "date": "2025-08-06T08:06:43",
+      "text": "Update for Lithos: @LithosProtocol \n\n- Finished difficulty contract\n\n- Completed off-chain work for multiple fraud proof contracts \n\n- Additional changes made to stratum to help TRM users\n\n- Made stratum performance more efficient by only keeping track of shares with high enough difficulty for use in NISPs.\n\n- Shares are now stored when the stratum shuts down in case mining is interrupted for a brief moment."
+    },
+    {
+      "date": "2025-08-11T08:02:36",
+      "text": "will do in couple days"
+    },
+    {
+      "date": "2025-08-13T02:10:09",
+      "text": "all good synced"
+    },
+    {
+      "date": "2025-08-13T08:32:08",
+      "text": "Update LithosProtocol \n\n- Lots of work on off-chain code for fraud proof contracts, as well as diff contract\n\n- Cleaned up and changed some stratum code to make running it more efficient / less resource intensive\n\n- Small changes to many contracts involving documentation, comments, var names, etc. \n\nGetting things ready for testnet"
+    },
+    {
+      "date": "2025-08-14T05:17:37",
+      "text": "available on metamask"
+    },
+    {
+      "date": "2025-08-18T04:56:57",
+      "text": "ergodex branch not dev"
+    },
+    {
+      "date": "2025-08-27T11:58:40",
+      "text": "Update @LithosProtocol Working to bring share proofs to the mining space.\n\n- Finished all Off-chain code for simple fraud proofs (basic errors like incorrect data formats, failure to post difficulty on-chain, or not posting enough shares)\n- Finished unit tests for these same fraud proof contracts\n- Continued working on unit tests + off-chain code for more complex fraud proof contracts, diff contract, and rollup contracts.\n- Fixed stratum bug that was frequently disconnecting mining software\n\nMain focus right now is finishing all the off-chain code, for which I'd say we're about 75% of the way there. I've finished off-chain code for about 15 fraud proof contracts, there's around 10 more but these ones are more complex to make."
+    },
+    {
+      "date": "2025-08-27T11:59:06",
+      "text": "MindHealer project update: \n\n- Added notifications on various SC actions\n- Improved expert's service creation\n- Fixed minor bugs"
+    },
+    {
+      "date": "2025-09-11T03:00:03",
+      "text": "will wallet be able to update (balance, transaction ....) as fast as sb ?"
+    },
+    {
+      "date": "2025-09-17T11:39:33",
+      "text": "gluon.gold\n\n* various ui improvement for better desktop and mobile experience \n* 14 days transmute volume chart added \n* swap checking restriction is 75% removed ( pending fussion )"
+    },
+    {
+      "date": "2025-09-24T15:04:51",
+      "text": "dexyusd"
+    },
+    {
+      "date": "2025-09-24T15:05:08",
+      "text": "It's a realtime and mempool-aware box streamer on top of the indexed node, it was initially designed for Machina Finance, but it will be generic enough to be used by any dApp and even to replace graphql on Nautilus"
+    },
+    {
+      "date": "2025-10-12T02:03:41",
+      "text": "max working , different buffer from wallet to wallet couple so from rounding error or so\n(1 wallet still kept 0.001xx and another (larger balance) 0.005xxx)\n\nwallet restoration still failing, and listener well i believe still as previous as after testing i noticed you just needed to wait for api or something to fetch the update"
+    },
+    {
+      "date": "2025-10-12T05:25:10",
+      "text": "just to clarify issue 50\ntested with and without it and both had to wait for like 1 minute\ncan't really confirm it was fixed"
+    },
+    {
+      "date": "2025-10-22T11:20:01",
+      "text": "Lithos Updates (@LithosProtocol for last 2 weeks):\n\n- Additional performance increases when running stratum on same machine as miner\n\n- Fixed multiple bugs related to using Rigel miner on the Lithos client stratum\n\n- Took some initial steps to get a Lithos client running on HiveOS. Will likely be finished post-testnet launch\n\n- Lots of styling and layout improvements to HTML panel UI\n\n- Cleaned up multiple contracts and related off-chain code.\n\n- Made some changes to contract checking proof of inclusion of collateral transaction in block header."
+    },
+    {
+      "date": "2025-10-30T03:30:55",
+      "text": "Lithos Updates: @LithosProtocol \n\n- Finished HTML UI\n- Cleaned up many contracts along with adding better documentation\n- Started refactoring codebase to make things a bit more organized\n- Added scripts to launch initial utxos onto testnet\n- Made some stratum fixes for rigel and NBminer when mining on low-difficulty (shares only accepted on stratum if they count as super-shares on Lithos)\n\nAppkit:\n\n- Adding tests for AppKit 6.0"
+    },
+    {
+      "date": "2025-11-07T11:14:21",
+      "text": "https://github.com/rosen-bridge/rosen-sdk"
+    },
+    {
+      "date": "2025-11-07T11:34:08",
+      "text": "not all chain missing evm now"
+    },
+    {
+      "date": "2025-11-10T11:48:05",
+      "text": "action/workflow need update ?"
+    },
+    {
+      "date": "2025-11-12T15:02:24",
+      "text": "is there any special env or config to explorer frontend ?\ncouple weeks ago i added usd oracle v2 but had error running it on vercel"
+    },
+    {
+      "date": "2025-11-24T13:02:30",
+      "text": "https://github.com/ErgoDevs/Ergo-Bounties"
+    },
+    {
+      "date": "2025-11-25T11:59:27",
+      "text": "reemission"
+    },
+    {
+      "date": "2025-11-25T12:01:13",
+      "text": "should be minus reemission and emission proxy if i am not mistaken"
+    },
+    {
+      "date": "2025-11-26T13:35:17",
+      "text": "gluon.gold\n- Wallet connection after refresh is fixed now\n- Multiple ui bug were fixed\n- A lot of useful stats were added also\n\ncruxfinance.io\n- Added Trending, gainers and loser (1D) to token page , waiting for review"
+    },
+    {
+      "date": "2025-12-02T06:10:33",
+      "text": "anyone have a link for gold oracle status ?\nreqlezz one is down"
+    },
+    {
+      "date": "2025-12-02T12:57:51",
+      "text": "@kushti_ru Usd Oracle V2 added\n\nhttps://github.com/ergoplatform/explorer-frontend/pull/199"
+    },
+    {
+      "date": "2025-12-02T13:13:42",
+      "text": "@LuivatraEP Loading and more logo\n\nhttps://github.com/cruxfinance/crux-frontend/pull/98"
+    },
+    {
+      "date": "2025-12-03T13:25:11",
+      "text": "*explorer-frontend:\nAdded USD oracle V2 pending review and merge https://github.com/ergoplatform/explorer-frontend/pull/199\n\n*nautilus-wallet:\nUSE, CLB And DORT Added and merged \nhttps://github.com/nautls/nautilus-wallet/pull/324\n\n*Cruxfinance:\nAdded trending , gainers and loser boxes \nhttps://github.com/cruxfinance/crux-frontend/pull/97\nfew bug fixes \nand added multiple logo\nhttps://github.com/cruxfinance/crux-frontend/pull/98\n\n*ergexplorer\nAdded all dexyusd-use contract to addressbook\n\nas you can see many token logos added left and right which bring back the talk to have a single repo that should be under ergoplatform and can be implemented in all wallets and dapps. in talk with couple devs to see what could be the best solution"
+    },
+    {
+      "date": "2025-12-03T13:37:18",
+      "text": "thank you\nwaiting for boris to sort ergohost ( gold oracle link is down) if wasn't sorted in couple days i can ask @Pgr456 or someone to expose same as usd v2\nthan will push the changes"
+    },
+    {
+      "date": "2025-12-13T08:06:03",
+      "text": "https://ergexplorer.com/addressbook"
+    },
+    {
+      "date": "2025-12-21T02:04:32",
+      "text": "also apple lost a lawsuit againt alt stores \nso this was built, could be nice access to iphone users \n\nhttps://altstore.io/"
+    },
+    {
+      "date": "2025-12-29T06:19:17",
+      "text": "this could be reviewed also\n\nhttps://github.com/ergoplatform/explorer-frontend/pull/199"
+    },
+    {
+      "date": "2025-12-29T06:21:12",
+      "text": "someone made pr for the same issue with a fake url ( pr 200 ) for some reason and missing also 1 file change"
+    },
+    {
+      "date": "2026-01-07T15:27:37",
+      "text": "i think i got the defilama part \nwill send it to couple devs to review first"
+    },
+    {
+      "date": "2026-01-07T15:38:05",
+      "text": "need to add use connector to defilama, already did that but  i need someone to review \nnow will show 0 value"
+    },
+    {
+      "date": "2026-01-07T15:53:21",
+      "text": "so basically this is ergodex price file\n\nhttps://github.com/DefiLlama/defillama-server/blob/master/coins/src/adapters/markets/ergopad.ts\n\nused it to create the dexyprotocol one with both gold and use pools\n\nhttps://github.com/ErgoTester/defillama-server/blob/Add-DexyProtocol/coins/src/adapters/markets/dexyProtocol/dexy.ts"
+    },
+    {
+      "date": "2026-01-07T15:54:30",
+      "text": "than we submit dexygold and use each on their own so both can be visible under ergo page"
+    },
+    {
+      "date": "2026-01-07T16:00:09",
+      "text": "https://github.com/ErgoTester/DefiLlama-Adapters/blob/Add-USE/projects/use/index.js\n\nhttps://github.com/ErgoTester/DefiLlama-Adapters/blob/Add-DexyGold/projects/dexygold/index.js"
+    },
+    {
+      "date": "2026-01-22T07:45:06",
+      "text": "made this so nautilus can fetch use and dexygold prices\nif you have a moment to review so if all good i can open a pr \n\nhttps://github.com/ErgoTester/nautilus-wallet/blob/Mobile/src/chains/ergo/services/dexyService.ts"
+    },
+    {
+      "date": "2026-02-02T06:10:46",
+      "text": "https://github.com/ergoplatform/explorer-frontend/pull/199 \n🫣🫣🫣"
+    },
+    {
+      "date": "2026-02-04T15:07:54",
+      "text": "who mantain sigmaverse \nwith dozen of app created those should be added so people can see them\ni can update/add them in my free time \n@kushti_ru can you add me to the repo ?"
+    },
+    {
+      "date": "2026-02-06T13:04:19",
+      "text": "ok so if you can check if all good we can than resume the work on it , if no degens world might have something similar"
+    }
+  ]
+}

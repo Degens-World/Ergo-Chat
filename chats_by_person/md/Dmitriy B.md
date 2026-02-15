@@ -1,0 +1,56 @@
+# Dmitriy B.
+
+**Total messages:** 8
+
+---
+
+**2025-04-02T06:38:53**
+
+Hi everyone, I'm writing some offchain code and I'm having a hard time understanding how it should work.
+
+---
+
+**2025-04-02T06:40:16**
+
+Here's this part in SC:
+
+---
+
+**2025-04-02T06:40:47**
+
+and also:
+
+---
+
+**2025-04-02T06:41:47**
+
+If you can recommend any docs on how to build offchain, or any other recommendations, I'd be more then happy
+
+---
+
+**2025-04-07T13:52:44**
+
+What's the best way to verify that transaction is onchain? My first approach was to extract singleton like this: signedTransaction?.outputs?.at(0)?.assets?.at(0)?.tokenId And save it to DB, but today when I was testing signed transaction didn't go through twice! What approach would you recommend?
+
+---
+
+**2025-04-07T14:09:58**
+
+Thanks! So, there should be some blockchain listener that will notify once transaction with the id / singleton is added? And how long is enough (1 min / 5 min)? At what point would it be appropriate to tell user that his tx failed?
+
+---
+
+**2025-10-15T08:32:57**
+
+Mindhealer
+* Group Video calls SC for seminars and lectures
+* Integrating coinRemitter to accept payments with various coins
+
+---
+
+**2025-10-21T09:55:55**
+
+I don't know if it's doable, but you can think of adding some old school game (because they already have their fans) and add blockchain tokenomics to it.
+
+---
+

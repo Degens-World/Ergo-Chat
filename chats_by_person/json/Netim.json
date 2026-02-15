@@ -1,0 +1,142 @@
+{
+  "sender": "Netim",
+  "total_messages": 34,
+  "messages": [
+    {
+      "date": "2025-10-29T13:28:11",
+      "text": "I'm ready to join"
+    },
+    {
+      "date": "2025-12-28T21:41:37",
+      "text": "Yep"
+    },
+    {
+      "date": "2026-01-29T21:36:31",
+      "text": "Great. I'm ready."
+    },
+    {
+      "date": "2026-01-30T07:07:27",
+      "text": "http://194.135.83.36:9052/panel/\n\ni connected"
+    },
+    {
+      "date": "2026-01-30T07:59:41",
+      "text": "I use the config like a Patato"
+    },
+    {
+      "date": "2026-01-30T08:03:08",
+      "text": "i see two connected peers"
+    },
+    {
+      "date": "2026-01-30T08:35:13",
+      "text": "I'll check. the last one collected a jar file in December"
+    },
+    {
+      "date": "2026-01-30T08:36:45",
+      "text": "Okay"
+    },
+    {
+      "date": "2026-01-30T08:37:01",
+      "text": "Today evening"
+    },
+    {
+      "date": "2026-01-30T12:31:15",
+      "text": "Current height\n\n79731"
+    },
+    {
+      "date": "2026-01-30T12:32:51",
+      "text": "just like patato"
+    },
+    {
+      "date": "2026-01-30T12:55:39",
+      "text": "deleted the .ergo folder and started synchronization again\n\nhttp://194.135.83.36:9028/panel/"
+    },
+    {
+      "date": "2026-01-30T13:04:20",
+      "text": "syncing now"
+    },
+    {
+      "date": "2026-01-30T13:08:07",
+      "text": "blockInterval = 30s ?"
+    },
+    {
+      "date": "2026-01-30T13:23:17",
+      "text": "Current height\n\n79971"
+    },
+    {
+      "date": "2026-01-30T13:30:08",
+      "text": "I can send logs after the last launch."
+    },
+    {
+      "date": "2026-01-30T13:33:29",
+      "text": "No. I deleted those logs. I'm waiting for a new stuck"
+    },
+    {
+      "date": "2026-01-30T22:16:26",
+      "text": "Stuck height 80365"
+    },
+    {
+      "date": "2026-01-31T03:12:09",
+      "text": "Okay. I'm ready for the relaunch."
+    },
+    {
+      "date": "2026-02-02T01:18:15",
+      "text": "Hmm \nI'm synced \nBi= 60s"
+    },
+    {
+      "date": "2026-02-02T01:18:21",
+      "text": "http://194.135.83.36:9028/panel/"
+    },
+    {
+      "date": "2026-02-02T04:34:56",
+      "text": "What are we going to test next?"
+    },
+    {
+      "date": "2026-02-02T04:42:44",
+      "text": "Mining turn on"
+    },
+    {
+      "date": "2026-02-02T04:56:09",
+      "text": "Waiting for new instructions for the next tests"
+    },
+    {
+      "date": "2026-02-02T05:00:51",
+      "text": "Okay"
+    },
+    {
+      "date": "2026-02-03T10:53:12",
+      "text": "i think it's a physical problem 😉"
+    },
+    {
+      "date": "2026-02-03T23:52:28",
+      "text": "https://drive.google.com/file/d/1LZFG0l7-R11ru-UVzPz2737LJ3GWJxJb/view?usp=drivesdk"
+    },
+    {
+      "date": "2026-02-04T21:48:51",
+      "text": "I'll check"
+    },
+    {
+      "date": "2026-02-04T22:08:40",
+      "text": "i got this error : a.io.TcpIncomingConnection - Closing connection due to IO error java.io.IOException: Broken pipe"
+    },
+    {
+      "date": "2026-02-04T22:12:06",
+      "text": "node restarted"
+    },
+    {
+      "date": "2026-02-05T09:09:19",
+      "text": "my node stuck at 5812 \nI deleted ergo folder and run sync again"
+    },
+    {
+      "date": "2026-02-05T09:13:59",
+      "text": "And stuck again :("
+    },
+    {
+      "date": "2026-02-05T10:45:44",
+      "text": "https://drive.google.com/file/d/1BsxxQB5syBUu0zUk3R9MGb2RmFxY6n5u/view?usp=drivesdk"
+    },
+    {
+      "date": "2026-02-06T08:10:48",
+      "text": "Ohh sorry"
+    }
+  ]
+}

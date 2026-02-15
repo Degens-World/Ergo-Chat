@@ -1,0 +1,18 @@
+# Orhan
+
+**Total messages:** 2
+
+---
+
+**2022-01-03T19:43:24**
+
+i saw some blockchain incentivized ipfs projects, are those reliable to host docs, dapp front-end or nfts? there are ones mineable with ram(filecoin) or cpu(arweave) or asic(siatech) but i don't know how it works
+
+---
+
+**2025-07-14T12:47:38**
+
+https://x.com/root7Z/status/1944810335694737870
+
+---
+

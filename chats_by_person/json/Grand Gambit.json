@@ -1,0 +1,150 @@
+{
+  "sender": "Grand Gambit",
+  "total_messages": 36,
+  "messages": [
+    {
+      "date": "2022-11-13T14:36:07",
+      "text": "Hello there I am a frontend dev, and I am trying to do a very simple coinflip game and although I ve managed to make the wallet connection thanks to some open source projects"
+    },
+    {
+      "date": "2022-11-13T14:36:50",
+      "text": "I am finding it hard to find some guidance on how to a backend that takes care to receive a payment of 1 ERG and then return 2 ERGs in case the user won"
+    },
+    {
+      "date": "2022-11-13T14:37:18",
+      "text": "If someone could guide me 🙏"
+    },
+    {
+      "date": "2022-11-13T14:45:43",
+      "text": "This is what I ve done so far hahaha as I said a very simple game lol just for learning"
+    },
+    {
+      "date": "2022-11-13T18:34:06",
+      "text": "Well obviously from the backend I build and the ergs I put there lol"
+    },
+    {
+      "date": "2022-11-13T18:35:10",
+      "text": "Then no way to keep playing"
+    },
+    {
+      "date": "2022-11-13T18:36:08",
+      "text": "tf"
+    },
+    {
+      "date": "2022-11-13T18:38:12",
+      "text": "I thought u were doing basic questions trying to detect if I was just trying to do a scammy game hahah"
+    },
+    {
+      "date": "2022-11-13T18:39:10",
+      "text": "Yea no idea about design, I just like frontend dev quite a lot, and everytime I try to do backend I remember why I like frontend so much"
+    },
+    {
+      "date": "2022-11-13T18:43:47",
+      "text": "Sure I love frontend"
+    },
+    {
+      "date": "2022-11-14T01:10:58",
+      "text": "Frameworks"
+    },
+    {
+      "date": "2022-11-14T01:11:09",
+      "text": "React and vue the most"
+    },
+    {
+      "date": "2022-11-14T01:11:17",
+      "text": "Sure"
+    },
+    {
+      "date": "2022-11-14T01:12:29",
+      "text": "Yeah I should be capable of helping out if it is Next"
+    },
+    {
+      "date": "2022-11-14T01:29:23",
+      "text": "No I am not"
+    },
+    {
+      "date": "2022-11-14T01:33:40",
+      "text": "Can you send the link invite?"
+    },
+    {
+      "date": "2022-11-14T02:17:04",
+      "text": "Okay found it"
+    },
+    {
+      "date": "2022-11-14T02:18:10",
+      "text": "Hey Noah however if you know of a ergoscript dev that is willing to join/help out such a small and simple project like this ergflip please let me know"
+    },
+    {
+      "date": "2022-11-14T02:39:38",
+      "text": "👀"
+    },
+    {
+      "date": "2022-11-14T02:51:42",
+      "text": "Yea correct that would be the plan"
+    },
+    {
+      "date": "2022-11-14T06:16:00",
+      "text": "Any guide on how to make a server that sends ERG and receives them"
+    },
+    {
+      "date": "2022-11-14T06:16:16",
+      "text": "Or a random token, I just wanna play around a bit"
+    },
+    {
+      "date": "2022-11-14T15:22:55",
+      "text": "Sure ty, we can communicate via PM to avoid flooding this chat with stupid questions haha"
+    },
+    {
+      "date": "2022-11-17T03:16:45",
+      "text": "Hello, is there any public node ip list?"
+    },
+    {
+      "date": "2022-11-17T03:23:03",
+      "text": "Thanks"
+    },
+    {
+      "date": "2022-11-18T14:25:23",
+      "text": "Sounds good, I could make it while I wait for Kii to give me instructions for Ergolend"
+    },
+    {
+      "date": "2022-11-18T14:25:53",
+      "text": "If you want you can pm me and we ll start talking about the UI for it!"
+    },
+    {
+      "date": "2022-11-18T14:26:15",
+      "text": "My name in discord is ergflip too, I am not at home but I will see your msgs when I get back"
+    },
+    {
+      "date": "2022-11-18T14:32:20",
+      "text": "Sure, however I will be having some extra free time the next few days so I am down to start whenever you guys explain to me what how would u want the UI to look"
+    },
+    {
+      "date": "2022-12-29T03:46:18",
+      "text": "Ergflip\n\nNot much from me this week, kept working on roulette, some people are already testing it privately. Soon I ll release it if all goes well"
+    },
+    {
+      "date": "2023-04-16T15:11:15",
+      "text": "it looks very good, congrats guys"
+    },
+    {
+      "date": "2023-07-05T12:46:14",
+      "text": "Hello yes, all good I am just a little bit busy"
+    },
+    {
+      "date": "2023-07-05T12:47:23",
+      "text": "Most of my Grand Gambit time is being spent in listings, not much game development going on so not much to announce here"
+    },
+    {
+      "date": "2023-07-05T12:48:59",
+      "text": "Ik"
+    },
+    {
+      "date": "2023-07-05T12:51:38",
+      "text": "It is okay!"
+    },
+    {
+      "date": "2024-07-26T03:48:13",
+      "text": "Hello what other tools are there to consilidate boxes aside from nautilus' utxo optimization tool?"
+    }
+  ]
+}

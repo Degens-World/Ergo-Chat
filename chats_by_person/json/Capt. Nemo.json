@@ -1,0 +1,74 @@
+{
+  "sender": "Capt. Nemo",
+  "total_messages": 17,
+  "messages": [
+    {
+      "date": "2021-12-31T10:29:45",
+      "text": "https://github.com/capt-nemo429/nautilus-wallet/blob/master/src/mappers/assetLogoMapper.ts\n\nhttps://github.com/capt-nemo429/nautilus-wallet/tree/master/public/icons/assets"
+    },
+    {
+      "date": "2022-01-10T10:12:40",
+      "text": "Do you mean the bip39 password?"
+    },
+    {
+      "date": "2022-01-10T10:14:12",
+      "text": "What about something like “additional word” or “custom word”?"
+    },
+    {
+      "date": "2022-01-10T10:19:54",
+      "text": "“Mnemonic extension” sounds good too"
+    },
+    {
+      "date": "2022-01-10T10:48:32",
+      "text": "I’m going to use something like “mnemonic extension” with a tooltip with a brief explanation on Nautilus"
+    },
+    {
+      "date": "2022-08-26T08:45:52",
+      "text": "What do you think about dropping address index? APIs can decode addresses on time and use ergoTree index to make queries."
+    },
+    {
+      "date": "2022-08-26T08:50:16",
+      "text": "For Nautilus, it is already ported to GraphQL. I need to query often for: Unspent boxes, balance, transactions history and mempool boxes."
+    },
+    {
+      "date": "2022-08-26T08:52:15",
+      "text": "No breaking changes here, when the api receives a query using address as a parameter, it will decode the address to its ErgoTree and perform the query"
+    },
+    {
+      "date": "2022-08-26T08:52:28",
+      "text": "Just internal API changes are needed"
+    },
+    {
+      "date": "2022-08-26T09:09:42",
+      "text": "Hmm, I see, can't they be replaced by ergoTree?\n\nOr maybe we can drop ergoTree index if it's more suitable. Address index is even more compact and I think that the cost of decoding an address is the same of encoding an ErgoTree."
+    },
+    {
+      "date": "2022-08-26T09:10:38",
+      "text": "I can adapt GraphQL server to that as well"
+    },
+    {
+      "date": "2022-08-26T09:12:23",
+      "text": "Makes sense, less encoding work will be needed also"
+    },
+    {
+      "date": "2022-08-26T15:42:37",
+      "text": "I agree, would be good to have a place for such discussions"
+    },
+    {
+      "date": "2022-09-26T13:02:24",
+      "text": "https://github.com/capt-nemo429/fleet/blob/master/src/models/ergoAddress.ts#L183"
+    },
+    {
+      "date": "2023-09-27T08:10:15",
+      "text": "### Nautilus Team Update\n\n- *Fleet SDK*\n  - ergographql-client package is mostly done, now adding unit tests.\n  - Added a custom fetch-based GraphQL client for the ergo-graphql client package, thus removing third part @urql/core dependency.\n\n- *Nautilus*\n  - v0.9.0 released.\n  - Improved signing flow for Ledger wallets."
+    },
+    {
+      "date": "2023-10-12T11:41:51",
+      "text": "Stealth addresses"
+    },
+    {
+      "date": "2023-12-06T06:02:31",
+      "text": "Soon sir, already working on a major refactoring for manifest v3, but with a future mobile version in mind"
+    }
+  ]
+}

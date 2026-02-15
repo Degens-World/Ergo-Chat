@@ -1,0 +1,84 @@
+# Bro Etiket
+
+**Total messages:** 13
+
+---
+
+**2025-08-18T09:23:37**
+
+👋 hello
+
+---
+
+**2025-08-21T04:01:36**
+
+Not sure I follow — do you mean code contributions, docs, or something else?
+
+---
+
+**2025-08-21T11:55:04**
+
+Need to figure out detailed specification. Aggregrations looks simple so no bootstrapping and ciphertexts multiplication required.
+
+---
+
+**2025-10-01T08:09:04**
+
+working furiously with bunch of LLM comrades!
+
+---
+
+**2025-10-15T08:05:08**
+
+https://github.com/GitCircles/GitCircles-Github/pull/10 waiting for merge
+
+---
+
+**2025-10-15T10:51:08**
+
+someone need to embrace the power of mighty LLM-Djinns to build the docs...
+
+---
+
+**2025-10-15T22:23:15**
+
+@kushti_ru https://github.com/GitCircles/GitCircles-Github/issues/18 if you'll have minute drop description/link how one could validate wallet address.
+
+---
+
+**2025-10-16T07:57:04**
+
+https://docs.ergoplatform.com/dev/wallet/address/address_types/
+
+---
+
+**2025-10-16T07:59:31**
+
+i think it's here.
+
+---
+
+**2025-10-21T08:04:10**
+
+if you know what to do to drive the agent.
+
+---
+
+**2025-11-19T08:07:19**
+
+Not yet
+
+---
+
+**2025-12-03T13:43:24**
+
+pushing commits for issue-7 still a lot of things to do
+
+---
+
+**2025-12-10T22:55:57**
+
+i need someone to talk about transactions part.
+
+---
+

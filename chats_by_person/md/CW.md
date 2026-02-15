@@ -1,0 +1,116 @@
+# CW
+
+**Total messages:** 14
+
+---
+
+**2022-12-15T21:12:18**
+
+We are pleased to announce more community chats, with Ergo Improvement Proposals and the road to 6.0 alternating weekly on Fridays. 
+
+Kicking things off, we have the EIP chat on Discord today!
+
+📆 Fri, Dec 16
+🕐 2 PM UTC 
+📍 http://discord.gg/kj7s7nb - #EIPs channel
+
+---
+
+**2023-01-12T15:41:51**
+
+Ergo Improvement Proposals are an essential part of the ecosystem. 
+
+Developers and community members, please join the community chat to help drive standards and improvements to the platform.
+
+📆 Fri, Jan 13
+🕐 2 PM UTC 
+📍 Developers channels
+
+---
+
+**2023-01-19T17:55:00**
+
+Developers and community members, please join our fortnightly community discussion as we pave the road to node version 6.0!
+
+📆 Fri, Jan 20
+🕐 2 PM UTC 
+📍 #development channel
+
+---
+
+**2023-07-29T22:46:38**
+
+when someone gets a spare sec, could you update the node panel/dashboard to include some stats such as
+uxto snapshots enabled, size
+nipopows enabled, size
+state size
+❤️
+
+---
+
+**2023-11-18T00:29:29**
+
+https://docs.ergoplatform.com/mining/governance/
+
+---
+
+**2023-12-07T13:42:53**
+
+if someone has time could they add a field to the node panel indicating indexing status please
+
+---
+
+**2024-02-24T20:35:28**
+
+someone messed up when programming qx bot
+
+---
+
+**2024-03-21T15:09:44**
+
+https://twitter.com/c8e4d2/status/1770862730620051603
+
+---
+
+**2024-03-28T16:07:38**
+
+https://twitter.com/Ross_Weir/status/1773439357061656793
+
+---
+
+**2024-05-03T04:42:27**
+
+https://twitter.com/NeuralYogi/status/1786092452241093107
+
+---
+
+**2024-07-29T17:42:45**
+
+A number of User Interface bounties are up for grabs!
+
+Our bounty program will encourage community involvement that will assist in pushing Rosen forward! 
+
+Check it out!
+ℹ️ https://github.com/rosen-bridge/ui/issues
+
+---
+
+**2024-08-13T15:51:57**
+
+I cannot access http://sigmao.cc/
+Was there any announcement of ending the project?
+
+---
+
+**2024-08-13T15:51:58**
+
+Yes, the server hosting the site and the offchain bot is down. The suscription ended. Yes, the project is stopped. That would require a huge effort to change the POC into a real option or finance platform. And also probably several knowledges I don't have.
+
+---
+
+**2024-08-13T15:52:16**
+
+Maybe someone wants to pick this up?
+
+---
+

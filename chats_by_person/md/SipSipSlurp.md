@@ -1,0 +1,12 @@
+# SipSipSlurp
+
+**Total messages:** 1
+
+---
+
+**2022-09-15T09:12:51**
+
+Will be just like btc when a part of their hashrate went offline
+
+---
+

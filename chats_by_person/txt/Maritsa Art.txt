@@ -1,0 +1,39 @@
+=== Chat history for: Maritsa Art ===
+=== Total messages: 8 ===
+
+[2023-06-15T05:08:41]
+Fixed! Looks great! Thank you! 🥳
+
+https://twitter.com/maritsaart/status/1669309361317900291
+
+[2024-09-29T04:06:02]
+@ErgoMitch Hey! https://sigma.gallery/ not working any more 😔 Can you fix it 🙏🙏🙏?
+
+[2024-10-06T05:14:30]
+Any ETA?
+
+[2024-10-06T05:21:36]
+How do you use nft.storage? I can't find how to pin CID there 😕
+
+[2026-02-05T21:40:08]
+Not only IPFS 😉. In R9 can be any URL/data.
+
+For example, here is my 2021 NFT (EIP-0024 design V1) with a link to imgbb.com:
+https://ergexplorer.com/token#a03b7109608a09a63311f085d330d244a412bec5c5517879ddb9533e6262184b
+
+And of course there (in R9) may be an URL for tracking as @kushti_ru said.
+
+[2026-02-05T21:44:07]
+R9 with data, not URL (one of my on-chain NFT):
+https://ergexplorer.com/token#665c679f1c49836e1b971d70385a98714c593a9ff886c8ce6e24e0b18d22b50d
+
+[2026-02-05T21:45:36]
+NFT Viewer? In ergonode? WEN?  🔥🔥🔥
+
+I've been asking for this for a long time, thank you! 👍
+My old msg in Discord (not mirrored in tg chat): https://discord.com/channels/668903786361651200/669989266478202917/1206210755582492702
+"Ergo Node Token/NFT Viewer..."
+
+[2026-02-05T21:52:07]
+yeah
+

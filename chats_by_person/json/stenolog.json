@@ -1,0 +1,14 @@
+{
+  "sender": "stenolog",
+  "total_messages": 2,
+  "messages": [
+    {
+      "date": "2023-04-15T05:36:04",
+      "text": "No, it is not. This is a circus, where everyone is free to distract developers that work on core problems (and need to focus on this). So, this channel is useless for serious work"
+    },
+    {
+      "date": "2023-04-15T06:03:23",
+      "text": "The problem is: most here possibly do not understand what it is to have worked all night to isolate a sporadic bug, then immediately go to PC in the morning to look at the test-runs, open the dev channel to see if someone responded, to see only shit and the relevant messages ignored. So, one needs to look for blocking mechanisms now => kicked out of the work-flow that is supposed to make ERGO better.\n\n@kushti_ru is clearly the project-lead, and thus the responsible for this.\n\nSo, me leaving this channel, I can accept some nonsense on main, but not in a dev channel."
+    }
+  ]
+}

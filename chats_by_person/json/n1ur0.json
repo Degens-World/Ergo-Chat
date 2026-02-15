@@ -1,0 +1,34 @@
+{
+  "sender": "n1ur0",
+  "total_messages": 7,
+  "messages": [
+    {
+      "date": "2025-11-24T10:26:05",
+      "text": "Instead of a single bloated agent.md , would spread specific specializations into each skills.md with restrained context and roles and supported by slash commands (deterministic scripts) for workflow control"
+    },
+    {
+      "date": "2025-12-08T21:36:25",
+      "text": "You could expand that idea by having multiple specific skills for basically end2end functionality. Each skill can even be invoked by slash commands contained in as a strict design workflow. Much more deterministic results compared to random subagents decisions with inefficient outcomes."
+    },
+    {
+      "date": "2026-01-26T09:03:51",
+      "text": "Anyone looked at the trend of using Clawdbot? With skills now is rather easy to interact with a chatbot in telegram by asking anything really. Can even generate skills when learning a new tool/server while using a headless chrome session"
+    },
+    {
+      "date": "2026-01-26T09:37:14",
+      "text": "Yes would always advise by placing guardrails and avoid connecting to PII data"
+    },
+    {
+      "date": "2026-01-26T09:37:57",
+      "text": "Could be useful for dApps or node interaction"
+    },
+    {
+      "date": "2026-02-07T09:45:36",
+      "text": "Using Zed + opencode + glm 4.7"
+    },
+    {
+      "date": "2026-02-07T09:46:17",
+      "text": "Using a good agentic system it can do wonders compared to expensive gpt api token prices"
+    }
+  ]
+}

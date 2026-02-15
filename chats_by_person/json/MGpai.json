@@ -1,0 +1,142 @@
+{
+  "sender": "MGpai",
+  "total_messages": 34,
+  "messages": [
+    {
+      "date": "2024-01-17T15:12:39",
+      "text": "guys I finally found the telegram!"
+    },
+    {
+      "date": "2024-01-29T16:05:30",
+      "text": "damn missed the free erg"
+    },
+    {
+      "date": "2024-01-30T07:59:55",
+      "text": "@AcoSmrkas do you have some list of known miners as well? \n\nhttps://ergexplorer.com/latest-blocks"
+    },
+    {
+      "date": "2024-01-30T08:23:51",
+      "text": "thanks, how did you get this info?"
+    },
+    {
+      "date": "2024-01-30T08:37:56",
+      "text": "I mean how do you know which address belongs to which miner"
+    },
+    {
+      "date": "2024-01-30T08:38:24",
+      "text": "we have @Pulsarzz too"
+    },
+    {
+      "date": "2024-01-30T08:44:36",
+      "text": "my guess is that payouts were traced"
+    },
+    {
+      "date": "2024-01-30T08:45:22",
+      "text": "miss the spike 😭"
+    },
+    {
+      "date": "2024-01-30T08:57:18",
+      "text": "No it's why we lost the spike"
+    },
+    {
+      "date": "2024-03-02T18:44:49",
+      "text": "I have it built if needed"
+    },
+    {
+      "date": "2024-04-14T17:47:51",
+      "text": "https://twitter.com/shishirpai/status/1779642038591410314\n\nLike are retweet please"
+    },
+    {
+      "date": "2024-06-24T15:32:45",
+      "text": "thanks"
+    },
+    {
+      "date": "2024-06-24T17:23:01",
+      "text": "I like this"
+    },
+    {
+      "date": "2024-10-22T10:59:09",
+      "text": "I'll try soon"
+    },
+    {
+      "date": "2024-10-29T20:51:06",
+      "text": "how do you build the fat jar?"
+    },
+    {
+      "date": "2024-10-29T20:51:32",
+      "text": "I need something as such so I can test"
+    },
+    {
+      "date": "2024-10-29T20:51:32",
+      "text": "https://github.com/cruxfinance/ergo-node-zmqpub/tree/main/lib"
+    },
+    {
+      "date": "2024-11-22T17:24:31",
+      "text": "yes"
+    },
+    {
+      "date": "2024-11-22T17:24:42",
+      "text": "what is the latest oracle config for testnet"
+    },
+    {
+      "date": "2024-11-24T15:22:14",
+      "text": "thanks"
+    },
+    {
+      "date": "2024-11-24T17:31:22",
+      "text": "Yes setting it up"
+    },
+    {
+      "date": "2024-11-24T17:31:31",
+      "text": "My miners being weird"
+    },
+    {
+      "date": "2024-11-27T14:52:05",
+      "text": "Yes need ldg to wake up\n\n@ldgaetano"
+    },
+    {
+      "date": "2024-11-28T08:45:20",
+      "text": "I problem was the port"
+    },
+    {
+      "date": "2024-11-28T08:45:24",
+      "text": "I thought he was 9022"
+    },
+    {
+      "date": "2024-11-28T08:45:39",
+      "text": "But the node is changed to 9021"
+    },
+    {
+      "date": "2024-12-15T13:38:45",
+      "text": "for tn?"
+    },
+    {
+      "date": "2024-12-15T13:52:25",
+      "text": "I stopped using 213 generally, too slow"
+    },
+    {
+      "date": "2025-07-16T04:39:45",
+      "text": "It won't this is a new api method under /blockchain/blocks/..."
+    },
+    {
+      "date": "2025-07-16T04:40:04",
+      "text": "Its a specific indexed node endpoint"
+    },
+    {
+      "date": "2025-12-10T10:46:14",
+      "text": "me too lol"
+    },
+    {
+      "date": "2025-12-10T10:46:22",
+      "text": "I was looking into it like 2 years back"
+    },
+    {
+      "date": "2025-12-10T10:46:28",
+      "text": "trying to copy how aiken did it"
+    },
+    {
+      "date": "2025-12-10T10:47:47",
+      "text": "yeah"
+    }
+  ]
+}

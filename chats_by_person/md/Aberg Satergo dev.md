@@ -1,0 +1,11743 @@
+# Aberg Satergo dev
+
+**Total messages:** 1839
+
+---
+
+**2021-12-22T10:59:46**
+
+Hm new group?
+
+---
+
+**2021-12-23T09:50:54**
+
+welcome, which anon are you? there are many
+
+---
+
+**2021-12-23T09:55:40**
+
+sounds like a bad method
+
+---
+
+**2021-12-23T09:56:05**
+
+I haven't worked with the blockchain but at the very least maybe you could run the explorer on your own computer and scrape it
+
+---
+
+**2021-12-23T09:56:11**
+
+unless you know how to read the raw data
+
+---
+
+**2021-12-23T10:01:14**
+
+Yes
+
+---
+
+**2021-12-23T10:02:04**
+
+It's a binary format
+
+---
+
+**2021-12-23T10:03:21**
+
+https://github.com/ergoplatform/explorer-backend
+
+---
+
+**2021-12-23T10:18:07**
+
+I believe spamming the public ergo explorer to obtain the entire blockchain would stress it too much and could take a long time due to network delays and the amount of data
+
+---
+
+**2021-12-23T10:58:58**
+
+Luivatra Do you know an address that has image NFTs? (Noah told me to ask you)
+
+---
+
+**2021-12-23T10:59:35**
+
+Cool, what's the address?
+
+---
+
+**2021-12-23T11:00:17**
+
+thanks
+
+---
+
+**2021-12-23T12:01:42**
+
+@kushti_ru Why doesn't the node version in the conf files properly get updated when a new release is made? I added a node updater to my wallet but it fails because of this annoying flaw in the ergo node.
+
+---
+
+**2021-12-23T12:03:03**
+
+This time (4.0.16.2), it's just plain wrong in all places (says 4.0.16) but in for example a past release (4.0.13), the mainnet.conf was updated but application.conf was not. That time, mainnet.conf said 4.0.13 but application.conf said 4.0.10
+
+---
+
+**2021-12-23T12:03:25**
+
+It's a quite important field, and I hope you can do something about this (maybe something automated, I don't know, or a new file in the root dir like version which gets added on build)
+
+---
+
+**2021-12-24T16:21:02**
+
+@kushti_ru Can you reply to my messages about version
+
+---
+
+**2021-12-24T16:33:25**
+
+you could do it before release, should be easy to remember
+
+---
+
+**2021-12-25T09:15:11**
+
+no it's just confirmed balance. coins that have been confirmed to belong to the address.
+
+---
+
+**2021-12-25T09:46:17**
+
+sure, but not with the current wallets
+
+---
+
+**2021-12-25T16:38:25**
+
+Lol you don't even need the blockchain for these
+
+---
+
+**2021-12-25T16:38:44**
+
+you can just use some api, it's not even that much data
+
+---
+
+**2021-12-25T16:38:58**
+
+i thought you needed like all transactions and all info
+
+---
+
+**2021-12-26T07:06:29**
+
+How is node discovery done?
+
+---
+
+**2021-12-26T07:16:59**
+
+My wallet supports remote nodes but I don't want it to use centralized nodes like metamask, yoroi and ergo android do
+
+---
+
+**2021-12-31T08:28:22**
+
+Is there any public place where the token icons are mapped to their token address?
+
+---
+
+**2021-12-31T08:28:32**
+
+It's for my wallet, thought it would be cool to have token icons
+
+---
+
+**2021-12-31T08:28:49**
+
+I don't think the icons are stored on the blockchain, correct me if I'm wrong
+
+---
+
+**2021-12-31T08:31:01**
+
+@glasgowm
+
+---
+
+**2021-12-31T08:33:30**
+
+👍 Thanks
+
+---
+
+**2021-12-31T09:06:46**
+
+Cool, to the explorer I suppose, but is there any place right now?
+
+---
+
+**2021-12-31T10:14:41**
+
+ok, but is there some place like right now where you could obtain the token images, heck, even unmapped really, i'll just include them in the program directly
+
+---
+
+**2021-12-31T10:54:03**
+
+👍
+
+---
+
+**2021-12-31T10:55:00**
+
+I will upload the icons along with a map file for updating post-release
+
+---
+
+**2021-12-31T11:06:19**
+
+I found this too: https://github.com/ergolabs/ergo-dex-frontend/tree/master/src/assets/icons/tokens
+
+and map at https://github.com/ergolabs/ergo-dex-frontend/blob/master/src/mappers/varifiedTokensMapper.ts
+
+they seem to have a better size and no whitespace around
+
+---
+
+**2021-12-31T14:28:56**
+
+SVG images are quite small
+
+---
+
+**2022-01-03T09:12:17**
+
+Regarding what I asked a few days ago, I ended up creating my own list of token icons https://github.com/Satergo/Resources/tree/master/token-icons-36x36
+
+---
+
+**2022-01-03T09:12:32**
+
+the file name is the token id so there is no need for maps or anything
+
+---
+
+**2022-01-06T18:58:33**
+
+Mnemonic password seems to be a confusing thing
+
+---
+
+**2022-01-08T05:00:41**
+
+Could we call it something else? Mnemonic salt? shield? lock?
+
+---
+
+**2022-01-08T06:09:04**
+
+I think you added the wrong bot
+
+---
+
+**2022-01-08T06:29:19**
+
+oh so this one has tokens that's the reason
+
+---
+
+**2022-01-09T01:56:47**
+
+Lol
+
+---
+
+**2022-01-09T05:17:50**
+
+What could we call the mnemonic password instead? Mnemonic salt? mnemonic shield? mnemonic lock? mnemonic mask? something else?
+
+---
+
+**2022-01-10T10:42:26**
+
+Don't know. it's not really a word
+
+---
+
+**2022-01-10T10:53:50**
+
+It was confusing enough that I made it so one has to click to show it in Satergo
+
+---
+
+**2022-02-04T08:01:06**
+
+Which discord chat is this bridged to?
+
+---
+
+**2022-02-04T08:33:18**
+
+Very nice, thank you
+
+---
+
+**2022-02-05T15:24:16**
+
+I find it so unnecessary that ergo dapp websites use webassembly. I wanted to add an embedded browser to my wallet, but it doesn't support wasm, and the ergo dapp sites don't even have an asm.js fallback..
+
+---
+
+**2022-02-06T11:47:41**
+
+Satergo news
+
+- Halved application size, more accessible now (~100 MB to ~50 MB)
+- Adding more security features such as password confirmation on sending
+- Started preparing work for installers which will make usage even easier
+- Tutorials and help documents coming soon
+- Work on NFT viewing in the wallet is ongoing
+- Soon you will be able to see your past transactions directly inside the wallet and view the status of ongoing ones
+
+---
+
+**2022-02-06T13:16:15**
+
+Thank you
+
+---
+
+**2022-02-08T09:10:44**
+
+Damn that's serious
+
+---
+
+**2022-02-08T09:33:12**
+
+That's the way, but how will callers handle it? It's complex, and users won't understand anything
+
+---
+
+**2022-02-08T09:36:10**
+
+Honestly I'd rather have it do the standard (intended) one
+
+---
+
+**2022-02-08T09:36:23**
+
+Perhaps an extra method to check, for willing callers
+
+---
+
+**2022-02-08T09:38:19**
+
+good
+
+---
+
+**2022-02-08T09:40:34**
+
+I think I will delay satergo 0.0.3 until this is handled.
+
+---
+
+**2022-02-13T16:56:26**
+
+where can I find the IDs of the network types? is it the same as the prefix?
+
+---
+
+**2022-02-13T16:59:03**
+
+I've written everything with assumption of 0 but now that I tested, it seems to not be so
+
+---
+
+**2022-02-13T17:04:28**
+
+ok thanks, i found the problem by the way, it was something else.
+still useful to know the values
+
+---
+
+**2022-02-13T17:56:49**
+
+How can one convert org.ergoplatform.wallet.secrets.ExtendedPublicKey to an address?
+
+---
+
+**2022-02-13T18:06:40**
+
+in sigma-rust there is ExtPubKey.to_address, but not in ergo-wallet
+
+---
+
+**2022-02-13T18:15:45**
+
+Never mind, solved
+
+---
+
+**2022-02-22T05:54:03**
+
+Any updates on the derivation differences brtween standard and ergo's implementation?
+
+---
+
+**2022-02-22T06:03:19**
+
+Awesome
+
+---
+
+**2022-02-23T14:20:07**
+
+@MrStahlfelge Why hex for the xpub keys? Nobody will notice that it is hex instead of base52 anyways so it would just take more space
+
+---
+
+**2022-02-23T14:20:35**
+
+It would not provide useful visible difference between ergo xpuv and btc xpub
+
+---
+
+**2022-02-23T14:22:39**
+
+Does yoroi allow for interacting with this key? Like can you create wallets with it etc
+
+---
+
+**2022-02-23T14:23:57**
+
+Alright then it's too late to change I'd say
+
+---
+
+**2022-02-23T14:26:33**
+
+Yeah I saw your PRs, good job
+
+---
+
+**2022-02-23T14:27:10**
+
+I have one thought though, I saw you used some scala objects in the API (not impl), I don't think the existing classes & interfaces do so
+
+---
+
+**2022-02-23T15:12:14**
+
+https://github.com/ergoplatform/ergo-appkit/pull/134/files#diff-0d1415be30c5031304f7b6d4fc5bd7dcf05a7482d6c8d773373144c4ba8d4006R118
+
+---
+
+**2022-02-23T15:14:37**
+
+Tuple2
+
+---
+
+**2022-02-23T15:20:45**
+
+>contrary to some other objects
+Haha, I can relate to this so much
+
+My thought is that the appkit isn't linked to scala api-wise so at the moment even if we won't do it obviously, it is replaceable.
+
+---
+
+**2022-02-23T15:20:58**
+
+I feel like separating the impl from api like this is better
+
+---
+
+**2022-02-24T17:17:11**
+
+That is kushtis node
+
+---
+
+**2022-02-25T09:25:48**
+
+@MrStahlfelge In your PR, I'm thinking Asset is a better name than Eip4Token, what do you think?
+
+---
+
+**2022-02-25T09:28:54**
+
+Ok
+
+---
+
+**2022-02-25T09:29:50**
+
+Also, related but not exactly, do the tokens existing right now follow this standard? Like can I trust using this class for random tokens
+
+---
+
+**2022-02-25T09:43:49**
+
+Ok, what about the common tokens like NFTs and sigUSD
+
+---
+
+**2022-02-25T11:07:06**
+
+thanks
+
+---
+
+**2022-03-06T11:33:50**
+
+at that point you could just use scala for the entire thing lol
+
+---
+
+**2022-03-06T12:32:38**
+
+Like aslesarenko says toErgoContract would be a better name. to is better than as since it is already used in the JDK (for example, File::toPath and Path::toFile)
+
+---
+
+**2022-03-06T17:41:25**
+
+BTW, how is graalvm polyglot programming? I've read it's really performant
+
+---
+
+**2022-03-06T17:41:45**
+
+Their Ruby implementation is far faster than the main one
+
+---
+
+**2022-03-08T00:50:18**
+
+Does it not defeat the entire purpose of decentralization to rely on one part to receive the blockchain
+
+---
+
+**2022-03-08T16:45:52**
+
+@MGpai actually ergo synching is not a problem. It's quite fast, I believe 3 hours last time I did from start. Monero for example takes like an entire day
+
+---
+
+**2022-03-09T10:07:36**
+
+Satergo:
+- Going to work on making the UI look nicer
+
+---
+
+**2022-03-09T15:47:20**
+
+Is that directed towards me or mhs_sam?
+
+---
+
+**2022-03-28T14:15:27**
+
+If this was by accident, then attackers will follow
+
+---
+
+**2022-04-02T19:41:48**
+
+Hi, is the ergo node protocol documented somewhere?
+
+---
+
+**2022-04-02T19:41:58**
+
+The protocol that nodes use to communicate
+
+---
+
+**2022-04-02T19:43:18**
+
+Nice, thank you ser
+
+---
+
+**2022-04-03T06:10:08**
+
+It's TCP, right? Can't see any mention of that part
+
+---
+
+**2022-04-03T06:14:11**
+
+Thanks
+
+---
+
+**2022-04-03T07:37:07**
+
+That documentation is quite small though. There are some messages I want to implement but it only specifies handshake. I tried checking ergo node source code but no idea where this is located
+
+---
+
+**2022-04-03T07:57:50**
+
+I'm just looking for ergo's equivalent of bitcoin's getaddr
+
+---
+
+**2022-04-03T10:21:41**
+
+Nobody knows? Back to reading the source I guess
+
+---
+
+**2022-04-03T11:08:45**
+
+Ok, after reading the scala code (scala is complicated) I did implement it but after I send a handshake and node sends one as well, the connection gets closed, why?
+
+---
+
+**2022-04-03T18:20:55**
+
+Out of luck?
+
+---
+
+**2022-04-05T10:05:48**
+
+Still looking for help. Why does the connection get closed after the node sends its handshake as well?
+
+---
+
+**2022-04-05T16:40:52**
+
+I'm sending handshake
+I'm receiving handshake
+Connection gets closed
+
+---
+
+**2022-04-05T17:24:21**
+
+@kushti_ru I would like to document them as I am already implementing a client right now. I figured, the http api is not needed and I should do a normal connection. It also makes it simpler because not many nodes expose the http api
+
+---
+
+**2022-04-10T08:27:10**
+
+Is it possible to disable this? https://github.com/ergoplatform/ergo/blob/0ea3fac7fb7fddd06b346fad356de57dc68b4b1b/src/main/scala/scorex/core/network/PeerConnectionHandler.scala#L103
+
+---
+
+**2022-04-10T08:30:40**
+
+Or just any penalty. I'm testing and don't want to get banned
+
+---
+
+**2022-04-10T08:32:06**
+
+Last time when I was testing, the first handshakes were badly formatted which probably got me permanently banned and blocked even when I sent correct
+
+---
+
+**2022-04-10T09:13:49**
+
+Ok
+
+---
+
+**2022-04-10T09:22:51**
+
+s.c.n.PeerConnectionHandler - Handshake sent to ConnectionId(remote=/127.0.0.1:35420, local=/127.0.0.1:9030, direction=Incoming)
+s.c.n.PeerConnectionHandler - Got a Handshake from ConnectionId(remote=/127.0.0.1:35420, local=/127.0.0.1:9030, direction=Incoming)
+s.c.n.PeerConnectionHandler - Connection closed to ConnectionId(remote=/127.0.0.1:35420, local=/127.0.0.1:9030, direction=Incoming), reason: closed by the peer
+s.c.n.PeerConnectionHandler - Peer handler to ConnectionId(remote=/127.0.0.1:35420, local=/127.0.0.1:9030, direction=Incoming) destroyed
+
+---
+
+**2022-04-10T09:23:15**
+
+The node says closed by the peer, but I do not close the connection, what could be causing it?
+
+---
+
+**2022-04-10T10:15:22**
+
+What do you mean? It can't be firewall as both the node and client are the same computer
+
+---
+
+**2022-04-10T13:43:59**
+
+Alright, the issue was quite hidden. I was using a try-with-resources to create the DataInputStream that reads the socket input stream, and when it closes the DataInputStream, the socket input stream along with the socket get closed.......................
+
+---
+
+**2022-04-10T14:00:48**
+
+I've wondered since I saw it first, but why does the node add 4 to the address length? Makes no sense at all to me.
+      val addr = isa.getAddress.getAddress
+      writer.put((addr.size + 4).toByteExact)
+Sure, I just subtract 4 when I read, but I don't get the point
+
+---
+
+**2022-04-10T14:04:45**
+
+And another confusing thing is 2 lines after that, why is a port encoded in an unsigned integer and not an unsigned short
+
+---
+
+**2022-04-11T03:26:31**
+
+Satergo supports testnet since day 1
+
+---
+
+**2022-04-11T09:02:13**
+
+yes, but binary representation and API is different. we can also see this in that many things that are int in the code, are unsigned short in the messages.
+
+---
+
+**2022-04-11T09:02:22**
+
+i guess somebody messed up and now it has to stay
+
+---
+
+**2022-04-11T09:02:58**
+
+" I guess port bytes length was added, and port was encoded as Int before"
+Lol, one must have been really sleepy to add the length of port bytes to the value of ip length
+
+---
+
+**2022-04-11T13:46:49**
+
+I'm documenting the protocol but it seems not all messages extend MessageSpec? Where can I find the others? Searching for messageCode does not help and the tests do not cover much
+
+---
+
+**2022-04-12T05:47:41**
+
+It's funny 'cause it's true
+
+---
+
+**2022-04-12T17:59:54**
+
+Lol, forked. It sounds funny because you're speaking of blockchains
+
+---
+
+**2022-04-13T05:55:30**
+
+Ok, thanks, then I have documented them all.
+
+---
+
+**2022-04-13T06:44:38**
+
+Alright sir I will make a pull request now, by the way I am also including a link to a VLQ reader & writer impl I made so readers can get started quickly
+
+---
+
+**2022-04-13T10:00:13**
+
+Could you keep the block height number as well, if i remember correctly it used to be there
+
+---
+
+**2022-04-13T10:08:18**
+
+Ok I didn't think that it said headers oops
+
+---
+
+**2022-04-13T11:03:02**
+
+Btw kushti, I created the PR. https://github.com/ergoplatform/ergodocs/pull/9 Can you check if anything is missing?
+
+---
+
+**2022-04-13T12:48:18**
+
+You can use Satergo
+
+---
+
+**2022-04-13T12:48:44**
+
+https://satergo.com
+Built in node download, install, monitor & updater
+
+---
+
+**2022-04-13T12:48:59**
+
+You need 64 bit OS though, which means rpi4
+
+---
+
+**2022-04-13T17:45:11**
+
+There could be an address problem
+
+---
+
+**2022-04-15T18:21:26**
+
+Many things (libraries, documentation,...) would have to be changed to add support for a new network
+
+---
+
+**2022-04-15T18:37:33**
+
+Well, running an alternative testnet is one thing, not that hard either. But creating a new network type needs many changes
+
+---
+
+**2022-04-15T18:54:20**
+
+@kushti Is node seeding only done with known peers? Isn't that dangerous because you know, somebody ddoses that and it becomes hard to start a new node. Kinda centralized but not really
+
+---
+
+**2022-04-15T18:55:42**
+
+Bitcoin uses dns seeds, do we have any of these for ergo?
+
+---
+
+**2022-04-15T19:36:27**
+
+Irc was used in some old versions but it was removed and also it depends on an irc server to be up so not ideal
+
+---
+
+**2022-04-17T06:21:42**
+
+Can anybody check and merge this https://github.com/ergoplatform/ergodocs/pull/9
+
+---
+
+**2022-04-17T09:21:39**
+
+you can see it rendered here https://satsen.github.io/ergodocs/dev/p2p/network
+
+---
+
+**2022-04-19T01:30:27**
+
+What is the name of .conf format
+
+---
+
+**2022-04-19T02:07:52**
+
+I suspected it :o Nice to be right
+
+---
+
+**2022-04-20T09:36:16**
+
+Can anybody check and merge this https://github.com/ergoplatform/ergodocs/pull/9
+Rendered at https://satsen.github.io/ergodocs/dev/p2p/network
+
+---
+
+**2022-04-20T10:13:32**
+
+Thank you and yes somebody should check it either way. Maybe I missed to include something
+
+---
+
+**2022-04-27T07:00:52**
+
+Thanks. Will fix today
+
+---
+
+**2022-04-27T08:51:40**
+
+@kushti Can you clarify what you mean with the sync info thing
+
+---
+
+**2022-04-27T08:55:31**
+
+I believe the one I documented is the old one but I don't understand your description of the new one. And in which version did they change, are they backwards compatible
+
+---
+
+**2022-04-27T08:56:39**
+
+And is the code same?
+
+---
+
+**2022-04-27T09:14:57**
+
+👍 Thank you
+
+---
+
+**2022-04-27T09:15:52**
+
+My clone of the git repository was older than that which is why I missed this
+
+---
+
+**2022-04-27T09:40:43**
+
+@kushti https://github.com/ergoplatform/ergodocs/pull/11
+
+---
+
+**2022-04-27T09:41:13**
+
+I also created a minor "fix" PR on the ergoplatform/ergo repo: https://github.com/ergoplatform/ergo/pull/1691
+
+---
+
+**2022-04-29T08:46:37**
+
+Kushti if you could check it it would be nice https://github.com/ergoplatform/ergodocs/pull/11 (new pr)
+
+---
+
+**2022-05-03T17:17:22**
+
+@kushti Please check the update PR (submitted a week ago) https://github.com/ergoplatform/ergodocs/pull/11
+
+---
+
+**2022-05-03T17:50:19**
+
+Thank you sir it was a pleasure to help ergo
+
+---
+
+**2022-05-05T16:55:51**
+
+Most software doesn't have good decentralization yet
+
+For now, the majority use kushti's nodes (with the exception of Satergo wallet which can host one locally as well)
+
+---
+
+**2022-05-05T16:59:19**
+
+Haven't heard of that one. Kushti's node's IP is 213.239.193.208 which is used in most of the wallets I know. This node is also in the initial seed peers of the reference ergo client
+
+---
+
+**2022-05-05T17:05:12**
+
+Yes this is a big problem that I have also thought about for some time
+
+---
+
+**2022-05-05T17:07:29**
+
+There are many risks with relying on too few nodes (in this case really just one)
+- Governments can shut it down
+- DDoS attacks are a thing
+- The nodes can get hacked and then deny transactions
+
+Sure all of those can be "fixed" in a short time by changing the node (which not all wallets allow, btw) but the mere possibility that it can occur is problematic
+
+---
+
+**2022-05-05T17:09:13**
+
+I'm working on some things as well to minimize the problem
+
+---
+
+**2022-05-06T06:53:59**
+
+personally I don't see the need to for a node api at all. like, why can't applications use p2p connection instead? they are likely using a library after all
+
+---
+
+**2022-05-06T08:02:16**
+
+It's just a tcp connection
+Http is also a tcp connection, just more abstracted
+
+---
+
+**2022-05-20T18:51:56**
+
+Extended public key is supposed to allow derivation without access to secret key, how can I derive other EIP-3 address indexes without access to the secretKey variable?
+byte[] seed = mnemonic.toSeed();
+ExtendedSecretKey rootSecret = ExtendedSecretKey.deriveMasterKey(seed);
+ExtendedSecretKey secretKey = (ExtendedSecretKey) rootSecret.derive(DerivationPath.fromEncoded("m/44'/429'/0'/0/0").get()); // HERE (last 0 is the index)
+extendedPublicKey = secretKey.publicKey();
+Maybe there is something with the child method that I could use to have one main extended public key and just .child(index)? I have no idea.
+
+---
+
+**2022-05-20T18:52:16**
+
+Ok cool
+
+---
+
+**2022-05-20T19:18:59**
+
+Solved my issue
+byte[] seed = mnemonic.toSeed();
+ExtendedSecretKey rootSecret = ExtendedSecretKey.deriveMasterKey(seed);
+ExtendedPublicKey parentKey = ((ExtendedSecretKey) rootSecret.derive(DerivationPath.fromEncoded("m/44'/429'/0'/0").get())).publicKey();
+System.out.println(P2PKAddress.apply(parentKey.child(0).key(), new ErgoAddressEncoder(ErgoAddressEncoder.MainnetNetworkPrefix())));
+
+---
+
+**2022-06-01T08:05:16**
+
+New Java library project ErgoSock (name may change) for P2P connection to nodes without needing http api is finished. Will be released soon.
+
+Satergo stable release 3 is close to release. Final refinements on the new wallet format
+
+---
+
+**2022-06-09T18:55:51**
+
+This release is problematic for Satergo's automatic latest node downloader https://github.com/ergoplatform/ergo/releases/tag/testnet-sync
+
+---
+
+**2022-06-09T18:55:57**
+
+Is there any metadata to filter out these?
+
+---
+
+**2022-06-09T18:56:54**
+
+Other than pattern matching the tag v(digits).(digits).(digits) (for example v4.0.31 vs testnet-sync) I can't see anything obvious
+
+---
+
+**2022-06-09T18:57:48**
+
+The issue is urgent honestly
+
+---
+
+**2022-06-09T19:01:30**
+
+Unless the releases can be tagged like [stable] or [whatever] the only proper fix without version string matching I can see is a database list of versions that I would have to keep updated and most certainly forget about
+
+---
+
+**2022-06-10T02:07:39**
+
+That would be enough, thanks. If you can mark the current ones as pre-release as well that would be cool.
+
+---
+
+**2022-06-10T11:21:59**
+
+Yes. Thanks.
+
+---
+
+**2022-06-13T18:26:29**
+
+I just updated appkit and BoxOperations.selectTop is deleted? What do I use instead?
+
+---
+
+**2022-06-13T18:27:01**
+
+And ctx.getUnspentBoxesFor is deprecated...?
+
+---
+
+**2022-06-13T18:32:02**
+
+I found BoxSelectorsJavaHelpers which seems far simpler than the new BoxOperations which needs many more parameters
+
+---
+
+**2022-06-14T12:37:39**
+
+It might be too much to ask but can you show me a sample of getUnspentBoxesFor? Not sure how to obtain this new BlockchainDataSource
+
+---
+
+**2022-06-18T06:33:31**
+
+Does anybody have testnet tokens they can send?
+
+---
+
+**2022-06-18T06:33:56**
+
+It would be helpful if it's at least 2 different
+
+---
+
+**2022-06-18T07:56:31**
+
+I can't download the entire node on this computer just to use the minter ui
+
+---
+
+**2022-06-18T17:45:44**
+
+For whatever reason ergofaucet.org now requires discord? Wth? Can anybody send me some testnet erg...ugh...?
+
+---
+
+**2022-06-19T04:06:25**
+
+Thanks sir
+
+---
+
+**2022-06-22T08:19:27**
+
+Satergo v0.0.3 is getting released in about one hour!
+
+- Program is 50% smaller
+- Node operations (setting API key & public address, opening .conf file, unlocking, setting public address)
+- Transaction history (for finished ones)
+- Setting to require password for sending
+- Selecting which addresses to send from
+- Price chart (24h, 7d, 30d, 90d, 1y, Max)
+- Optimized selection from multiple addresses
+- Selecting change address
+- More tasks are done in the background to not freeze the UI
+
+- Token icons
+- Navigation bar
+- Content adapts to window width
+- Keyboard navigation on mnemonic repetition
+- Improved node downloader
+- Fixed issue where adding multiple entries of the same token in one transaction was allowed (but broken)
+
+---
+
+**2022-06-27T10:11:23**
+
+Kushti can you reply to my private message please
+
+---
+
+**2022-06-30T08:05:31**
+
+Can discord verification be removed from ergofaucet. At least the testnet ergofaucet please. Captcha was enough, putting discord wall is not good
+
+---
+
+**2022-07-01T02:58:31**
+
+Which Java version do you need for ergo source code? I loaded it with Java 17 but I get errors from "sbt"
+
+---
+
+**2022-07-01T03:01:41**
+
+Ugh I uninstalled java 8 long ago
+
+---
+
+**2022-07-01T03:01:52**
+
+It's time to move on
+
+---
+
+**2022-07-01T03:02:21**
+
+Latest supported version you mean?
+
+---
+
+**2022-07-01T03:02:42**
+
+17 is latest LTS and I used it but didn't work
+
+---
+
+**2022-07-01T03:03:05**
+
+Not sure what you are talking about, even the new Spring requires Java 17
+
+---
+
+**2022-07-01T03:03:14**
+
+Lol
+
+---
+
+**2022-07-01T03:04:38**
+
+Sir that is not the new spring
+
+---
+
+**2022-07-01T03:04:58**
+
+Spring 3.0 requires Java 17
+
+---
+
+**2022-07-01T03:06:43**
+
+The initializr is wrong then. I have read their blog posts about this
+
+---
+
+**2022-07-01T03:07:16**
+
+Maybe they changed their mind, idk
+
+---
+
+**2022-07-01T03:08:02**
+
+I believe android 4 used java 7 but that is very old and unsupported now
+
+---
+
+**2022-07-01T03:11:31**
+
+I could load the project with Java 15 so it is probably a small issue in sbt
+
+---
+
+**2022-07-01T03:12:36**
+
+R8 tho, and newer androids have openjdk 11
+
+---
+
+**2022-07-01T03:14:06**
+
+Yes, my minimum support is usually 4.4 or 5
+
+---
+
+**2022-07-01T07:19:49**
+
+That moment when I just wanted to implement the ergotransaction modifier class but it keeps going deeper 😒 Deserializer calling deserializer calling .... .... .... ugh
+
+---
+
+**2022-07-01T07:20:23**
+
+This chain will make me end up implementing entire sigma protocol
+
+---
+
+**2022-07-01T07:47:47**
+
+I'm implementing the entire p2p layer. I had done all the messages and now I am doing the modifiers which is what the objects like transaction etc are called.
+
+Also, scala makes my eyes burn I understand barely anything
+
+---
+
+**2022-07-01T07:49:04**
+
+I almost would prefer to read java bytecode. Almost. (jk)
+
+---
+
+**2022-07-01T16:08:49**
+
+So I don't know how many people are knowledgeable in the protocol but I can't seem to figure out modifier type IDs. In some places they are bytes, in other byte[32]?? I'm so confused
+
+---
+
+**2022-07-01T16:17:25**
+
+There seems to be ModifierTypeId (byte) and ModifierId (byte[32])
+
+---
+
+**2022-07-02T10:28:51**
+
+https://github.com/Satergo/Satergo/blob/master/wallet-format.md
+
+---
+
+**2022-07-02T10:30:26**
+
+Oh you said private key I thought wallet lol
+
+---
+
+**2022-07-02T12:43:50**
+
+There are not many seed peers in mainnet either. It's not impossible to ddos them and block entry for most people who don't know how to add more peers or where to find them
+
+---
+
+**2022-07-02T14:02:15**
+
+Wow your first message I always see you in Seen list but never in chat
+
+---
+
+**2022-07-02T15:09:25**
+
+Maybe there should be a blog post, video and post in the news tg channel about the new blockchain. It's just testnet but it's still important
+
+---
+
+**2022-07-02T15:14:24**
+
+Makes sense but personally I don't watch the AMAs (too long) so I didn't know it was talked about
+
+---
+
+**2022-07-03T05:37:47**
+
+@zargarzadehmoein can you remove discord requirement please? It makes no sense for testnet, excluding people who don't use discord
+
+---
+
+**2022-07-03T09:09:06**
+
+The testnet reset seems to be very badly planned.
+
+One of seeder nodes was dead
+No blog post
+Explorer on wrong blockchain
+Faucet broken
+
+---
+
+**2022-07-03T11:32:58**
+
+Ok
+
+---
+
+**2022-07-04T14:04:25**
+
+imo this is unnecessary
+
+---
+
+**2022-07-04T14:10:02**
+
+but you never properly discussed with me
+
+---
+
+**2022-07-05T12:11:43**
+
+Pro tip for node runners, if you use Satergo you get one-click updates that are automatically checked
+
+---
+
+**2022-07-06T09:07:08**
+
+this message is great
+
+---
+
+**2022-07-09T01:56:41**
+
+Wow $30k. Unless he is rich that must be very painful
+
+---
+
+**2022-07-09T01:59:52**
+
+The bug was with sigma-rust so this exact bug probably doesn't exist in appkit but I'm not the appkit dev, if there is such a bug in appkit then your app is affected too
+
+---
+
+**2022-07-09T02:02:51**
+
+I don't know the inner workings of boxes and stuff.
+
+For another project I have implemented part of the sigma protocol reading the node source code but I can't know if there is an error in the source code, I just rewrote it with same logic but adapted.
+
+---
+
+**2022-07-09T02:05:04**
+
+No
+
+---
+
+**2022-07-09T02:06:20**
+
+Explorer isn't always used for transaction. Only nautilus does this I think. Other wallets send directly to the node and the node is not the place to implement this kind of security because it cannot know if the sender actually intended to burn or not and it's extra processing power to check every transaction
+
+---
+
+**2022-07-09T02:08:21**
+
+max amount of tokens in a box is 255, sounds like it bugged out when there were more
+
+---
+
+**2022-07-09T02:11:00**
+
+It would break all tools that intentionally exclude tokens from outputs. Not viable in my opinion. The place to add this could be in the transaction builder tools to need a flag to allow for this behaviour
+
+---
+
+**2022-07-09T02:13:38**
+
+We don't know all tools that exist. It is a very centralized thing to change a core property of the blockchain even if it is for safety
+
+---
+
+**2022-07-09T02:40:39**
+
+When is the standard bip32 derivation flag getting merged?
+
+---
+
+**2022-07-09T02:40:55**
+
+It was many months ago now and it is an important thing
+
+---
+
+**2022-07-09T03:38:48**
+
+There is no reason to drop support for older nodes. That would just shrink the network. Ergo prefers soft forks and there was a video of how for example fees could be changed without breaking old nodes.
+
+---
+
+**2022-07-09T03:39:23**
+
+Macroeconomic upgrades through something something I don't remember the name. Supporting old nodes is taken seriously
+
+---
+
+**2022-07-09T03:40:59**
+
+I don't know. Likely the issue is with the new nodes not being backwards-compatible then.
+
+---
+
+**2022-07-09T05:49:47**
+
+I agree
+
+---
+
+**2022-07-09T06:15:19**
+
+Great, thank you. In Satergo I will probably make it so when problematic seeds are generated it will re-generate and when restoring it will compare both to see which one has been used before
+
+---
+
+**2022-07-09T07:36:40**
+
+Smh github thinks .es is javascript because ecmascript
+
+---
+
+**2022-07-09T13:26:07**
+
+Um, node and explorer is not the same thing. Of course there will be two different endpoints
+
+---
+
+**2022-07-10T15:08:59**
+
+It is not related to explorer. Only to the sigma-rust library which is used in all browser extension wallets.
+
+---
+
+**2022-07-10T15:09:45**
+
+Satergo and the ergo android wallet are unaffected
+
+---
+
+**2022-07-11T11:27:43**
+
+No, only nautilus does that
+
+---
+
+**2022-07-15T08:21:12**
+
+Serialized as a peer feature is better
+
+---
+
+**2022-07-18T14:49:07**
+
+I just updated my node to 4.0.34 since the previous version it was running didn't sync but this doesn't sync either. The panel says active synchronization but /info says fullHeight: null
+
+---
+
+**2022-07-18T14:49:53**
+
+I haven't run this node for quite a while it was 4.0.20.1 before
+
+---
+
+**2022-07-18T15:25:22**
+
+Almost 1 hour later still nothing
+
+---
+
+**2022-07-18T15:30:08**
+
+JDK 18, maybe this JDK is unsupported? I was using JDK 17 last time I ran the node.
+
+---
+
+**2022-07-18T15:31:59**
+
+[ergoref-akka.actor.internal-dispatcher-2] [akka://ergoref/user/$b] assertion failed
+akka.actor.ActorInitializationException: akka://ergoref/user/$b: exception during creation
+
+---
+
+**2022-07-18T15:56:47**
+
+Hm
+
+---
+
+**2022-07-18T15:57:12**
+
+I could delete the blockchain data but that is pain
+
+---
+
+**2022-07-18T16:18:01**
+
+I don't use docker I use Satergo for running my node (but that's not why it's broken)
+
+---
+
+**2022-07-18T16:25:15**
+
+well, it was running an old version first, but it didn't work so i updated but it still doesn't work
+
+---
+
+**2022-07-18T17:18:56**
+
+I deleted the blockchain and restarted
+
+---
+
+**2022-07-18T18:12:01**
+
+Well I copied the folder before deleting the blockchain so I can check
+
+---
+
+**2022-07-18T18:13:34**
+
+[ergoref-akka.actor.internal-dispatcher-2] [akka://ergoref/user/$b] assertion failed
+akka.actor.ActorInitializationException: akka://ergoref/user/$b: exception during creation
+  at akka.actor.ActorInitializationException$.apply(Actor.scala:196)
+  at akka.actor.ActorCell.create(ActorCell.scala:661)
+  at akka.actor.ActorCell.invokeAll$1(ActorCell.scala:513)
+  at akka.actor.ActorCell.systemInvoke(ActorCell.scala:535)
+  at akka.dispatch.Mailbox.processAllSystemMessages(Mailbox.scala:295)
+  at akka.dispatch.Mailbox.run(Mailbox.scala:230)
+  at akka.dispatch.Mailbox.exec(Mailbox.scala:243)
+  at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+  at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+  at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+  at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+  at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: java.lang.reflect.InvocationTargetException
+  at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:79)
+  at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+  at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
+  at akka.util.Reflect$.instantiate(Reflect.scala:73)
+  at akka.actor.ArgsReflectConstructor.produce(IndirectActorProducer.scala:101)
+  at akka.actor.Props.newActor(Props.scala:226)
+  at akka.actor.ActorCell.newActor(ActorCell.scala:613)
+  at akka.actor.ActorCell.create(ActorCell.scala:640)
+  ... 10 more
+Caused by: java.lang.AssertionError: assertion failed
+  at scala.Predef$.assert(Predef.scala:208)
+  at scala.Predef$Ensuring$.ensuring$extension2(Predef.scala:320)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$$anon$1.<init>(PersistentBatchAVLProver.scala:57)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.$anonfun$create$1(PersistentBatchAVLProver.scala:50)
+  at scala.util.Try$.apply(Try.scala:213)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.create(PersistentBatchAVLProver.scala:50)
+  at scorex.crypto.authds.avltree.batch.PersistentBatchAVLProver$.create(PersistentBatchAVLProver.scala:69)
+  at org.ergoplatform.nodeView.state.UtxoState$.create(UtxoState.scala:244)
+  at org.ergoplatform.nodeView.state.ErgoState$.readOrGenerate(ErgoState.scala:285)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder.restoreState(ErgoNodeViewHolder.scala:384)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder.<init>(ErgoNodeViewHolder.scala:74)
+  at org.ergoplatform.nodeView.UtxoNodeViewHolder.<init>(ErgoNodeViewHolder.scala:711)
+  at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+  ... 17 more
+
+---
+
+**2022-07-18T18:15:27**
+
+[ergoref-akka.actor.default-dispatcher-10] [akka://ergoref/user/$b] Message [org.ergoplatform.nodeView.ErgoNodeViewHolder$ReceivableMessages$GetNodeViewChanges] from Actor[akka://ergoref/user/$c#-195786865] to Actor[akka://ergoref/user/$b#1704980448] was not delivered. [1] dead letters encountered. If this is not an expected behavior then Actor[akka://ergoref/user/$b#1704980448] may have terminated unexpectedly. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
+
+---
+
+**2022-07-18T18:16:06**
+
+o.e.n.ErgoReadersHolder - Readers are not initialized yet : (None,None,None,None)
+I don't know what's relevant
+
+---
+
+**2022-07-18T18:17:16**
+
+4.0.34 sir
+
+---
+
+**2022-07-18T18:18:40**
+
+The rest is just peer stuff so not relevant really
+
+---
+
+**2022-07-19T15:25:38**
+
+Is it normal to get extreme spam of "state collector got strange input"
+
+---
+
+**2022-07-19T15:49:09**
+
+stats collector*
+
+---
+
+**2022-07-19T17:47:47**
+
+this node is really strange it killed the http api when the syncing finished and also ignores any input like CTRL+C
+
+---
+
+**2022-07-19T17:48:53**
+
+legit had to kill -9
+
+---
+
+**2022-07-19T18:03:17**
+
+Not really other than that it is the same broken node from yesterday I just deleted the blockchain data
+
+---
+
+**2022-07-20T08:11:15**
+
+Satergo v1.4.0 has been released! https://satergo.com
+
+- Added offline mode to manage addresses, the mnemonic and the password
+- Chart excludes incorrect CoinGecko data from before mainnet started
+- Sync progress now shows block progress after headers finish syncing
+- Chart matches your theme
+- Fixed file permissions in the downloads
+- Node overview shows amount of connected peers
+- Changes to node updater
+- Skipped version to 1.4.0 to clarify that the program is stable
+
+---
+
+**2022-07-22T12:00:30**
+
+In Java 17 you can use HexFormat for that
+
+---
+
+**2022-07-22T12:07:26**
+
+Maybe a visual glitch?
+
+---
+
+**2022-07-22T16:52:11**
+
+ergonodes.net
+
+Updates once a day, will make it hourly soon. Dark theme messes up the map a little. Mobile layout is not made. Nodes per day is empty because I just deployed it
+
+---
+
+**2022-07-22T16:57:25**
+
+Oh, mobile layout seems fine. Pleasant surprise
+
+---
+
+**2022-07-22T18:07:34**
+
+The explorer has a cloudflare verification running? A user who is on tor cannot use Satergo because instead of getting the balance, the response is the HTML of the cloudflare verification. Can this be disabled, please?
+
+---
+
+**2022-07-23T11:15:33**
+
+It is literally browser verification for an API. It should absolutely be disabled
+
+---
+
+**2022-07-24T08:31:13**
+
+What a short name 👀
+
+---
+
+**2022-07-24T14:08:51**
+
+Who is in charge of the explorer & explorer API servers hosted at ergoplatform.com?
+
+---
+
+**2022-07-24T14:28:48**
+
+@oskin @Dmitry Usov Please disable cloudflare browser verification on the explorer API. An API should not have browser verification, it makes no sense and breaks non-browser access (from programs and code) for Tor users
+
+---
+
+**2022-07-24T14:34:37**
+
+A user had problems with this so I had to switch to GetBlok's explorer API
+
+---
+
+**2022-07-24T14:39:24**
+
+The user is gone but sure I can try instead
+
+---
+
+**2022-07-24T14:41:58**
+
+It seems to not go through browser verification anymore, thanks for disabling that
+
+---
+
+**2022-07-24T17:05:02**
+
+I never talked about the entire site :)
+
+---
+
+**2022-07-24T17:06:38**
+
+yeah whatever lol
+
+---
+
+**2022-07-24T17:08:54**
+
+yeah i wasn't clear in the first message
+
+---
+
+**2022-07-25T13:07:14**
+
+Why is the node not runnable from a terminal-less process? Running with java.lang.Process caused issues so I had to use a PTY (pseudo-terminal) library. Can this be fixed or am I doing something wrong because I'd like to drop the PTY library.
+
+---
+
+**2022-07-25T13:17:18**
+
+It was broken in an older version but seems to work now. I will keep syncing for a while to see if it breaks or not
+
+---
+
+**2022-07-25T13:21:09**
+
+STDOUT seems to be broken. The only output I got is
+
+INFO  [main] org.ergoplatform.ErgoApp - Running with args: Args(Some(ergo.conf),Some(MainNet))
+
+---
+
+**2022-07-25T13:23:37**
+
+I can send the entire file I used so you can just "java Main" in the terminal
+
+---
+
+**2022-07-25T13:23:46**
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+
+public class Main {
+
+  private static Path findJavaBinary() {
+    Path javaInstallation = Path.of(System.getProperty("java.home"));
+    Path binDirectory = javaInstallation.resolve("bin");
+    if (Files.exists(binDirectory.resolve("java.exe")))
+      return binDirectory.resolve("java.exe");
+    return binDirectory.resolve("java");
+  }
+
+  public static void main(String[] args) throws IOException {
+    String nodeJar = "ergo-4.0.35.jar";
+
+    Process process = new ProcessBuilder().command(
+        findJavaBinary().toString(), "-jar", "-Dlogback.stdout.level=INFO", nodeJar, "--mainnet", "-c", "ergo.conf"
+    ).inheritIO().start();
+  }
+}
+
+---
+
+**2022-07-25T13:28:15**
+
+When running same thing with the Java library pty4j, stdout is fine:
+
+PtyProcess ptyProcess = new PtyProcessBuilder(new String[]{
+  findJavaBinary().toString(), "-jar", "-Dlogback.stdout.level=INFO", nodeJar, "--mainnet", "-c", "ergo.conf"
+}).start();
+ptyProcess.getInputStream().transferTo(System.out);
+
+---
+
+**2022-07-25T13:31:58**
+
+Or, you can use ASM and generate an inherited class for it through bytecode and load the class at runtime.
+
+(Don't do that, way overkill)
+
+---
+
+**2022-07-25T13:32:59**
+
+Pain
+
+---
+
+**2022-07-25T15:25:30**
+
+Found anything?
+
+---
+
+**2022-07-27T17:54:50**
+
+Why do many nodes report 169.254.x.x as IP? I believe when there is no declaredAddress, either the node which doesn't have it or a node that it connects to makes it up, but it looks like a bug to me
+
+---
+
+**2022-07-27T17:55:03**
+
+Then again I'm not sure if null is any better
+
+---
+
+**2022-07-27T17:55:16**
+
+169.254.x.x IPs are reserved
+
+---
+
+**2022-07-28T07:40:15**
+
+Sir I'm not in discord and what is there for me to see?
+
+---
+
+**2022-07-29T07:00:31**
+
+@MarantzCube It's quite clear what is shown
+
+---
+
+**2022-07-29T08:16:34**
+
+It's alive 👀
+
+---
+
+**2022-08-02T15:44:36**
+
+Sir it's too early. Tomorrow 13:00 UTC
+
+---
+
+**2022-08-05T08:35:01**
+
+Is the testnet faucet broken?
+
+---
+
+**2022-08-05T08:35:12**
+
+It says I have already received ERG, but I have never
+
+---
+
+**2022-08-05T08:35:17**
+
+it's a brand new wallet
+
+---
+
+**2022-08-05T08:36:00**
+
+3WyNybM9xByMiHuokPSH5eKjQSbqPicoZYhzxbdxCotFn3HaYX9R
+
+---
+
+**2022-08-05T09:14:23**
+
+Thank you
+
+---
+
+**2022-08-06T13:17:58**
+
+Just make sure to not call it dedecentralization
+
+---
+
+**2022-08-06T13:18:37**
+
+ErgoTeam is not a good name at all
+
+---
+
+**2022-08-07T12:43:21**
+
+Not anymore, but you can use sigma-rust webassembly
+
+---
+
+**2022-08-07T15:36:22**
+
+It seems like that project he linked is a http api so i doubt
+
+---
+
+**2022-08-07T15:37:23**
+
+I suggest you just simply use sigma-rust. It is used on most dapp user interfaces
+
+---
+
+**2022-08-08T05:26:37**
+
+Long ago I was doing an embedded browser in Satergo, but I found out that it didn't support webassembly :/
+
+---
+
+**2022-08-08T06:26:57**
+
+Idk what that is. I just used the one my ui toolkit provided and it is based on webkit but wasm is disabled. Either way, it was a bad idea even if I planned to make the embedded browser a separate download, it's overkill.
+
+---
+
+**2022-08-08T06:29:38**
+
+No, definitely not
+
+---
+
+**2022-08-08T06:29:43**
+
+I use JavaFX
+
+---
+
+**2022-08-08T10:40:22**
+
+@greenhat Any reason sigma-rust has jni bindings?
+
+---
+
+**2022-08-08T10:41:28**
+
+Appkit..?
+
+---
+
+**2022-08-08T10:42:10**
+
+It sounds unnecessary to use a native lib when there is a pure java/scala implementation
+
+---
+
+**2022-08-08T10:53:37**
+
+Did 2.12 update to a new JDK? I think android is on jdk 11 now so it should be ok?
+
+---
+
+**2022-08-08T10:53:57**
+
+Now I know at least why all of ergo's libraries have a 2.11 and 2.12 variant
+
+---
+
+**2022-08-08T11:02:33**
+
+Current lts is 17 and I'm quite sure at one point they upgraded their jdk.
+
+There was regex inconsistency in old android vs standard java but by moving to openjdk that got solved.
+
+---
+
+**2022-08-08T11:03:54**
+
+https://arstechnica.com/tech-policy/2016/01/android-n-switches-to-openjdk-google-tells-oracle-it-is-protected-by-the-gpl/
+
+---
+
+**2022-08-08T11:04:36**
+
+Sir I don't get what you mean with 11 is current LTS. It is not
+
+---
+
+**2022-08-08T11:37:17**
+
+So?
+
+---
+
+**2022-08-08T11:38:54**
+
+You're not trying to tell me that the oldest LTS is the one that matters, right? That would make no sense, in fact, LTS is not something you or I should even care about. It is for big enterprises that pay for support from the distributors
+
+---
+
+**2022-08-08T12:48:56**
+
+R8 and D8 let you use features past 7 on android
+
+---
+
+**2022-08-08T12:49:19**
+
+Though, I don't know what we are discussing anymore
+
+---
+
+**2022-08-08T12:51:16**
+
+Seems like we got far off track
+
+---
+
+**2022-08-08T12:52:56**
+
+You can use streams and datetime
+
+---
+
+**2022-08-08T12:56:07**
+
+Ok
+
+---
+
+**2022-08-08T12:56:20**
+
+But streams and datetime are jdk stuff, not language stuff
+
+---
+
+**2022-08-08T12:56:21**
+
+https://developer.android.com/reference/java/time/package-summary
+
+---
+
+**2022-08-08T12:56:25**
+
+Api level 26
+
+---
+
+**2022-08-08T12:57:48**
+
+So they have updated the device jdk. It is not 7 still
+
+---
+
+**2022-08-08T13:05:11**
+
+I can clearly see that java.time was added in API 26, I don't see how that could be wrong but ok
+
+We usually disagree on stuff anyways 🤔
+
+---
+
+**2022-08-08T13:08:50**
+
+So you want to support pre-Oreo devices? Fair, I would too, but it can't be said that Scala doesn't support Android in general. It can be said that it doesn't support old versions anymore
+
+---
+
+**2022-08-08T13:12:55**
+
+I never requested it to be dropped
+
+---
+
+**2022-08-13T04:14:51**
+
+Please change the name of ErgoTeam. It is the ultimate confusion
+
+---
+
+**2022-08-13T07:14:12**
+
+https://github.com/ergoplatform/ergo/pull/1806
+
+---
+
+**2022-08-13T13:21:52**
+
+Satergo v1.4.1 has been released! https://satergo.com
+
+- Fixed node updating on Windows
+- Sending is now properly disallowed until the node has synced
+- Added a Fetch IP button to the "Set public address" node shortcut
+- Fixed renaming addresses
+- Improved node updater: now shows a progress bar and writes to the log when finished
+- Fixed "Change API key" and "Set public address" node shortcuts
+- Fixed issue with transacting from non-master addresses
+- Fixed that some data stopped updating after node restart
+- Localized date formats
+- Added Portuguese translation
+- ...some more things that you can find at the website
+
+---
+
+**2022-08-13T17:22:59**
+
+Great, it is an important fix
+
+---
+
+**2022-08-14T12:00:58**
+
+I'm the person that took months to pick a name for a wallet, I'm not the right person to ask here
+
+---
+
+**2022-08-14T12:01:32**
+
+:)
+
+---
+
+**2022-08-14T12:05:24**
+
+How about CollaborateErgo
+
+---
+
+**2022-08-14T12:05:26**
+
+lol
+
+---
+
+**2022-08-14T12:05:45**
+
+😂
+
+---
+
+**2022-08-14T12:11:22**
+
+Ballot4Ergo
+
+---
+
+**2022-08-15T02:52:28**
+
+Great, thank you
+
+---
+
+**2022-08-15T04:35:31**
+
+Does ergo have a transaction index by default or does this change make so it has one, or does this change search through the entire blockchain for every request
+
+---
+
+**2022-08-15T06:11:25**
+
+You should rename the category to "blockchain" instead of "extra"
+
+---
+
+**2022-08-15T07:28:00**
+
+How large is the index? Does it degrade the node performance?
+
+---
+
+**2022-08-15T07:28:30**
+
+As in does the scan degrade the performance, not the index
+
+---
+
+**2022-08-15T08:48:14**
+
+Ok, but I believe it isn't a requirement for nodes to store the blockchain, what happens when you try to access such a node
+
+---
+
+**2022-08-15T08:49:40**
+
+Ok
+
+---
+
+**2022-08-15T10:37:56**
+
+oops
+
+---
+
+**2022-08-15T10:38:09**
+
+smh..
+
+---
+
+**2022-08-15T15:16:16**
+
+I disagree. It's nicer to have it all under a category. Since all of those check the blockchain, it is logical to have them in a category and they can be found more easily
+
+---
+
+**2022-08-15T15:35:11**
+
+Ergonodes API provides country codes
+
+---
+
+**2022-08-15T15:41:13**
+
+It was also requested that I add city which would include longitude and latitude
+
+---
+
+**2022-08-15T17:37:28**
+
+yeah like how bitcoin has txindex off by default, this is a good idea [unless fanta's implementation has very very low overhead]
+
+---
+
+**2022-08-15T17:40:57**
+
+sounds like kelp
+
+---
+
+**2022-08-16T02:06:08**
+
+No
+
+---
+
+**2022-08-17T08:01:26**
+
+Satergo v1.4.1 was released last Saturday
+
+- Fixed node updating on Windows
+- Sending is now properly disallowed until the node has synced
+- Added a Fetch IP button to the "Set public address" node shortcut
+- Fixed renaming addresses
+- Improved node updater: now shows a progress bar and writes to the log when finished
+- Fixed "Change API key" and "Set public address" node shortcuts
+- Fixed issue with transacting from non-master addresses
+- Fixed that some data stopped updating after node restart
+- Localized date formats
+- Added Portuguese translation
+- ...some more things that you can find at the website
+
+---
+
+**2022-08-18T11:11:28**
+
+It was not possible to have an IPv6 node until a bug fix I made a few days ago. Though if the problem is on Java before 14, why not just update, I mean updates exist for a reason
+
+---
+
+**2022-08-18T11:15:02**
+
+InetSocketAddress::toString isn't really for serializing addresses. First, it has a concept of resolution. Some getters resolve domains and make the toString format into domain/iphost:port, and invalid ip hosts (user entered) can be confused for domains.
+
+---
+
+**2022-08-22T08:35:38**
+
+What is the [31m?
+
+---
+
+**2022-08-22T08:41:20**
+
+This issue also appears in the satergo node log when running on Windows. I wonder how it can be fixed
+
+---
+
+**2022-08-22T08:45:13**
+
+Any links?
+
+---
+
+**2022-08-22T08:46:35**
+
+I think ergo uses a library called akka for buffers or whatever, it could also be related to it as well
+
+---
+
+**2022-08-22T09:20:29**
+
+\033[31m (where \033 turns into a non-printable symbol called ESCAPE) is the ANSI code for red
+
+---
+
+**2022-08-22T09:22:05**
+
+But the issue I've been seeing on Windows is "\033[0K" which means "erase from cursor to end of line"
+
+---
+
+**2022-08-22T09:22:25**
+
+So this all seems to be with either akka or ergo's logging stuff
+
+---
+
+**2022-08-22T09:26:32**
+
+Fleet? The new jetbrains minimal IDE? what?
+
+---
+
+**2022-08-22T09:31:00**
+
+Ok
+
+---
+
+**2022-08-31T14:48:56**
+
+Ergonodes: Fixed the nodes per day chart being a flat line in landscape orientation on mobile
+
+---
+
+**2022-08-31T14:51:29**
+
+And also some time ago nodes with an unavailable country were added to the top 10 table
+
+---
+
+**2022-09-02T06:12:30**
+
+Which version?
+
+---
+
+**2022-09-02T06:13:17**
+
+You need prerelease 5.0.0 for testnet
+
+---
+
+**2022-09-02T06:14:03**
+
+Yes
+
+---
+
+**2022-09-02T06:14:11**
+
+But you need 5.0.0
+
+---
+
+**2022-09-03T12:32:02**
+
+testnet is a disaster
+
+---
+
+**2022-09-03T12:41:30**
+
+We literally just talked about this. chat history exists for a reason you know
+
+---
+
+**2022-09-03T12:53:24**
+
+you can use satergo, it supports changing explorer
+
+---
+
+**2022-09-06T09:35:21**
+
+Lol you
+
+---
+
+**2022-09-07T12:54:12**
+
+Ergonodes.net updates:
+- Added a browse all nodes section
+- Nodes with unavailable countries are shown in the top 10 countries list
+
+---
+
+**2022-09-07T16:34:08**
+
+Wasn't there already an explorer api but on a different url
+
+---
+
+**2022-09-08T02:39:47**
+
+Great....
+
+---
+
+**2022-09-08T02:46:57**
+
+I barely know what akka is honestly. Doesn't spring need servlet containers like Tomcat? Micronaut or Spark could be better
+
+---
+
+**2022-09-08T02:49:21**
+
+I think micronaut is a better choice (if a switch is even going to be made)
+
+---
+
+**2022-09-08T02:55:48**
+
+Of course it's not an issue right now but it is not possible to keep using an old version forever. A fork or another framework must be used sooner or later
+
+---
+
+**2022-09-08T03:13:25**
+
+Lol I don't know what kind of disaster must happen to make transitioning to rust from the JVM, which is mainly used for servers
+
+---
+
+**2022-09-11T05:18:58**
+
+Isn't the scorex code included in the ergo repo tho?
+
+---
+
+**2022-09-11T05:19:06**
+
+Maybe not the interpreter
+
+---
+
+**2022-09-13T15:32:39**
+
+You can use graal polyglot or load native lib from java
+
+---
+
+**2022-09-13T15:32:51**
+
+Not graalvm native btw, polyglot
+
+---
+
+**2022-09-19T13:33:15**
+
+What is the state of testnet right now, I might remove it from Satergo's full node setup wizard
+
+---
+
+**2022-09-20T18:28:57**
+
+Noo not you, not here, my second last safe spot 😬
+
+---
+
+**2022-09-21T08:39:05**
+
+6.0? We haven't even gotten 5.0
+
+---
+
+**2022-09-23T06:36:30**
+
+Yeah been waiting for this for a long time now, it's a quite big issue
+
+---
+
+**2022-09-23T06:54:25**
+
+Wallets based on the java ergo wallet crypto lib (satergo, mobile wallet) in some cases, i think one in 32, derive different private keys from wallets based on the sigma rust library (yoroi, nautilius) because the java lib has a bug with signed vs unsigned somewhere
+
+---
+
+**2022-09-23T06:55:14**
+
+The lib comes from the node's code so naturally the node wallet also has the bug
+
+---
+
+**2022-09-24T17:37:49**
+
+What the ... This is not ethereum you know
+
+---
+
+**2022-09-25T14:22:43**
+
+Is there any working testnet right now
+
+---
+
+**2022-09-25T14:24:18**
+
+Can I have node & explorer API URL please
+
+---
+
+**2022-09-25T14:24:53**
+
+Also, is there a faucet? I'm going to need some erg
+
+---
+
+**2022-09-25T14:25:45**
+
+Great thank you
+
+---
+
+**2022-09-25T14:30:51**
+
+Also, I'm removing testnet from Satergo's full node setup wizard
+
+---
+
+**2022-09-25T14:31:12**
+
+It'll only be kept in remote node, or if the user downloads it and then imports into Satergo
+
+---
+
+**2022-09-26T15:33:53**
+
+Can relate, Scala is a whole different thing than what most programmers are used to (C-family)
+
+---
+
+**2022-09-27T04:59:18**
+
+New group picture 👀
+
+---
+
+**2022-09-27T06:26:51**
+
+@ziggomatic
+
+---
+
+**2022-09-29T07:21:55**
+
+Still called ErgoTeam?....?....
+
+---
+
+**2022-10-01T15:07:32**
+
+Good to hear, some order finally
+
+---
+
+**2022-10-02T14:47:09**
+
+By the way can anybody check this https://github.com/ergoplatform/ergo/issues/1857
+
+---
+
+**2022-10-05T01:51:05**
+
+Guys can this scam comment get removed https://github.com/ergoplatform/ergo/issues/1860#issuecomment-1266334802
+
+---
+
+**2022-10-05T07:26:58**
+
+Awesome
+
+---
+
+**2022-10-05T08:01:01**
+
+Ergonodes.net update:
+- The charts page has 1 improved and 2 new charts:
+    - the node count chart now separates between reachable/unreachable nodes
+    - new version usage over time chart
+    - new version market share chart
+- The daily snapshots are much more detailed now and can be accessed through the API as well
+
+---
+
+**2022-10-11T11:55:16**
+
+@jellymlg https://github.com/ergoplatform/ergo/pull/1867 I left 2 comments on this
+
+---
+
+**2022-10-11T13:32:50**
+
+New group picture again 👀
+
+---
+
+**2022-10-11T13:50:41**
+
+It's funny when people use HTML tags for development logos
+
+---
+
+**2022-10-11T13:57:02**
+
+Java was my first :P
+
+---
+
+**2022-10-15T10:23:35**
+
+Try this one sir https://gql.mempoolnode.live/
+
+---
+
+**2022-10-17T06:44:26**
+
+This change seems unnecessary https://github.com/ergoplatform/ergo/pull/1867/files#diff-853d81aee22e9e9e1f2a11b2a742b9f81eed9d8b8edf983d03ed93e5f97b7af7
+
+---
+
+**2022-10-17T06:44:58**
+
+Why change Seq.empty to Nil? (Not that I know what they're used for, haha, but seems unnecessary.)
+
+---
+
+**2022-10-17T07:29:11**
+
+Ok I thought Nil is null
+
+---
+
+**2022-10-20T03:27:33**
+
+v4.0.24? The fix got merged 4.0.105, no?
+
+---
+
+**2022-10-20T03:29:19**
+
+I suggest to write a release date as well. So like v4.0.105, 2022-10-??. Might be hard to do if you're intending the pr to get included in 105 though
+
+---
+
+**2022-10-20T06:58:06**
+
+Well the fix was merged 4.0.105 (not released yet). That text is old.
+
+---
+
+**2022-10-26T08:20:55**
+
+Satergo:
+- Design beta 2 was released.
+
+Other:
+- New project stratum4ergo which is both a library and tool to create a solo mining pool server. It will be integrated into Satergo as well.
+
+---
+
+**2022-10-31T10:13:26**
+
+Why was it lowered?
+
+---
+
+**2022-10-31T13:49:57**
+
+I understand, thank you
+
+---
+
+**2022-11-08T17:23:55**
+
+@jellymlg So you ended up using handshake after all? src/main/scala/scorex/core/network/peer/PeerManager.scala Don't you see how this is a serious flaw? Handshakes are made when the connection is established, from what I understand this change now stops broadcasting reliable peers? What???? I even clearly noted this https://github.com/ergoplatform/ergo/pull/1867#issuecomment-1274995126 but when you moved the filter to the correct location the old code returned.
+
+@kushti_ru This PR should be reverted ASAP unless I've misunderstood the lastHandshake property
+
+---
+
+**2022-11-08T17:24:46**
+
+Link copy failed. Here: https://github.com/ergoplatform/ergo/pull/1867/files#diff-e80d90679b19dea0358f1220dca1e4f98319d8910011b4b4c46bd51dd5fa12a4
+
+---
+
+**2022-11-09T02:54:14**
+
+It filters out peers that have been connected for more than 3 hours
+
+---
+
+**2022-11-09T02:57:12**
+
+The goal was to filter out peers that have been disconnected for 3 hours
+
+---
+
+**2022-11-09T03:12:43**
+
+The code you edited is sent in response to the GetPeers message
+
+---
+
+**2022-11-09T06:31:57**
+
+I don't understand what you are saying. The issue was that peers that had been dead for a very long time were still getting shared. As far as I can see that still happens and some weird thing about handshake is added?
+
+---
+
+**2022-11-14T02:56:58**
+
+When server says you lost, close the page
+
+---
+
+**2022-11-14T03:08:58**
+
+Paying upfront to a service that could be a verifiable smart contract but is actually a backend server that might do whatever it wants, perhaps if the amount is high enough to be lucrative?
+
+---
+
+**2022-11-14T03:26:50**
+
+For me it's ErgoDex for at least one more year
+
+---
+
+**2022-11-14T06:27:15**
+
+I want to make an announcement to anybody who can run a node. We don't have a single reachable IPv6 node on the network so users who have an IPv6-only network cannot join the network. Whoever can run a node open on IPv6, please do.
+
+---
+
+**2022-11-14T10:41:36**
+
+Yep. Config needed.
+
+---
+
+**2022-11-14T10:42:04**
+
+Scot started a node accessible on IPv6 and I've told the guy that wanted to run a node what to do
+
+---
+
+**2022-11-14T11:46:11**
+
+Nothing special needed. Just set declaredAddress to your IPv6 address.
+
+---
+
+**2022-11-14T13:05:29**
+
+You can't at the moment. The peer information format in the protocol doesn't allow you to write multiple public addresses. Either a new field or a new peer feature ("extra addresses") needs to be added to support that, which brings the question of how they should be handled by the node.
+
+---
+
+**2022-11-14T13:06:31**
+
+I wonder how it is done by bitcoin, perhaps they also only support one public address.
+
+---
+
+**2022-11-14T14:07:26**
+
+On the bitnodes website tor nodes are shown, I wonder how these are broadcasted. Ergo only supports broadcasting IPs, but tor uses onion domains 🤔
+
+---
+
+**2022-11-15T10:51:50**
+
+Reachable nodes are nodes that can be connected to. It has nothing to do with the web. Unreachable nodes are those broadcasted by other nodes, but that are not open for incoming connections.
+
+---
+
+**2022-11-18T05:49:44**
+
+It's gonna take a while to not think of sam bankman-fraud when reading SPF
+
+---
+
+**2022-11-28T09:31:57**
+
+What about simply using Gradle?
+
+---
+
+**2022-11-28T10:03:46**
+
+It does
+
+---
+
+**2022-11-28T10:04:42**
+
+Can you explain more, I'm curious. Build script just declares dependencies and tasks, what is it that's missing which is needed for scala?
+
+---
+
+**2022-11-30T15:29:35**
+
+The following was done about two weeks ago but I didn't post it:
+- Both of my websites, satergo.com and ergonodes.net are now accessible over IPv6.
+
+Ergonodes.net:
+- Now has a logo and an icon, made by Nadi (author of Satergo's redesign)
+- The chart legends have been made smaller, all versions fit in the list now
+- Enlarged the historical version usage charts
+- Improved dark theme of the charts page
+
+Satergo:
+- Some final small changes remain to finish the new design. Release soon.
+
+---
+
+**2022-12-04T17:11:44**
+
+😂😂😂😂😂
+
+---
+
+**2022-12-04T17:11:51**
+
+Solution: cancel project
+
+---
+
+**2022-12-04T17:15:51**
+
+Rendering html/css in a wallet application is way too much bloat to be implemented imo. And also some amount of risk, including IP leaks and if sanitization is improper (usually is), script execution (further privacy leaks)
+
+---
+
+**2022-12-04T17:16:44**
+
+He should just have a server and make the nfts link to URLs. Perhaps there's some decentralized html hosting, I don't know.
+
+---
+
+**2022-12-08T10:29:57**
+
+@kushti_ru I remember something about akka going closed source, was anything done about this?
+
+---
+
+**2022-12-14T12:25:00**
+
+Ergonodes.net:
+- Versions older than 4.0.30 are now collapsed into a single pie slice
+
+---
+
+**2022-12-14T12:29:46**
+
+It's possible to restore the old behavior by adding ?noVersionCollapse=on to the end of the page URL
+
+---
+
+**2022-12-21T16:09:13**
+
+give the h1 an id and use document.getElementById("myid").innerText = data;
+
+---
+
+**2022-12-21T16:10:52**
+
+yes
+
+---
+
+**2022-12-21T16:11:55**
+
+you prob need to use innerText = data.height instead tho
+
+---
+
+**2022-12-21T16:12:01**
+
+Or it'll say object Object
+
+---
+
+**2022-12-22T16:48:48**
+
+Same
+
+---
+
+**2022-12-23T20:04:42**
+
+Satergo v1.5.0 has been released! https://satergo.com
+
+- Completely remade design (thanks to Nadi)
+- Completely remade design (this is big enough to be mentioned twice)
+- Derived addresses are now automatically restored
+- The rare case of some wallets having different addresses in different wallet programs is handled
+- Setup can be fully navigated using keyboard now
+- Auto-update feature for node
+- Users can load a custom stylesheet to modify the user interface design
+
+https://twitter.com/SatergoWallet/status/1606470698528022528
+
+---
+
+**2022-12-27T08:44:40**
+
+Monero uses LMDB, maybe check that out
+
+---
+
+**2022-12-28T07:04:01**
+
+s
+
+---
+
+**2022-12-28T08:07:49**
+
+Satergo v1.5.0 and v1.5.1 were released last week.
+
+- Completely remade design (thanks to Nadi)
+- Completely remade design (this is big enough to be mentioned twice)
+- Derived addresses are now automatically restored
+- The rare case of some wallets having different addresses in different wallet programs is handled
+- Setup can be fully navigated using keyboard now
+- Auto-update feature for node
+- Users can load a custom stylesheet to modify the user interface design
+
+---
+
+**2023-01-06T12:37:21**
+
+GitHub is a really big risk but honestly there isn't a better solution other than selfhosting a git forge
+
+---
+
+**2023-01-08T15:37:04**
+
+System.out.println is the only real debug 😁
+
+---
+
+**2023-01-15T06:37:20**
+
+Lol I have opened the forums only like 2 times or something
+
+---
+
+**2023-01-17T08:08:00**
+
+I am curious about something. Scala is not a very popular language, why were most Ergo components written in Scala and something more popular like Java? Performance? Better expressiveness? Not a criticism, just curious.
+
+---
+
+**2023-01-20T07:53:44**
+
+Just get gold in usd and erg in usd from reliable sources and calculate?
+
+---
+
+**2023-01-20T08:22:44**
+
+https://metals-api.com/
+
+---
+
+**2023-01-20T08:23:06**
+
+Seems to be used by chainlink and forbes as well
+
+---
+
+**2023-01-20T08:27:07**
+
+Just noticed that they require an API key.
+
+---
+
+**2023-01-20T08:27:38**
+
+Not viable
+
+---
+
+**2023-01-20T12:11:24**
+
+All services I found limit to like 50 or 100 requests per month and need registration. One had much higher limits though, like 44k (thousand, not karat) per month, their website doesn't look serious though
+
+---
+
+**2023-01-21T13:56:12**
+
+Did you fix the get peers filter that got made broken a few months ago?
+
+---
+
+**2023-01-22T03:15:24**
+
+Both tether and bitfinex are massive scams why are you even considering this
+
+---
+
+**2023-01-22T09:14:57**
+
+Xaut is a very bad price source. First, tether backing is shady, bitfinex is known for shady behaviour, and it is a stablecoin (risk of depeg)
+
+---
+
+**2023-01-24T06:17:08**
+
+Sir, you should add kucoin and coinex (example usage from Satergo src: https://github.com/Satergo/Satergo/blob/master/src/main/java/com/satergo/extra/PriceSource.java)
+
+---
+
+**2023-01-24T06:18:15**
+
+https://github.com/Satergo/Satergo/blob/master/src/main/java/com/satergo/extra/PriceSource.java
+
+Link broke because of )
+
+---
+
+**2023-01-24T07:23:10**
+
+You could get rid of coingecko and just use the exchanges directly. This way there's more points of failures
+
+---
+
+**2023-01-24T07:27:06**
+
+But I guess that has the problem of only including the USD and USDT markets while coingecko probably includes the BTC markets as well
+
+---
+
+**2023-01-24T07:37:18**
+
+I'm pretty sure coingecko will include them as well so the same problem with weight applies
+
+---
+
+**2023-01-24T07:38:03**
+
+Not saying that it is possible to fake prices on DEX but there can be large price inconsistencies
+
+---
+
+**2023-01-24T07:38:21**
+
+I know, I said I'm pretty sure they will
+
+---
+
+**2023-01-29T04:11:58**
+
+Are you using Satergo?
+
+---
+
+**2023-01-29T04:14:16**
+
+Ok then (it's not easier)
+
+---
+
+**2023-01-29T04:33:08**
+
+I guess
+
+---
+
+**2023-01-29T04:33:21**
+
+Somebody else could contribute that :)
+
+---
+
+**2023-01-29T17:14:30**
+
+@kushti_ru can you check PM on TG?
+
+---
+
+**2023-01-31T11:42:28**
+
+Hi sirs, anybody know a good way to get token prices from spectrum? Should api or oracle be used? Explorer or spectrum?
+
+---
+
+**2023-01-31T11:52:12**
+
+What's the difference 👀
+
+---
+
+**2023-01-31T11:52:38**
+
+Sounds boring
+
+---
+
+**2023-01-31T11:52:48**
+
+What if it has not been traded for a while?
+
+---
+
+**2023-01-31T11:57:39**
+
+I'll just use the simplest thing 🙃
+
+---
+
+**2023-01-31T11:59:33**
+
+I do wonder how tokens with inflated market cap will affect total valuation though. For example if a random token is created with a massive supply and one is bough for 1 erg by the creator that would make it seem super valuable even though it isn't
+
+---
+
+**2023-02-01T12:22:02**
+
+Ergonodes.net:
+- The version market share chart is fixed (and it is quite interesting)
+- More versions are collapsed into "Older" in the version pie chart
+
+---
+
+**2023-02-02T06:51:34**
+
+Using appkit, how can I sign an UnsignedTransaction with a signature that I have as a byte[]? I'm willing to use internal api if there's no public api to do it
+
+---
+
+**2023-02-02T09:32:09**
+
+No idea I have a byte array of a signature and an unsigned transaction, any way to get a signed transaction object?
+
+---
+
+**2023-02-02T09:34:47**
+
+What I meant is how to get the signed object using the signature and tx so that I can use it in transacting
+
+---
+
+**2023-02-02T12:17:04**
+
+@morphic Solved
+
+---
+
+**2023-02-02T13:17:43**
+
+Anybody experienced on releasing maven artifacts? I have a library with multiple sub-modules that will each be published as separate artifacts, but I do not know whether all of them should use the same version or if I should update them separately
+
+---
+
+**2023-02-03T06:04:30**
+
+Can use my library with a set of known nodes hardcoded then fetching their peers and presenting to the user. Fully decentralized.
+
+Small problem though, 3 or something months ago the node's peer broadcasting was filtered way to strictly (even though I alerted it before the change got merged; fix coming soon) so less nodes will be found but probably enough
+
+---
+
+**2023-02-03T06:06:46**
+
+Hardcode. The node does this. There is a hardcoded array in the config. This is the most decentralized you can get at the moment.
+
+---
+
+**2023-02-03T06:08:15**
+
+Still solves the problem of having a node aggregator as the source of node list
+
+---
+
+**2023-02-03T06:08:44**
+
+You update your array ser. Or somebody creates a DNS seeder like bitcoin uses
+
+---
+
+**2023-02-03T06:09:20**
+
+?
+
+---
+
+**2023-02-03T06:09:23**
+
+You do
+
+---
+
+**2023-02-03T06:09:38**
+
+Disagree
+
+---
+
+**2023-02-03T06:10:00**
+
+You're the app dev and if you want to do malicious things there's many more possibilities than providing a weak node list
+
+---
+
+**2023-02-03T06:11:43**
+
+Not sure what you're meaning when you say I've seen it (maybe I missed some conversation)
+
+Your list can be long, it is extremely unlikely that all nodes in that list die
+
+---
+
+**2023-02-07T10:08:26**
+
+It is 720 on both mainnet and testnet currently
+
+---
+
+**2023-02-07T10:08:44**
+
+Since 5.0.0 I think
+
+---
+
+**2023-02-09T15:27:43**
+
+Hi sir, which of these is the fix for the broken getpeer filtering?
+
+---
+
+**2023-02-09T16:03:15**
+
+Can you do it yourself? Or can you at least remove this broken filtering completely
+
+---
+
+**2023-02-09T16:03:35**
+
+Just revert fantas PR. Better no filter than this
+
+---
+
+**2023-02-11T16:16:27**
+
+That makes no sense and makes it impossible to do backwards-incompatible updates that allow the older alternatives to be used
+
+---
+
+**2023-02-11T16:36:17**
+
+Ok I see what you mean. My bad
+
+---
+
+**2023-02-13T17:45:02**
+
+There is a broadcast transaction explorer endpoint
+
+---
+
+**2023-02-21T08:18:29**
+
+I'm not very knowledgeable in derivation, can anybody tell me if a path like 44'/429'/0'/0/0 is hardened or does the last component also have to be hardened? I was reading this article https://medium.com/@blainemalone01/hd-wallets-why-hardened-derivation-matters-89efcdc71671
+
+---
+
+**2023-02-24T07:29:57**
+
+@alex_slesarenko @morphic Hi sir I'm trying to parse the ErgoTransaction (p2pk) modifier but it always fails and usually with different errors. Kushti told me that I don't need to parse the SigmaValues that are in the ContextExtension but I'm doing that so I suspect my implementation of the sigma values is wrong. Can you help me with parsing this modifier without parsing the sigmavalues in the contextextension?
+
+---
+
+**2023-02-24T07:31:55**
+
+This is in the P2P protocol by the way
+
+---
+
+**2023-02-24T07:33:02**
+
+Java
+
+---
+
+**2023-02-24T07:34:49**
+
+I'm doing my own implementation of the P2P protocol, I've done all the messages but I'm working on the modifiers now. Appkit is using the HTTP api and I would rather not use it (I want to make an alternative impl)
+
+---
+
+**2023-02-24T07:36:29**
+
+The thing is I've already written everything about the ergotransaction modifier it's just that I need to find how to parse it skipping the sigmavalues of the contextextension
+
+---
+
+**2023-02-24T07:36:56**
+
+Kushti said this:
+so you need to find out if first bytes are corresponding to ProveDlog opcode
+and then you can not have anything but EC point as ProveDlog argument
+I.e. no more opcodes
+
+I don't really get it though
+
+---
+
+**2023-02-24T07:39:06**
+
+Likely due to incorrect sigmavalues parsing I get garbled values such as "creationHeight = 8"
+
+---
+
+**2023-02-24T07:39:25**
+
+So I want to skip that if possible
+
+---
+
+**2023-02-24T07:43:43**
+
+Because sigmastate is like 8 MB I don't need all of it
+
+---
+
+**2023-02-24T07:44:23**
+
+I guess I could replace parts of my modifier parsing such as ergotree with sigmastate to see where the culprit is but I'd like to know how to do what kushti suggested
+
+---
+
+**2023-02-24T07:46:59**
+
+yeah I've read the sigmastate src and done that
+
+---
+
+**2023-02-24T07:48:10**
+
+Ok I'll temporarily switch to sigmastate's implementation so I can find where the problem is in my impl
+
+---
+
+**2023-02-24T07:51:53**
+
+It seems like I need to remake my entire code if I want to use sigmastate. It takes a SigmaByteReader but in my setup I use DataInputStream
+
+---
+
+**2023-02-24T07:56:37**
+
+I want to learn more about the protocol and make my own lib so reinventing it is a good way to do this :)
+
+Can you tell me some things about this at least? https://t.me/ErgoDevelopers/11049
+
+---
+
+**2023-02-24T07:59:39**
+
+Thank you
+
+---
+
+**2023-02-24T08:02:57**
+
+I thought SBoolean and SigmaBoolean is the same thing lol. Parsing of SBoolean is just readUByte() != 0
+
+---
+
+**2023-02-24T08:19:43**
+
+When parsing a transaction with empty ContextExtension it reached the ErgoTree parsing part and parsed a constant of Type SByte and value 4 but the next constant had type 0 which causes it to crash as prefix <= 0 is not supported, is this normal or is my parser bugged?
+
+---
+
+**2023-02-24T08:20:56**
+
+Alright nice to know where the issue is (at least one of the possible issues haha)
+
+---
+
+**2023-02-24T08:27:42**
+
+This could be true but I've implemented so much of it I believe it's easier to just finish my work instead of rewriting it to use SigmaByteReader & co.
+
+---
+
+**2023-02-24T08:44:14**
+
+Is ErgoTree header with value 0 normal? what about with value 16?
+
+---
+
+**2023-02-24T08:46:11**
+
+I've confirmed that all parsing up until ErgoTree is fine. Then it parses the header (gotten 0 once and 16 from another TX) but after getting the uint nConsts the next ubyte (data type) is 0 which is invalid
+
+---
+
+**2023-02-24T08:47:03**
+
+Right I forgot the pdf, thank you
+
+---
+
+**2023-02-24T08:52:22**
+
+I have found 2 mistakes in this PDF
+
+---
+
+**2023-02-24T08:52:39**
+
+Compared to SigmaState code
+
+---
+
+**2023-02-24T08:53:58**
+
+In the sigmastate code getByte() is used for the header, while the PDF says it is a UInt. Also, it says "end for" where it should say "end if"
+
+---
+
+**2023-02-24T08:55:47**
+
+I don't know how to edit PDFs
+
+---
+
+**2023-02-24T08:59:10**
+
+Ok got it
+
+---
+
+**2023-02-24T08:59:17**
+
+I'll do it once I've fixed my program
+
+---
+
+**2023-02-24T08:59:41**
+
+But I will have to look at the code, there could be other mistakes in the PDF leading to incorrect impl
+
+---
+
+**2023-02-24T09:08:45**
+
+I think I found the issue. I had extended DataInputStream to count the amount of bytes read for the ErgoTree (so an array propositionBytes could be made), but even though I thought about absolutely not doing it I mistakenly used super.read() twice in the read() so every time a byte was read, one was read and the second was returned. Oh well.
+
+---
+
+**2023-02-24T09:09:43**
+
+At least this got me to find a mistake in the specification, so something good came out of it..
+
+---
+
+**2023-02-24T16:25:44**
+
+While trying to not have my head explode due to super complex scala code I encountered the "RType" class/trait/object/case class/interface/enum/idk, what is this? I can't figure out the difference between SType and RType
+
+---
+
+**2023-02-24T16:28:26**
+
+    tpeElem match {
+      case SBoolean =>
+        Colls.fromArray(r.getBits(len)).asInstanceOf[Coll[T#WrappedType]]
+      case SByte =>
+        Colls.fromArray(r.getBytes(len)).asInstanceOf[Coll[T#WrappedType]]
+      case _ =>
+        implicit val tItem = (tpeElem match {
+          case tTup: STuple if tTup.items.length == 2 =>
+            Evaluation.stypeToRType(tpeElem)
+          case _: STuple =>
+            collRType(RType.AnyType)
+          case _ =>
+            Evaluation.stypeToRType(tpeElem)
+        }).asInstanceOf[RType[T#WrappedType]]
+        val b = { // this code works both for Scala 2.12 and 2.13
+          implicit val ct = tItem.classTag
+          mutable.ArrayBuilder.make[T#WrappedType]
+        }
+        for (_ <- 0 until len) {
+          b += deserialize(tpeElem, r)
+        }
+        Colls.fromArray(b.result())
+
+The first part of this code makes sense. Ok, if boolean then handle it, if byte then handle it, then it turns into something that looks like decompiled code
+
+---
+
+**2023-02-24T16:32:53**
+
+I think the meaning of that code is actually just
+      List<Object> something = new ArrayList<>();
+      for (int i = 0; i < length; i++) {
+        something.add(deserialize(component, in));
+      }
+      return something;
+
+---
+
+**2023-02-24T16:40:33**
+
+I guess so. The ergo code was just a long way of writing what I figured it out to be, presumably because there's 2 different types of types (lol) in ergo's code
+
+---
+
+**2023-02-24T16:43:55**
+
+I think my project might just end here if I can't figure out how to not parse non-constant sigma values because the ergo tree root is a BlockValueCode and implementing all those deserializers will take an eternity. I still don't get what kushti was meaning with this not being required to do to parse p2pk ergotransactions, @kushti_ru can you clarify?
+
+---
+
+**2023-02-24T16:47:03**
+
+I need to know if this is feasible because if I take a pause from this project I will not be able to continue due to it's complexity
+
+---
+
+**2023-02-24T16:52:32**
+
+Yeah there's like a ton of different non-constant sigma values, I can't implement those at all.
+
+---
+
+**2023-02-24T16:52:57**
+
+But perhaps there's an alternative route unless I misunderstood kushti
+
+---
+
+**2023-02-24T16:55:02**
+
+Is it common for it to be >=1?
+
+---
+
+**2023-02-24T16:55:29**
+
+So far the size has been null for every transaction I checked
+
+---
+
+**2023-02-24T16:57:14**
+
+Agh
+
+---
+
+**2023-02-24T17:15:51**
+
+@morphic Do p2pk transactions have complex ergotrees as well?
+
+---
+
+**2023-02-24T17:21:25**
+
+If I've understood right they're just ProveDlogs, in which case my use-case is going to work
+
+---
+
+**2023-02-28T11:28:45**
+
+Can't you reverse the response list?
+
+---
+
+**2023-02-28T11:30:30**
+
+Mobile phones have gigabytes of memory, not sure why it matters though
+
+---
+
+**2023-02-28T11:31:52**
+
+Ok, btw, is it possible to request all in this api? Would be helpful for some use cases (I really dislike the forced limits of explorer)
+
+---
+
+**2023-02-28T11:32:10**
+
+Pagination is slow
+
+---
+
+**2023-02-28T11:32:42**
+
+Then so be it. For some features it makes sense
+
+---
+
+**2023-02-28T11:33:17**
+
+500 MB is quite a lot. The entire blockchain is 30 GB, basically impossible that you get 500 MB back
+
+---
+
+**2023-02-28T11:33:43**
+
+Better than explorer's limit but no limit at all would be nice
+
+---
+
+**2023-02-28T11:34:36**
+
+No forced limit*
+
+---
+
+**2023-02-28T11:35:59**
+
+@MrStahlfelge Can this workaround file be removed? https://github.com/ergoplatform/ergo-appkit/blob/197a7c724cb7c36a9227a81cfa8626c6f912ffd1/java-client-generated/src/main/java/retrofit2/RetrofitUtil.java
+
+---
+
+**2023-02-28T11:36:24**
+
+It violates package separation and makes it actually impossible to use appkit in modular projects
+
+---
+
+**2023-02-28T11:39:45**
+
+Thank you, will hopefully do this week when I have time
+
+---
+
+**2023-03-01T15:17:51**
+
+What is this project?
+
+---
+
+**2023-03-05T13:35:58**
+
+Put a date on the token and when it is used deny it if that date has passed
+
+---
+
+**2023-03-05T14:30:47**
+
+Discord auth 👎👎👎👎👎
+
+---
+
+**2023-03-05T14:32:05**
+
+yes
+
+---
+
+**2023-03-05T14:39:38**
+
+http://213.239.193.208:9052
+
+---
+
+**2023-03-05T14:43:01**
+
+10 captchas in a row each harder than the previous
+
+---
+
+**2023-03-05T18:38:14**
+
+if you send MGpai 1 BTC it might take less time to remember :o
+
+---
+
+**2023-03-07T05:29:42**
+
+I also dislike usage of singular "they". I almost always read it as plural and get confused when I finish the sentence
+
+---
+
+**2023-03-08T07:05:04**
+
+Satergo unreleased updates (available in the master branch):
+- Fixed the node log level setting which broke due to changes in the Ergo node
+- Added setting to change the VM arguments of the node, for example limit RAM usage
+- When using the CoinGecko price source, all fiat currencies are now available (rather than just USD and EUR)
+- Translations updated
+- Changed the default testnet host because Ergoplatform's one has been stuck/frozen for almost a month
+
+---
+
+**2023-03-08T08:08:29**
+
+No, some info level messages are sneaking through. You can check in the Satergo chat
+
+---
+
+**2023-03-08T08:29:06**
+
+https://t.me/Satergo/6769
+
+---
+
+**2023-03-15T12:19:25**
+
+Why not use java.net.http for http? It's really good
+
+---
+
+**2023-03-17T11:50:27**
+
+What was darkpool?
+
+---
+
+**2023-03-18T07:21:09**
+
+Optimist
+
+---
+
+**2023-03-18T11:32:57**
+
+And over the next year or so it might get approved
+
+---
+
+**2023-03-18T11:33:27**
+
+The hypothetical update
+
+---
+
+**2023-03-20T06:35:48**
+
+Possible format candidate for onchain nfts https://tinyvg.tech/
+
+---
+
+**2023-03-25T18:56:59**
+
+Tbh I don't get this, even if those utxos are collected they will exist on the blockchain as part of the history.
+
+---
+
+**2023-03-25T19:34:54**
+
+Ok I thought people were talking about blockchain size when saying clutter etc
+
+---
+
+**2023-03-27T08:59:46**
+
+Somebody talked about this once but to me it doesn't make sense. After all, you need access to a node or an explorer to get the data in the first place, why not use the one that you already have.
+
+---
+
+**2023-03-27T09:00:22**
+
+And if you need different instances you just request the peer list of your peers
+
+---
+
+**2023-03-27T09:02:57**
+
+I'm guilty as well 😂 I haven't put much work into the remote node functionality in Satergo. But yes this can easily be done, for example with my ergohack 4 library (Which is the one used by ergonodes.net itself)
+
+---
+
+**2023-03-31T18:49:38**
+
+Java too
+
+---
+
+**2023-04-02T07:44:51**
+
+Well it was only for metrics/analytics and they removed it
+
+---
+
+**2023-04-06T06:43:20**
+
+I don't know why you are requesting to get collaborator access. That is a pretty privileged role
+
+---
+
+**2023-04-13T08:14:31**
+
+It used to be supported directly from the UI but the testnet was not well-managed at all (froze, went down, etc.) and needed separate node versions so I removed it.
+
+But if you go ahead and download the node from the UI, start and then shut it down, remove the blockchain folder and edit MAINNET to TESTNET in the node-info.json it should work.
+
+(Assuming that testnet works with normal node jar nowadays)
+
+---
+
+**2023-04-13T08:16:00**
+
+You could also edit out the 2 attributes that hide the network type selector and compile a new release
+
+---
+
+**2023-04-13T09:30:50**
+
+Ok, should I reintroduce it in the UI for the next release?
+
+---
+
+**2023-04-14T05:55:18**
+
+Fix it sir, put {}
+
+---
+
+**2023-04-14T17:30:26**
+
+What?
+
+---
+
+**2023-04-14T17:30:36**
+
+He is a guy who joined a few hours ago what made you think he is a bot
+
+---
+
+**2023-04-14T17:44:36**
+
+This channel is what you are talking about
+
+---
+
+**2023-04-15T06:16:46**
+
+He left the group char so he won't see your message
+
+---
+
+**2023-04-15T10:05:58**
+
+How come this is not removed
+
+---
+
+**2023-04-15T15:36:19**
+
+Exactly lol
+
+---
+
+**2023-04-15T18:07:06**
+
+@aslesarenko @alex_slesarenko @MrStahlfelge
+
+Appkit uses Retrofit, which uses OkHttp (3). I have a problem, the Satergo process keeps running for 5 minutes after the window has been closed.
+
+I checked the thread dump and the only non-daemon is the OkHttp Http2 one. Now I don't know how I would access Appkit's OkHttp so I can close it when the Application is closed, do you have any ideas? Here is the GitHub issue on OkHttp about their thread not closing: https://github.com/square/okhttp/issues/4029. There is a solution to make it a daemon thread but it is for OkHttp 4, and either way I do not know how I would access Appkit's OkHttp client instance.
+
+---
+
+**2023-04-16T10:15:37**
+
+It would be cool if you can tell me how I can instantiate in this way, up until now I have used RestApiErgoClient.create and made new instances every time.
+
+---
+
+**2023-04-16T14:02:52**
+
+There is no appkit documentation though?
+
+---
+
+**2023-04-16T14:47:51**
+
+I'm not looking for okhttp docs, I'm looking for how to create an appkit instance with a custom okhttp instance
+
+---
+
+**2023-04-16T18:23:47**
+
+Why is the NotEnoughTokensException tokenBalances in appkit empty?
+
+---
+
+**2023-04-16T18:56:39**
+
+Unfortunately, that isn't the solution. I'm using it correctly, but the map is empty. It could be related to that I have 0 of that token in the wallet, or that it is a testnet wallet (and testnet token though), or that an appkit upgrade broke it
+
+---
+
+**2023-04-16T18:56:59**
+
+I think you replied to the wrong msg btw lol
+
+---
+
+**2023-04-22T14:22:34**
+
+Coll sounds weird
+
+---
+
+**2023-04-22T16:09:56**
+
+Yeah, array or list makes more sense
+
+---
+
+**2023-04-22T16:40:22**
+
+you're sure that you're using VLQ right
+
+---
+
+**2023-04-22T16:42:54**
+
+could your bit reader be bugged?
+
+---
+
+**2023-04-22T16:43:44**
+
+show some code
+
+---
+
+**2023-04-22T17:35:20**
+
+12 is the code for Coll, not Coll<Coll<Byte>>. Those appear afterwards
+
+---
+
+**2023-04-23T12:14:33**
+
+I only thought of the 12 he said. SCollectionType.CollectionTypeCode == 12.
+
+---
+
+**2023-04-24T02:34:05**
+
+Hello DiscordBridge how are you?
+
+---
+
+**2023-04-25T08:19:46**
+
+Seq would be even worse than Coll. List could be used, there are immutable lists in Java for example
+
+---
+
+**2023-04-28T00:21:08**
+
+Glad I am not using cardano
+
+---
+
+**2023-04-28T00:42:42**
+
+It just looks like a token id?
+
+---
+
+**2023-04-30T07:13:10**
+
+Sirs, should ergonodes.net display whether nodes are indexed in the /list page?
+
+---
+
+**2023-04-30T07:13:25**
+
+Just wondering (((not saying that I will implement that anytime soon)))
+
+---
+
+**2023-04-30T13:37:35**
+
+@MrStahlfelge Did you notice that #P2PK_ADDRESS# in a URI makes it an invalid URI when designing ergopay? Now I can't use java.net.URI, need to parse by hand....
+
+---
+
+**2023-04-30T13:41:58**
+
+It is read as the URI fragment part, these are not even supposed to affect server responses, they are usually used for scrolling to a specific position of a page and cannot contain the symbol #. oh well
+
+---
+
+**2023-04-30T14:51:17**
+
+Yeah, but it's kind of annoying because I can't create the java URI object to retrieve the host, scheme, check if it is an ergopay TX request or network request etc, because it makes the URI invalid
+
+---
+
+**2023-04-30T14:53:18**
+
+I used characters and indexes, still harder than using the URI class but oh well
+
+---
+
+**2023-04-30T16:05:29**
+
+Do you mean percent encoding? I don't know of an escape character for URIs
+
+---
+
+**2023-05-01T09:12:36**
+
+Yes, that is percent encoding. In the end, it gets parsed into the fragment section so it is troublesome either way that the # symbol was used. The fragment section is separate from the rest
+
+---
+
+**2023-05-01T10:17:43**
+
+I never read the eip. I was just wondering if you considered this when making it and you have replied to that. No further action can be taken.
+
+The use of this discussion is to prevent such mistakes in the future.
+
+---
+
+**2023-05-01T10:21:23**
+
+I asked you because perhaps I was mistaken about the validity and there was a reason for choosing it,
+
+but if I had not let you and the others here know, how would a future mistake of the same kind have been prevented?
+
+---
+
+**2023-05-01T10:37:31**
+
+It isn't about Java. It is about the URI specification, about how URIs are to be handled and written. The hash symbol is a divider between the path or query and the fragment, it is not a part of the path. And it cannot contain a # inside itself, so both the semantics and the validity are wrong
+
+---
+
+**2023-05-01T10:39:16**
+
+Because the dApp services return the # in plain text? And I would not be sure about ergopay client implementations correctly handling %23 as #, especially since it is not detailed in the EIP
+
+---
+
+**2023-05-01T10:55:19**
+
+Yeah I agree it should be tolerant. I will look through my impl because I made it only support #P2PK_ADDRESS# (and used manual string parsing with indexOf and substring because it is invalid)
+
+---
+
+**2023-05-01T11:19:05**
+
+Right now, only 1 node is running it. Let's see how fast people will update
+
+---
+
+**2023-05-01T11:20:51**
+
+Satergo checks for node updates every 4 hours, so in max 4 hours we should see how many people are either paying attention or using Satergo's node auto-update
+
+---
+
+**2023-05-01T13:52:07**
+
+I miss ErgoDEX
+
+---
+
+**2023-05-01T14:15:17**
+
+Sir we already talked about this.
+
+I have too many projects!
+
+---
+
+**2023-05-01T15:03:02**
+
+The result is 20
+
+---
+
+**2023-05-01T15:29:27**
+
+Yep
+
+---
+
+**2023-05-01T16:54:13**
+
+Morphic sir sigmastate was getting refactored so that the sigmaboolean etc. could be used without bringing in the compiler & co., how is that going?
+
+---
+
+**2023-05-02T07:01:05**
+
+Which artifact should be used if you only need to deserialize ergo tree?
+
+---
+
+**2023-05-02T15:26:09**
+
+you can either use jni to use the java classes or maybe import the rust library, idk about the 2nd
+
+---
+
+**2023-05-02T15:34:04**
+
+Write one then
+
+---
+
+**2023-05-03T01:28:03**
+
+I also told him that could be possible, but he said that he wants something native (???)
+
+---
+
+**2023-05-03T14:57:06**
+
+@kushti_ru Ser did you miss to change the node peer name?
+
+---
+
+**2023-05-03T14:57:31**
+
+Yep.. https://github.com/ergoplatform/ergo/blob/master/src/main/resources/mainnet.conf#L83
+
+---
+
+**2023-05-03T14:57:57**
+
+Can you make it use the version value directly to prevent this from happening
+
+---
+
+**2023-05-03T16:03:28**
+
+@morphic @aslesarenko @alex_slesarenko I'm trying to run swagger codegen on the node openapi.yaml but the generated classes are messed up, some extend nonexistent classes. can I have your swagger-codegen config?
+
+---
+
+**2023-05-03T16:04:57**
+
+The classes like "AllOfNodeInfoGenesisBlockId" are messed up
+
+---
+
+**2023-05-03T16:08:09**
+
+I am so confused now I found this https://github.com/OpenAPITools/openapi-generator it is soo similar to swagger-codegen, but it is not the same
+
+---
+
+**2023-05-03T16:09:17**
+
+Swagger Codegen is driven by SmartBear while OpenAPI Generator is driven by the community. More than 40 top contributors and template creators of Swagger Codegen have joined OpenAPI Generator as the founding team members. For more details, see the Fork Q&A.
+
+ok.
+
+---
+
+**2023-05-03T16:09:40**
+
+Time to redo everything
+
+---
+
+**2023-05-03T16:15:14**
+
+ok it doesn't work either, but with different errors
+
+---
+
+**2023-05-03T16:19:31**
+
+That looks so foreign to me
+
+---
+
+**2023-05-03T16:19:47**
+
+will try to figure it out, thanks
+
+---
+
+**2023-05-03T16:21:14**
+
+I provided --skip-validate-spec and it did generate things and the code looks more correct than swagger-codegen's output, will try compiling
+
+---
+
+**2023-05-03T16:22:19**
+
+Build success 👍 Didn't have to modify any code, I think it might be that the go-lang generator is bugged then @soysor
+
+---
+
+**2023-05-04T05:19:19**
+
+Cool sir, can you do testnet as well
+
+---
+
+**2023-05-04T05:19:29**
+
+It is saying 5.0.4
+
+---
+
+**2023-05-04T05:49:12**
+
+Not sure how I would @ that person Fanta but uh @fanta your blockchain endpoints are broken. They just say "Wrong address format" for everything
+
+---
+
+**2023-05-04T05:49:28**
+
+Please test more before merging things
+
+---
+
+**2023-05-04T06:02:12**
+
+I tried on mainnet with mainnet address. To make sure I am not mistaken I asked Pulsarz to try it and he reproduced it as well
+
+---
+
+**2023-05-04T06:15:00**
+
+Sure sir, it was /blockchain/balance and I tried with address 9gMnqf29LPxos2Lk5Lt6SkTmbWYL1d5QFHygbf6zRXDgL4KtAho on 2 different version 5.0.10 and 5.0.8. I also tried it from the Swagger UI to make sure my HTTP request is not broken
+
+---
+
+**2023-05-04T06:15:30**
+
+I also tried with the example address provided in the Swagger UI, did not work either
+
+---
+
+**2023-05-04T06:19:25**
+
+I will check in a few hours
+
+---
+
+**2023-05-04T06:33:01**
+
+I had tested with my own address and it had not worked. Will check in a few hours.
+
+---
+
+**2023-05-04T11:48:15**
+
+Address beginning with 3 is testnet
+
+---
+
+**2023-05-04T12:15:57**
+
+Ok so there seems to be something wrong with the HTTP request that is getting sent from my application, so not the fault of the server.
+After I had run into that issue I tried from swagger which as people noticed has a testnet example address.
+
+---
+
+**2023-05-04T12:26:15**
+
+the http client i generated from the openapi yaml sends the " " with the address
+
+---
+
+**2023-05-04T12:26:23**
+
+@Pulsarzz this is what you were talking about right
+
+---
+
+**2023-05-04T12:27:34**
+
+@⭐️Fanta⭐️ Can you make it so that the POST endpoints that take an address support JSON string values?
+
+---
+
+**2023-05-04T12:28:29**
+
+You can make it so that both unquoted and quoted strings are supported if you want to keep the backwards compatibility
+
+---
+
+**2023-05-04T12:40:38**
+
+ok, i'll wait with this project until that is done
+
+---
+
+**2023-05-04T13:57:19**
+
+This must be what I encountered yesterday then!
+
+---
+
+**2023-05-04T13:58:01**
+
+I was testing multiple nodes and indeed one of them is indexed 0 (checked today)
+
+I was expecting it to throw a different exception for when the node is unindexed
+
+---
+
+**2023-05-05T04:00:30**
+
+Sir what is that hardcoded token cache 🤔🤔
+
+---
+
+**2023-05-05T04:03:13**
+
+I am gonna make an nft out of it 👌
+
+---
+
+**2023-05-05T07:32:26**
+
+weird flex but ok
+
+---
+
+**2023-05-08T09:46:18**
+
+Is it considered theirs? If the miner does not do that and somebody else does it, is it somehow "unethical"?
+
+---
+
+**2023-05-08T13:02:19**
+
+Why is that even possible
+
+---
+
+**2023-05-09T02:43:15**
+
+Hey sir while you're at it can you create an issue about that the blockchain api does not accept json strings in post body, so that it does not get forgotten
+
+---
+
+**2023-05-09T03:28:07**
+
+Because I can't rn and I will probably forget about it 😁
+
+---
+
+**2023-05-10T08:05:07**
+
+Ergonodes.net update:
+- The wording of the example risks of having too few nodes was improved
+- Links were added to a guide on port-forwarding nodes for making them accessible/reachable for incoming connections
+- It is much easier to (using the mouse cursor) focus on a point on the "Version market share" chart to see the detailed data at that point of time
+
+Upcoming:
+- The charts page will be changed to allow users to view either a period (30d, 90d) or the entire history (as is displayed right now)
+
+---
+
+**2023-05-11T03:21:04**
+
+Perhaps you should star repos you like 👀
+
+---
+
+**2023-05-11T04:43:40**
+
+Save 10-20% Memory With Compact Headers - Inside Java Newscast #48
+https://www.youtube.com/watch?v=r2G4ed2E4QY
+
+---
+
+**2023-05-11T04:43:40**
+
+@kushti How useful would this future Java update be for Ergo?
+
+---
+
+**2023-05-12T10:53:59**
+
+not sure if it is needed but the best way to add something like that is a minimum block height parameter
+
+---
+
+**2023-05-12T10:54:33**
+
+it is more important that the apis get fixed to accept "addresses" quoted
+
+---
+
+**2023-05-12T11:09:59**
+
+Wait, that is wallet
+
+---
+
+**2023-05-12T11:10:07**
+
+Qx lol that's not blockchain endpoint
+
+---
+
+**2023-05-12T11:10:45**
+
+Those endpoints are for the wallet that you can load in the node
+
+---
+
+**2023-05-12T11:31:27**
+
+what i meant is you just check the highest inclusion height among your stored utxos and provide a minHeight parameter or something (doesn't exist yet, i know)
+
+---
+
+**2023-05-13T17:37:37**
+
+@MrStahlfelge @morphic @alex_slesarenko do you know how I can sign a transaction with a 78 byte key? I'm trying to help somebody recover their yoroi wallet, and I finished decrypting the data but I have no idea what to do with this key (appkit)
+
+---
+
+**2023-05-13T17:42:03**
+
+Is it an extended public key... edit: thankfully not
+
+---
+
+**2023-05-13T17:47:46**
+
+hey kushti do you know what I can do with a 78 byte key, i need to make a transaction to rescue funds from a dead yoroi wallet
+
+---
+
+**2023-05-13T17:49:29**
+
+i have literally no idea
+
+---
+
+**2023-05-13T17:54:48**
+
+I decrypted the yoroi wallet with own code
+
+---
+
+**2023-05-13T17:54:55**
+
+Now I have the decrypted key
+
+---
+
+**2023-05-13T17:55:01**
+
+But I do not know how to use it to make a transaction
+
+---
+
+**2023-05-13T17:57:21**
+
+requirement failed: Not enough bytes in the buffer: 97859630
+
+---
+
+**2023-05-13T17:57:52**
+
+I know the decryption is successful, because when I provide the wrong password it doesn't work.
+
+---
+
+**2023-05-13T17:58:07**
+
+So probably not an extended secret key
+
+---
+
+**2023-05-13T17:58:59**
+
+There is no json. The encrypted data was taken directly from the extension database and decrypted using own Java code. The result is a byte array of length 78
+
+---
+
+**2023-05-13T18:02:42**
+
+yeah i hadnt seen this document but my implementation does that
+
+---
+
+**2023-05-13T18:03:53**
+
+i'm not sure.. in their code it is like this:
+
+const keyBytes = decryptWithPassword(password, keyRow.Hash);
+
+So, what I have in my Java code is the equivalent of this "keyBytes"
+
+---
+
+**2023-05-13T18:04:51**
+
+It seems like it contains a chain code because a method call to "stripchaincode" is made with those keyBytes
+
+---
+
+**2023-05-13T18:05:53**
+
+Edit: apparently not.
+
+---
+
+**2023-05-13T18:06:12**
+
+Ok Great. I actually tried BIP 32 but I tried BIP 32 Public
+
+---
+
+**2023-05-13T18:06:17**
+
+so i'll do private now
+
+---
+
+**2023-05-13T18:10:50**
+
+alright, no errors received on instantiating ExtendedSecretKey
+
+---
+
+**2023-05-13T18:12:15**
+
+of course, i'll upload the full code and also how to obtain the data
+
+---
+
+**2023-05-13T18:15:52**
+
+Satergo's format is thoroughly documented here: https://github.com/Satergo/Satergo/blob/master/wallet-format.md
+
+---
+
+**2023-05-13T18:20:44**
+
+Because EMURGO cares literally 0 about ergo and shut down their servers i can't really see what the address of the wallet i made is. I tried restoring the seed phrase in Satergo and the addresses I got are different from what is generated from the code..
+
+---
+
+**2023-05-13T18:22:04**
+
+i dont think yoroi is using EIP-3
+
+---
+
+**2023-05-13T18:26:34**
+
+Ok the derivation path was wrong. My Ledger implementation is really helpful here but the part where the derivation path is supplied is done by the Ledger so I have no reference.
+
+When I do DerivationPath.fromEncoded("44'/429'/0'/0/0").get() it doesn't work
+
+---
+
+**2023-05-13T18:27:02**
+
+"Wrong path format"
+
+---
+
+**2023-05-13T18:28:05**
+
+yeah the mistake was on my side, I just used DerivationPath.MasterPath() without checking the impl but apparently that uses the deriv.path. 0
+
+---
+
+**2023-05-13T18:28:34**
+
+So I'm trying to pass the path for address 0 which is 44'/429'/0'/0/0 but the ergo lib tells me "wrong path format"
+
+---
+
+**2023-05-13T18:30:24**
+
+I'll need some help here
+
+        BIP32Data bip32Data = BIP32Data.parse(keyBytes);
+        ExtendedSecretKey extSecretKey = new ExtendedSecretKey(bip32Data.keyData(), bip32Data.chainCode(), false,
+                DerivationPath.fromEncoded("m/44'/429'/0'/0/0").get());
+        ExtendedPublicKey extPubKey = extSecretKey.publicKey();
+        P2PKAddress p2pk = P2PKAddress.apply(extPubKey.child(0).key(), new ErgoAddressEncoder(ErgoAddressEncoder.MainnetNetworkPrefix()));
+        System.out.println("p2pk = " + p2pk);
+
+Something is wrong here, I think I'm mixing up private/public or something
+
+---
+
+**2023-05-13T18:31:17**
+
+The DerivationPath passed to ExtendedSecretKey's constructor doesn't affect the resulting address, for some reason.
+
+---
+
+**2023-05-13T18:49:02**
+
+Does anybody have an idea
+
+---
+
+**2023-05-14T05:08:48**
+
+Re-sending this because there is no way I will figure it out myself 
+
+        BIP32Data bip32Data = BIP32Data.parse(keyBytes);
+        ExtendedSecretKey extSecretKey = new ExtendedSecretKey(bip32Data.keyData(), bip32Data.chainCode(), false,
+                DerivationPath.fromEncoded("m/44'/429'/0'/0").get());
+        ExtendedPublicKey extPubKey = extSecretKey.publicKey();
+        P2PKAddress p2pk = P2PKAddress.apply(extPubKey.child(0).key(), new ErgoAddressEncoder(ErgoAddressEncoder.MainnetNetworkPrefix()));
+        System.out.println("p2pk = " + p2pk);
+
+Something is wrong here, I think I'm mixing up private/public or something. No matter what I pass as the derivation path to ExtendedSecretKey it gives me the same end public address
+
+---
+
+**2023-05-14T10:08:40**
+
+No
+
+---
+
+**2023-05-14T10:39:19**
+
+Sir
+
+---
+
+**2023-05-14T10:39:34**
+
+I have the key. It is a standard bip32 key. Doesn't matter who or what made it
+
+---
+
+**2023-05-14T10:39:45**
+
+I just need to know how to use it correctly
+
+---
+
+**2023-05-14T10:40:53**
+
+That codebase is a disaster and I will never read it again
+
+---
+
+**2023-05-14T10:41:24**
+
+It is as if they were tasked with making the code as complicated as possible. They did well on this
+
+---
+
+**2023-05-14T12:23:41**
+
+Yes. I decrypted it and it works, I know this for a fact because the decrypted key matches the valid BIP32 format, and when I try to decrypt with the wrong password I get an exception
+
+---
+
+**2023-05-14T12:25:10**
+
+I am now trying to derive an address but it seems to be wrong compared to using the same seed in Satergo. I cannot know what address Yoroi has generated because it is broken so now I am waiting to receive the key of the person who cannot access his funds. Up until now I was doing this on a test wallet I made by downloading an old Yoroi version
+
+---
+
+**2023-05-14T12:29:06**
+
+I also know for a fact that it is a private key and not a public key so the most likely thing is that my derivation logic is wrong. Which is why I asked for help but nobody has helped with that yet.
+
+---
+
+**2023-05-14T12:31:15**
+
+I am thinking that I might not need to derive an address as I already have the public address
+
+---
+
+**2023-05-14T13:34:42**
+
+I am pretty sure that it is the root key
+
+---
+
+**2023-05-14T13:51:42**
+
+Yeah I know that, which is why child(0) is called later
+
+---
+
+**2023-05-14T14:08:42**
+
+I did try like you said but got same address
+
+---
+
+**2023-05-14T14:26:08**
+
+Ah I did try MasterPath before but didn't do the extmasterkey.derive step. Will try right away
+
+---
+
+**2023-05-14T14:30:22**
+
+    ExtendedSecretKey extSecretKey = new ExtendedSecretKey(bip32Data.keyData(), bip32Data.chainCode(), false, DerivationPath.MasterPath());
+    ExtendedPublicKey extPubKey = ((ExtendedSecretKey) extSecretKey.derive(DerivationPath.fromEncoded("m/44'/429'/0'/0/0").get())).publicKey();
+    P2PKAddress p2pk = P2PKAddress.apply(extPubKey.key(), new ErgoAddressEncoder(ErgoAddressEncoder.MainnetNetworkPrefix()));
+    System.out.println("p2pk = " + p2pk);
+
+---
+
+**2023-05-14T14:34:00**
+
+When restoring a wallet in yoroi it shows the address, and this address is also different from what is printed using the above code.
+
+---
+
+**2023-05-14T14:45:51**
+
+Doing all this has shown me what a privacy nightmare Yoroi is. They log just about everything you do in the wallet
+
+---
+
+**2023-05-14T16:00:02**
+
+Let's go DMs
+
+---
+
+**2023-05-14T16:58:13**
+
+For other readers: The issue was solved thanks to anon_br, BIP 32 keys have a 0 in the beginning if they are private keys and that is not supposed to be passed to the ExtendedSecretKey, so, Arrays.copyOfRange(bip32Data.keyData(), 1, 33)
+
+All of the ERG and tokens of the Yoroi victim can be rescued now, just waiting for him to confirm that his new address is still accessible for him
+
+---
+
+**2023-05-14T16:59:03**
+
+I'll upload the tool to Github next weekend
+
+---
+
+**2023-05-18T11:20:27**
+
+Using an api for what is just cryptography seems unnecessary, no?
+
+---
+
+**2023-05-18T13:17:08**
+
+Hey, has the issue with not accepting json string request bodies been fixed?
+
+---
+
+**2023-05-19T10:12:14**
+
+Ctrl click it
+
+---
+
+**2023-05-21T11:50:37**
+
+Explorer is known to work so at least you won't run into issues like this
+
+---
+
+**2023-05-21T17:49:28**
+
+Uh, it enables the blockchain index API
+
+---
+
+**2023-05-21T17:57:31**
+
+Seems like 5.0.11 is the one to look forward to then!
+
+---
+
+**2023-05-22T04:39:05**
+
+The node's built-in wallet is quite useless
+
+---
+
+**2023-05-22T07:35:16**
+
+https://github.com/Satergo/Satergo/blob/master/src/main/java/com/satergo/ergo/ErgoInterface.java#L67
+
+This is a simple reference you can use, from the Satergo wallet
+
+---
+
+**2023-05-22T10:45:17**
+
+would be cool if it isn't actually supported ;)
+
+---
+
+**2023-05-22T12:43:11**
+
+@pulsarz Why did you delete your message, making me look like I said that to something I did not?
+
+---
+
+**2023-05-22T12:44:07**
+
+Quiet
+
+---
+
+**2023-05-23T03:59:59**
+
+I use hostinger for ergonodes.net and it was pretty cheap
+
+---
+
+**2023-05-23T04:00:13**
+
+Paid with crypto as well
+
+---
+
+**2023-05-23T15:52:02**
+
+i wouldn't consider that "cool", tbh
+
+---
+
+**2023-05-29T06:16:16**
+
+This is wrong
+
+---
+
+**2023-05-29T06:16:30**
+
+For tokens you need to write &token-tokenidhere=amount
+
+---
+
+**2023-05-29T06:17:28**
+
+Also no need for all those zeros after the 0.25
+
+---
+
+**2023-05-29T07:31:25**
+
+use pagination
+
+---
+
+**2023-05-29T07:34:23**
+
+I haven't done it myself, check api docs
+
+---
+
+**2023-05-30T03:21:28**
+
+Works for me
+
+---
+
+**2023-05-30T17:09:47**
+
+You can schedule a message on telegram to be sent at a specific time
+
+---
+
+**2023-05-30T17:09:51**
+
+I do it sometimes
+
+---
+
+**2023-05-30T17:11:10**
+
+On mobile long click the arrow and on pc right click it
+
+---
+
+**2023-05-31T16:50:09**
+
+This is a very old and outdated library
+
+---
+
+**2023-06-01T06:30:29**
+
+Nice
+
+---
+
+**2023-06-01T06:31:25**
+
+@Pulsarzz you were talking about an issue with the node index a few days ago, what was it? I need to evaluate if support for this can be added to Satergo
+
+---
+
+**2023-06-01T09:51:35**
+
+Ok I'll wait more then
+
+---
+
+**2023-06-06T12:08:51**
+
+Is there a method to select all available boxes in appkit?
+
+---
+
+**2023-06-06T14:48:39**
+
+I just released the Yoroi wallet recovery tool I made a few weeks ago: https://github.com/satsen/yoroi-ergo-wallet-recover
+
+---
+
+**2023-06-06T15:04:32**
+
+The ErgoPay beta test version of Satergo is now published. To test, run these commands:
+git clone https://github.com/Satergo/Satergo.git
+cd Satergo
+git switch ergopay
+./gradlew run
+
+Install Java: https://adoptium.net/temurin/releases/?version=20
+If you don't have Git you can look up how to install that as well
+
+---
+
+**2023-06-06T15:04:45**
+
+Any feedback is appreciated. Regarding the process and maybe even bugs
+
+---
+
+**2023-06-06T15:07:34**
+
+Forgot to say, as it is running from the source code and not installed on the computer, clicking on ergopay buttons or links on the dApp websites won't work. You'll have to copy the ergopay link and click on the Satergo window so that it gets handled
+
+---
+
+**2023-06-07T10:11:32**
+
+I published a new tool yesterday, simply named "Yoroi Ergo Wallet Recover". Because Yoroi has completely broken down and can't do anything Ergo-related anymore, users cannot make transactions. For people that have lost their seed phrase but still are logged into their wallet in Yoroi, they can use the tool to decrypt their wallet using their spending password and transfer everything to a new wallet.
+
+Satergo:
+- Ergopay test version was released to a branch on the GitHub repository. This will allow Satergo users to use dApp/DeFi things like Spectrum, Ergopad etc. New release soon.
+
+---
+
+**2023-06-07T10:50:21**
+
+Forgot to share the link for the yoroi wallet recovery tool, here it is: https://github.com/satsen/yoroi-ergo-wallet-recover
+
+---
+
+**2023-06-07T17:44:33**
+
+You can use indexed node API to go through all transactions and collect all addresses used in those
+
+---
+
+**2023-06-07T17:45:56**
+
+GET /blockchain/transaction/range?offset=???????&limit=???????
+will return all transaction IDs, and then
+
+GET /blockchain/transaction/byId/{txId}
+to get the transaction and look through it
+
+---
+
+**2023-06-07T17:47:27**
+
+I just need the duplicate transactions thing to be fixed and then I can drop explorer
+
+---
+
+**2023-06-07T17:47:34**
+
+is there a github issue, btw?
+
+---
+
+**2023-06-07T18:16:03**
+
+Facts
+
+---
+
+**2023-06-08T18:52:17**
+
+You need to run your own explorer though
+
+---
+
+**2023-06-13T06:08:02**
+
+Have you tried actually running ipfs instead
+
+---
+
+**2023-06-13T06:11:42**
+
+I haven't used ipfs myself so I don't know
+
+---
+
+**2023-06-14T05:31:11**
+
+I think it's about the font
+
+---
+
+**2023-06-19T02:52:02**
+
+Missing the point...
+
+---
+
+**2023-06-23T09:22:42**
+
+Have a http server lol
+
+---
+
+**2023-06-23T09:23:06**
+
+How would you dare use somebody else's server. They could just swap out the address lol
+
+---
+
+**2023-06-23T16:54:05**
+
+Get lost
+
+---
+
+**2023-07-02T17:46:02**
+
+Unspent UTXO Transaction Outputs
+
+---
+
+**2023-07-03T17:26:07**
+
+Poor design
+
+---
+
+**2023-07-03T17:27:05**
+
+Imo the refund should be adjusted so that everyone gets a little bit less, so that the LP guy can also get something. But I'm no holder of this coin so I have no say
+
+---
+
+**2023-07-03T17:30:13**
+
+Ah yes I was just catching up on the main chat and saw this as well. Great and kind indeed
+
+---
+
+**2023-07-03T17:34:26**
+
+Maybe trying to mess up the refund (unsuccessfuly tho)
+
+---
+
+**2023-07-03T17:35:08**
+
+Yes the blockchain is why it is unsuccessful, you can just look at a different height
+
+---
+
+**2023-07-03T17:40:11**
+
+Bug was found and white hat drained the locked ergs
+
+---
+
+**2023-07-03T17:40:51**
+
+Sir, why is this python. I only accept PERL
+
+---
+
+**2023-07-03T17:41:03**
+
+yes
+
+---
+
+**2023-07-03T17:41:45**
+
+Was that chatgpt
+
+---
+
+**2023-07-03T17:42:16**
+
+Perlsome.
+
+---
+
+**2023-07-03T17:43:29**
+
+Haha this is gre-🤐
+
+---
+
+**2023-07-05T17:33:11**
+
+I'm pretty sure eth miners weren't convinced, they weren't pushing for the merge
+
+---
+
+**2023-07-07T11:01:34**
+
+Welcome
+
+---
+
+**2023-07-09T17:31:51**
+
+Sir
+
+---
+
+**2023-07-09T17:31:54**
+
+Just connect to the node
+
+---
+
+**2023-07-09T17:32:02**
+
+And you will receive mempool updates
+
+---
+
+**2023-07-09T17:32:09**
+
+No need for ws or whatever. Just plain old TCP
+
+---
+
+**2023-07-11T13:42:09**
+
+funny, I started a gradle app in a virtual machine a long time ago, and now I just loaded it back up and it's saying "75% EXECUTING [2089h 58m 44s]" lol
+
+---
+
+**2023-07-12T08:05:45**
+
+Can you explain to me why zeromq is needed? Why can't the programs just connect to the node through the TCP that is already used?
+
+---
+
+**2023-07-12T08:09:32**
+
+You would listen for the Inv message and request the modifier of that?
+
+---
+
+**2023-07-12T08:10:05**
+
+Think of it like this, the nodes broadcast transactions through P2P TCP. All you need to do to access this info is to connect in the same way.
+
+---
+
+**2023-07-12T08:13:36**
+
+I just feel like the node is getting too heavy. The TCP layer already exists and is provided by all nodes. Yes, all.
+
+---
+
+**2023-07-12T08:27:36**
+
+I wish all ergotrees provided the size so you could skip having to use sigmastate to handle all kinds while you might just need p2pk...
+
+---
+
+**2023-07-12T08:29:32**
+
+You do, is that problematic?
+
+---
+
+**2023-07-12T08:29:50**
+
+You don't need to handle transactions and store the blockchain if that's what you mean
+
+---
+
+**2023-07-12T08:36:07**
+
+I don't know how that affects this (I thought that is only for initial peer discovery) but I would say adapting that is better than adding a whole new system
+
+---
+
+**2023-07-12T08:38:14**
+
+But dependencies? Also having one more thing for node hosters to worry about
+
+---
+
+**2023-07-12T08:50:03**
+
+Yep. It supports those but not sure about "removed from mempool" event.
+
+---
+
+**2023-07-12T08:57:19**
+
+I have a lib for this
+
+---
+
+**2023-07-12T08:57:45**
+
+https://github.com/Satergo/ergonnection
+
+---
+
+**2023-07-12T08:58:11**
+
+I need to push my updates, just noticed I have not done that
+
+---
+
+**2023-07-12T08:58:40**
+
+Will push my updates this weekend hopefully
+
+---
+
+**2023-07-12T09:01:19**
+
+With a few changes my lib could even be used as a server (not that that would be useful without implementing a whole node on top of it lol)
+
+---
+
+**2023-07-13T08:53:40**
+
+https://tn-faucet.ergohost.io/
+
+---
+
+**2023-07-16T12:37:15**
+
+hey @ergomorphic @alex_slesarenko which maven dependency of sigma-state do I use? there are artifacts suffixed with 2.11 and 2.12 and 2.13, I don't know which one.
+
+also, is that refactor finished, meaning that I can use just the ergo tree parts without bringing in the ergoscript compiler?
+
+---
+
+**2023-07-16T13:32:20**
+
+you should try my untested tool
+
+---
+
+**2023-07-16T13:44:16**
+
+I can't even load sigmastate-interpreter in intellij, sbt and scala are really weird..
+
+---
+
+**2023-07-16T13:45:27**
+
+How old does my JDK need to be for this..?
+
+---
+
+**2023-07-16T13:46:04**
+
+[error]   not found: https://repo1.maven.org/maven2/org/scalablytyped/std_sjs1_2.13/4.9-7e8d63/std_sjs1_2.13-4.9-7e8d63.pom
+[error]   not found: https://oss.sonatype.org/content/repositories/public/org/scalablytyped/std_sjs1_2.13/4.9-7e8d63/std_sjs1_2.13-4.9-7e8d63.pom
+
+---
+
+**2023-07-16T13:48:04**
+
+Damn, I had to run "npm install" to load this library with sbt, that is unexpected and not so nice for a JVM project...
+
+---
+
+**2023-07-16T13:48:28**
+
+yeah whatever i give up lol doesn't work anyways
+
+---
+
+**2023-07-17T11:47:43**
+
+No idea sir, there were weird scala.js errors when trying to load the project in intellij with sbt. It said missing packages so I ran npm install and then that went away but other javascript-related errors appeared. In the end I rolled the repo back to a version without this javascript weirdness and that worked
+
+---
+
+**2023-07-17T11:48:19**
+
+Keep in mind I was just loading the project. Java 20 didn't work at all but I then tried 17 and even 11
+
+---
+
+**2023-07-17T17:03:07**
+
+@LuivatraEP So I removed my partial reimplementation of the sigma structures from the local dev branch of my ergo p2p library and added sigmastate-interpreter instead.
+
+Right now (in terms of modifiers), transactions are supported, is there anything else you need?
+
+---
+
+**2023-07-17T19:10:23**
+
+Either way, I just pushed the update (https://github.com/Satergo/Ergonnection)
+
+---
+
+**2023-07-17T19:17:48**
+
+There is an example class showing how to listen for transactions broadcasted on the network
+
+---
+
+**2023-07-17T19:30:43**
+
+This is as fast as the node. So as fast as it gets in terms of network latency, perhaps a few nanoseconds slower in deserializing because it could be less optimized than the node. But as fast as it gets, basically
+
+---
+
+**2023-07-17T19:35:46**
+
+If some people try it out and give some feedback, I will publish it on maven central as well. But I'd like to have some feedback before that
+
+---
+
+**2023-07-18T03:04:29**
+
+Np, glad you like it
+
+---
+
+**2023-07-18T07:27:08**
+
+@kushti_ru is there any reason why ErgoBoxCandidate's tokens are called "additionalTokens"? It says in the javadoc that they are secondary tokens (which I assume is in respect to that ERG is the primary token), if that's the case I'll rename my field for that to just tokens
+
+---
+
+**2023-07-18T07:35:06**
+
+ok, should I also rename additionalRegisters to just registers?
+
+---
+
+**2023-07-18T07:44:22**
+
+ok got it, will keep additionalRegisters then
+
+---
+
+**2023-07-18T12:01:24**
+
+Guys, my IDE has become "politically correct". This is horrible
+
+---
+
+**2023-07-18T12:08:51**
+
+Do you know why loading the project is not possible anymore? https://t.me/ErgoDevelopers/15363
+
+---
+
+**2023-07-19T10:46:41**
+
+Ergonnection (P2P node communication library):
+- Added handling for network modifier messages, which allows users to listen for for example transactions broadcasted on the network, in real-time.
+
+---
+
+**2023-07-19T14:49:09**
+
+If you have time, could you translate Satergo wallet as well?
+
+---
+
+**2023-07-19T15:03:59**
+
+https://github.com/Satergo/Satergo
+
+There are instructions in the readme
+
+---
+
+**2023-07-19T15:08:02**
+
+That would be very nice of you, thanks
+
+---
+
+**2023-07-19T15:34:11**
+
+nice, please put this in a file called Lang_id.properties
+
+---
+
+**2023-07-19T16:37:08**
+
+Thank you sir! Will merge it tomorrow or the day after that
+
+---
+
+**2023-07-19T16:48:35**
+
+I do have a discord account but I very rarely use it, and you're right, this message is from telegram. The satergo chat is available on discord as well though
+
+---
+
+**2023-07-20T05:15:28**
+
+Got it working? I think at least java 17 is needed, as I make use of jdk 17 classes
+
+---
+
+**2023-07-20T08:37:20**
+
+Error? Huh. Please send it to me
+
+---
+
+**2023-07-20T08:39:40**
+
+No it does not, I asked you a few days ago if you need anything more but you didn't reply
+
+---
+
+**2023-07-20T08:44:59**
+
+There was a small refactoring mistake, just git pull
+
+---
+
+**2023-07-20T08:49:47**
+
+what would you need in terms of new block events
+
+---
+
+**2023-07-20T09:12:23**
+
+@LuivatraEP Just implemented this one, anything else? Let me know and I'll push this commit as well
+
+---
+
+**2023-07-20T09:27:08**
+
+yep ok then, I will push this one, also noticed i missed the header id, will add
+
+---
+
+**2023-07-20T10:56:00**
+
+@LuivatraEP new version with built-in Header support is up. Just tested it as well and it works
+
+---
+
+**2023-07-20T11:01:40**
+
+It might be hard to understand how the network works at first but it's like this:
+- Inv message is sent to all peers (of which your client is one) which contains ID and types of new available modifiers
+- If you want the content of that modifier, you send a ModifierRequest with that ID
+- Then you receive a ModifierResponse (which has the same id as the request) which has the content
+
+The ErgoTransaction inv message IDs match the transaction ids, so if you only and only need the transaction ID you don't need to send a ModifierRequest, but you'll still need to check that modifier.typeId() == ErgoTransaction.TYPE_ID
+
+---
+
+**2023-07-20T13:06:07**
+
+Not bots
+
+---
+
+**2023-07-20T13:06:12**
+
+You are a bot!
+
+---
+
+**2023-07-21T07:53:02**
+
+I also thought that pools use miningcore
+
+---
+
+**2023-07-22T04:07:09**
+
+@kingpin.x please pause to log as well (a node update made it so the log level doesn't apply --> log spam --> freeze)
+
+---
+
+**2023-07-22T12:59:48**
+
+The file needs to be named Lang_ms.properties, not lang_ms.properties
+
+Just go to https://github.com/ykris45/Satergo/blob/patch-1/src/main/resources/lang/lang_ms.properties and change it
+
+---
+
+**2023-07-22T13:00:32**
+
+And we already talked about it in the satergo chat haha, I will merge it tomorrow
+
+---
+
+**2023-07-22T13:03:35**
+
+No, other people did it
+
+---
+
+**2023-07-22T13:03:52**
+
+I think, back when you were "ErgoDesign"
+
+---
+
+**2023-07-22T18:05:02**
+
+javascript is boring
+
+---
+
+**2023-07-22T18:51:41**
+
+I use javascript but that doesn't make it fun. It is by necessity
+
+---
+
+**2023-07-22T19:31:05**
+
+No guide, but no reason to have a different node, just configure the Satergo node
+
+---
+
+**2023-07-22T19:31:32**
+
+To be clear you will still need separate mining pool software
+
+---
+
+**2023-07-23T16:52:12**
+
+@LuivatraEP Hey sir, did you find time to test out my lib yet? I really need some feedback, so I can publish it on maven central (or not?)
+
+---
+
+**2023-07-23T17:08:20**
+
+No stress
+
+---
+
+**2023-07-23T18:18:58**
+
+Why not work on mine? It's a complete rewrite in Java
+
+---
+
+**2023-07-23T18:20:23**
+
+It would be of great help
+
+---
+
+**2023-07-23T18:20:46**
+
+It will also be integrated into Satergo at some point, so any help would be cool
+
+---
+
+**2023-07-24T10:26:33**
+
+I suppose you just built a jar and added that as a dependency in your project. Well, such jars do not contain dependencies (bouncycastle and sigmastate in this case), so you need to
+
+Either (simplest method):
+- copy the dependency declaration from ergonnection, into your project
+
+Or:
+- add id 'maven-publish' to ergonnection's build.gradle and run task publishToMavenLocal, after which you can use it as a normal dependency in your project (after adding mavenLocal as a repo)
+
+Or:
+- build a jar with dependencies - add id 'com.github.johnrengelman.shadow' version '8.1.1' to ergonnection's build.gradle and run task shadowJar
+
+---
+
+**2023-07-25T06:01:20**
+
+Cool! I guess there's not much feedback you can give me then, right? Did you use the blocking style (acceptMessage()) or the non-blocking style (separate thread by using listen())?
+
+---
+
+**2023-07-25T06:03:08**
+
+Nice to know older scala versions can use modern java version libraries
+
+---
+
+**2023-07-25T09:58:17**
+
+Ah, had no idea but makes sense! Thank you, will add this to the readme.
+
+---
+
+**2023-07-25T10:05:09**
+
+Also, you can't be sure that the connection will exist forever because there is a thing called peer eviction (I don't know the details of it). So, setting up logic to reconnect could be useful
+
+---
+
+**2023-07-25T10:05:53**
+
+Or maybe there is a setting in the node to allow some peers forever, no idea
+
+---
+
+**2023-07-26T05:21:09**
+
+Are you connecting to random nodes?
+
+---
+
+**2023-07-26T05:22:18**
+
+Unless you added logic for it, your client won't care about your node's peers
+
+---
+
+**2023-07-26T05:24:01**
+
+I have seen this like 0-2 times every ergonodes.net scan, and in that case it was probably broken nodes or something. Weird that you have encountered it often
+
+---
+
+**2023-07-26T05:24:47**
+
+@kushti_ru is this related to penalizing maybe?
+
+---
+
+**2023-07-26T05:30:47**
+
+Should I not fail fast like this? https://github.com/Satergo/Ergonnection/blob/master/src/main/java/com/satergo/ergonnection/ErgoSocket.java#L93
+
+---
+
+**2023-07-26T09:33:40**
+
+Ergonnection (P2P node communication library):
+- Added support for block header objects
+
+Luivatra has tested it and given me some feedback, it would be great if somebody else can test it as well before I publish it to Maven central.
+
+---
+
+**2023-07-26T11:21:56**
+
+you need JDK 17
+
+---
+
+**2023-07-26T11:22:10**
+
+At least 17 (newer versions are supported as well)
+
+---
+
+**2023-07-26T11:22:42**
+
+I will add this to the readme
+
+---
+
+**2023-07-27T04:17:00**
+
+Damn why have I never thought of doing this, that's so creative 😂
+
+---
+
+**2023-07-27T13:54:22**
+
+Probably not
+
+---
+
+**2023-07-28T02:48:55**
+
+SigmaSerializer.startReader(bytebuffer, offset)
+
+---
+
+**2023-07-28T02:49:09**
+
+@kiidot
+
+---
+
+**2023-07-28T09:51:22**
+
+@fantaerik how did it go? Did you manage to set it up?
+
+---
+
+**2023-07-28T09:51:28**
+
+The p2p lib
+
+---
+
+**2023-07-29T11:33:58**
+
+I'm not quite sure what you mean by that. Is it a flaw with the library?
+
+---
+
+**2023-07-31T04:31:49**
+
+Why is "[INFO] [akkaDeadLetter]" getting printed when I literally have scorex.logging.level = "ERROR"?
+
+---
+
+**2023-07-31T08:57:19**
+
+That looks very centralized to me
+
+---
+
+**2023-07-31T09:04:49**
+
+Not sure why it is an eip tbh
+
+---
+
+**2023-07-31T09:04:57**
+
+Seems more like a personal thing
+
+---
+
+**2023-08-02T09:12:51**
+
+Satergo v1.6.0 was released the 31st of July
+
+- DeFi/dApp support. You can now use ErgoPay to for example swap on Spectrum DEX
+- Installer for Windows. Installing Satergo on Windows takes no effort and it will work like a normal app now. Updating it is also much easier
+- All fiat currency conversions can be displayed when the CoinGecko price source is selected
+- Improved transaction history
+- Node improvements: log level setting updated to work with new ergo node versions, added option for Java VM arguments to run the node with
+- Indonesian and Malaysian translations added
+
+---
+
+**2023-08-03T09:38:14**
+
+Please give me feedback if you can, after having used it
+
+---
+
+**2023-08-04T16:10:00**
+
+Can you fix loading the project? I asked you multiple times but you never replied. I couldn't even load the project anymore
+
+---
+
+**2023-08-14T15:56:35**
+
+> @fantaerik: Yes, it seems to work, but since I don't have good internet the txs I submit constantly get outrunned
+> Me: I'm not quite sure what you mean by that. Is it a flaw with the library?
+
+Hey, @fantaerik, would you mind replying to this question I asked a while ago
+
+---
+
+**2023-08-14T16:14:14**
+
+Hi @kushti_ru, sorry for bothering you but I don't know anybody else who also has knowledge on the P2P protocol.
+
+I was wondering, when a wrong magic number is received, should my p2p library close the connection? Right now, it throws an exception and doesn't continue reading, but that state is pretty useless because even if that was a valid Ergo message just with wrong magic number, it was left unread and the stream is pretty useless as any attempt to read more messages would be reading from right after the magic number of the 1st message.
+
+---
+
+**2023-08-14T16:53:24**
+
+Is there any valid scenario when a wrong magic number could be received? It seems like @LuivatraEP gets that sometimes
+
+---
+
+**2023-08-14T16:56:12**
+
+I don't know, I think he is only connecting to his own node
+
+---
+
+**2023-08-14T16:59:28**
+
+@LuivatraEP Have you noticed anything that causes it to happen or any indication of that sort?
+
+---
+
+**2023-08-14T17:06:36**
+
+Maybe the stream was closed
+
+---
+
+**2023-08-14T17:06:56**
+
+Or it reached the end
+
+---
+
+**2023-08-14T17:07:10**
+
+Exactly
+
+---
+
+**2023-08-14T17:07:37**
+
+The first thing in a message is the magic number of 4 bytes. If an empty array is returned, it must mean there is no message at all
+
+---
+
+**2023-08-14T17:08:20**
+
+Just checked and the method I use to read N bytes ( https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/io/InputStream.html#readNBytes(int) ) does not throw an exception when the end of the stream is reached, it just returns a smaller array
+
+---
+
+**2023-08-14T17:10:08**
+
+It's fine haha. After I change the code to handle this case properly, and MGpai has read my answers to his threads, I will finally (try to) release this on Maven central
+
+---
+
+**2023-08-14T18:01:10**
+
+@ergomorphic @alex_slesarenko Can you review this? https://github.com/ergoplatform/eips/pull/95
+
+---
+
+**2023-08-14T18:17:24**
+
+it's not ergoscript, that's for sure
+
+---
+
+**2023-08-16T04:00:50**
+
+@LuivatraEP New ergonnection update with improved handling of wrong magic bytes and also proper handling of the stream getting closed in the middle of reading a message
+
+---
+
+**2023-08-16T04:00:59**
+
+Would be cool if you can test it
+
+---
+
+**2023-08-16T08:35:43**
+
+Ergonnection p2p library:
+- New version which handles disconnections better
+- Fixed the testnet magic constant
+- Maven central release is close
+
+---
+
+**2023-08-25T09:09:12**
+
+Probably just a framework default
+
+---
+
+**2023-08-27T16:25:46**
+
+There is a greasy cex theme for Satergo but qx never released the file 🤨 @dadreboi ser
+
+---
+
+**2023-08-27T16:28:14**
+
+Yes
+
+---
+
+**2023-08-27T16:30:38**
+
+It's better than being hungry, I think...
+
+---
+
+**2023-08-27T16:54:44**
+
+Except there are no image or css files in the root dir :) they exist in the jar file, and when you put custom.css in the root dir it overrides them
+
+---
+
+**2023-08-27T17:04:41**
+
+Wait, nautilus doesn't have a dark theme??
+
+---
+
+**2023-08-27T17:04:51**
+
+That should be illegal
+
+---
+
+**2023-08-28T19:08:34**
+
+He codes in indonesian
+
+---
+
+**2023-08-31T05:11:07**
+
+I thought the plan was to make it so java apps could for example not include the ergoscript compiler but now you seem to be going in the opposite direction? @ergomorphic
+
+---
+
+**2023-08-31T05:13:59**
+
+Some things scala does are impossible for proguard to handle properly so I need to exclude entire packages from minimization
+
+---
+
+**2023-08-31T13:38:49**
+
+I don't remember your exact words bro. It was months ago. But I did ask for status back in may so my understanding has always been the same
+
+---
+
+**2023-08-31T13:47:46**
+
+Aberg:
+Because sigmastate is like 8 MB I don't need all of it
+
+Alex Slesarenko:
+oh, really?
+
+Alex Slesarenko: Then you can use latest (not yet released) version of Sigma, where ErgoScript compiler is separated from protocol implementation
+
+Alex Slesarenko: try the develop branch and see interpreter module. If you can assemble interpreter it should be all you need
+
+---
+
+**2023-09-02T14:55:26**
+
+I think it would be better if it was like in the schema, would be easier to deserialize properly
+
+---
+
+**2023-09-02T15:01:38**
+
+unfortunately might be hard to change. I can't help but feel this api wasn't well-made from the beginning
+
+---
+
+**2023-09-02T15:40:18**
+
+perhaps time to introduce a v2 :)
+
+---
+
+**2023-09-06T17:02:54**
+
+Is that some failed cgi 👀
+
+---
+
+**2023-09-06T17:07:28**
+
+Ok ser how about I add airdrop functionality to Satergo as well
+
+---
+
+**2023-09-06T17:07:57**
+
+Oh God 😂
+
+---
+
+**2023-09-06T17:08:06**
+
+That would be an absolute mess 😬
+
+---
+
+**2023-09-07T06:24:43**
+
+Lol what
+
+---
+
+**2023-09-07T06:25:41**
+
+Html5 was a standard not anything else, they just stopped versioning the standards so it is just HTML Living Standard now
+
+---
+
+**2023-09-07T06:27:44**
+
+It should almost be concerning that they are using that term in a course list tbh. But only almost
+
+---
+
+**2023-09-07T06:46:37**
+
+It's outdated. Those google quick answers have given me incorrect answers soo many times, sometimes even showing answers to the opposite question of what I asked
+
+---
+
+**2023-09-07T10:24:46**
+
+He/she hasn't begun the courses yet sir
+
+---
+
+**2023-09-07T12:07:19**
+
+Come help me with my libraries ser
+
+---
+
+**2023-09-07T12:54:09**
+
+I learned programming before chatgpt so I have no idea if it is better or worse 🤔
+
+---
+
+**2023-09-07T14:28:20**
+
+Not at all
+
+---
+
+**2023-09-07T14:28:33**
+
+I wrote a brand new one last week
+
+---
+
+**2023-09-07T14:29:27**
+
+(It's not related to ergo, it is a sandboxing library to run user/untrusted code)
+
+---
+
+**2023-09-07T15:06:54**
+
+I learnt on my own
+
+---
+
+**2023-09-07T15:07:37**
+
+At first just simple things, then lots of copying things from others, then learning more, (...), profit
+
+---
+
+**2023-09-08T14:32:50**
+
+Hmm I think the wallet impl is lacking then
+
+---
+
+**2023-09-08T14:33:09**
+
+Great and thorough discussion we had btw 😂
+
+---
+
+**2023-09-08T14:34:27**
+
+I do have a will to make a light client using my P2P node communication library so you wouldn't even need the node at all, but I've been a bit busy lately
+
+---
+
+**2023-09-08T14:35:32**
+
+Maybe in this ergohack 🤔 could be a good opportunity
+
+---
+
+**2023-09-08T14:42:49**
+
+I had another idea for the ergohack but this one is better
+
+---
+
+**2023-09-08T14:43:13**
+
+I might do the other idea, later....in this decade...or not
+
+---
+
+**2023-09-08T14:48:13**
+
+It's ok, soon ai will do it all for us 😬
+
+---
+
+**2023-09-09T14:52:45**
+
+It's pretty obvious
+
+---
+
+**2023-09-09T14:53:15**
+
+The endpoint is returning JSON objects just joined together without any array [ ] or commas between them
+
+---
+
+**2023-09-09T15:38:01**
+
+It needs to be wrapped in [ ] and separated with ,
+
+---
+
+**2023-09-09T15:41:14**
+
+I disagree with you completely. Bugs should be fixed, regardless of if they are breaking or not. Java recently fixed the behavior of a class because it didn't match what it should do. And Java is the king of backwards-compatibility.
+(Ok the example is not 1:1 because it was a rather obscure method and an unlikely condition had to be met and old code will still execute but still)
+
+---
+
+**2023-09-09T15:42:52**
+
+Anybody who used this weird json format without reporting it should have expected backwards-incompatible fixes in the future anyways
+
+---
+
+**2023-09-09T16:59:06**
+
+Not really, there are no line breaks.
+
+---
+
+**2023-09-09T16:59:24**
+
+Unless my mobile phone text editor got confused lol
+
+---
+
+**2023-09-15T02:57:48**
+
+Honestly it should be redirected to another one at this point 😁 (not the api though)
+
+---
+
+**2023-09-15T02:59:59**
+
+Correct. Most miners don't give a shit (2miners btc...)
+
+---
+
+**2023-09-15T03:09:04**
+
+@mgpai The Java VM is not inherently slow. If you think that then you live in the year 2000 (or earlier), I'm sorry. The Java JIT can also optimize hotspots in the code at runtime, having more details than an AOT compiler does at compile time, so it can do better in some cases.
+
+---
+
+**2023-09-15T03:12:46**
+
+There is a reason that application servers facing heavy load are written in Java and other jvm languages, a reason that is much different than the "language hype" which is seen all too often
+
+---
+
+**2023-09-15T03:17:53**
+
+I thought you liked python 👀
+
+---
+
+**2023-09-15T03:18:02**
+
+What happened
+
+---
+
+**2023-09-15T03:18:44**
+
+Ok then
+
+---
+
+**2023-09-15T03:21:06**
+
+Sounds kind of like the issues I have with javascript, although JS has many, many more flaws
+
+---
+
+**2023-09-15T05:03:07**
+
+If you have time try Shenandoah as well, I've heard good things about it
+
+---
+
+**2023-09-15T05:05:57**
+
+Because it is the competitor to ZGC, oracle doesn't like to talk about it, or at least has no reason to talk about it
+
+---
+
+**2023-09-15T05:06:18**
+
+Both free ofc but still competitors 😂
+
+---
+
+**2023-09-15T05:34:14**
+
+I'm curious if there is any perf. penalty in using Scala
+
+---
+
+**2023-09-15T05:34:54**
+
+There are a few things I've seen which appear helpful in the scala standard library, like mapbuilder for example
+
+---
+
+**2023-09-15T05:35:56**
+
+Don't worry, soon we will have very good AI to write code for us and we can all move to the fresh & new COBOL node
+
+---
+
+**2023-09-15T05:36:36**
+
+Hahaha. Better just rewrite explorer at this point 😆
+
+---
+
+**2023-09-15T05:37:16**
+
+Soon, explorer in batch script
+
+---
+
+**2023-09-15T07:37:41**
+
+Always use latest jdk, there are speedups in almost every release
+
+---
+
+**2023-09-15T07:53:09**
+
+But ser Satergo is also part of the  ergo-verse and Satergo releases ship "jre" 20 🤨👍
+
+---
+
+**2023-09-15T07:54:50**
+
+And also my p2p library requires jdk 17 :)
+
+---
+
+**2023-09-15T10:22:42**
+
+Interesting. Is it noticeable?
+
+---
+
+**2023-09-15T10:23:31**
+
+It's nice to have somebody who knows these things here 😁
+
+---
+
+**2023-09-15T16:02:25**
+
+I could help if Java is incorporated. Also, is akka used for the p2p or the web server?
+
+---
+
+**2023-09-16T09:45:51**
+
+But does that have a jdbc driver
+
+---
+
+**2023-09-16T09:47:16**
+
+Any articles that helped you with that? I want to learn about these kinds of stuff, as my sql databases are pretty bare-bones
+
+---
+
+**2023-09-16T09:48:40**
+
+Alright got it, so I should read up on indexes then
+
+---
+
+**2023-09-16T09:49:15**
+
+My SQL experience is pretty minimal. Just the standard create table, select, update, etc.
+
+---
+
+**2023-09-16T09:49:37**
+
+Thanks ser
+
+---
+
+**2023-09-16T09:51:33**
+
+Oh maybe I should switch to postgresql then
+
+---
+
+**2023-09-16T10:09:13**
+
+Can we switch to calling it the "legacy explorer" instead, please?
+
+---
+
+**2023-09-16T10:09:48**
+
+Ergexplorer
+
+---
+
+**2023-09-16T10:10:02**
+
+Sure it uses the legacy explorer's api but the ui/ux is much better
+
+---
+
+**2023-09-16T10:10:41**
+
+So, report the issues. It's in beta, if you don't give feedback how will the dev know
+
+---
+
+**2023-09-16T10:11:29**
+
+Ok, if nothing happens then make PRs 😂
+
+---
+
+**2023-09-16T10:12:27**
+
+Write it in java 😎
+
+---
+
+**2023-09-16T10:13:24**
+
+Not really, it loads addresses very slowly as well. And no indication that it is loading, so can be mistaken for there being no activity in the address
+
+---
+
+**2023-09-16T10:14:20**
+
+Got it
+
+---
+
+**2023-09-16T12:59:09**
+
+Reminds me of metamask & consensys
+
+---
+
+**2023-09-16T15:10:24**
+
+Ummm Satergo?
+
+---
+
+**2023-09-16T15:10:37**
+
+Satergo bundles a stripped jvm
+
+---
+
+**2023-09-16T15:30:12**
+
+I'm curious. what do you mean?
+
+---
+
+**2023-09-16T16:05:18**
+
+Ok got it, btw you mean android wallet not node right, because java from termux is version 17 already
+
+---
+
+**2023-09-17T13:56:38**
+
+Welcome to the better chat service
+
+---
+
+**2023-09-17T16:53:16**
+
+Why is it so that there are breaking changes in updating scala, it's foreign to me. Same with python 3, like, backward compatibility should be more valued in those ecosystems.
+
+I've seen the super weird maven artifacts ending with scala -2.11 and 2.12 (whatever the numbers were)
+
+---
+
+**2023-09-17T16:53:33**
+
+And now 3 lol
+
+---
+
+**2023-09-17T16:54:05**
+
+What's next, it's so unpredictable
+
+---
+
+**2023-09-17T17:33:06**
+
+Sending your key and data to a node to sign things doesn't sound very reasonable..
+
+---
+
+**2023-09-17T17:38:56**
+
+You want to sign data using the node api, for that you would need to send your key to the node
+
+Unless you are talking about the node wallet
+
+---
+
+**2023-09-18T06:11:14**
+
+Yeah, exploits.
+
+---
+
+**2023-09-18T11:05:24**
+
+Better use moderm java imho. Many more potential contributors, easier to understand for the average programmer, and backwards compatible
+
+---
+
+**2023-09-18T11:25:28**
+
+I am pretty sure node doesn't use java 8 anymore
+
+---
+
+**2023-09-18T11:26:48**
+
+Also, android has had some jdk updates, maybe max class file version isn't 51 anymore. I have tried to search many times but search engines suck and only give me java requirements of android studio IDE. I guess I will simply try it myself
+
+---
+
+**2023-09-18T17:52:30**
+
+There is no seed phrase when using the node. It isn't stored.
+
+---
+
+**2023-09-18T17:52:38**
+
+Only the private key is stored
+
+---
+
+**2023-09-18T19:11:23**
+
+Yes. But no seed phrase. No 15 words. Only the private key derived from those words.
+
+---
+
+**2023-09-18T19:15:50**
+
+Not really. There is the parent private key, and children of it are used to have many addresses from one private key. It is known as HD - hierarchical deterministic.
+
+---
+
+**2023-09-18T19:16:33**
+
+The seed phrase represents the parent or master private key (I don't remember which), but the conversion from seed phrase to private key is one-way, so you can't get a seed phrase out of a private key
+
+---
+
+**2023-09-18T19:22:22**
+
+idk the format the node uses lol modify the node code to print it when it's decrypted
+
+---
+
+**2023-09-19T07:40:03**
+
+There is no low hanging fruit, and there cannot be a high performance impl without jailbreak either because apple doesn't allow JIT
+
+---
+
+**2023-09-19T07:44:32**
+
+ok apparently there are apps that can install apps in debug mode which allows jit but idk if that's simple or not (i don't use ios)
+
+---
+
+**2023-09-22T04:25:21**
+
+In my opinion Satergo is a better option that already does this and more.
+
+---
+
+**2023-09-22T05:34:12**
+
+It's not a promotion, it's not like I get paid when people download it
+
+---
+
+**2023-09-22T05:34:54**
+
+I am just concerned that with installable node cli (from binaries), we are going to make the outdated node situation worse
+
+---
+
+**2023-09-22T05:36:10**
+
+So *in my opinion* it makes more sense to have the node runner tool (e.g. Satergo) separate from the node itself, so it takes cares of updates automatically without even restarting the app
+
+---
+
+**2023-09-22T06:55:56**
+
+Sure I don't say remove the current way, I am just concerned about pushing for such an option presented here
+
+---
+
+**2023-09-22T06:56:29**
+
+There already exists GUI node client, this topic is about CLI
+
+---
+
+**2023-09-22T07:02:59**
+
+I would like to have dmg for Satergo but I would need I mac (or illegal virtual machine; which I don't want to use) and a yearly subscription (price isn't the big deal, credit card/privacy is)
+
+---
+
+**2023-09-22T07:05:17**
+
+No you need them to verify your signature or something for the mac to not lie about your DMG being "corrupted"
+
+---
+
+**2023-09-22T07:12:18**
+
+I've seen this but from what I understand it uses a loophole which could end up marking all apps using the mac installer they provide as malware if a lot of malware begin using it
+
+---
+
+**2023-09-22T07:12:48**
+
+Simply put the installer is the exact same for all apps with just the "name" param changed.
+
+Unless something changed.
+
+---
+
+**2023-09-22T07:19:46**
+
+Idk man you just need to pay to get past it lol
+
+---
+
+**2023-09-22T07:19:55**
+
+Malware authors can pay as well
+
+---
+
+**2023-09-22T07:21:28**
+
+And I haven't seen windows malware for like 6 years
+
+---
+
+**2023-09-22T07:21:50**
+
+(I don't use windows but it's the best comparison I've got since linux malware is rare)
+
+---
+
+**2023-09-22T07:23:38**
+
+Need to check on how much trust is given to his server etc. Don't want a server hack lead to users getting malware
+
+---
+
+**2023-09-22T07:26:29**
+
+Aside from that, jdeploy apps auto-update (can be both a good and a bad thing), and the download will be larger (since it uses the full JRE instead of specialized/cut down ones used in most java apps nowadays)
+
+---
+
+**2023-09-22T10:03:37**
+
+Apk? Android app?
+
+---
+
+**2023-09-22T10:45:44**
+
+Lol why did they choose the same extension..haha...
+
+---
+
+**2023-09-22T11:25:48**
+
+Apparently it stands for "alpine package keeper" which is the tool's name and I guess they just used the same name for the file ext
+
+---
+
+**2023-10-02T09:20:13**
+
+I get so confused sometimes by sigmastate usage in the ergo repo
+
+---
+
+**2023-10-06T06:02:44**
+
+What the hell why is that free
+
+---
+
+**2023-10-06T08:14:53**
+
+I just used telegram's instant view and there was no paywall
+
+---
+
+**2023-10-06T09:48:40**
+
+Uh, not sure you can say that when it's free
+
+---
+
+**2023-10-06T11:21:57**
+
+Have you set public ip
+
+---
+
+**2023-10-06T11:23:53**
+
+Imagine if crypto mining was allowed lol
+
+---
+
+**2023-10-06T11:24:21**
+
+Tbh using crypto mining on free vps is immoral imo
+
+---
+
+**2023-10-06T12:08:04**
+
+It is counted just with an invalid ip probably
+
+---
+
+**2023-10-06T12:08:45**
+
+I know you're not using Satergo but this doc is useful anyways https://github.com/Satergo/Satergo/wiki/Initial-node-configuration
+
+---
+
+**2023-10-06T12:15:47**
+
+actually when you connect to other nodes they get your remote ip and even tho proxies wouldn't be accounted for it'd probably be correct in most cases
+
+---
+
+**2023-10-06T12:16:29**
+
+I just checked and apparently the weird invalid 169.???.x.x IPs the nodes used to broadcast as their IP aren't really a thing anymore
+
+---
+
+**2023-10-06T12:16:38**
+
+I guess it was improved
+
+---
+
+**2023-10-06T12:32:55**
+
+No that's not it
+
+---
+
+**2023-10-06T12:33:43**
+
+That was an issue I reported to kushti long ago that meant nodes could tell other nodes their IP was one belonging to the local area network which would make your node make connections to other possibly private or secret computers in your own network
+
+---
+
+**2023-10-06T17:43:19**
+
+The point is that it cannot read data that does not exist. Nodes are found, just their IP is different
+
+---
+
+**2023-10-07T16:16:51**
+
+It does
+
+---
+
+**2023-10-07T17:13:47**
+
+It does count them. As unreachable nodes. With wrong IPs. At least that was how it used to be, I don't know what the node broadcasts now
+
+---
+
+**2023-10-10T02:47:28**
+
+@marty_ergopad I suggest you rename mobile to ergopay. Not only ergo mobile wallet app uses ergopay and it confuses some people who use Satergo
+
+---
+
+**2023-10-10T08:54:47**
+
+I'm not talking about auth tho
+
+---
+
+**2023-10-16T06:18:23**
+
+What is the best way to get the current price of a token? I want to add token valuation to Satergo
+
+---
+
+**2023-10-16T06:38:19**
+
+yeah i already have coingecko/coinex/kucoin implemented for erg price
+
+---
+
+**2023-10-16T06:38:27**
+
+Any example?
+
+---
+
+**2023-10-16T06:39:59**
+
+Alright
+
+---
+
+**2023-10-16T06:53:21**
+
+How'd I get the pool_id for the token?
+
+---
+
+**2023-10-16T10:02:02**
+
+I am curious, how is the case where an attacker generates lots of addresses prevented?
+
+---
+
+**2023-10-16T10:02:54**
+
+Ok, will look into this and probably make a Java port this week
+
+---
+
+**2023-10-16T10:22:35**
+
+I meant if an attacker generates many addresses to link your addresses together
+
+---
+
+**2023-10-16T15:15:30**
+
+So it is not supposed to protect you against somebody generating 10000 addresses from the stealth address and thus knowing every transaction sent to your stealth address?
+
+---
+
+**2023-10-16T18:43:14**
+
+So you don't believe that spending 3 hours writing scripts automating it is better than 10 minutes doing it manually? Are you even a technological person?????
+
+---
+
+**2023-10-18T08:01:58**
+
+Satergo update (unreleased but available on GitHub):
+- Light node setup support
+- Improved toggle switches with a better animation that grafually fills the color as the thumb slides from OFF to ON
+
+---
+
+**2023-10-18T08:24:37**
+
+There was one ErgoHack, ergohackfest (I don't remember the number), that lasted 1 week. Was nicer that way
+
+---
+
+**2023-10-18T08:31:01**
+
+Have you even seen it 🤔
+
+---
+
+**2023-10-18T08:34:10**
+
+Just run with gradle, very easy 👍
+
+---
+
+**2023-10-20T11:09:46**
+
+@anon2020s mind answering my  question?
+
+---
+
+**2023-10-20T12:16:37**
+
+Thanks, the 2nd point answers my question
+
+---
+
+**2023-10-23T18:19:14**
+
+let me know if you need help
+
+---
+
+**2023-10-24T09:40:52**
+
+Is the phrase actually stored? I thought only the private key is.
+
+---
+
+**2023-10-24T10:50:12**
+
+yes that's what i meant. Nowadays the term mnemonic is avoided because it suggests that you should memorize it
+
+---
+
+**2023-10-25T05:22:26**
+
+sirs is there a standard port for stratum mining pools
+
+---
+
+**2023-10-25T06:21:53**
+
+Also, does anybody know how I should test my mining pool software? Can I mine on testnet? with what software (not closed source) can I use my pool?
+
+---
+
+**2023-11-02T10:57:51**
+
+@reqlez is tn-ergo-explorer-api dead?
+
+---
+
+**2023-11-02T11:01:31**
+
+i know he stopped the mainnet but he said he would keep the testnet on
+
+---
+
+**2023-11-02T11:01:38**
+
+i guess he changed his mind then
+
+---
+
+**2023-11-02T12:21:36**
+
+@aslesarenko am I supposed to use ergo-appkit_2.12 or ergo-appkit_2.13 in a Java 21 project?
+
+---
+
+**2023-11-02T12:26:48**
+
+also, is the modularization done, can I exclude for example the ergoscript source code parser?
+
+---
+
+**2023-11-02T15:18:35**
+
+@kushti_ru can you tell me why having this in the conf makes the http server never start? testnet
+
+ergo {
+    node {
+        mining=true
+        miningPubKeyHex="my address was here."
+        useExternalMiner=true
+    }
+}
+
+---
+
+**2023-11-02T15:28:35**
+
+in fact, just providing a miningPubKeyHex makes it never start
+
+---
+
+**2023-11-02T15:30:26**
+
+I put it in normal address base58
+
+---
+
+**2023-11-02T15:31:43**
+
+I thought for address it doesn't have to be hex
+
+---
+
+**2023-11-02T15:35:43**
+
+am I just supposed to decode the address and encode it in hex? or do i need to encode the address ergo tree in hex?
+
+---
+
+**2023-11-02T15:42:00**
+
+apparently, I cannot mine if I have not initialized the node wallet.. pretty annoying
+o.e.mining.ErgoMiner - Miner is waiting for wallet initialization
+
+---
+
+**2023-11-02T15:42:28**
+
+i am going to use an external miner program and also gave it a hex of the p2pk address, why should it care about this
+
+---
+
+**2023-11-02T15:44:49**
+
+it's very stubborn
+
+---
+
+**2023-11-02T15:52:52**
+
+It tells me "Trying to use secret key from wallet for CPU mining, wallet must be unlocked."
+Why does it try to do that?
+
+---
+
+**2023-11-02T15:54:03**
+
+seems like I had turned useExternalMiner off while trying to get it to work, that's why
+
+---
+
+**2023-11-02T16:07:07**
+
+Finally
+
+---
+
+**2023-11-02T16:50:19**
+
+I'm looking for a tester to test the new solo mining pool feature in Satergo (unreleased but available on github). Testnet is also supported. (so far, I don't know if it works.)
+
+---
+
+**2023-11-02T16:59:44**
+
+nice, when can you?
+
+---
+
+**2023-11-02T17:01:45**
+
+to test it clone the github repo and switch to the solo-mining-pool repo
+then you can make or import a full node (testnet preferably), initialize the node wallet and from the "Node" tab click "Settings" then "Setup solo mining pool"
+
+---
+
+**2023-11-02T17:07:06**
+
+https://github.com/Satergo/Satergo/tree/solo-mining-pool
+
+---
+
+**2023-11-02T17:10:41**
+
+it needs java 21, because the mining pool program is compiled with java 21
+
+---
+
+**2023-11-02T17:12:53**
+
+No
+
+---
+
+**2023-11-02T17:13:40**
+
+You cannot
+
+---
+
+**2023-11-02T17:16:08**
+
+i mean, you could download the mining pool program separately if you want to
+
+---
+
+**2023-11-02T17:16:20**
+
+but you'll have to configure the node and the the program manually
+
+---
+
+**2023-11-02T17:17:08**
+
+yes you're compiling Satergo from source but the mining pool program is downloaded when needed and it is compiled with java 21
+
+---
+
+**2023-11-02T17:19:27**
+
+https://github.com/Satergo/stratum4ergo
+
+---
+
+**2023-11-02T17:22:02**
+
+Java 17 will suffice if you decide to run the pool program without Satergo (and from source)
+
+---
+
+**2023-11-02T17:23:34**
+
+thank you
+
+---
+
+**2023-11-02T17:29:19**
+
+I added some information to the program's readme about configuring the node
+
+---
+
+**2023-11-02T17:56:57**
+
+Oh right the explorer is still the dead reqlez one
+
+---
+
+**2023-11-02T17:57:37**
+
+I had switched it but reverted it then, because I didn't want unrelated things in the pool src
+
+---
+
+**2023-11-02T17:58:28**
+
+Just git pull, I changed it
+
+---
+
+**2023-11-02T18:02:52**
+
+any terminal messages?
+
+---
+
+**2023-11-02T18:05:49**
+
+never seen that before
+
+---
+
+**2023-11-02T18:06:29**
+
+what's your ergo.conf?
+
+---
+
+**2023-11-02T18:07:07**
+
+Waitt....is this that windows bug which I thought was solved in a node update
+
+---
+
+**2023-11-02T18:07:15**
+
+I think the node is online just no output
+
+---
+
+**2023-11-02T18:07:33**
+
+go to 127.0.0.1:9052/panel maybe
+
+---
+
+**2023-11-02T18:13:57**
+
+it looks odd that the jar is inside .ergo, can you show me the contents of ergo_testnet?
+
+---
+
+**2023-11-02T18:18:38**
+
+that's super weird
+
+---
+
+**2023-11-02T18:18:59**
+
+did you import an existing node and by accident selected the .ergo directory rather than the ergo_testnet directory? I think this must have happened
+
+---
+
+**2023-11-02T18:20:48**
+
+log out first
+
+---
+
+**2023-11-02T18:21:03**
+
+then go back to the node selection screen
+
+---
+
+**2023-11-02T18:21:09**
+
+then delete the .ergo/ergo.conf and .ergo/node-info.json files and do the thing again
+
+---
+
+**2023-11-02T18:21:49**
+
+I'll probably add a check for this to be impossible to happen, thanks for making me aware that there are no checks
+
+---
+
+**2023-11-02T18:35:22**
+
+no idea what that is, maybe kushti knows (it's unrelated to satergo)
+
+---
+
+**2023-11-02T18:35:36**
+
+"use existing" for light node is for when you want to import a light node
+
+---
+
+**2023-11-02T18:35:41**
+
+it doesn't convert it or anything
+
+---
+
+**2023-11-02T18:39:02**
+
+yes, but importing never changes the conf
+
+---
+
+**2023-11-02T18:39:21**
+
+i tried to use light testnet today and it didn't sync at all after finishing headers
+
+---
+
+**2023-11-02T18:39:47**
+
+if you want i can compress my testnet node and send it over
+
+---
+
+**2023-11-02T18:39:56**
+
+ok
+
+---
+
+**2023-11-02T18:41:25**
+
+what is that even supposed to mean
+
+---
+
+**2023-11-02T18:42:48**
+
+if you want i can send my node, really it's only 2.5 GB
+
+---
+
+**2023-11-02T18:43:20**
+
+that won't work with testnet, i tried it today already
+
+---
+
+**2023-11-02T18:45:14**
+
+I really have no idea what these are 😂
+
+---
+
+**2023-11-02T18:48:44**
+
+alright, creating archive
+
+---
+
+**2023-11-02T18:55:49**
+
+i'm uploading it somewhere and it's taking some time, will be done in like 2 minutes i think
+
+---
+
+**2023-11-02T18:59:32**
+
+are you here, because it has max 1 download lol
+
+---
+
+**2023-11-02T18:59:57**
+
+alright, it's 75% uploaded
+
+---
+
+**2023-11-02T19:00:50**
+
+done
+
+---
+
+**2023-11-02T19:00:56**
+
+https://send.vis.ee/download/77b8a373435ab6a1/#NpgxYX8iQzH0wsDLGCKtgQ
+
+---
+
+**2023-11-02T19:03:06**
+
+not really lol
+
+---
+
+**2023-11-02T19:03:10**
+
+i'll try another site
+
+---
+
+**2023-11-02T19:04:59**
+
+ok
+
+---
+
+**2023-11-02T19:05:48**
+
+https://file.pizza/download/yzogv4hc
+
+---
+
+**2023-11-02T19:09:41**
+
+On the other computer, please run:
+
+wormhole receive 77-waterloo-framework
+
+---
+
+**2023-11-02T19:10:13**
+
+I also uploaded it here if you wanna try https://transfer.sh/SvXRp4LmuU/dot_ergo.tar (please nobody else click)
+
+---
+
+**2023-11-02T19:11:04**
+
+damn
+
+---
+
+**2023-11-02T19:11:21**
+
+i guess somebody else clicked it before
+
+---
+
+**2023-11-02T19:11:58**
+
+i have a vpn on so that probably impairs the connection, sorry for that
+
+---
+
+**2023-11-02T19:26:17**
+
+nice
+
+---
+
+**2023-11-02T19:28:28**
+
+yeah gradle is really weird i have to kill it using commands sometimes
+
+---
+
+**2023-11-02T19:28:35**
+
+i guess you can do that from the task manager on windows
+
+---
+
+**2023-11-02T19:29:21**
+
+possibly not a gradle issue, not sure
+
+---
+
+**2023-11-02T19:29:52**
+
+doesn't seem like errors?
+
+---
+
+**2023-11-02T19:30:37**
+
+nightmare
+
+---
+
+**2023-11-02T19:30:58**
+
+what can i say... if you want to deal with it i guess just leave it overnight
+
+---
+
+**2023-11-02T19:31:23**
+
+thanks for your patience :)
+
+---
+
+**2023-11-04T20:19:05**
+
+That's strange, I'll have to check.
+
+---
+
+**2023-11-04T20:19:38**
+
+No, it's unrelated. The progress bar just shows download progress of the mining pool program.
+
+---
+
+**2023-11-04T20:20:36**
+
+It's only like 5 MB though
+
+---
+
+**2023-11-04T20:21:06**
+
+Any logs?
+
+---
+
+**2023-11-04T20:29:26**
+
+Ah. Seems like the download url is a 404, guess I messed it up when publishing the 3rd revision of the program
+
+---
+
+**2023-11-04T20:34:38**
+
+Ah you need to install WiX 3 (originally made by microsoft), it's what is used to build the installer. I forgot to write this in the readme because I already had it installed from before. https://github.com/wixtoolset/wix3/releases/tag/wix3112rtm
+
+---
+
+**2023-11-04T20:44:48**
+
+alright
+
+---
+
+**2023-11-11T15:18:10**
+
+I tried to do that once and everything is so intertwined, and I don't know scala, so all I have is wasted time and 2 crazy project directories 😂
+
+---
+
+**2023-11-12T16:41:33**
+
+Why not just if true then 1?
+
+---
+
+**2023-11-13T18:26:11**
+
+@mgpai I've fixed the 404 link for the solo mining pool in Satergo, if you have time can you test it sometime? Btw, you need to initialize a wallet on your node first (no idea why this is required tbh)
+
+---
+
+**2023-11-15T18:09:40**
+
+that sounds like a very bad idea
+
+---
+
+**2023-11-15T18:10:46**
+
+the node is already too intertwined
+
+---
+
+**2023-11-15T18:12:03**
+
+i'm pretty sure sigmastate doesn't use the ergo repo. that would be a cyclic dependency as well
+
+---
+
+**2023-11-15T18:13:44**
+
+yes
+
+---
+
+**2023-11-15T18:15:08**
+
+i think the development process is too different and also sigmastate contains many things like a javascript module that would be unnecessary to have inside the node repo
+
+---
+
+**2023-11-15T18:16:05**
+
+yes
+
+---
+
+**2023-11-16T08:21:12**
+
+This is very outdated and died with yoroi
+
+---
+
+**2023-11-17T18:16:48**
+
+Make your own network, why would you attempt to rename testnet to devnet and make a new testnet instead of making your own network
+
+---
+
+**2023-11-18T11:19:27**
+
+He/she did post there, I'm waiting for more info
+
+---
+
+**2023-11-18T15:16:15**
+
+Hey @MGpai have you had a chance to test the solo mining pool yet?
+
+---
+
+**2023-11-21T14:16:57**
+
+hey @MGpai ser did you test the solo mining pool feature yet?
+
+---
+
+**2023-11-22T16:05:54**
+
+Hey @ergomorphic do you know how I can obtain a list of ErgoBoxes for outputs from an UnsignedTransaction, it seems to only give OutBox instances? My solution is to call ErgoProver.reduce(unsignedTx, 0).getTx().unsignedTx().outputs() and this works but I'm not sure it's the right way. Or maybe I should actually be using OutBoxes?
+
+---
+
+**2023-11-22T16:14:56**
+
+It seems like what I was doing is also possible with OutBoxes and also much more natural to use from Java so the conversion from OutBox to ErgoBox using reduceTx seems unnecessary. Will need to test if it works though
+
+---
+
+**2023-11-22T16:39:43**
+
+ok, just tested and this method works as well, so no need
+
+---
+
+**2023-11-22T16:51:42**
+
+for some reason I implemented most of the things in this part of the program using "low-level" sigmastate things
+
+---
+
+**2023-11-22T16:55:14**
+
+Is there a reason why appkit's InputBoxImpl has getExtension but InputBox doesn't make it available? I need to cast it to Impl to access it
+
+---
+
+**2023-11-22T17:38:28**
+
+I understand. My only usage of it is in ((UnsignedTransactionImpl) unsignedTx).getTx().toSigned(...) anyways so that's not public either haha but I need it so I have to use it.
+I am thankful that you didn't make everything private in some very limiting way so that these kinds of things are still possible without editing the src, even though I know it might break with an update that's a risk I need to take
+
+---
+
+**2023-11-22T17:39:13**
+
+I also use it to serialize it to binary format
+
+---
+
+**2023-11-25T15:59:28**
+
+I need somebody who can test the solo mining pool feature in Satergo
+
+---
+
+**2023-11-25T15:59:50**
+
+Does anybody want to help?
+
+---
+
+**2023-11-25T16:01:57**
+
+It's fine on testnet as well
+
+---
+
+**2023-11-25T16:28:10**
+
+Hi! You can clone the repo (https://github.com/Satergo/Satergo), then switch to the solo-mining-pool branch and execute ./gradlew run, then make a full node wallet or open an existing one (you cannot use a remote node). Finally, from the node tab, settings menu, make a solo mining pool.
+
+It's a lot, I know...
+
+---
+
+**2023-11-25T18:10:01**
+
+No need to apologize, I figured you're busy so I thought I'd ask others as well
+
+---
+
+**2023-11-26T16:47:18**
+
+Does anybody know if I should take BIP 32 path component parameters as int (32 bit) or long (64 bit) in java? I know the components are 32 bit but they are unsigned, so I'm not sure if negative ints should be used, or longs
+
+---
+
+**2023-11-26T16:49:13**
+
+Of course I can work with both but I am asking which is the most convenient for a library API
+
+---
+
+**2023-11-26T16:51:10**
+
+Is this the most library-user-friendly way you think? I know that hardened components (x') are above the signed 32 bit limit so they become negative, has this ever caused headaches in your experience?
+
+---
+
+**2023-11-26T16:53:14**
+
+(I really wish java had unsigned numbers...)
+
+---
+
+**2023-11-26T16:54:43**
+
+ok thanks for the help. Btw, sometime in the future unsigned numbers could become reality with Valhalla. but when, nobody knows. one can hope, haha
+
+---
+
+**2023-11-28T14:03:39**
+
+Thank you. Are these msgs from your miner?
+
+---
+
+**2023-11-28T14:25:51**
+
+Thank you, I'll look into it
+
+---
+
+**2023-11-29T06:12:49**
+
+It's not relevant, and I think that I compiled it with jdk 21 too
+
+---
+
+**2023-11-29T15:20:11**
+
+Imo rewrite in Java would be easier to accomplish and also opens up the door for many more potential contributors than scala3
+
+---
+
+**2023-11-29T15:21:10**
+
+If something like this would be done, the rewrite could be gradually done because of scala also being on JVM
+
+---
+
+**2023-11-29T15:25:49**
+
+VM memory footprint isn't a problem, having VM can be beneficial as well due to hotspot optimization which can be done more often than with AOT
+
+---
+
+**2023-11-29T15:27:11**
+
+I think I know which kind of Java you mean. The "enterprise" style with thousands of methods etc. It has been declining with Java modernization, you can check Satergo's code to see how modern Java could look like.
+
+---
+
+**2023-11-29T15:28:04**
+
+Can use GraalVM Native Image if you don't want VM
+
+---
+
+**2023-11-29T15:29:03**
+
+sure, but scala still has contributor availability problem
+
+---
+
+**2023-11-29T15:29:15**
+
+Loom is out, yes. Since some months now
+
+---
+
+**2023-11-29T15:30:00**
+
+Not yet as I haven't written much concurrent code and servers lately. Done mostly GUI
+
+---
+
+**2023-11-29T15:37:13**
+
+Private and public are great not sure what the issue is with them
+
+Example?
+
+Optionals are used where appropriate
+
+I do use pattern matching
+
+---
+
+**2023-11-29T15:41:17**
+
+Because this gson instance is only useful for that class and other code shouldn't access it
+
+---
+
+**2023-11-29T15:41:25**
+
+Agree
+
+---
+
+**2023-11-29T15:43:45**
+
+To be honest I can't think of a better way to specify those conditions than with these keywords
+
+---
+
+**2023-11-29T15:45:44**
+
+I am curious what you dislike with inheritance. I use it for extending Application (gui app) and also for making wallet keystores extensible so code using wallet doesn't have to care if it's a hw wallet or file wallet. That's all I can remember really
+
+---
+
+**2023-11-29T15:46:28**
+
+And of course extending various GUI nodes
+
+---
+
+**2023-11-29T16:10:23**
+
+Yes it is a very good use case. Also things like collections framework, so one can have many types of lists and maps seamlessly
+
+---
+
+**2023-11-29T16:11:01**
+
+It's not really comparable, because it's not the same thing
+
+---
+
+**2023-11-29T16:40:37**
+
+Should I be using appkit-2.11 or -2.12 or -2.13 I have no idea why this is so
+
+---
+
+**2023-11-29T16:42:21**
+
+I don't even know
+
+---
+
+**2023-11-29T16:43:28**
+
+Doesn't seem so. https://central.sonatype.com/search?q=ergo-appkit
+
+---
+
+**2023-11-29T16:46:35**
+
+Any diff? For example total lib size?
+
+---
+
+**2023-11-29T16:47:26**
+
+I don't think serialization is used in the node
+
+---
+
+**2023-11-29T16:47:52**
+
+But guava should def be removed. Massive lib that takes up many megs
+
+---
+
+**2023-11-29T17:05:48**
+
+If you want to get rid of it, for cache, just switch to caffeine, it's the same guava api just not beta. I switched a program from guava once and the caching part was easy. Longs and ints are simple utils that can be reimplemented or maybe there is a small lib for it. Bloom filters idk
+
+---
+
+**2023-11-29T17:07:40**
+
+Isn't it so that Android doesn't really require java 7 bytecode? They have D8 and R8 which work well. Targeting kitkat and using java 8 features works (desugaring). Also most androids are on jdk 11 now, and next android (14) will be jdk 17
+
+---
+
+**2023-11-29T17:10:16**
+
+https://github.com/google/desugar_jdk_libs/blob/master/CHANGELOG.md
+
+---
+
+**2023-11-29T17:10:38**
+
+Oh I see so it's not a bytecode version problem, it's a sbt problem
+
+---
+
+**2023-11-29T17:27:33**
+
+I think ccellado said once that using Java style Scala is not possible in scala 3 which would mean moving to scala 3 could hurt performance and staying at scala 2 forever sounds suboptimal, but I'm not a sigma dev nor scala dev so I am sorry if I am incorrect or if I am caring about things I should not
+
+---
+
+**2023-11-29T17:34:47**
+
+Which android version? I can do that
+
+---
+
+**2023-11-29T17:37:10**
+
+Did you know VarHandles can be used for efficient byte arrays to primitives and vice versa conversions? https://minborgsjavapot.blogspot.com/2023/01/java-21-performance-improvements.html?m=1
+
+Added in JDK 9, not sure about Android
+
+---
+
+**2023-11-29T17:37:46**
+
+Alright maybe I misunderstood what ccellado had said then
+
+---
+
+**2023-11-29T17:40:41**
+
+I know, I thought your build thing lets you use different impls
+
+---
+
+**2023-12-02T08:56:35**
+
+Ok so the java 7 is not because of android but becauss of mobivm/robovm IOS. Good to know
+
+---
+
+**2023-12-03T09:51:51**
+
+No, ergo-wallet doesn't contain ergo-core. Ergo-core didn't even exist before
+
+---
+
+**2023-12-03T09:52:49**
+
+Actually it is GPL and thus free for open source. Costs for closed-source. But maybe some components are closed source, that I don't know. Gluon attach is gpl tho
+
+---
+
+**2023-12-03T09:55:12**
+
+I agree that javafx is really simple. I love it and it's what I use for all my desktop apps, including Satergo wallet
+
+---
+
+**2023-12-03T15:56:05**
+
+Yeah I find it a bit weird with everybody making all these discussions about his app without asking him or without him appearing here
+
+---
+
+**2023-12-03T15:56:28**
+
+Sir, this requires complete recoding
+
+---
+
+**2023-12-03T15:56:47**
+
+Probably won't be able to use usual java libs with it either
+
+---
+
+**2023-12-03T16:47:54**
+
+Nice! Good work ccellado and kushti
+
+---
+
+**2023-12-03T17:18:22**
+
+Maybe just some more dynamically used classes to be excluded from proguard?
+
+---
+
+**2023-12-07T02:01:38**
+
+GraalVM Native Image can compile any java bytecode to native (pc & mobile)
+
+---
+
+**2023-12-07T08:04:57**
+
+Why not graalvm though
+
+---
+
+**2023-12-07T08:31:08**
+
+? I am just asking why you consider robovm to be the best
+
+---
+
+**2023-12-07T08:31:45**
+
+ok
+
+---
+
+**2023-12-07T11:33:30**
+
+I thought that mrstahlfelge's app wasn't using Java/other jvm language for the ios ui
+
+---
+
+**2023-12-07T11:44:50**
+
+Ok
+
+---
+
+**2023-12-12T13:47:50**
+
+Rip server
+
+---
+
+**2023-12-13T11:19:23**
+
+Ooo did telegram finally add syntax highlighted code snippets👀
+
+---
+
+**2023-12-14T09:23:51**
+
+https://news.ycombinator.com/item?id=38641211
+
+Npm moment
+
+---
+
+**2023-12-14T09:24:10**
+
+Ledger's NPM was hacked
+
+---
+
+**2023-12-19T17:13:25**
+
+What about LMDB, the db that monero uses? https://en.m.wikipedia.org/wiki/Lightning_Memory-Mapped_Database
+
+---
+
+**2023-12-19T17:15:42**
+
+Lmdb also has java bindings (according to wikipedia) and it's described as really fast and even usable by multiple processes at once (which might be a property that makes it less prone to corruption)
+
+---
+
+**2023-12-19T17:43:38**
+
+I think that caveat is irrelevant in this case
+
+---
+
+**2023-12-20T16:50:05**
+
+https://github.com/ross-weir/go-ergo
+
+---
+
+**2023-12-20T16:50:33**
+
+I can't answer any questions because I don't know the language nor the library.
+
+---
+
+**2023-12-20T17:15:28**
+
+I know other languages too sir
+
+---
+
+**2023-12-20T17:53:42**
+
+Kushti ser @kushti_ru You forgot to change the version in the node release again. Can't you make it automated somehow because it's not the first time. This will now cause issues for all satergo users that run a node
+
+---
+
+**2023-12-20T17:54:48**
+
+They will receive update prompts every 4 hours even on latest because the version in the node is wrong and thus older than the github release
+
+---
+
+**2023-12-20T17:55:03**
+
+And also wrong stats on ergonodes.net
+
+---
+
+**2023-12-21T06:37:20**
+
+Node error while I was recording the screen, fun. Brand new node 5.0.17 with nipopows and utxo set snapshot
+
+[ERROR] [ergoref-akka.actor.internal-dispatcher-4] [akka://ergoref/user/$b] empty.last
+java.lang.UnsupportedOperationException: empty.last
+  at scala.collection.immutable.Vector.last(Vector.scala:201)
+  at org.ergoplatform.modifiers.history.popow.NipopowAlgos.lowestCommonAncestor(NipopowAlgos.scala:118)
+  at org.ergoplatform.modifiers.history.popow.NipopowProof.isBetterThan(NipopowProof.scala:51)
+  at org.ergoplatform.local.NipopowVerifier.process(NipopowVerifier.scala:34)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.applyPopowProof(PopowProcessor.scala:139)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.PopowProcessor.applyPopowProof$(PopowProcessor.scala:138)
+  at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.applyPopowProof(ErgoHistory.scala:281)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder$$anonfun$processStateSnapshot$1.applyOrElse(ErgoNodeViewHolder.scala:300)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:175)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at akka.actor.Actor.aroundReceive(Actor.scala:537)
+  at akka.actor.Actor.aroundReceive$(Actor.scala:535)
+  at org.ergoplatform.nodeView.ErgoNodeViewHolder.aroundReceive(ErgoNodeViewHolder.scala:42)
+  at akka.actor.ActorCell.receiveMessage(ActorCell.scala:577)
+  at akka.actor.ActorCell.invoke(ActorCell.scala:547)
+  at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:270)
+  at akka.dispatch.Mailbox.run(Mailbox.scala:231)
+  at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+  at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+  at java.base/java.lang.Thread.run(Unknown Source)
+
+---
+
+**2023-12-21T06:37:20**
+
+[ERROR] [ergoref-akka.actor.internal-dispatcher-4] [akka://ergoref/user/$e] Closed
+org.iq80.leveldb.DBException: Closed
+  at org.fusesource.leveldbjni.internal.JniDB.get(JniDB.java:75)
+  at scorex.db.StoreRegistry$RegisteredDB.get(LDBFactory.scala:28)
+  at scorex.db.KVStoreReader.get(KVStoreReader.scala:30)
+  at scorex.db.KVStoreReader.get$(KVStoreReader.scala:27)
+  at scorex.db.LDBKVStore.get(LDBKVStore.scala:15)
+  at org.ergoplatform.nodeView.history.storage.HistoryStorage.$anonfun$getIndex$1(HistoryStorage.scala:110)
+  at scala.Option.orElse(Option.scala:447)
+  at org.ergoplatform.nodeView.history.storage.HistoryStorage.getIndex(HistoryStorage.scala:110)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.FullBlockProcessor.bestFullBlockIdOpt(FullBlockProcessor.scala:35)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.FullBlockProcessor.bestFullBlockIdOpt$(FullBlockProcessor.scala:34)
+  at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.bestFullBlockIdOpt(ErgoHistory.scala:281)
+  at org.ergoplatform.nodeView.history.ErgoHistoryReader.bestFullBlockOpt(ErgoHistoryReader.scala:63)
+  at org.ergoplatform.nodeView.history.ErgoHistoryReader.bestFullBlockOpt$(ErgoHistoryReader.scala:62)
+  at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.bestFullBlockOpt(ErgoHistory.scala:281)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.ToDownloadProcessor.nextModifiersToDownload(ToDownloadProcessor.scala:82)
+  at org.ergoplatform.nodeView.history.storage.modifierprocessors.ToDownloadProcessor.nextModifiersToDownload$(ToDownloadProcessor.scala:50)
+  at org.ergoplatform.nodeView.history.ErgoHistory$$anon$1.nextModifiersToDownload(ErgoHistory.scala:281)
+  at org.ergoplatform.network.ErgoNodeViewSynchronizer$$anonfun$viewHolderEvents$1.$anonfun$applyOrElse$8(ErgoNodeViewSynchronizer.scala:1374)
+  at org.ergoplatform.network.ErgoNodeViewSynchronizer$$anonfun$viewHolderEvents$1.$anonfun$applyOrElse$8$adapted(ErgoNodeViewSynchronizer.scala:1373)
+  at org.ergoplatform.network.ErgoNodeViewSynchronizer.requestDownload(ErgoNodeViewSynchronizer.scala:655)
+  at org.ergoplatform.network.ErgoNodeViewSynchronizer$$anonfun$viewHolderEvents$1.applyOrElse(ErgoNodeViewSynchronizer.scala:1373)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:175)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at scala.PartialFunction$OrElse.applyOrElse(PartialFunction.scala:176)
+  at akka.actor.Actor.aroundReceive(Actor.scala:537)
+  at akka.actor.Actor.aroundReceive$(Actor.scala:535)
+  at org.ergoplatform.network.ErgoNodeViewSynchronizer.aroundReceive(ErgoNodeViewSynchronizer.scala:51)
+  at akka.actor.ActorCell.receiveMessage(ActorCell.scala:577)
+  at akka.actor.ActorCell.invoke(ActorCell.scala:547)
+  at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:270)
+  at akka.dispatch.Mailbox.run(Mailbox.scala:231)
+  at akka.dispatch.Mailbox.exec(Mailbox.scala:243)
+  at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+  at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+  at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+  at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+  at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+---
+
+**2023-12-21T06:39:23**
+
+And then multiple of this style:
+
+ERROR [tor.default-dispatcher-11] o.e.n.ErgoNodeViewSynchronizer - Got wrong manifest id 56b95c3126685a86218f3adb3873a6d99ea3845bc7f8d6630f60746a473a5b74 from ConnectedPeer
+
+---
+
+**2023-12-21T06:42:33**
+
+ergo {
+  node {
+    mining = false
+    nipopow {
+      nipopowBootstrap = true
+      p2pNipopows = 2
+    }
+    utxo {
+      utxoBootstrap = true
+    }
+  }
+}
+
+---
+
+**2023-12-21T07:01:10**
+
+Windows 10 (vm if it matters)
+
+---
+
+**2023-12-21T07:05:04**
+
+Java 20
+
+---
+
+**2023-12-21T07:37:59**
+
+I started the same node again and it works, no idea why
+
+---
+
+**2023-12-21T07:38:16**
+
+ok maybe I can make my video now
+
+---
+
+**2023-12-21T07:46:04**
+
+i think so. unless the node overwrites the log file it should be in there (log level error) but is that useful? i already sent the error
+
+---
+
+**2023-12-21T07:53:42**
+
+It happened again
+
+---
+
+**2023-12-21T07:53:58**
+
+@dadreboi this video just doesn't want to
+
+---
+
+**2023-12-21T07:54:27**
+
+Froze? It died
+
+---
+
+**2023-12-21T07:55:00**
+
+Sir we want full speed for video
+
+---
+
+**2023-12-21T07:57:04**
+
+The error happened again but it seems to go on (which is more apparent on log level info)
+
+---
+
+**2023-12-21T08:01:48**
+
+The exceptions don't go inside the ergo.log
+
+---
+
+**2023-12-21T08:01:51**
+
+This is using a different logger
+
+---
+
+**2023-12-21T08:04:05**
+
+@kushti_ru Log level info, copied from console because they don't go into the ergo.log file.
+
+---
+
+**2023-12-21T08:06:10**
+
+Here is the same run but the ergo.log file, you can see that it doesn't contain the errors
+
+---
+
+**2023-12-21T08:07:57**
+
+it seems like there are multiple different loggers and only one of them goes into the file, I reported something like this last month. https://github.com/ergoplatform/ergo/issues/2056
+
+---
+
+**2023-12-21T15:41:40**
+
+Thank you, please also investigate the errors being in the console but missing from the ergo.log. I wrote some theories and there is a related bug I submitted last month
+
+---
+
+**2023-12-22T08:22:42**
+
+If you want 1 click updates or automatic updates you can use Satergo wallet
+
+---
+
+**2023-12-22T12:59:09**
+
+ok I'll see if I can check today or tomorrow
+But the bugs were fixed so I'm not sure how I would test
+
+---
+
+**2023-12-22T14:12:50**
+
+Can you check TG dms?
+
+---
+
+**2023-12-23T05:03:23**
+
+I think if you use 5.0.17 but integrate your patch. I don't have enough git knowledge so I didn't @ccellado
+
+---
+
+**2024-01-10T07:08:04**
+
+This was a little more than 2 weeks ago, but the ergonodes.net server has been updated from the old web library it was using to a new one.
+
+The old web library was already dead when I first made ergonodes.net but I went with it due to familiarity.
+
+There aren't any direct end user facing changes as a result of this, but should I wish to add HTTPS support in the future this would make that much easier.
+
+---
+
+**2024-01-19T06:13:18**
+
+Who to ask about stealth addresses? The reference javascript code is too cryptic I need help reimplementing it in Java. Most of it is done but I have an issue with one thing
+
+---
+
+**2024-01-27T18:24:49**
+
+@anon_br @anon2020s my problem with implementing stealth addresses is that after multiplying an ECPoint (org.bouncycastle.math.ec.ECPoint) with a BigInteger I don't know how to turn it into a BigInteger again
+
+---
+
+**2024-01-27T18:26:28**
+
+Kindly delete yourself
+
+---
+
+**2024-01-27T18:28:00**
+
+@glasgowm if that scammer wasnt banned i recommend to ban him
+
+---
+
+**2024-01-28T06:28:10**
+
+I don't know anything about cryptography I'm just trying to replicate their code
+
+---
+
+**2024-01-29T09:16:58**
+
+What do I do?
+
+---
+
+**2024-01-29T10:54:27**
+
+Yes
+
+---
+
+**2024-01-29T10:54:51**
+
+Everything in their code is a big int and then they make that hex so I thought I need a big int
+
+---
+
+**2024-01-29T10:55:34**
+
+No
+
+---
+
+**2024-01-29T10:56:17**
+
+https://github.com/ergoMixer/stealth/blob/d0755f36543d78d3c17924c8715b52a187bfae7c/src/App.js#L53
+
+---
+
+**2024-01-29T10:57:43**
+
+Yes
+
+---
+
+**2024-01-29T11:33:40**
+
+There is a byte[] getEncoded(boolean compressed) method on bouncycastle
+
+---
+
+**2024-01-29T11:36:13**
+
+Ok I have an impl now
+
+---
+
+**2024-01-29T11:36:24**
+
+Does anyone have a stealth address I can send something to
+
+---
+
+**2024-01-29T11:56:54**
+
+I need to know if he will receieve it too so better if he replies here
+
+---
+
+**2024-01-29T14:01:06**
+
+sent, please check after a few minutes (block time)
+
+---
+
+**2024-01-29T14:07:43**
+
+it has been included in a block now
+
+---
+
+**2024-01-29T14:22:35**
+
+I realized I didn't mention your username. @kushti_ru
+
+---
+
+**2024-01-29T15:37:17**
+
+Is it done, I'm going to commit and push if you have gotten it
+
+---
+
+**2024-01-29T16:03:07**
+
+ok
+
+---
+
+**2024-01-29T16:03:47**
+
+sent
+
+---
+
+**2024-01-29T16:19:02**
+
+Nice
+
+---
+
+**2024-01-29T16:19:09**
+
+Thank you, but you could have kept it
+
+---
+
+**2024-01-29T17:17:01**
+
+When the user tries to send a transaction before the previous one has finished, is it better to use the same utxos but do a chained transaction, or use different utxos?
+
+---
+
+**2024-01-29T17:25:06**
+
+ok i am using chained transactions
+
+---
+
+**2024-01-29T17:33:15**
+
+is there any explorer api method to get the oldest utxo?
+
+---
+
+**2024-01-29T17:37:35**
+
+thank you, there's a sortDirection there
+
+---
+
+**2024-01-29T17:37:48**
+
+looking to find the oldest utxo age to warn for demurrage/storage rent
+
+---
+
+**2024-01-29T17:39:32**
+
+Is what hq3r sent not correct?
+
+---
+
+**2024-01-29T17:40:56**
+
+it's fine thanks ser
+
+---
+
+**2024-01-29T17:42:32**
+
+oh it's desc I thought it was asc
+
+---
+
+**2024-01-29T17:44:06**
+
+it is desc, that's the right one
+
+---
+
+**2024-01-29T17:46:23**
+
+yeah the docs talk about a "timestamp" field but that's a lie it doesn't return that
+
+---
+
+**2024-01-29T17:47:15**
+
+i'll use the settlementHeight
+
+---
+
+**2024-01-29T17:47:28**
+
+Wait no I think it's the creationHeight
+
+---
+
+**2024-01-29T17:50:55**
+
+Ok
+
+---
+
+**2024-01-29T17:51:04**
+
+which method do you use for current block height?
+
+---
+
+**2024-01-29T17:52:03**
+
+I guess I can just get top 1 block and check that
+
+---
+
+**2024-01-29T17:57:00**
+
+ok last question, how many blocks is the storage rent period
+
+---
+
+**2024-01-29T17:57:18**
+
+everything just says 4 years
+
+---
+
+**2024-01-29T17:59:43**
+
+with some maths it's 1051200 and that's also the number the doc says "is when it starts"
+
+---
+
+**2024-01-29T18:02:54**
+
+ok i've done it all just need the number of blocks it takes until the boxes pay the fee
+
+---
+
+**2024-01-29T18:06:28**
+
+Have you accounted for a box already having paid the fee once and being 7.x years old so nearing another fee
+
+---
+
+**2024-01-29T18:08:43**
+
+yeah the box doesn't get deleted if it had more than 0.14 erg so it could pay the fee again
+
+---
+
+**2024-01-29T18:09:28**
+
+Or does it paying the fee create a new box?
+
+---
+
+**2024-01-29T18:09:40**
+
+ok got it
+
+---
+
+**2024-01-30T02:17:06**
+
+Satergo v1.7.0 has been released! https://satergo.com
+
+- Light node support
+- Chained transactions
+- Sending tokens without specifying ERG
+- Copy transaction ID (history)
+- Total tokens in a transaction (history)
+- Support for sending to stealth addresses
+- Improved design
+
+---
+
+**2024-01-30T06:16:33**
+
+Satergo uses its own runtime. Java 20
+
+---
+
+**2024-01-30T06:22:47**
+
+Check my twitter I posted a guide there
+
+---
+
+**2024-01-31T05:31:58**
+
+Took 15 minutes for me on a VM and with a VPN lol
+
+---
+
+**2024-01-31T09:11:21**
+
+Satergo v1.7.0 has been released! https://satergo.com
+
+- Light node support
+- Chained transactions
+- Sending tokens without specifying ERG
+- Copy transaction ID (history)
+- Total tokens in a transaction (history)
+- Support for sending to stealth addresses
+- Improved design
+
+---
+
+**2024-01-31T09:17:08**
+
+There is one UI thread and the node log is too fast so it lags it.
+
+---
+
+**2024-01-31T09:21:06**
+
+I don't know, maybe
+
+---
+
+**2024-02-05T11:20:49**
+
+Yeah you can send me a DM just ping me here when you do because I almost never use discord
+
+---
+
+**2024-02-07T08:22:49**
+
+Ergonodes.net:
+I've rewritten the concurrency logic in the node crawler because the old one did not make much sense and hopefully this new one will not mysteriously stop scanning every once in a while...
+
+---
+
+**2024-02-07T08:25:25**
+
+It's not down, works fine for me
+
+---
+
+**2024-02-07T08:26:01**
+
+Seems like telegram converted that link in the message to HTTPS but the site doesn't have HTTPS [yet] so that's why
+
+---
+
+**2024-02-07T08:29:14**
+
+Sir I am not a UI style designer, if you want to do something you can send me the css and I'll see if it's good 😁
+
+---
+
+**2024-02-07T08:31:16**
+
+I think white is fine at least for the light theme
+
+---
+
+**2024-02-09T10:16:48**
+
+Permanent ban from all ergo communities imminent
+
+---
+
+**2024-02-11T19:27:22**
+
+Use 21. Latest. Other versions do not have updates anymore* except for businesses.
+
+* yeah there are exceptions but just use latest
+
+---
+
+**2024-02-11T19:28:26**
+
+I have never actually used graalvm jdk tbh and if u don't graalvm features just get openjdk from adoptium.net (widely known website)
+
+---
+
+**2024-02-12T01:08:05**
+
+No idea, all I can tell you is that you can check the satergo src class ErgoInterface.java
+
+---
+
+**2024-02-15T19:46:27**
+
+Idk that library
+
+---
+
+**2024-02-24T18:11:42**
+
+Sorry, no one needs your great programs 🙃
+
+---
+
+**2024-02-24T18:12:00**
+
+(The first part is a joke)
+
+---
+
+**2024-02-24T18:21:01**
+
+No, the comma,....
+
+---
+
+**2024-03-08T10:34:59**
+
+Gotta hate native binaries...
+
+---
+
+**2024-03-08T12:19:17**
+
+Of course you can build it yourself, that doesn't make it better
+
+---
+
+**2024-03-10T08:27:08**
+
+squash should be the standard
+
+---
+
+**2024-03-10T08:27:15**
+
+It is really messy to not squash
+
+---
+
+**2024-03-10T08:27:43**
+
+I've always squashed / rebased on Satergo's git repo so the history is a clean line
+
+---
+
+**2024-03-12T12:52:49**
+
+The one who merges it can do the squashing
+
+---
+
+**2024-03-13T01:31:00**
+
+agreed, it's weird all this scorex stuff, it should be left behind at this point. (but not a messy "mono repo" please, just under the same org)
+
+---
+
+**2024-03-13T01:31:38**
+
+But if there are parts that naturally belong to each other they could be merged
+
+---
+
+**2024-03-13T13:10:24**
+
+Why do you use a salt for encryption?
+
+---
+
+**2024-03-13T13:11:34**
+
+Is it to make it take longer to encrypt/decrypt it? Pbkdf or argon is prob better for that. Otherwise idk what salts can be used for in encryption, they are usually for hashing
+
+---
+
+**2024-03-15T07:08:35**
+
+what is GORT?
+
+---
+
+**2024-03-15T11:18:23**
+
+Ooook
+
+---
+
+**2024-03-30T06:26:46**
+
+Ask @ypopovych on Telegram he developed the app
+
+---
+
+**2024-05-08T09:12:52**
+
+Satergo development:
+- Added a connection test for when a remote node is specified.
+
+---
+
+**2024-05-08T09:32:40**
+
+Thanks, it's been a while. Next I would like to finish the solo mining pool but I still don't know what breaks it, so I will probably work on adding a demurrage/storage rent warning and utxo consolidation instead.
+
+---
+
+**2024-05-09T08:44:50**
+
+The new Java foreign function interface is pretty cool and easy to use
+
+---
+
+**2024-05-13T17:16:42**
+
+the quality on that image belongs in 2 decades ago
+
+---
+
+**2024-05-15T09:15:56**
+
+what or who are ErgoDevs?
+
+---
+
+**2024-05-16T13:06:16**
+
+no, REMOVE them!!
+
+---
+
+**2024-05-17T13:19:22**
+
+the satergo one does not work no idea why either, if anybody can help (not just testing to run it) it would be appreciated
+
+---
+
+**2024-05-17T15:16:20**
+
+the one i made which is called stratum4ergo
+
+---
+
+**2024-05-17T15:39:59**
+
+Sure if you can test carefully as just running it didn't make me figure it out, that could help
+
+---
+
+**2024-05-17T15:41:23**
+
+Either this https://github.com/Satergo/stratum4ergo or use the solo-mining-pool branch in the satergo repository
+
+---
+
+**2024-05-28T14:23:28**
+
+I'm having big trust issues running any libraries or programs on my computer after the Xz Utils backdoor thing. I was already a little uncomfortable with using random third party libraries before but I find it much harder to do now. Anybody else feeling the same, any solutions?
+
+---
+
+**2024-05-28T14:50:59**
+
+I have decided to trust the OS. Too hard otherwise. The problem is programming libraries mostly
+
+---
+
+**2024-05-28T14:55:01**
+
+For example, not sure if I can trust a bundle of native libraries to include with Satergo for usb/hid communication
+
+---
+
+**2024-05-28T15:06:59**
+
+Gradle and intellij yes
+
+---
+
+**2024-05-28T15:13:25**
+
+creepy, i opened that page an hour ago but didnt download it. are you on my computer ser?
+
+---
+
+**2024-05-28T15:13:49**
+
+Oh God
+
+---
+
+**2024-05-28T15:13:51**
+
+Lol
+
+---
+
+**2024-06-02T05:16:54**
+
+using the two libraries i dont know so i cant help
+
+---
+
+**2024-06-02T05:18:25**
+
+https://github.com/Satergo/Satergo/blob/cf7c7fd0302be6eec7df02e745e38817c04a38c7/src/main/java/com/satergo/WalletKey.java#L250
+
+---
+
+**2024-06-03T09:59:27**
+
+Delete it and restore again with different password
+
+---
+
+**2024-06-03T10:25:24**
+
+You delete the .ergo/wallet directory and yes you need the seed phrase
+
+---
+
+**2024-06-03T10:26:12**
+
+It is encrypted, if you don't know the seed phrase nor the password I am pretty sure it is game over
+
+---
+
+**2024-06-05T08:02:22**
+
+Satergo dev update:
+- The transaction history now loads about 3 times faster.
+
+Upcoming:
+- Transaction history past 500 latest
+- Exporting concise transaction history, however I am not sure how handle tokens with columnar data, help would be appreciated
+- Hardening price checks. CoinGecko API has become strict and this can cause errors in the application (when using coingecko).
+
+---
+
+**2024-06-12T08:04:01**
+
+Satergo dev update:
+- Further transaction history optimization
+- The "show price" setting was fixed
+- If a problem occurs when fetching the ERG price, it is shown as "(error)" instead of showing a stacktrace to the user
+
+Next:
+- Exporting transaction history is on hold because there is no good way to put UTXO+tokens transactions into CSV/TSV documents
+- Live status of sent transactions, ability to *attempt* to cancel it with replace-by-fee
+- Longer TX history
+
+---
+
+**2024-06-12T08:05:14**
+
+I *might* start a fundraiser for a feature that would let you use an Android device as a cold signer, using bluetooth. Need to check if there is demand and if so decide a goal. It could be used by other wallets too.
+
+---
+
+**2024-06-12T08:39:50**
+
+It would be bluetooth so they just need to implement support for it
+
+---
+
+**2024-06-12T09:47:10**
+
+Yes but why?
+
+---
+
+**2024-06-12T09:47:56**
+
+Por que!
+
+---
+
+**2024-06-12T10:46:50**
+
+you can use the same 1 jar to make updating easier
+
+---
+
+**2024-06-12T17:32:09**
+
+Html tooltip foevah (jk they suck)
+
+---
+
+**2024-06-13T03:58:39**
+
+Dont worry i didnt buy new crypto for like 1-2 years now, i dont affect the market
+
+---
+
+**2024-06-19T08:34:41**
+
+@ergomorphic CryptoConstants.dlogGroup().generator() used to return bouncycastle SecP256K1Point but now it returns "Ecp". How can I convert that to SecP256K1Point?
+
+---
+
+**2024-06-19T08:38:07**
+
+thank you, what about the class sigmastate.basics.SecP256K1? It is gone, what is the alternative?
+
+---
+
+**2024-06-19T08:38:25**
+
+I used it like this: SecP256K1.curve().decodePoint(mainAddress)
+
+---
+
+**2024-06-19T08:39:43**
+
+Should I use bouncycastle's SecP256K1Curve directly?
+
+---
+
+**2024-06-19T08:45:33**
+
+thanks, I have updated to the latest appkit now. nice to see the total Satergo build size decreased with that!
+
+---
+
+**2024-06-19T08:45:47**
+
+also, I have opened a very small PR on appkit, can you check it?
+
+---
+
+**2024-06-19T08:53:11**
+
+I didnt open a github issue for this because the problem exists in multiple libraries, but is it possible to update those vulnerable dependencies?
+
+---
+
+**2024-06-19T09:00:04**
+
+Some are from circe-parser but most are not. Switching to ergo-appkit_2.13 did not change the vulnerability check results
+(and also broke proguard unused class removal because of dynamic stuff I guess)
+
+---
+
+**2024-06-19T09:17:06**
+
+@ergomorphic, is there a way to include appkit without bringing in the ergoscript compiler? is it as simple as excluding a maven dependency, or removing an entire package, or is there a configuration to use, or is it not possible? edit: I use proguard, but I need to exclude appkit, scala, fastparse from getting shrunk because it breaks otherwise.
+
+---
+
+**2024-06-19T09:18:27**
+
+i think getting rid of all the parser things and such could decrease the app size
+
+---
+
+**2024-06-19T10:32:14**
+
+Unfortunately I have to exclude many packages from proguard shrinking since things break when it processes them (i think the scala-compiled classes use some dynamic things). However, things might have changed (and I had one use of the ergoscript compiler in the old source code) so I will try to adjust the exclusion list.
+
+Also, modularization could help with appkit as it is possible to depend on a library while excluding some libraries it depends on. (using gradle)
+
+---
+
+**2024-06-21T15:16:56**
+
+does anybody know cryptography/encryption here because i am stuck
+
+---
+
+**2024-06-21T15:19:42**
+
+stuck with figuring out how to encrypt data without keeping the password in memory
+
+---
+
+**2024-06-21T15:20:52**
+
+yes
+
+---
+
+**2024-06-21T15:21:07**
+
+and then update the file later on without keeping the pw in memory
+
+---
+
+**2024-06-21T15:21:20**
+
+do i need to use an asymmetric algo?
+
+---
+
+**2024-06-21T15:23:43**
+
+im thinking maybe i can derive a key from the password and keep that in memory but not sure about these things
+
+---
+
+**2024-06-21T15:24:25**
+
+i know about secretstring but the problem is with encrypting the file
+
+---
+
+**2024-06-21T15:24:52**
+
+hmm
+
+---
+
+**2024-06-21T15:25:18**
+
+yeah i was thinking to use PBKDF2 but deathgripson might be onto something here
+
+---
+
+**2024-06-21T15:25:37**
+
+lol
+
+---
+
+**2024-06-21T15:26:24**
+
+So I could encrypt the valuable part with the password and then the metadata with the derived key since the metadata is not valuable anyways, and only the metadata will be updated
+
+---
+
+**2024-06-21T15:27:02**
+
+Or, I could use an asymmetric algorithm (I dont know much about these yet) but dont know if that works with passwords
+
+---
+
+**2024-06-21T15:28:08**
+
+if asymmetric encryption works for my use case it will be better as it will cover all data
+
+---
+
+**2024-06-21T15:28:35**
+
+to encrypt you only need public key
+
+---
+
+**2024-06-21T15:28:40**
+
+to decrypt you need private key
+
+---
+
+**2024-06-21T15:29:16**
+
+when decryption is needed the password will be supplied by the user
+
+---
+
+**2024-06-21T15:31:37**
+
+secretstring is just allowing you to clear the data from memory when you want to
+
+---
+
+**2024-06-21T15:31:56**
+
+it's a fancy char array that you zero out
+
+---
+
+**2024-06-21T15:35:39**
+
+My current idea is to have 2 separate sections. One with the valuable data that will only be updated or read when the password is available by the nature of how it works. This will be symmetric AES. Another with the metadata. I havent figured out how it will be structured yet.
+
+---
+
+**2024-06-21T15:36:46**
+
+since the beginning i didnt consider having keys loaded in memory to be insecure but it seemed like i was wrong
+
+---
+
+**2024-06-21T15:37:27**
+
+my thought is because if the machine is compromised then the malware could access your data by the means of keyloggers instead
+
+---
+
+**2024-06-21T15:42:10**
+
+ok, it seems like asymmetric encryption is not fit for my use case because the keys cannot be generated from a password
+
+---
+
+**2024-06-21T15:56:20**
+
+I was trying to replicate this:
+
+"Electrum uses two separate levels of encryption:
+
+        Your seed and private keys are encrypted using AES-256-CBC. The private keys are decrypted only briefly, when you need to sign a transaction; for this you need to enter your password. This is done in order to minimize the amount of time during which sensitive information is unencrypted in your computer’s memory.
+
+        In addition, your wallet file may be encrypted on disk. Note that the wallet information will remain unencrypted in the memory of your computer for the duration of your session. If a wallet is encrypted, then its password will be required in order to open it. Note that the password will not be kept in memory; Electrum does not need it in order to save the wallet on disk, because it uses asymmetric encryption (ECIES)."
+
+---
+
+**2024-06-21T15:57:35**
+
+you can pay for hostinger vps with crypto
+
+---
+
+**2024-06-21T15:57:45**
+
+that's what i do for http://ergonodes.net
+
+---
+
+**2024-06-21T15:57:52**
+
+soon 2 years
+
+---
+
+**2024-06-21T16:05:59**
+
+Up until now I reused the (distinct from valuable data secret key) secret key for encrypting the metadata, but I found out that is not so secure. However I encrypted the valuable data with a fresh secret key every time so no big deal but I want to do it the right way for the metadata
+
+---
+
+**2024-06-21T16:17:53**
+
+no idea
+
+---
+
+**2024-06-23T08:05:43**
+
+If it doesn't have enough erg the entire utxo/box is taken
+
+---
+
+**2024-06-23T16:16:27**
+
+Or the miners get greedy and increase it a lot and also affect people that last took care of their wallet when the limit was different.
+
+---
+
+**2024-06-23T16:18:51**
+
+Ok not too bad then
+
+---
+
+**2024-06-26T04:06:36**
+
+bip39 passphrase vs mnemonic password??
+
+---
+
+**2024-06-26T04:13:53**
+
+sparrowwallet calls it "passphrase" and electrum wallet calls it "extend this seed with custom words"
+
+---
+
+**2024-06-26T04:14:30**
+
+another wallet calls it "extend this seed with a passphrase"
+
+---
+
+**2024-06-26T04:17:45**
+
+bitcoin-qt (bitcoin core) doesn't even use seed phrases, lol
+
+---
+
+**2024-06-26T04:18:38**
+
+i like the "extend this seed with a passphrase" more because it doesnt have to be words, you can write 38522@a!Cbc (pls dont hack me) if you want
+
+---
+
+**2024-06-26T04:24:10**
+
+I think it's best to move it from the "enter details" section (seen here)
+
+---
+
+**2024-06-26T04:24:25**
+
+to here
+
+---
+
+**2024-06-26T04:24:41**
+
+this way it can't be mixed up with wallet password at all
+
+---
+
+**2024-06-26T04:51:31**
+
+good or not?
+
+---
+
+**2024-06-26T04:51:36**
+
+@c8 any thoughts?
+
+---
+
+**2024-06-26T04:52:41**
+
+Options is collapsed by default
+
+---
+
+**2024-06-26T04:52:58**
+
+like so
+
+---
+
+**2024-06-26T05:31:41**
+
+@kushti_ru
+
+---
+
+**2024-06-26T06:37:30**
+
+@chris45new please view my comment https://github.com/Satergo/Satergo/pull/22
+
+---
+
+**2024-06-26T08:01:26**
+
+Satergo dev update:
+- Improved keyboard navigation
+- Improved the screen reader experience so that blind people can use the wallet in a better way — Fixed so that screen readers read dialogs to the user
+- Improved the "extended seed passphrase" aka "BIP39 passphrase" aka "mnemonic password" presentation to the user
+- The app build is a bit smaller now
+
+Next:
+- Working on a "Tools" section with tools like burn tokens, combine UTXOs, transfer everything and airdrop
+
+---
+
+**2024-06-26T15:13:23**
+
+@dadreboi hi ser, do you know how to get all prices from spectrum?
+
+---
+
+**2024-06-26T15:29:20**
+
+Thanks ser!
+
+---
+
+**2024-06-27T06:21:51**
+
+@kushti_ru why is the ergo repo commit history so messy? There are 20 commits for "remove old docker library".
+
+---
+
+**2024-06-27T06:22:07**
+
+This kind of history makes it difficult to check changes
+
+---
+
+**2024-06-27T06:33:33**
+
+You should really squash before
+
+---
+
+**2024-06-27T09:17:31**
+
+Yes.
+
+---
+
+**2024-06-27T09:17:51**
+
+It already does that
+
+---
+
+**2024-06-27T09:27:40**
+
+Sigmafi app? What is that. Did i miss part of your message?
+
+---
+
+**2024-06-27T09:34:43**
+
+I think a platform for local apps would be cool and these apps running inside the wallet application would be cool too
+
+---
+
+**2024-06-27T09:45:24**
+
+Yes but it is very server based. It connects to server every action
+
+---
+
+**2024-06-27T09:48:32**
+
+Assume port 9053/9030 simply. All apps can access ports open on the same pc
+
+---
+
+**2024-06-27T09:48:49**
+
+But autostart yeah
+
+---
+
+**2024-06-27T10:45:34**
+
+Trust the developer that app has no malware
+
+---
+
+**2024-06-27T16:27:30**
+
+You can go BSV if you want big blocks 😂 i think they had a 5 GB block once. 😂 ridiculous
+
+---
+
+**2024-07-01T12:46:30**
+
+Oh no
+
+---
+
+**2024-07-01T12:49:15**
+
+"Successful exploitation has been demonstrated on 32-bit Linux/glibc systems with ASLR. Under lab conditions, the attack requires on average 6-8 hours of continuous connections up to the maximum the server will accept. Exploitation on 64-bit systems is believed to be possible but has not been demonstrated at this time. It's likely that these attacks will be improved upon."
+Mini-phew
+
+---
+
+**2024-07-01T13:50:30**
+
+Definitely. Thanks.
+
+---
+
+**2024-07-05T04:05:21**
+
+You're the best website dev sir dont say so
+
+---
+
+**2024-07-05T07:59:06**
+
+Sir, current website is the 2.0. koutelier made it
+
+---
+
+**2024-07-06T18:40:25**
+
+Did some admin here on tg perform "remove all messages" on the bridge bot, because the chat history of this chat is useless
+
+---
+
+**2024-07-07T04:09:11**
+
+No I mean old messages from months ago. They are all gone
+
+---
+
+**2024-07-07T04:09:31**
+
+Like 14k of messages
+
+---
+
+**2024-07-07T08:04:42**
+
+Well you can search for messages from the bot and they are gone
+
+---
+
+**2024-07-07T08:04:48**
+
+Only 2k messages
+
+---
+
+**2024-07-07T08:07:08**
+
+All discordbridge messages before this one are gone https://t.me/ErgoDevelopers/24930
+
+---
+
+**2024-07-07T08:10:01**
+
+Some admin def deleted a bridged message and selected "delete all from user" in the prompt
+
+---
+
+**2024-07-07T09:23:17**
+
+Oh it says it above that. "Affable Villain removed DiscordBot".
+
+---
+
+**2024-07-08T11:24:55**
+
+Sir
+
+---
+
+**2024-07-08T11:25:05**
+
+Go is much easier than rust
+
+---
+
+**2024-07-08T11:28:04**
+
+What happened to pragmaxim @kushti_ru
+
+---
+
+**2024-07-19T06:12:00**
+
+Why are you replying to a message from december 13
+
+---
+
+**2024-07-19T18:26:29**
+
+If you want a recommendation, Java backends are good
+
+---
+
+**2024-07-20T12:18:23**
+
+alright better use what you are experienced with then
+
+---
+
+**2024-07-20T17:21:15**
+
+why is javascript so trendy in ergo?
+
+---
+
+**2024-07-20T17:21:18**
+
+just curious
+
+---
+
+**2024-07-20T17:48:45**
+
+alright, having done ui in js and in other langs too i dont have the same experience but im not good at discussing languages
+
+---
+
+**2024-07-20T18:09:43**
+
+i mean, you can only do browser ui with javascript. so naturally, desktop ui
+
+---
+
+**2024-07-20T18:17:03**
+
+Non-javascript websites might make sense in 10 years or a 5. But for now only javascript, however bad it is, is a good option because thats how browsers are. And to-javascript compilers as well
+
+---
+
+**2024-07-27T08:59:11**
+
+What do you want to connect to it with. Want to connect another node to it? Your program/code? A wallet? Need more info
+
+---
+
+**2024-07-28T11:32:44**
+
+scorex {
+    network {
+        knownPeers = ["host:port"]
+    }
+}
+
+In the config. Note that this is only used the first time you start the node, so you need to delete the peer database if you have already ran it before
+
+---
+
+**2024-07-30T06:24:56**
+
+My guess is people got tired of new framework being released every month so for once they want a bit of stability. Even if its a bad framework
+
+However I am not a web dev and never made a "single page app" myself
+
+---
+
+**2024-08-02T04:35:36**
+
+@c8 there was no "external" broadcasting implemented in the node because it would be another thing to maintain, another dependency, etc. Instead luivatra made a program using my lib, that broadcasts with zeromq
+
+---
+
+**2024-08-02T10:30:37**
+
+Tcp access is sufficient and good imo
+
+---
+
+**2024-08-02T16:19:47**
+
+do you not have a stable api by now? I dont understand why dapp ui devs have to worry about wallet updates
+
+---
+
+**2024-08-06T06:02:30**
+
+Because thats unsafe
+
+---
+
+**2024-08-06T06:16:10**
+
+Thats unsafe too
+
+---
+
+**2024-08-06T06:29:00**
+
+Thats unsafe too. Whats ur point?
+
+---
+
+**2024-08-06T06:35:02**
+
+But what have i said is secure while it wasnt
+
+---
+
+**2024-08-07T10:05:45**
+
+@FlyingPig_69 hey, you know the python module __future__?
+
+---
+
+**2024-08-07T10:10:18**
+
+try this: from __future__ import braces
+
+---
+
+**2024-08-07T10:20:51**
+
+Did you try it
+
+---
+
+**2024-08-07T10:21:17**
+
+Try it
+
+---
+
+**2024-08-07T10:21:52**
+
+I swear it is an import
+
+---
+
+**2024-08-07T10:21:55**
+
+Try it!!!!!
+
+---
+
+**2024-08-07T10:31:24**
+
+Kushti ser @kushti_ru can I have ban rights here
+
+---
+
+**2024-08-07T10:31:35**
+
+This hq3r guy must go
+
+---
+
+**2024-08-08T11:30:16**
+
+Today I opened intellij and it changed the design to something horrible
+
+---
+
+**2024-08-08T11:30:26**
+
+thankfully there is a plugin to restore the real design
+
+---
+
+**2024-08-08T11:30:29**
+
+for how long though...
+
+---
+
+**2024-08-08T11:37:35**
+
+??
+
+---
+
+**2024-08-08T11:37:47**
+
+didnt use eclipse for like 10 years now
+
+---
+
+**2024-08-08T11:38:05**
+
+well maybe 8
+
+---
+
+**2024-08-10T10:41:27**
+
+Is consolidate a standard and user-friendly word?
+
+---
+
+**2024-08-10T10:43:56**
+
+What should I call it, "consolidate utxos" or consolidate ____?
+
+---
+
+**2024-08-10T10:43:58**
+
+yes
+
+---
+
+**2024-08-10T10:55:31**
+
+Imo "box" is an abstract term so i prefer utxo which is the original term
+
+---
+
+**2024-08-10T11:02:25**
+
+im starting to think tiles are not good for this
+
+---
+
+**2024-08-10T11:21:27**
+
+No comprendo
+
+---
+
+**2024-08-10T11:34:36**
+
+@ergomorphic @alex_slesarenko Can you merge it? https://github.com/ergoplatform/ergo-appkit/pull/238
+
+---
+
+**2024-08-10T11:51:24**
+
+Aslesarenko, do you know why there is a unsignedtransactionbuilder class in both org.ergoplatform.sdk and org.ergoplatform.appkit? is that intentional?
+
+---
+
+**2024-08-10T13:45:33**
+
+Need to add artificial slowness to make the animation satisfying
+
+---
+
+**2024-08-11T05:16:09**
+
+Is there a problem with getting the box size before the transaction is made using this algorithm with appkit?
+
+---
+
+**2024-08-11T05:29:32**
+
+not sure if the token id map is made at transaction build time or box build time in appkit
+
+---
+
+**2024-08-11T05:31:49**
+
+seems to work as expected
+edit: it broke (gave me a too low value)
+
+---
+
+**2024-08-13T13:59:26**
+
+what is the right way to get box size in appkit, this one does not always work
+
+---
+
+**2024-08-13T13:59:35**
+
+who can i ask
+
+---
+
+**2024-08-13T15:47:52**
+
+I tried to use it to calculate minimum box value (bytes*360), it worked initially but when I tried to send a transaction with 1000 outputs each output using the same way to find minimum value, it errored and said too low box value
+
+---
+
+**2024-08-13T15:50:26**
+
+  private static final long COST_PER_BYTE = 360;
+  public static OutBox buildWithMinimumBoxValue(OutBoxBuilder outBoxBuilder) {
+    // Build a box with 0.001 to get the size that it would be
+    int boxSize = ((OutBoxImpl) outBoxBuilder.value(toNanoErg(new BigDecimal("0.001"))).build())
+        .getErgoBoxCandidate().toBox("0".repeat(64), (short) 0).bytes().length;
+    // Build a box with the calculated minimum ERG value
+    outBoxBuilder.value(boxSize * COST_PER_BYTE);
+    return outBoxBuilder.build();
+  }
+
+---
+
+**2024-08-13T15:51:01**
+
+sir, im working on it. read comments in the code i sent
+
+---
+
+**2024-08-13T15:53:22**
+
+p2pk
+
+---
+
+**2024-08-13T15:54:03**
+
+OutBoxBuilder outBoxBuilder = txBuilder.outBoxBuilder()
+  .contract(recipient.toErgoContract())
+  .tokens(tokensToSend);
+return dynamicMinimum ? ErgoInterface.buildWithMinimumBoxValue(outBoxBuilder) : outBoxBuilder.value(ErgoInterface.toNanoErg(amountFullErg)).build();
+
+---
+
+**2024-08-13T15:54:30**
+
+mining fee is another box though, not this one
+
+---
+
+**2024-08-13T15:58:02**
+
+@kushti_ru Could it be something with the token id map
+
+---
+
+**2024-08-13T15:59:16**
+
+oh so the problem is that i am only accounting for the value of these outboxes, but there are other bytes that are not covered by this algorithm
+
+---
+
+**2024-08-13T15:59:29**
+
+outside of the outboxes
+
+---
+
+**2024-08-13T15:59:44**
+
+but isn't the outbox value only for itself, i am confused
+
+---
+
+**2024-08-13T16:03:53**
+
+Malformed transaction: Every output of the transaction should contain at least <minValuePerByte * outputSize> nanoErgs. 51297080d1f574e1c8de450d3e8a79d08df1ac470bc775ccfa2f291bad71aa88, output 48874672f40bbe5ac275e4aeadea7f98e4418e82964ac7871e277f01ef136677, 39600 >= 39960
+
+---
+
+**2024-08-13T16:08:04**
+
+that will work (34*360 will make it pass the threshold), but what is the reason for doing it?
+
+---
+
+**2024-08-13T16:09:53**
+
+These are included already
+
+---
+
+**2024-08-13T16:09:56**
+
+But you gave me an idea
+
+---
+
+**2024-08-13T16:10:05**
+
+With 1000 outputs, the output index will take longer than 1 byte
+
+---
+
+**2024-08-13T16:10:12**
+
+However I am specifying a dummy index of 0 every time
+
+---
+
+**2024-08-13T16:15:02**
+
+Thanks @kushti_ru, it works now when I provide the correct box index instead of just 0
+
+---
+
+**2024-08-13T16:18:13**
+
+I'm glad I knew about the VLQ ints haha
+
+---
+
+**2024-08-14T06:41:54**
+
+@kushti_ru no weekly dev chat today?
+
+---
+
+**2024-08-14T06:59:52**
+
+Ok
+
+---
+
+**2024-08-14T08:15:37**
+
+Satergo dev update:
+New features (unreleased):
+- Send different coins and tokens to multiple addresses in one transaction
+- Token price (ERG/fiat) from ergodex
+- Tools: airdrop, consolidation, token burning, demurrage/storage fee chrcker
+- Sending a token-only transaction will use the minimum possible ERG instead of 0.001 all the time
+
+---
+
+**2024-08-14T08:19:57**
+
+Welcome back
+
+---
+
+**2024-08-14T17:41:38**
+
+@capt_nemo429 The nautilus wallet on firefox addons store is really outdated
+
+---
+
+**2024-08-15T02:33:08**
+
+Yeah idk I dont use browser wallets. I just have a spreadsheet with features that different wallets have, was going to update it. Cant really do that with a 1 year old version
+
+---
+
+**2024-08-16T15:49:09**
+
+Didnt bintray close like 4 years ago?
+
+---
+
+**2024-08-16T16:10:46**
+
+Trusting a random repo might not be a good idea.
+
+---
+
+**2024-08-16T17:23:33**
+
+Consider that the size of the jar will be part of all git clones forever
+
+---
+
+**2024-08-16T17:24:07**
+
+That makes me reluctant to include any binaries in git, not sure if I am dumb though
+
+---
+
+**2024-08-22T10:02:40**
+
+Is ergo appkit abandoned now?
+
+---
+
+**2024-08-22T10:26:22**
+
+well it cant be used in a modular project (it modifies a retrofit package and thats not allowed with modules) and my PR to fix that has not been merged for 2 months
+
+it has many vulnerable dependencies and even if it could be so that the methods of those libraries that appkit uses aren't vulnerable, it's a really bad look
+
+---
+
+**2024-08-22T15:16:11**
+
+Its the newset pr
+
+---
+
+**2024-08-22T16:13:50**
+
+I asked morphic if the class is still needed and he said no
+
+---
+
+**2024-08-22T16:16:10**
+
+https://t.me/ErgoDevelopers/11225
+
+Unfortunately the discord bridge messages are nuked
+
+---
+
+**2024-08-22T16:16:31**
+
+Release would be good but better to sort our the vulnerable dependencies as well
+
+---
+
+**2024-08-22T16:16:44**
+
+Thank you
+
+---
+
+**2024-08-22T16:16:55**
+
+Not on pc, will check tomorrow
+
+---
+
+**2024-08-24T06:25:13**
+
+Are there docs for babel fees sir
+
+---
+
+**2024-08-27T09:56:00**
+
+@kushti_ru vulnerable deps or deps of deps of appkit:
+
+Provides transitive vulnerable dependency maven:com.google.guava:guava:23.0
+
+CVE-2023-2976 7.1 Files or Directories Accessible to External Parties vulnerability with High severity found
+CVE-2018-10237 5.9 Allocation of Resources Without Limits or Throttling vulnerability with Medium severity found
+CVE-2020-8908 3.3 Incorrect Permission Assignment for Critical Resource vulnerability with Low severity found
+Provides transitive vulnerable dependency maven:com.squareup.okhttp3:okhttp:3.12.0
+
+CVE-2023-0833 5.5 Generation of Error Message Containing Sensitive Information vulnerability with Medium severity found
+Provides transitive vulnerable dependency maven:com.squareup.okio:okio:1.15.0
+
+CVE-2023-3635 7.5 Incorrect Conversion between Numeric Types vulnerability with High severity found
+Provides transitive vulnerable dependency maven:commons-io:commons-io:2.5
+
+CVE-2021-29425 4.8 Improper Limitation of a Pathname to a Restricted Directory ("Path Traversal") vulnerability with Medium severity found
+Provides transitive vulnerable dependency maven:org.bouncycastle:bcprov-jdk15to18:1.66
+
+Cxa9261daf-3755 9.8 Vulnerability with High severity found
+CVE-2023-33202 5.5 Uncontrolled Resource Consumption vulnerability with Medium severity found
+CVE-2023-33201 5.3 Improper Certificate Validation vulnerability with Medium severity found
+CVE-2020-28052 8.1 Comparison Using Wrong Factors vulnerability with High severity found
+Provides transitive vulnerable dependency maven:org.typelevel:jawn-parser_2.12:1.0.0
+
+CVE-2022-21653 7.5 Inadequate Encryption Strength vulnerability with High severity found
+
+---
+
+**2024-08-27T10:05:42**
+
+guava, okhttp3, okio, bcprov-jdk15to18 (why is this bouncycastle java 1.5 to 1.8 version used??), jawn-parser_2.12
+
+---
+
+**2024-08-28T12:09:26**
+
+There's this already on maven central https://mvnrepository.com/artifact/com.halibobor/leveldbjni-all/1.18.3
+
+---
+
+**2024-08-28T12:10:06**
+
+Note: dont know if safe or not (theres a github repo)
+
+---
+
+**2024-08-28T12:25:31**
+
+The ethereum fork just updated the leveldb jni version. They both originate from fusesource's lib (1.8)
+
+---
+
+**2024-08-28T12:26:50**
+
+I thought u were switching to rocksdb though
+
+---
+
+**2024-08-28T12:29:04**
+
+Its available on some maven repos but i cant say if its the exact same lib. https://mvnrepository.com/artifact/org.ethereum/leveldbjni-all
+
+---
+
+**2024-08-28T12:30:01**
+
+https://mvnrepository.com/artifact/org.ethereum/leveldbjni-all/1.18.3
+
+---
+
+**2024-08-28T12:30:29**
+
+Check the new message i sent
+
+---
+
+**2024-08-28T12:31:15**
+
+Imagej?
+
+---
+
+**2024-08-28T12:32:05**
+
+Also, the index website of the repo could need login. Doesnt mean the artifacts do
+
+---
+
+**2024-08-28T12:37:55**
+
+Didnt know gitlab allows you to make ur own maven repos, seems like the best way then.
+
+---
+
+**2024-09-02T15:05:58**
+
+There is no built in deserialization for it, but it can be added (in user code as well)
+
+---
+
+**2024-09-02T15:06:27**
+
+I think when I made the lib those weren't in use yet (idk)
+
+---
+
+**2024-09-02T15:23:15**
+
+Ok, you can make a github issue when you're done and if I have time I will look into it
+
+---
+
+**2024-09-02T15:24:56**
+
+Ok
+
+---
+
+**2024-09-03T05:55:02**
+
+You could also write them on that ergodocs p2p page I wrote long ago
+
+---
+
+**2024-09-03T08:08:54**
+
+https://docs.ergoplatform.com/dev/p2p/network/
+
+---
+
+**2024-09-04T15:55:32**
+
+@ergomorphic is sigmastate split up yet?
+
+---
+
+**2024-09-05T07:29:28**
+
+@kushti_ru where is 2.1.10 here? https://github.com/input-output-hk/scrypto/releases
+
+---
+
+**2024-09-05T07:30:34**
+
+its in my dependency tree but its not on github releases??
+
+---
+
+**2024-09-05T07:35:48**
+
+is it possible for treeBytes to be empty here, I have a check for that and if it isn't possible I can remove the check
+
+---
+
+**2024-09-05T07:57:32**
+
+it's weird. however, i noticed i was on a branch that depends on an old appkit version, rebasing it on master right now so it should update
+
+---
+
+**2024-09-05T08:23:36**
+
+Updated appkit on that branch, these methods are now missing. Whats the replacement?
+
+Iso.isoErgoValueToSValue().to(...)
+ErgoScriptPredef.feeProposition(...)
+
+edit: the first one is replaced by AppkitIso. the second one with ErgoTreePredef (I hope they do the same thing...)
+
+---
+
+**2024-09-05T09:46:12**
+
+i cant build an unedited clone of appkit, using java 17, how do i fix it?
+
+---
+
+**2024-09-05T09:52:41**
+
+was about to send but re-cloning the repo fixed it (i guess some edits i made then reverted in the build.sbt broke things even though i cleaned everything)
+
+---
+
+**2024-09-05T09:53:30**
+
+i'm gonna remove a vulnerable dependency and make a pr
+
+---
+
+**2024-09-05T09:56:53**
+
+kushti, are you aware of the minimum JDK of sigmastate? is it 7? 8?
+
+---
+
+**2024-09-05T09:57:01**
+
+so i dont use "too new" methods
+
+---
+
+**2024-09-05T10:09:53**
+
+2 vulnerable deps removed
+
+---
+
+**2024-09-05T10:10:25**
+
+i could probably just update them instead but "commons-io" was used literally in 1 method and "guava" was used in very few places
+so i removed them
+
+---
+
+**2024-09-05T10:15:03**
+
+welcome
+
+---
+
+**2024-09-06T08:40:08**
+
+Hi @kushti_ru we need a new release of scrypto because as you can see here sigmastate-interpreter depends on a snapshot version which makes it so that projects that use appkit or sigmastate-interpreter also need to include "sonatype snapshots" maven repo
+https://github.com/ScorexFoundation/sigmastate-interpreter/blob/develop/build.sbt#L85
+
+---
+
+**2024-09-06T09:17:12**
+
+@kushti_ru please merge https://github.com/ergoplatform/ergo-appkit/pull/239
+
+---
+
+**2024-09-06T14:32:27**
+
+Can i exclude ergoscript compiler by excluding a dependency
+
+---
+
+**2024-09-06T14:39:34**
+
+Node having compiler is fine
+
+---
+
+**2024-09-06T14:39:46**
+
+I want to easily exclude such things when using appkit
+
+---
+
+**2024-09-06T14:40:24**
+
+By having dependency exclusion directives in my build script. But sigma-state is one big maven dependency so far
+
+---
+
+**2024-09-06T14:51:24**
+
+From June:
+[ergomorphic] I don't know if this is possible with the sigma-state jars published right now, but proguard should prune all the unused code.
+The main work towards modularisation of sigma has already been done. The remaining part is to configure sbt to publish all sigma modules (like core, data, interpreter, parsers, sdk, sc) as separate jars. It will not help with Appkit, because it will continued to depend on sc.
+
+---
+
+**2024-09-06T14:51:29**
+
+This is what im asking about
+
+---
+
+**2024-09-08T09:11:53**
+
+is there an ergoscript decompiler
+or at least binary to AST
+
+---
+
+**2024-09-08T10:39:13**
+
+ok but i cant read it like that
+
+---
+
+**2024-09-08T14:16:37**
+
+is there a method or api to go from bytes to "ast mixed with scala code"?
+
+---
+
+**2024-09-08T16:31:34**
+
+something is missing from my transaction which makes it fail to be broadcast
+i need to debug it somehow :(
+
+---
+
+**2024-09-08T16:35:17**
+
+can someone help? whats missing from this transaction that causes it to be invalid
+
+{"id":"5b58d1640bb4219ae122f259a2962fd55a38ff50bd7c6c1a030ae72b3f9d300a","inputs":[{"boxId":"38919be8805dac937cba7fe049131d4d7c36e26cfa245448dc8c28cf2eeddb89","spendingProof":{"proofBytes":"56b97c77a80eba4e594b6fe4465a73e6b3ad998cabb5e4ca99e3a10cbca4be93f991e4e5edc53a7f66492adae5246173906ac52e4718f4a8","extension":{}}},{"boxId":"385b6a4f1fc017ed0aab1c117b23a2266dbfbf0d154fc66ec298b68443d4f09f","spendingProof":{"proofBytes":"56b97c77a80eba4e594b6fe4465a73e6b3ad998cabb5e4ca99e3a10cbca4be93f991e4e5edc53a7f66492adae5246173906ac52e4718f4a8","extension":{}}},{"boxId":"8769e96574f1ef07934a3f62d440cfbeda3c20d09b55f2f170590bee0757d8b4","spendingProof":{"proofBytes":"56b97c77a80eba4e594b6fe4465a73e6b3ad998cabb5e4ca99e3a10cbca4be93f991e4e5edc53a7f66492adae5246173906ac52e4718f4a8","extension":{}}}],"dataInputs":[],"outputs":[{"boxId":"dbedb1f6a6881363cf3ca986004b36bd41238169a6bb068f0d612ffeafbd6269","value":1000000000,"ergoTree":"0008cd02aee981c569d8bd333c66b9bc7aaa3bde599bdfe57b8a80b26b8a0dbd104c8aaa","creationHeight":1347963,"assets":[],"additionalRegisters":{},"transactionId":"5b58d1640bb4219ae122f259a2962fd55a38ff50bd7c6c1a030ae72b3f9d300a","index":0},{"boxId":"2832d5bdeaa46d6226aebf6a8c62e1e5cff01f4ca0386a4aafefcde5ff03807e","value":1000000,"ergoTree":"1005040004000e36100204a00b08cd0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798ea02d192a39a8cc7a701730073011001020402d19683030193a38cc7b2a57300000193c2b2a57301007473027303830108cdeeac93b1a57304","creationHeight":1347963,"assets":[],"additionalRegisters":{},"transactionId":"5b58d1640bb4219ae122f259a2962fd55a38ff50bd7c6c1a030ae72b3f9d300a","index":1},{"boxId":"96d72f2bd234eb416aaee8b4770971f78fc32508ef3d392642e96ce152f2b424","value":997000000,"ergoTree":"0008cd02aee981c569d8bd333c66b9bc7aaa3bde599bdfe57b8a80b26b8a0dbd104c8aaa","creationHeight":1347963,"assets":[{"tokenId":"0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b","amount":100}],"additionalRegisters":{},"transactionId":"5b58d1640bb4219ae122f259a2962fd55a38ff50bd7c6c1a030ae72b3f9d300a","index":2}]}
+
+---
+
+**2024-09-08T16:41:02**
+
+i really dont know whats missing from it, or if something isn't missing then what's wrong with it. its been some days that im trying to solve this now
+
+---
+
+**2024-09-08T16:42:02**
+
+{
+  "error" : 400,
+  "reason" : "bad.request",
+  "detail" : "Malformed transaction: Scripts of all transaction inputs should pass verification. a7d64e1fc2dff2ead01e8b85332eced5f99deb94bd7db3e30c589ab02eaa8b26: #0 => Success((false,403))"
+}
+
+---
+
+**2024-09-08T16:47:32**
+
+ohhh
+
+---
+
+**2024-09-08T16:49:51**
+
+wth?
+
+---
+
+**2024-09-08T16:52:03**
+
+(removed incorrect message)
+
+---
+
+**2024-09-08T16:54:03**
+
+yeah there is an issue with the signing, but the signing issue comes from the transaction being incorrectly built
+
+---
+
+**2024-09-08T16:55:16**
+
+it's intentional, but i don't know if it's correct
+
+---
+
+**2024-09-08T16:55:55**
+
+ledger returns one signature only, so i decided to try using it for all inputs
+not sure if it's correct to do so
+
+---
+
+**2024-09-08T16:56:05**
+
+i didn't test with multiple inputs before
+
+---
+
+**2024-09-08T17:36:27**
+
+the problem happens elsewhere which leads to the wrong data being signed, so the proof is useless
+haven't solved it yet but the json i sent is useless for finding the problem
+
+---
+
+**2024-09-09T08:55:10**
+
+I sent 1000 no problem
+
+---
+
+**2024-09-09T08:55:17**
+
+So the limit is not 100
+
+---
+
+**2024-09-09T09:35:51**
+
+Ok, weird that the node wallet has an artificial limit like that
+
+---
+
+**2024-09-09T12:16:39**
+
+Hopefully not a selective scam
+
+---
+
+**2024-09-11T08:42:06**
+
+- Submitted a PR to appkit that removes 2 libraries with vulnerabilities. Waiting for it to be merged and then I plan to make a pr for a small new feature
+
+---
+
+**2024-09-15T09:39:36**
+
+kushti why does DerivationPath.fromEncoded("m/44'/429'/0'") return a path that has an initial 0 in the "decodedPath"?
+
+---
+
+**2024-09-15T09:39:48**
+
+it messes up equality checks with DerivationPaths created from ints
+
+---
+
+**2024-09-15T12:23:00**
+
+@ergomorphic I replied to the comments and made an update (squashed into one commit again) https://github.com/ergoplatform/ergo-appkit/pull/239
+
+---
+
+**2024-09-15T13:13:58**
+
+@kushti_ru ?
+
+---
+
+**2024-09-15T15:25:26**
+
+sure
+
+---
+
+**2024-09-15T15:27:02**
+
+might have to ask morphic what exactly needs to be released as all i know is that sigmastate depends on a snapshot which causes issues for lib users
+
+---
+
+**2024-09-15T15:48:42**
+
+@ergomorphic Is there a more idiomatic way to call this method from java? ContextExtension.serializer$.MODULE$.serialize(contextExtension, sbw);
+
+---
+
+**2024-09-15T15:49:18**
+
+ContentExtension.serializer.serialize() does not work, I already tried
+
+---
+
+**2024-09-16T07:49:40**
+
+Does anyone know why DerivationPath.fromEncoded("m/44'/429'/0'") returns a path that has an initial 0 in the "decodedPath"? it messes up equality checks with DerivationPaths created from ints
+
+---
+
+**2024-09-17T05:11:35**
+
+Theres a constructor that takes a scala indexed seq of ints
+
+---
+
+**2024-09-18T08:43:44**
+
+Satergo:
+- Bug fixes (the bugs weren't in a release) and working on finalizing all changes for a new release this month (hopefully.)
+- Builds are now reproducible
+
+---
+
+**2024-09-21T09:04:36**
+
+@kushti_ru is the scrpyto release done?
+
+---
+
+**2024-09-21T13:12:18**
+
+Sir, you know Javanese, Indonesian and Malaysian? Very nice
+
+---
+
+**2024-09-21T13:14:18**
+
+The Java island is where the Java programming language got its name from 😁
+
+---
+
+**2024-09-21T13:14:45**
+
+Coffee from Java
+
+---
+
+**2024-09-22T05:01:34**
+
+Thanks sir
+
+---
+
+**2024-09-23T05:55:40**
+
+Telegram has groups inside groups now?
+
+---
+
+**2024-09-23T05:56:55**
+
+Topics too, cool. Now I remember that it was here before. But not for this group
+
+---
+
+**2024-09-23T05:58:48**
+
+Thanks sir
+
+---
+
+**2024-09-23T06:02:09**
+
+@ergomorphic can you review my appkit pr again?
+
+---
+
+**2024-09-23T06:06:02**
+
+And also is it possible to update the dependency on sigmastate
+
+---
+
+**2024-09-23T06:34:37**
+
+Mobile ux is bad I agree on that. Havent checked on pc yet
+
+---
+
+**2024-09-24T06:32:38**
+
+Can i submit a 2 year old feature hehe
+
+---
+
+**2024-10-04T03:49:39**
+
+I hate scala. Because of scala I get really weird errors and this time there isn't anything about this one on the web
+
+Caused by: java.lang.IllegalArgumentException: Unexpected character ; at position 59, expected an identifier: Lscala/collection/immutable/TreeMap$TreeMapBuilder<TA;TB;>.;
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.error(SignaturesImpl.java:372)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.unexpectedError(SignaturesImpl.java:366)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.requireIdentifier(SignaturesImpl.java:234)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.classTypeSig(SignaturesImpl.java:169)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.referenceTypeSig(SignaturesImpl.java:136)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.typeSig(SignaturesImpl.java:130)
+  at java.base/jdk.internal.classfile.impl.SignaturesImpl.parseSignature(SignaturesImpl.java:93)
+  at jdk.jdeps/com.sun.tools.jdeps.Dependencies$BasicDependencyFinder$Visitor.scanAttributes(Dependencies.java:605)
+
+---
+
+**2024-10-04T03:50:25**
+
+it literally breaks the jdk tool jdeps
+
+---
+
+**2024-10-04T03:56:20**
+
+I am running jdeps on my program's jar file
+
+---
+
+**2024-10-04T03:56:40**
+
+It looks like scala team decided to include an UNNAMED method in their class which breaks jdeps
+
+---
+
+**2024-10-04T03:58:02**
+
+jdeps is the tool that finds which java modules are used by your program, so it reads all classes to find usages
+and this class breaks it
+
+---
+
+**2024-10-04T03:58:34**
+
+i was hoping to release a new satergo version today but seems like it will be delayed..
+
+---
+
+**2024-10-04T04:07:06**
+
+Scala weirdness is the only reason i dislike ergo's java libs
+
+---
+
+**2024-10-04T04:09:23**
+
+Seems like unnamed methods were allowed in jdk <=22 but not in jdk 23. At least regarding jdeps
+
+---
+
+**2024-10-04T04:16:33**
+
+It seems like they made a new classfile lib for jdk 23.
+
+---
+
+**2024-10-04T04:21:48**
+
+I need to check the java specification to see if it is a jdk bug or scala bug.
+
+---
+
+**2024-10-04T07:22:52**
+
+Problem is not with building itself. Its jdeps. But yeah I would need to build with jdk 22 to run jdeps of jdk 22 on it unfortunately.
+
+---
+
+**2024-10-04T07:36:28**
+
+I have searched the java bug database and it isnt reported. Not saying its a bug, but if something was intentionally changed there would be a bug report for the old behavior to be fixed
+
+---
+
+**2024-10-04T07:40:39**
+
+I'll have to check the bytecode of that class
+
+---
+
+**2024-10-04T08:10:47**
+
+Where is the bounty
+
+---
+
+**2024-10-04T08:23:52**
+
+Nvm
+
+---
+
+**2024-10-04T09:11:32**
+
+yeah this scala class is definitely cursed (image: intellij)
+
+---
+
+**2024-10-04T09:33:23**
+
+Ok, I have found what is causing this
+
+---
+
+**2024-10-04T09:34:42**
+
+Proguard is producing something that is valid in JDK 22 but not JDK 23. That proguard is producing a weird result seems to be because of the class itself, because intellij is also complaining about it. So something was lenient in JDK 22 which let the result pass, but it's not lenient in JDK 23.
+
+So without proguard the issue does not happen, but it's still a regression in the JDK.
+
+---
+
+**2024-10-04T09:40:07**
+
+Probably more of a problem with Proguard's output, which is obviously affected by the structure of the scala classes since it does not happen with any other classes I'm pretty sure. Now the JDK has definitely changed behavior, but I don't know if the new behavior is more correct thus invalidating Proguard's output, or if the new JDK behavior is bugged which means Proguard's output would be valid.
+
+Proguard is a JAR optimization tool.
+
+---
+
+**2024-10-04T10:22:17**
+
+Ok I've used this chat too much for this thing so I won't write more even though I would have liked to 😂
+
+---
+
+**2024-10-04T15:46:51**
+
+new strings coming soon, do you have time to translate them? then i will merge
+
+---
+
+**2024-10-06T07:41:00**
+
+Its pretty bad that one server going down is causing this many problems
+
+---
+
+**2024-10-06T08:39:00**
+
+Pretty sure nautilus doesn't use a node, only graphql and explorer. So those are what would be relevant to know
+
+---
+
+**2024-10-06T08:45:46**
+
+using explorer api which sends to the explorer's node
+
+---
+
+**2024-10-06T08:50:22**
+
+yes
+
+---
+
+**2024-10-06T16:35:48**
+
+@ergomorphic org.ergoplatform.restapi.client.JSON says that it's "autogenerated, do not edit", but there are code comments in there so I think somebody already edited it. Is it ok if I edit it? I want to remove those SQL things, because they're unused and only serve to make me have to include the java.sql module in my java image.
+
+---
+
+**2024-10-06T16:38:43**
+
+I'm not sure how the code is generated.
+
+---
+
+**2024-10-06T16:45:22**
+
+https://github.com/ergoplatform/ergo-appkit/pull/240
+
+---
+
+**2024-10-08T13:29:19**
+
+Does anybody use appkit's CLI framework (https://github.com/ergoplatform/ergo-appkit/tree/develop/appkit/src/main/scala/org/ergoplatform/appkit/cli)?
+
+I only know of https://github.com/ergoplatform/ergo-tool using it, so if there isn't any other user then it is appropriate to move them there, in my opinion
+
+---
+
+**2024-10-09T09:20:08**
+
+Satergo: v1.8.0 was released 6 October.
+- 4 tools: airdrop, consolidate UTXOs, burn tokens, transact everything
+- Sending just tokens is cheaper now
+- Token prices from ErgoDEX
+- Sending to multiple addresses in 1 transaction (faster and lower fee)
+- View passwords while entering them
+- Better accessibility support, Javanese translation, bug fixes, node connection test, improved transaction history
+
+---
+
+**2024-10-09T09:29:32**
+
+In my opinion doing ergo stuff from java is pretty annoying because appkit is inconsistent, does not cover all possible use cases, uses obsolete and vulnerable libraries and is written with some parts in java and others in scala.
+
+So I wanted to make my own library at first but I might improve appkit instead. Right now it's more likely that I will work on appkit but that depends on if my suggestions are accepted.
+
+---
+
+**2024-10-10T09:52:29**
+
+Some things: We need to make the api consistent. Some methods take arrays, some take lists. This makes api users constantly have to convert things. Naming must be consistent, sometimes withAbc is used, sometimes just abc. One constant issue I run into is that when you specify tokens for your output box the list cannot be empty. So every time I specify tokens I need to check length > 0 (which also ruins the fluent/builder style of outboxbuilder). And when I forget, I get runtime errors.
+
+---
+
+**2024-10-10T09:55:58**
+
+More: The explorer-api and node-api clients use vulnerable and obsolete libraries. This for example causes the program to be kept alive for up to 5 minutes after the client has been used unless you explicitly System.exit(0), which isn't natural at all.
+
+---
+
+**2024-10-10T09:57:00**
+
+More: Your app must include the java.sql module due to some unused SQL date conversion code.
+
+---
+
+**2024-10-10T09:57:19**
+
+There is more, but I'm not on pc
+
+---
+
+**2024-10-10T10:16:11**
+
+I remember having to use internal api to deal with context extensions, tx signed elsewhere, using private key rather than seed, serialization
+
+---
+
+**2024-10-10T11:53:09**
+
+I also want to switch to gradle. Doesn't make sense to build a library that isn't just for scala with sbt/scala build tool. And also makes it harder for possible contributors
+
+---
+
+**2024-10-10T13:47:56**
+
+Appkit PR: https://github.com/ergoplatform/ergo-appkit/pull/241
+
+---
+
+**2024-10-10T14:18:57**
+
+@kushti_ru Do you think we can have a new sigmastate release that depends on the non-snapshot scrypto?
+
+---
+
+**2024-10-10T14:36:09**
+
+New Appkit PR: https://github.com/ergoplatform/ergo-appkit/pull/243
+
+---
+
+**2024-10-10T14:37:14**
+
+Please close https://github.com/ergoplatform/ergo-appkit/issues/190, appkit 5 was already released 2 years ago.
+
+---
+
+**2024-10-10T14:57:02**
+
+Actually if we add Automatic-Module-Name as well it will be better, fixing two things
+New issue: https://github.com/ScorexFoundation/sigmastate-interpreter/issues/1028
+
+---
+
+**2024-10-10T15:11:35**
+
+I'd make a PR but I don't know which module name you want
+
+---
+
+**2024-10-10T15:12:04**
+
+It should probably begin with "org.ergoplatform.", but should it be sigmastate or sigma_state or sigmastate_interpreter or what
+
+---
+
+**2024-10-10T15:12:14**
+
+I'm talking about the Java module name, not maven artifact ID
+
+---
+
+**2024-10-10T16:20:41**
+
+Test
+
+---
+
+**2024-10-10T16:21:02**
+
+Hey guys I am still banned from public chats in telegram but I was given admin in this group so I can talk here
+
+---
+
+**2024-10-10T17:28:11**
+
+Ok, please check the automatic module name for sigma as well. I made an issue
+
+---
+
+**2024-10-10T17:42:29**
+
+No problem and no rush, just wanted to make sure u saw that too 👍
+
+---
+
+**2024-10-11T09:26:45**
+
+Can https://github.com/ergoplatform/ergo-appkit/pull/235 be merged?
+
+---
+
+**2024-10-11T09:26:59**
+
+Seems like it was approved months ago but there are some merge conflicts now
+
+---
+
+**2024-10-14T12:26:37**
+
+Great news
+
+---
+
+**2024-10-16T09:13:09**
+
+I'm working on improving the appkit api, I have opened multiple pull requests and issues.
+
+---
+
+**2024-10-16T12:00:58**
+
+It needs 1.001 erg, but thats not the issue you have. To fix the slf4j error you need to add a logger implementation, but i dont know what in your code is using slf4j.
+
+---
+
+**2024-10-16T12:05:09**
+
+You prob didnt add all addresses
+
+---
+
+**2024-10-16T12:05:53**
+
+That code is using testnet
+
+---
+
+**2024-10-16T12:06:25**
+
+Change testnet references to mainnet in the code
+
+---
+
+**2024-10-16T12:20:26**
+
+Not only. Change api-testnet to just api and change the other uppercase testnets to mainnet
+
+---
+
+**2024-10-16T12:49:55**
+
+Idk, if ur node wallet is pretty old it could be one of the bugged ones
+
+---
+
+**2024-10-16T12:59:44**
+
+Ok, prob code issue then
+
+---
+
+**2024-10-16T13:25:48**
+
+Idk scala lol
+
+---
+
+**2024-10-16T13:25:52**
+
+Dm the code
+
+---
+
+**2024-10-16T13:26:13**
+
+I cant start dms because im flagged or whatevfr
+
+---
+
+**2024-10-16T15:57:32**
+
+Appkit users, what would be better, a) adding new methods take take Lists and deprecating the old varargs methods b) adding new methods and keeping the old ones as alternatives? For example UnsignedTransactionBuilder.addInputs/addOutputs/registers,  OutBoxBuilder.tokens etc.
+
+---
+
+**2024-10-16T15:59:46**
+
+At first I thought it would be best to deprecate the old ones. But I am not sure anymore.
+
+And also this is just me wondering, it isn't official that anything will be changed yet. That's not in my hands
+
+---
+
+**2024-10-18T15:04:33**
+
+Seems like its hard to work on appkit
+
+---
+
+**2024-10-18T15:16:38**
+
+Nobody here discusses things lol. Maybe there arent many users.
+
+---
+
+**2024-10-18T15:25:34**
+
+Yes for that one I understand. But this https://t.me/ErgoDevelopers/30846?
+
+---
+
+**2024-10-18T16:29:50**
+
+There are issues with the old method. But both can be kept. Thats what I was asking
+
+---
+
+**2024-10-18T16:30:25**
+
+Regarding issues: https://t.me/ErgoDevelopers/30736
+
+---
+
+**2024-10-18T16:40:30**
+
+Ok, so making everything use Lists and keeping the old varargs methods. If we are gonna keep them then I guess there is a decision to be made about deprecation or not
+
+---
+
+**2024-10-18T17:04:02**
+
+There are even older methods, deprecated 2 years ago. BoxesToSpend/outputs. 3 methods for each thing 😬
+
+---
+
+**2024-10-19T14:40:07**
+
+Blocks vs headers prob, i dont remember without checking
+
+---
+
+**2024-10-19T14:41:35**
+
+No, thats just for your node
+
+---
+
+**2024-10-19T14:41:47**
+
+You would have to compare with the network
+
+---
+
+**2024-10-19T14:41:52**
+
+Maxpeerheight or something
+
+---
+
+**2024-10-19T14:43:21**
+
+Yeah i am not so sure what those heights are though lol. Im not on pc to check
+
+---
+
+**2024-10-19T14:48:28**
+
+To check the sync progress in Satergo I check if headersHeight is equal to maxPeerHeight and if fullHeight == maxPeerHeight.
+
+---
+
+**2024-10-20T13:05:33**
+
+@ergomorphic can u check https://github.com/ergoplatform/ergo-appkit/pull/241 ?
+
+---
+
+**2024-10-20T16:00:32**
+
+ok, so you do not want the ones that will become old to be deprecated right?
+
+---
+
+**2024-10-20T16:00:44**
+
+will update the pr
+
+---
+
+**2024-10-20T16:04:10**
+
+since i wasn't removing them, i was deprecating them
+
+---
+
+**2024-10-20T16:11:01**
+
+yes, we are keeping both the varargs and adding new List<?> alternatives
+
+---
+
+**2024-10-20T16:22:30**
+
+sbt is stuck in an infinite loop compiling over and over
+
+---
+
+**2024-10-20T16:23:07**
+
+this is crazy
+
+---
+
+**2024-10-20T16:23:31**
+
+i wonder why i dislike scala again
+
+---
+
+**2024-10-20T16:27:38**
+
+    this.registers(registers.toArray(new Array[ErgoValue[_]](0)): _*)
+I think this made it loop infinitely. Might be invalid code, I don't know, but damn it shouldn't cause a compiler to get stuck in an infinite compilation loop
+
+---
+
+**2024-10-20T16:38:29**
+
+Ready for review https://github.com/ergoplatform/ergo-appkit/pull/246
+
+---
+
+**2024-10-20T16:41:35**
+
+seems like it's released now, is it ready for merge now?
+
+---
+
+**2024-10-20T17:30:43**
+
+Does this message still exist or can I remove it from my p2p lib? https://docs.ergoplatform.com/dev/p2p/network/#sync-info-old
+
+And also, in Sync v2, how are the header IDs retrieved here? Is it the hash of the data? https://github.com/ergoplatform/ergo/blob/master/ergo-core/src/main/scala/org/ergoplatform/nodeView/history/ErgoSyncInfo.scala#L91
+edit: yes it is the hash of the data
+
+---
+
+**2024-10-21T07:43:24**
+
+I am working on an update for the ergonnection p2p library, is there anyone that can test it before I publish to maven central? Not right now, maybe tomorrow or so. Luivatra? Mgpai?
+
+---
+
+**2024-10-22T08:34:57**
+
+Opened 2 issues on sigmastate-interpreter:
+
+https://github.com/ergoplatform/sigmastate-interpreter/issues/1030
+https://github.com/ergoplatform/sigmastate-interpreter/issues/1031
+
+---
+
+**2024-10-22T09:18:29**
+
+@LuivatraEP @MGpai0 can any of you test the new ergonnection?
+
+---
+
+**2024-10-22T09:27:01**
+
+ok, please use the branch called updates-and-sigmastate-5.0.14
+you can check the example to see what needs to be changed (in the example it's just 1 thing and it makes the code simpler)
+
+---
+
+**2024-10-22T09:28:21**
+
+the maven central release will be next week hopefully, i am waiting for a sigmastate-interpreter update
+
+---
+
+**2024-10-23T13:47:55**
+
+Satergo dev:
+- simple updates for windows installations (just click update)
+- new version of my ergonnection p2p node communication library is ready, just waiting for the new sigmastate-interpreter release because there are issues with this one
+
+---
+
+**2024-10-28T08:48:09**
+
+Hey @MGpai0 and @LuivatraEP did you get a chance to test the ergonnection update yet?
+
+---
+
+**2024-10-28T09:14:18**
+
+thank you, its called updates-and-sigmastate-5.0.14. Easiest way to test it would be to run ./gradlew publishToMavenLocal then add the maven local repo to ur testing project. The coordinates would be com.satergo:ergonnection:0.0.1 I think
+
+---
+
+**2024-10-28T11:57:07**
+
+Thanks
+
+---
+
+**2024-10-30T09:00:02**
+
+Satergo dev:
+- Working on an update to the wallet format. among other things, I might change it to use more iterations to make it take longer to test passwords so that bruteforcing is harder to do. cryptography is hard and i am still researching this
+- Working on ergohack project (offline android app for signing transactions)
+- Ergonnection (p2p) library is still waiting for a new sigmastate-interpreter release.
+
+---
+
+**2024-10-30T09:03:12**
+
+Weird. What's the exception?
+
+---
+
+**2024-10-30T12:04:20**
+
+ok happens to me too. weird, i dont think i changed anything in that part of the code
+
+---
+
+**2024-10-30T12:14:33**
+
+seems unchanged
+
+---
+
+**2024-10-30T12:40:30**
+
+ok there was a small change. however the socket wasn't closed, it misinterpreted another error as that
+
+---
+
+**2024-10-30T12:41:17**
+
+I changed the method I use for skipping bytes at the end of the transaction object. the old one didnt care if it skipped less, now it cares and throws an exception if there arent enough bytes to skip
+
+---
+
+**2024-10-30T12:41:33**
+
+so its prob skipping too many bytes and it just wasnt noticed before
+
+---
+
+**2024-10-30T12:58:37**
+
+Fixed
+
+---
+
+**2024-10-30T13:03:13**
+
+also simplified the example. the previous way was more correct but too verbose. doesnt matter for such a tiny list anyways
+
+---
+
+**2024-10-30T13:10:03**
+
+it's good that this happened because i found another bug thanks to it (deserialization errors were misinterpreted as socket close)
+
+---
+
+**2024-10-30T13:51:04**
+
+Btw @MGpai0 if you want to compile a shadow jar add   id 'com.gradleup.shadow' version '8.3.4' to the plugins { ... } of the build.gradle file and run ./gradlew shadowJar
+In my opinion it's easier to use the local maven repository but it's your choice
+
+---
+
+**2024-10-30T14:53:05**
+
+Oh I didn't notice. I usually don't have the signing plugin included so it just does it but since I intend to publish this to the maven central I have it ready. Didn't realize that it's required for local repo as well when included
+
+---
+
+**2024-10-30T16:56:45**
+
+ok unfortunately i need to wait with the maven release because the new sigmastate-interpreter isn't out yet. not sure when it will be released, hopefully in november.
+
+---
+
+**2024-10-30T16:57:46**
+
+i should add some tests as well
+
+---
+
+**2024-10-31T16:23:47**
+
+I thought u had problems with rocksdb
+
+---
+
+**2024-11-03T10:06:19**
+
+was the ledger token limit changed?
+
+---
+
+**2024-11-03T10:08:55**
+
+thanks, will change that in satergo then
+
+---
+
+**2024-11-03T10:14:56**
+
+btw, does it make sense to require that if the wallet on satergo was made using a nano s+ for example, it must be opened with a nano s+? there is nothing technical that requires it, i just thought it might be good to avoid mistakes but the wallet is checked on logon anyways so you cant open the wrong wallet by accident
+
+---
+
+**2024-11-03T10:40:24**
+
+ok, they will get an unexpected exception in that case but it's the same effect in the end
+
+---
+
+**2024-11-03T10:42:05**
+
+by the way, do you know if the ledger team requires "optional auth token" to be used?
+
+---
+
+**2024-11-05T08:16:26**
+
+Not supposed to happen unless the node is broken which is probably not the case
+
+---
+
+**2024-11-05T14:40:29**
+
+are you sure that this never happened before?
+
+---
+
+**2024-11-05T16:23:42**
+
+Will there be one more Sigmastate 5 release before 6.0?
+
+---
+
+**2024-11-06T07:14:16**
+
+Satergo dev:
+- added Mac aarch64 (arm64) support for ledger
+
+---
+
+**2024-11-15T14:01:24**
+
+is the token id determined from the input it was made from? how is that determined
+
+---
+
+**2024-11-15T14:02:14**
+
+is there somewhere i can read about that
+
+---
+
+**2024-11-15T14:04:39**
+
+hmm is it the first input that is in the minting transaction? otherwise i dont know how it would know which input is the id
+
+---
+
+**2024-11-15T14:10:26**
+
+thank you
+
+---
+
+**2024-11-16T05:57:40**
+
+Are u compiling the jvm? With gradle???
+
+---
+
+**2024-11-16T12:14:18**
+
+oh graalvm native image? how is that related to jvm lol
+
+---
+
+**2024-11-16T17:53:38**
+
+very unclear but ok. graalvm native image binaries don't use a jvm
+
+---
+
+**2024-11-20T09:25:10**
+
+I'm still waiting for a sigmastate update so we can update appkit and I can finally update my apps
+
+---
+
+**2024-11-21T08:07:05**
+
+Github Issues are a bad place for that. Use github discussions instead.
+
+---
+
+**2024-11-27T07:11:36**
+
+About a week ago I made an HID (human interface device) library for Java to use in Satergo. I plan to use it with my ledger library. I was previously using another HID library but mine is smaller and has no dependencies other than 1 native lib
+
+---
+
+**2024-12-09T15:07:25**
+
+I need help with encryption. does anyone know who or where to ask?
+
+---
+
+**2024-12-09T15:10:20**
+
+i do use aes in gcm mode, but i am using aes-128 so the first question is if i should switch to aes-256. the second question is how many pbkdf2 rounds i should use, because most of the info about recommended pbkdf2 rounds (iterations) is about password storage not encryption
+
+---
+
+**2024-12-09T15:11:13**
+
+the third question is if the IV and pbkdf2 salt should be separate data or can it be the same 12 bytes
+
+---
+
+**2024-12-09T16:00:10**
+
+right now im using the same random 12 bytes for iv and pbkdf2 salt but its not a big deal to change it because im doing a new version of the wallet format anyways
+
+---
+
+**2024-12-09T16:00:30**
+
+not sure, almost all my searches found answers for password storage
+
+---
+
+**2024-12-09T16:01:14**
+
+also, the pbkdf2 iterations are fixed at the moment, so im also wondering if i should store the number (unencrypted) in the wallet file so that it can be changed without a new wallet format version
+
+---
+
+**2024-12-09T16:05:46**
+
+i guess seed phrase is a password in a way so my use case is not that different
+
+---
+
+**2024-12-09T16:13:41**
+
+in this case i will:
+- split the iv and pbkdf2 salt
+- increase the pbkdf2 iterations
+
+but need to decide on:
+- if the pbkdf2 iterations should not be hardcoded
+- aes-128 vs aes-256
+
+---
+
+**2024-12-14T17:10:06**
+
+you should send these on wednesday just saying
+
+---
+
+**2024-12-16T14:35:00**
+
+I lament the day when a bad actor finds an exploit like this on ergo
+
+---
+
+**2024-12-16T14:37:52**
+
+Well said
+
+---
+
+**2024-12-20T07:13:45**
+
+It isnt even hard to implement to be honest
+
+---
+
+**2025-01-08T08:29:52**
+
+Satergo:
+- working on wallet format
+
+Ergonodes.net:
+- updated the server's operating system
+- HTTPS support
+
+---
+
+**2025-01-13T10:43:18**
+
+Hey @kushti_ru, you had recommended me to use aes gcm (which I was already using), but this one leaks the length of the unencrypted bytes because there is a linear relation to the encrypted byte length. Any tips?
+
+---
+
+**2025-01-14T15:25:47**
+
+Yes, but padding cannot be used with gcm. Gcm is streaming
+
+---
+
+**2025-01-14T15:30:06**
+
+Of course i can add a random length garbage to it but you might know a better solution
+
+---
+
+**2025-01-22T07:04:14**
+
+Still waiting for sigma-state update so I can release my ergo p2p library...
+
+---
+
+**2025-01-22T07:17:00**
+
+Satergo:
+- I've been busy for some time, but I'm making the final changes to the wallet file format and will then merge all my separate branches and prepare for release
+
+---
+
+**2025-01-27T05:34:21**
+
+👋
+
+---
+
+**2025-01-29T07:52:31**
+
+Satergo:
+- The wallet format update is done
+- Whats left: bringing it all together, releasing the android signer app apk, native binaries for hidapi (used for ledger)
+
+---
+
+**2025-03-04T07:41:22**
+
+??? Lol what
+
+---
+
+**2025-03-04T14:36:50**
+
+Among the android build tools there is a desugar lib which lets you use newer java classes in old androids. But some things cannot be ported, such as methodhandles. Methodhandles are used in scala 2.12+. But the oldest android with methodhandle support is android 8, so it does not really matter
+
+---
+
+**2025-03-04T14:38:37**
+
+What I am saying is you cant really have a table like that which links android version to jdk. Android's jdk is customized, and the desugar lib is powerful and gives a lot of room for using modern classes (and syntax)
+
+---
+
+**2025-03-04T14:39:07**
+
+You can without an issue use jdk 17 classes (not all) in android 8 for example.
+
+---
+
+**2025-03-04T17:20:17**
+
+I remember one of you scala devs said scala 3 forces a functional style which is less performant while scala 2 allowed both styles, so it could affect the performance negatively.
+
+Me being me (I do not like scala), I would start gradually switching to Java. But I understand Scala has many features which are useful for you guys.
+
+---
+
+**2025-03-04T18:06:55**
+
+What is your opinion about the stagnation of scala? It isn't getting more popular and it's not a large community, how will there be contributors
+
+---
+
+**2025-03-04T18:07:32**
+
+Also I don't know Charles' relation to scala, just that he wanted ethclassic to be rewritten in scala ??
+
+---
+
+**2025-03-05T07:15:46**
+
+- I launched my own maven repository where I uploaded 2 bluetooth libraries (linux & android) and my Ledger library
+- This is so I can use those libraries without cluttering the code repository
+- Satergo update is close
+
+---
+
+**2025-03-06T14:52:16**
+
+Add support for satergo :) it has russian translation
+
+---
+
+**2025-03-07T07:34:23**
+
+Why should password be optional? Put 1 dot if you insist, I guess
+
+---
+
+**2025-03-07T07:34:55**
+
+If you want that for autostarting node on boot, thats a planned feature
+
+---
+
+**2025-03-07T07:39:47**
+
+I don't think it is possible to encrypt something with a fingerprint either, as fingerprints are stored when registering and then compared when unlocking. So there is no encryption/decryption, just the software limiting access
+
+---
+
+**2025-03-11T13:41:53**
+
+its very difficult to contribute to those projects
+
+---
+
+**2025-03-12T09:41:28**
+
+Satergo v1.9.0 has been released!
+- Ledger hardware wallet support
+- Satergo Offline Vault: an Android application for storing your wallet securely
+- Update functionality (instead of just opening the website)
+- More secure wallet format
+- Bug fixes
+
+---
+
+**2025-03-14T08:32:01**
+
+If you guys could take a look at which bouncycastle variants are used across the libraries it would be great, I have seen multiple ones used, among them one intended for java 1.5-1.8
+
+---
+
+**2025-03-14T09:55:25**
+
+there are multiple variants of bouncycastle, i dont remember which one was recommended, i think it was 18on (java8-onwards)
+
+---
+
+**2025-03-24T15:56:55**
+
+Wasnt miningcore discontinued?
+
+---
+
+**2025-04-08T09:28:19**
+
+Should i add that as a default vm arg?
+
+---
+
+**2025-04-08T09:28:25**
+
+For satergo node
+
+---
+
+**2025-04-08T13:06:08**
+
+Ok, maybe in the future because Satergo currently runs on Java 22
+
+---
+
+**2025-05-27T10:00:21**
+
+does anyone know how to not have 255 MB of damn npm node_modules dependencies just to build a simple react website (satergo.com)? this is ridiculous
+
+---
+
+**2025-05-27T10:26:42**
+
+too much effort
+
+---
+
+**2025-05-27T10:30:58**
+
+the transitions and animations n stuff are cool i just wanna simplify the thing
+
+---
+
+**2025-05-27T10:54:25**
+
+it's on github https://github.com/Satergo/satergo.com
+
+---
+
+**2025-05-27T10:55:56**
+
+i think this is the only javascript project on my computer thanks though
+
+---
+
+**2025-05-27T10:56:04**
+
+well the only one that uses node js
+
+---
+
+**2025-05-27T10:56:29**
+
+thank you
+
+---
+
+**2025-05-28T11:09:40**
+
+Satergo:
+- v1.9.2 released, bug fix for Satergo Offline Vault feature (the Android app remains unchanged)
+
+---
+
+**2025-08-02T05:36:30**
+
+No, api doesnt matter. It uses p2p to connect
+
+---
+
+**2025-08-02T05:36:47**
+
+Tcp
+
+---
+
+**2025-08-02T05:38:51**
+
+Unreachable nodes are also shown. However when the ip is not declared in the config, sometimes a weird ip is sent which is within the private range and thus not broadcasted. This changed after some node update.
+
+---
+
+**2025-08-02T05:43:35**
+
+There isnt anything special that makes an ip public. Just as long as it is not under CGNAT you should be able to port forward
+
+---
+
+**2025-08-02T05:45:41**
+
+Your ip might not be static but I think UPnP handles that
+
+---
+

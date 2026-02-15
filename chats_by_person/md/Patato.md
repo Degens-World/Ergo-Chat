@@ -1,0 +1,707 @@
+# Patato
+
+**Total messages:** 101
+
+---
+
+**2025-05-17T15:39:51**
+
+I set up a devnet node, but I’m not certain it’s mining.
+
+---
+
+**2025-05-17T17:43:27**
+
+My node was apparently working well, but now it is stuck at a lower height. Also, the posted devnet node is connected to two peers (one must be me), and mine to one. The problem may have started when another node, other than mine, joined, as I noticed the issue after that. Here are the logs of my node, which is still running, but I will try to restart it.
+
+---
+
+**2025-05-17T17:55:21**
+
+restarted, working good now, height syncs but only 1 peer after 10 minutes
+
+---
+
+**2025-05-17T18:11:34**
+
+my node is mining :)
+
+[ergoref-akka.actor.default-dispatcher-11] >> [INFO ] o.e.mining.ErgoMiningThread >> 20:10:51.779 Found solution for input block, sending it for validation
+[ergoref-critical-dispatcher-15] >> [INFO ] o.e.mining.CandidateGenerator >> 20:10:51.780 Input-block 4d552efaddecab1c5f4ec22d3aecb18c59f377fe6516e5b3baa6d4e90fa351b3 mined @ height 703!
+
+---
+
+**2025-05-17T19:58:55**
+
+Mine is 6.0.0-RC5-208 the other screenshot is for the posted devnet node on kushti announcement
+
+---
+
+**2025-05-17T20:01:06**
+
+My node got stuck in lower height several more times and had to restart it
+
+---
+
+**2025-05-18T09:44:02**
+
+wake up today and my devnet node is stuck at height 922 and 0 peers while posted devnet node is 2586 and 1 peer, here the logs
+
+---
+
+**2025-05-18T09:48:03**
+
+restarting it isnt working node still stuck at 922 height but 1 peer now, here the logs
+
+---
+
+**2025-05-18T12:19:10**
+
+deleted .erg and started node again, after 2 hours got stuck at 2820 while posted devnet node is at 2900. here the logs. im not going to still reporting the same but i done because maybe it can help
+
+---
+
+**2025-05-18T12:20:51**
+
+here the .ergo
+
+---
+
+**2025-05-21T11:35:25**
+
+i think maybe my node got broken because im behind a NAT so no public IP address and cant propagate mined blocks, but is only a guess of mine, now i set the log level to WARN to not loose important log messages and im runing one more time to try help
+
+---
+
+**2025-05-21T14:26:22**
+
+19:22 utc http://213.239.193.208:9058/panel/ was down and couple minutes later got up but with 0 peers and height seems stuck on 11747
+
+---
+
+**2025-05-21T14:28:30**
+
+height is increasing nvm
+
+---
+
+**2025-05-21T14:29:57**
+
+i was just watching right on the browser
+
+---
+
+**2025-05-21T17:45:32**
+
+ran my devnet node again but this time with mining disabled on ergo.conf and after 2-3 hours it got stuck again so the issue isnt related to mining, this time i ran with args 2>&1 | tee log-no-mining2.txt to capture the full history log, logging level was set to WARN. hope this be usefull
+
+---
+
+**2025-08-18T04:51:33**
+
+Oh sorry I didn't checked the instructions my bad sorry I just ran the run.sh with ./run.sh I will check it now.
+Thank you so much for feedback
+
+---
+
+**2025-08-18T04:53:33**
+
+I don't know another repo for ergo dex, yes it is the UI of spectrum, the old one, new looks much cleaner but I could not find it
+
+---
+
+**2025-08-18T04:58:13**
+
+Will check thank you
+
+---
+
+**2025-08-18T05:26:06**
+
+I switched to the master branch, and when you access localhost:3000, there's a message that redirects you to ergodex.io, and I couldn't find a way to go to the localhost swap page.
+I'll keep investigating. If I find a way to get the latest UI, I'll update it.
+I removed the single-line installation instruction that wasn't working.
+Thank you very much for the feedback and comments.
+
+---
+
+**2025-08-18T08:38:28**
+
+As Michael said, the correct branch was the "ergodex" branch, which uses the latest version of the UI and Node V20. I've updated the script to correct everything.
+Thanks.
+
+---
+
+**2025-08-24T13:12:34**
+
+i think is from here, sorry if im wrong
+https://github.com/nautls/nautilus-wallet/tree/master/public/icons/assets
+
+---
+
+**2025-08-24T21:17:29**
+
+joined the devnet! can see my node here: https://724fad5f74bb.ngrok-free.app/info
+api key password "hello" wallet password "hello"
+if for some reason my address change i will update this message
+
+---
+
+**2025-08-25T13:04:47**
+
+Updated to 6.0.1-269-34052511-SNAPSHOT 
+Should I also delete my history? my node seems to be on a higher height but say its synced
+
+---
+
+**2025-08-26T16:03:49**
+
+Updated to 6.0.1-272-db904e1c-SNAPSHOT
+
+---
+
+**2025-08-27T11:30:49**
+
+At this moment the internet is working fine; last night it did cut out for a few minutes and then went back to normal (I don’t know if it happened again while I was asleep).
+
+---
+
+**2025-08-28T09:55:45**
+
+Should I restart, or delete my node history and then restart? It still shows 0 peers and is decoupled from yours.
+
+---
+
+**2025-08-28T12:23:20**
+
+ergo.conf im using: https://gist.github.com/kushti/8f0753c454cab46244dbaee3b4d842c8
+
+---
+
+**2025-08-31T17:35:25**
+
+Yes! I’ll try to reproduce the error in the simplest way possible so I can attach the script along with explanations of what it does and what happens (with some help from AI). I’ll also try to include some useful debug info in the script if possible. Then I’ll create the issue in the repository. Hopefully I’ll do it correctly and it will be helpful!
+
+---
+
+**2025-09-05T18:39:47**
+
+Updated to 6.0.1-287-599da782-SNAPSHOT
+
+---
+
+**2025-09-05T19:27:10**
+
+I am seeing "invalid modifiers" messages followed by peer penalizations. Logs: https://termbin.com/3vh9
+
+- Running with mining disabled
+- My latency to 213.239.193.208 is: minimum 267ms maximum 377ms average 300ms
+
+---
+
+**2025-09-06T05:06:51**
+
+I ran git pull and sbt assembly after your message to update. The version it shows is 6.0.1-287-599da782-SNAPSHOT, same as your seed node 213.239.193.208:9058/info.
+I just woke up and checked the node panel through my phone to verify the versions, and I also saw that my node currently has 0 peers, so it surely ended up blacklisting yours.
+
+---
+
+**2025-09-06T05:12:40**
+
+I restarted my computer and had forgotten to do it earlier. Now my node is visible again through the ngrok tunnel: https://8005968aa229.ngrok-free.app/info
+
+---
+
+**2025-09-06T05:26:29**
+
+Some error logs (also more invalid modifiers I didn’t collect), and then your node got blacklisted.
+
+Logs: https://termbin.com/m1ia
+
+---
+
+**2025-09-09T09:53:23**
+
+https://termbin.com/fxho
+
+---
+
+**2025-09-10T15:32:20**
+
+No problem. I have the log file (~100 MB) and can upload it somewhere for you to download. Alternatively, I can run more grep commands or anything else you need
+
+---
+
+**2025-09-10T16:46:58**
+
+https://termbin.com/8dwd6
+
+---
+
+**2025-09-12T07:51:04**
+
+Updated to 6.0.1-291-8892149a-SNAPSHOT
+Running with mining disabled
+Can  see my node at: https://e14e3e42e264.ngrok-free.app/info
+
+---
+
+**2025-09-12T11:28:32**
+
+tried to make a transaction from my wallet to my own address (basically from myself back to myself). Right after that, almost immediately, my node lost all peers and stopped working.
+
+I deleted the database and started the node again, but it still has no peers. So I suspect that, for some reason, my node may have been blocked by other nodes.
+
+If I wasn’t supposed to try such transactions, please accept my apologies — I just wanted to test and see how it behaved. Anyway, I’m attaching the log file in case it helps. If you need me to run any specific grep command or anything else locally, just let me know.
+
+---
+
+**2025-09-13T18:26:56**
+
+I deleted the database ( everything except wallet ) and my node still can't connect to your node (0 peers) and can't sync. I tried using my phone's internet (hotspot), and in that case my node connected to your peer and started syncing. So I think my home internet IP was blacklisted or banned on your node when the issue happened. I already tried restarting my router just in case, but it didn’t help. I don’t have an easy way to change/renew my IP, I would need to call my ISP for that. I can do it if necessary, but if there’s a way to remove the ban/blacklist on my IP it would be much appreciated.
+
+Can see my node (0 peers) here: https://dd2c5a7e149e.ngrok-free.app/info
+
+---
+
+**2025-09-14T03:38:59**
+
+Thanks, I just remembered — if I’m not wrong, when I tried the transaction and my node lost connection to yours, your node had 2 peers. If I recall correctly, it lost connection to both, as if what I did somehow also affected the other peer connected to you. But my node always had only 1 peer. I just remembered this and I hope I’m not mistaken.
+My node still can’t connect to yours.
+
+---
+
+**2025-09-14T07:22:39**
+
+Perfect, can see my node at: https://40b8ae065386.ngrok-free.app/info
+
+---
+
+**2025-09-14T15:41:38**
+
+I was out and just got back home. My node was stuck at height 543 while the seed node was already at 1200+. I saved the log file, deleted the database, and ran it again.
+
+In the logs I saw a lot of penalties and my node ended up blacklisting the seed node. Here’s what I got with:
+
+cat ergo.log | grep -B 80 -A 1 "penalty"
+
+https://termbin.com/nek7
+
+If needed I also have the full log file. My node is running again now, let’s see if it gets stuck again.
+
+---
+
+**2025-09-15T09:41:58**
+
+My node got stuck again, lots of penalties → blacklisted.
+Deleted DB and ran again. Logs:
+
+cat ergo.log | grep -B 80 -A 1 "penalty"
+
+https://termbin.com/k1pi
+
+---
+
+**2025-09-15T12:51:22**
+
+Will upload here as soon I'm back home
+
+---
+
+**2025-09-15T19:23:40**
+
+All logs from 6.0.1-291-8892149a-SNAPSHOT
+They all show penalties and end up blacklisting the seed node.
+
+1 ergo.log → from yesterday
+
+2 ergo.log → from this morning
+
+3 ergo.log → from today
+
+In all three cases, the node started syncing from zero. After blacklisting and losing connection to the seed node (0 peers), I noticed the issue, saved the logs, deleted the node DB, and ran it again. Each time I got (apparently) the same results.
+
+---
+
+**2025-09-15T23:02:00**
+
+This correspond to "2 ergo.log"
+
+---
+
+**2025-09-16T13:06:17**
+
+Updated my devnet node to 6.0.1-294-990b2717-SNAPSHOT
+
+can see here: https://40b8ae065386.ngrok-free.app/info
+
+---
+
+**2025-09-17T09:26:53**
+
+My node hasn’t blacklisted the seed node and hasn’t lost height sync! I’ll let it run for a couple more hours and then switch mining on. Looks good!!
+
+---
+
+**2025-09-17T09:28:51**
+
+cat ergo.log | grep -B 80 -A 1 "penalty"
+cat ergo.log | grep -B 80 -A 1 "penalized"
+
+both return no results in my log!
+
+---
+
+**2025-09-17T10:49:27**
+
+“12:23:52.971 INFO [tor.default-dispatcher-12] s.c.n.NetworkController - Failed to connect to /213.239.193.208:9028 - Connection refused
+12:23:52.971 INFO [tor.default-dispatcher-12] o.e.n.peer.PeerManager - /213.239.193.208:9028 removed from peers database
+
+When I noticed my node had 0 peers, I tried accessing http://213.239.193.208:9058/panel/ but couldn’t — the page was down. A few minutes later it came back online, but my node didn’t seem to reconnect to the seed node. I think something happened to the seed node for a short moment.”
+
+---
+
+**2025-09-17T11:32:01**
+
+Restarted my node and everything is back to normal — successfully connected to peers and synced!
+
+---
+
+**2025-09-17T15:27:05**
+
+enabled mining
+
+---
+
+**2025-09-22T21:36:16**
+
+Wasn’t able to do anything today, I’ll make sure to do it tomorrow.
+
+---
+
+**2025-09-23T06:44:30**
+
+Updated/setup my devnet node on my laptop to 6.0.1-297-af443163-SNAPSHOT.
+
+Running with mining enabled through Starlink internet from Uspallata, Mendoza ñ.ñ
+
+You can see my node at: https://2e36604c10bc.ngrok-free.app/info
+
+---
+
+**2025-09-23T22:27:49**
+
+My devnet node has been running for over 12 hours with mining enabled. I haven’t broadcast any transactions.  
+
+Currently, my node is stuck at height 26050, while the seed node is at height 27670.  
+
+They got decoupled. I’m monitoring from my phone for now, and tomorrow morning I’ll check the logs for anything relevant.
+
+If you need the full log uploaded, let me know.
+
+---
+
+**2025-09-24T06:46:20**
+
+my wallet was locked for some reason so i think i wasnt mining in reality
+
+---
+
+**2025-09-24T07:44:43**
+
+I remember I ran my node, unlocked it, and then left my laptop closed (configured so it wouldn’t suspend or anything). But maybe I’m misremembering.
+
+---
+
+**2025-09-28T18:37:23**
+
+Updated my node to 6.0.1-320-4c6fd015-SNAPSHOT
+Runing with mining disabled
+Can se here: https://ee8785ec6e42.ngrok-free.app/info
+
+---
+
+**2025-09-29T09:31:14**
+
+I woke up this morning and noticed my node is stuck at height 41854, while the main devnet node is already at height 42663.
+
+---
+
+**2025-09-29T09:32:26**
+
+Here are the logs
+
+---
+
+**2025-09-29T09:33:16**
+
+i deleted the DB and ran it again to see if desync again
+
+---
+
+**2025-09-29T20:10:25**
+
+my node got stuck again at height 43505 (main devnet node currently at 43975)
+
+---
+
+**2025-09-29T20:11:22**
+
+i see some spampenalties and then blacklisted seed node
+
+---
+
+**2025-09-29T20:13:11**
+
+here the logs
+
+---
+
+**2025-09-30T10:53:36**
+
+Added scorex.network.penaltyScoreThreshold = 500000 to my ergo.conf file in scroex section
+Deleted DB and ran again
+Can see my node here: https://ea68fc205ee5.ngrok-free.app/info
+
+---
+
+**2025-09-30T12:22:38**
+
+It was correct, sorry — I made a mistake when I wrote the message. I used ChatGPT to modify my ergo.conf with your suggestion, and it seems it did it right.
+
+---
+
+**2025-10-01T15:54:28**
+
+I set the log level to DEBUG, deleted the database, and restarted the node. Before making these changes, I had been running it with penaltyScoreThreshold = 500000, and my node didn’t lose synchronization.
+
+---
+
+**2025-10-02T13:20:12**
+
+There are two log files: one compressed, which starts from zero (after deleting the DB), and the second, ergo.log, which continues up to the last entry before I stopped just now.
+
+---
+
+**2025-10-02T13:21:35**
+
+first part
+
+---
+
+**2025-10-02T13:24:52**
+
+My node has not lost synchronization.
+
+---
+
+**2025-10-02T13:25:38**
+
+second part
+
+---
+
+**2025-10-29T13:07:36**
+
+Nice, that’s great news! I’ll be out of the country in about a week — spending a few days in Santiago (Chile) without my computer — but if it happens before or after that, I can definitely help.
+
+---
+
+**2025-12-28T19:07:29**
+
+Yes! I’m back at home. For the past few days, my wired internet connection has been experiencing random interruptions where my modem resets itself. I’ve already contacted support and hope it gets resolved, but I can still join despite this issue.
+
+---
+
+**2025-12-31T08:54:29**
+
+Wow! That's amazing!!!! Finding cool ergo addresses will go brrrrrr 😁
+
+---
+
+**2026-01-29T17:09:52**
+
+Nice! When you invite us, please share the required ergo.conf too, thanks!
+
+---
+
+**2026-01-29T17:26:06**
+
+yes, we increased to 500000 here is my current ergo.conf for sub blocks https://termbin.com/hr8s
+
+---
+
+**2026-01-30T07:56:17**
+
+Want me connect too? Or wait to kushti call?
+
+---
+
+**2026-01-30T08:28:47**
+
+I pulled the latest changes on the weak-blocks branch, but when running sbt assembly it fails due to an unresolved dependency (sigma-state_2.12:6.0.2-30-59782d92-SNAPSHOT), which doesn’t seem to be available in the configured repositories.
+
+---
+
+**2026-01-30T10:42:52**
+
+Runing! can se my node here https://cff9f5ae9712.ngrok-free.app/panel
+
+---
+
+**2026-01-30T12:21:00**
+
+I'm using this
+
+---
+
+**2026-01-30T12:21:56**
+
+We are desynced at same height apparently
+
+---
+
+**2026-01-30T12:56:38**
+
+Will do the same
+
+---
+
+**2026-01-30T13:01:39**
+
+I have saved my logs if you need but pretty big log about 400+mb
+
+---
+
+**2026-01-30T13:08:29**
+
+tried to open the log file and my laptop crashed had to restart, this is the new addres to see my node https://f7975003d056.ngrok-free.app/panel
+
+---
+
+**2026-01-30T13:46:54**
+
+This is the log from my previous run, where it got stuck at height 79731, same as netim’s node
+
+---
+
+**2026-01-30T18:17:13**
+
+Apparently my node can’t finish syncing. It gets stuck at 99.x%. When it happened the first time, I wiped the DB and restarted it, but it got stuck again at the same point. I’m about to try a third time.
+
+---
+
+**2026-01-30T18:34:31**
+
+I’m not sure if this is related, but when I had to restart my computer after it crashed and started the node again, I mistakenly used an old version of the node (the JAR). I don’t remember the exact version, but it was an older subblocks build. Once I realized it, I deleted the database and restarted the node. I’m not sure whether this had any effect or not; mining was disabled the whole time. Just mentioning it in case it’s relevant.
+
+---
+
+**2026-02-01T12:42:27**
+
+Done, I’ve set blockInterval = 60s and rejoined.
+You can check my node status here: https://f7975003d056.ngrok-free.app/info
+
+---
+
+**2026-02-02T08:56:54**
+
+My node has not desynced; I just enabled mining and restarted the node without clearing the database.
+
+---
+
+**2026-02-03T10:29:25**
+
+I have the node running on a laptop fully dedicated to it — I’m not using it for anything else.
+I just noticed from my desktop PC that I had lost connection to the node monitoring panel. When I went to check the laptop, the terminal window where the node was running was no longer open; it had closed for some reason and I’m not sure why.
+I’m attaching the logs I have from that moment in case they’re useful. I’m going to run the node again now.
+
+---
+
+**2026-02-03T10:31:17**
+
+no, the terminal where i was runing the node on the laptop closed and node was killed
+
+---
+
+**2026-02-03T10:59:47**
+
+No, the node never desynced and it is mining correctly with funds in its wallet. I just reported what happened, just in case. Apologies if this caused any confusion.
+
+---
+
+**2026-02-03T15:37:11**
+
+I have the logging level set to DEBUG. Please let me know if I should change it.
+
+---
+
+**2026-02-03T16:32:43**
+
+My ngrok account hit the request limit and got blocked. Now I'm using Serveo:
+
+https://patato.serveousercontent.com/panel
+
+This URL shouldn't change and has no request limits.
+
+---
+
+**2026-02-04T12:37:14**
+
+Here are my log files. There are four of them, covering the period from when I started my node from scratch up until just now. Only a few hours are missing from the time when my node process closed by itself.
+
+---
+
+**2026-02-04T13:14:34**
+
+my node and netim node are in diferent heights mine in 4784 and netim on 4757 both with 2 pears each
+
+---
+
+**2026-02-04T13:16:28**
+
+The Netim node panel is behaving strangely. The “Node connection is lost” message appears and then disappears, like the connection goes up and down. I think the issue might be on Netim’s side.
+
+---
+
+**2026-02-04T14:44:12**
+
+Sub-blocks monitoring script for devnet stress testing:
+Tracks in real-time:
+
+Input block production rate (weak confirmations)
+Ordering block commits & TX inclusion rates
+Input chain reorganizations
+Time since last ordering block vs target
+
+Logs to CSV + detailed ordering block analysis (which TXs included/excluded) + reorg events.
+Is this useful? Any suggestions or additional metrics needed?
+
+---
+
+**2026-02-04T17:36:02**
+
+Can I broadcast some test transactions on the current Subblocks devnet? Just to verify that my monitoring script is working fine.
+
+---
+
+**2026-02-05T09:05:57**
+
+I just had a brief power outage (a micro-cut). Everything shut down and came back up.
+My node on the laptop didn’t power off (battery), but I stopped it manually so it wouldn’t keep mining solo.
+After internet was restored, I started it again and now my node is at height 5812, while the Netim node is stuck at height 31. @Sigmanaut
+
+---
+
+**2026-02-07T16:42:04**
+
+Forked the Ergo paper wallet and added BIP39 passphrase support.
+Verified against Satergo (same seed + passphrase → same addresses).
+All UI languages are working and updated with this change.
+
+https://github.com/moon-miner/ergo-paper-wallet
+
+https://ergopaperwallet.vercel.app/
+
+---
+

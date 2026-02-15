@@ -1,0 +1,130 @@
+{
+  "sender": "Hasnain",
+  "total_messages": 31,
+  "messages": [
+    {
+      "date": "2024-01-03T07:57:56",
+      "text": "What will be areas where the impact of sub blocks can be leveraged? The most common and widely used area happens to be p2p transactions.\n\nI heard that sub block will only be useful if implemented by dapps.\n\nI sent 5 ergo now to my exchange address and as of now it will take 1-2 minutes for the transaction to process and 10-15 minutes for exchange side confirmation criteria for deposit confirmation. \n\nWill sunblock reduce this time? If not the area of impact seems to be niche?"
+    },
+    {
+      "date": "2024-01-03T07:58:55",
+      "text": "Is it an upgrade for ergo users or is it an upgrade for the dapps and their users"
+    },
+    {
+      "date": "2024-01-03T08:02:29",
+      "text": "If it's a scaling upgrade for the dapps interaction why is ergo core doing it/discussing it? I remember getblok needed scaling for their dapp they developed something on their own."
+    },
+    {
+      "date": "2024-01-03T08:04:48",
+      "text": "If direct p2p transaction time/speed won't be affected I don't feel like it's worth it. That's what matters first no? It's the first touchpoint in a crypto users journey. How fast is the transaction speed?"
+    },
+    {
+      "date": "2024-01-03T08:06:21",
+      "text": "I think that's the main question lingering in my mind for sub blocks"
+    },
+    {
+      "date": "2024-01-03T10:23:54",
+      "text": "Yes I am aware of that concept of exchanges requiring more confirmation. My point is focused on time, so can sub blocks in someway reduce time for p2p on chain transactions. Like if 20 confirmation takes 20 minutes now will 20 confirmation after sub block implementation the time can be less than 20 minutes?"
+    },
+    {
+      "date": "2024-01-03T10:27:51",
+      "text": "Can sub blocks increase rosen settlement speed?"
+    },
+    {
+      "date": "2024-01-03T10:28:41",
+      "text": "Sorry if I am not sure if I can ask non dev questions in this event. Was it only for developers?"
+    },
+    {
+      "date": "2024-01-03T11:21:31",
+      "text": "yeah, so it can be stated that its a scaling solution for the dapps on ergo not the chain itself"
+    },
+    {
+      "date": "2024-01-03T11:23:39",
+      "text": "Ergo needs a little tx speed improvement nothing too crazy like kaspa, but I think maybe 10-15 second for tx confirmation on chain would be enough\nfeels kind dissapointed its not focussed on that"
+    },
+    {
+      "date": "2024-01-03T11:24:13",
+      "text": "its a tadbit slow as per industry norm"
+    },
+    {
+      "date": "2024-01-03T11:26:55",
+      "text": "yeah figured, if it was possible it would have been considered"
+    },
+    {
+      "date": "2024-01-03T11:28:35",
+      "text": "anyways hopefulfor sub blocks, now that I think of it it actually can be good, after all we will be using erg on the dapps only; exchanges and p2p txs not much."
+    },
+    {
+      "date": "2024-01-03T11:29:00",
+      "text": "so with sub blocks interacting with rosen can become faster?"
+    },
+    {
+      "date": "2024-01-03T11:29:18",
+      "text": "or its something out of sub block speed impact"
+    },
+    {
+      "date": "2024-01-03T12:28:47",
+      "text": "can any form of scaling be done to touch those aspects too? without hardfork or erg will forever remain a 2min  per confirmation time chain?\ni hope you get what I am trying to say here"
+    },
+    {
+      "date": "2024-01-03T12:29:21",
+      "text": "making the chain itself a tadbit faster that it doesnt feels \"slow\" for p2p transactions"
+    },
+    {
+      "date": "2024-01-03T12:29:57",
+      "text": "nothing too fancy just 10-15 seconds per transaction"
+    },
+    {
+      "date": "2024-01-03T12:32:16",
+      "text": "yes I get it sub blocks will cover 65-75% of the use cases, but still"
+    },
+    {
+      "date": "2024-01-03T12:36:01",
+      "text": "yes"
+    },
+    {
+      "date": "2024-01-03T12:37:14",
+      "text": "that is not appropriate way to say that all I or other people like me only care about swap speed, and I think sub blocks will/can increase speed of dexes too? or they are exempted too?"
+    },
+    {
+      "date": "2024-01-03T12:38:20",
+      "text": "also there's nothing like caring about only speed, I stated clearly in my queries that I wanted to understand the impact of sub blocks more particularly for p2p transactions"
+    },
+    {
+      "date": "2024-01-03T12:38:33",
+      "text": "thats the first touchpoint of a crypto user"
+    },
+    {
+      "date": "2024-01-03T12:38:39",
+      "text": "fast there fast everywhere"
+    },
+    {
+      "date": "2024-01-03T12:41:33",
+      "text": "devs will love dapp scaling they will benefit and their dapp users, \nnormies would love on chain p2p scaling as they will use that the most\n\nits a fair point to raise imo"
+    },
+    {
+      "date": "2024-01-03T12:45:10",
+      "text": "would it be possible for rosen to consider weakblocks along with the strong/main blocks, a mixed approach to speed up? a bit\n\ncan exchanges consider/adopt weak blocks for quicker confirmation 50% weak blocks and 50% strong blocks"
+    },
+    {
+      "date": "2024-01-18T05:20:44",
+      "text": "above tron too!"
+    },
+    {
+      "date": "2024-03-03T23:21:41",
+      "text": "oh fuck sorry"
+    },
+    {
+      "date": "2024-03-03T23:21:54",
+      "text": "deleted"
+    },
+    {
+      "date": "2024-03-03T23:25:57",
+      "text": "mods delete my degen charts please if still on discord"
+    },
+    {
+      "date": "2024-03-24T07:46:44",
+      "text": "Good luck"
+    }
+  ]
+}

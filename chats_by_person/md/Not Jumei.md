@@ -1,0 +1,95 @@
+# Not Jumei
+
+**Total messages:** 12
+
+---
+
+**2024-08-21T13:53:11**
+
+First update~ of hopefully many more <3
+
+Cup of Sugar:
+ tech:
+  - back from rare evo, completed token airdrop to handful of people I met while there.
+  - deployed frontend(svelte/nginx) and backend servers(full node, chaincash-rs, and python for automation/bots)
+  - working on cicd pipeline to deploy first iteration of something that resembles a website. Might have something deployed by end of week.
+          - should include wallet connector and summary of COS related assets, about, socials and any other low hanging fruit
+  - tested build of chaincash server, getting familiar with endpoints and code logic to integrate in future for LETS experimentation.
+ other:
+  - continuing to do market research in my area by having discussions with producers and customers at local farmers markets
+  - working on additional documentation and marketing material to make these discussions simpler, and ability to follow up via email/newsletter.
+    - great feedback and interest so far.
+  - llc should be formalized this week
+  - 2 locations identified for possible store setup, need follow up discussion in pricing/terms
+  - lots more thinking and ideation regarding incentives, tokenomics, and future experimentation
+
+I am super excited to finally have some time to work on this :)
+
+---
+
+**2025-11-16T19:59:32**
+
+also might have node available here soon...
+
+---
+
+**2025-11-16T19:59:53**
+
+these fancy drives are giving hard time ^^
+
+---
+
+**2025-12-13T19:17:37**
+
+Lol is so funny I'm doing something rn
+
+---
+
+**2025-12-13T19:18:06**
+
+Lol
+
+---
+
+**2025-12-13T19:19:16**
+
+Ive been playing with faku payouts in hl2dm hehe seeing how much state in and out of game to create fun things I guess
+
+---
+
+**2025-12-13T19:21:45**
+
+P2p everywhere at times.. why not
+
+---
+
+**2025-12-13T19:23:44**
+
+Faku update: faku website v2 maybe 80% done.
+
+---
+
+**2025-12-13T19:24:15**
+
+Middle fingers still loading.
+
+---
+
+**2026-01-10T16:52:05**
+
+tokens+ ^_^
+
+---
+
+**2026-02-07T17:03:22**
+
+niiiice ima use dat here in a min for ethDenver spam ^_^
+
+---
+
+**2026-02-07T17:23:40**
+
+word yeeee i think i has some scripts laying around... will wait till last minute and panic spam when im not prepared the day of ^_^
+
+---
+

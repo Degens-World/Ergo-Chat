@@ -1,0 +1,446 @@
+{
+  "sender": "cannon_q",
+  "total_messages": 110,
+  "messages": [
+    {
+      "date": "2024-09-24T06:50:04",
+      "text": "Yes, please! There's a few deficiencies 😂🙈"
+    },
+    {
+      "date": "2024-10-05T18:41:58",
+      "text": "Nice to see you here! \n1] Correlating ecc measured dev output / activity to chain growth long term (transactions, wallets, etc).\n2] Impact of VC and/or Asic manufacturing on a chain growth... both will utilize MM to increase their profits and as there are literally no rules/regulations against shady trading/dealing it occurs often.\n3] Looking at projects pre-funded or backed by CEX/Asic \"venture funds\" versus projects without such entanglement\nJust a few off top of head"
+    },
+    {
+      "date": "2024-10-16T16:09:42",
+      "text": "it allows for customization of  payout --- so when minting NFT one sets the payout threshold along with token swap -> mine ERG, get % of whatever token you choose (ERG, rsBTC, rsADA, CYPX, Gluon, etc)"
+    },
+    {
+      "date": "2024-10-16T16:26:12",
+      "text": "Originally came from desire to market/attract miners who want BTC (or ETH, ADA) when they mine autolykosV2 --> ~20% of 2miners pool is receiving BTC instead of ERG; along with decent pool at unmineable (which would be the longer range plan for this... mine ERG and get a token from ETH chain you want or rsBNB, etc). Adding native tokens as well -- CYPX, RSN, SigUSD, etc -- for miners to acquire."
+    },
+    {
+      "date": "2024-10-17T06:33:43",
+      "text": "Need a better working document or FAQ tbh. \n- storage rent implemented \n- DAO led decisions via paideia implemented \n- swaps of ERG mined to token(s) in progress (from ErgoHack8) and hopefully live in November \n- proposal submitted to EF in September for Marc to, among several items aimed at growing hashrate/mining community and diversifying hashrate, further develop mining platform with hope of making a simple \"mining pool toolkit\" where others can run their own pool infrastructure (possible targeting larger node operators as pool hosts)."
+    },
+    {
+      "date": "2024-10-27T17:46:55",
+      "text": "@thestophe has a raspi github... I'll try to find it and send to you"
+    },
+    {
+      "date": "2024-10-27T18:03:51",
+      "text": "did you reach out to @thestophe ?? He will/should respond..."
+    },
+    {
+      "date": "2024-10-27T18:10:55",
+      "text": "boss!"
+    },
+    {
+      "date": "2024-12-02T21:50:06",
+      "text": "Me as well..."
+    },
+    {
+      "date": "2024-12-09T19:18:35",
+      "text": "@dadreboi @NeuralYogi you all have been on testnet lately, yes?"
+    },
+    {
+      "date": "2024-12-11T09:45:03",
+      "text": "@glasgowm"
+    },
+    {
+      "date": "2024-12-12T14:20:55",
+      "text": "[c8e4d2a] mini-dev-update\nadded first section of the landing page:\nhttps://savonarolalabs.github.io/exle-svelte/"
+    },
+    {
+      "date": "2024-12-14T17:46:24",
+      "text": "Done"
+    },
+    {
+      "date": "2024-12-14T17:47:02",
+      "text": "Update was Friday and was pent up for 2 months... face melting changes to game 😁😜😳"
+    },
+    {
+      "date": "2024-12-16T14:46:05",
+      "text": "I have a reasonable hourly rate for reking your protocols. Just let me know when you need @MDMTXO and me to break stuff.\nIn all seriousness, appreciate @LuivatraEP for not assuming I was an idiot when I was having problems and actually looking at the data I was providing to try to show what was going on/wrong. You never know what you'll find until you research/help."
+    },
+    {
+      "date": "2024-12-16T14:50:43",
+      "text": "damn! okay... I am sincere... you and Marty have always helped when I have issues with PAI and PAD and getting the tax data from CRUX... good support"
+    },
+    {
+      "date": "2024-12-19T10:17:41",
+      "text": "Agree! When this goes well and good process put around it, this is a model that can be replicated fairly easily"
+    },
+    {
+      "date": "2024-12-19T10:42:57",
+      "text": "I need to get with my friend who's prof at architecture & art dept at Catholic University in DC."
+    },
+    {
+      "date": "2024-12-19T15:47:02",
+      "text": "any update?"
+    },
+    {
+      "date": "2024-12-20T04:51:52",
+      "text": "Yes, much stronger than anyone realizes. And dex doesn't promote buying direct. @HQ3rr add a splash any time someone wants to swap ERG for SigUSD, thanks!"
+    },
+    {
+      "date": "2024-12-20T05:07:42",
+      "text": "So no splash?"
+    },
+    {
+      "date": "2024-12-20T05:09:16",
+      "text": "Notification to check buying directly vs DEX. Improves tvl and protocol"
+    },
+    {
+      "date": "2024-12-20T09:54:34",
+      "text": "Glad to see you around more in chats!!"
+    },
+    {
+      "date": "2024-12-23T16:37:27",
+      "text": "I may need this soon 🙈"
+    },
+    {
+      "date": "2024-12-27T09:09:12",
+      "text": "@glasgowm mods, but it is public git... anyone can submit a PR"
+    },
+    {
+      "date": "2025-01-02T11:06:07",
+      "text": "Been wondering if can opt in/out of no password during browsing session or something"
+    },
+    {
+      "date": "2025-01-20T19:05:43",
+      "text": "Which one? I'll highlight it this week."
+    },
+    {
+      "date": "2025-01-30T19:57:33",
+      "text": "ergo itself is 9"
+    },
+    {
+      "date": "2025-02-03T19:19:08",
+      "text": "120 seconds in average 2min block... idk, just guessing. Targeting 120 input blocks per 1 ordering block"
+    },
+    {
+      "date": "2025-02-09T22:15:25",
+      "text": "@LouisLibreTG you appear to be playing with LLM a lot. Have time to help?"
+    },
+    {
+      "date": "2025-02-16T11:22:51",
+      "text": "https://x.com/mechanikalk/status/1891172085839380941?s=19 👀👀"
+    },
+    {
+      "date": "2025-02-16T11:26:58",
+      "text": "https://github.com/LEEKOHCHING/TabbyPOS-Introduction\nGood update/summary from @lkching7"
+    },
+    {
+      "date": "2025-02-17T08:24:35",
+      "text": "There's a difference"
+    },
+    {
+      "date": "2025-02-20T08:02:38",
+      "text": "Hi! Nice to see you here. Is that the project with the new stable on Cadana?"
+    },
+    {
+      "date": "2025-03-05T09:04:59",
+      "text": "dope!! how does it do with battery life -- notice it much as a drag on battery?"
+    },
+    {
+      "date": "2025-03-05T14:08:21",
+      "text": "@kushti_ru this is the error I was receiving"
+    },
+    {
+      "date": "2025-03-05T14:08:21",
+      "text": "Could be something I'm doing, unsure.\nAlso, cannot find where to set API key"
+    },
+    {
+      "date": "2025-03-09T17:53:19",
+      "text": "Go here and ask... @NeuralYogi and others are doing this https://t.me/ergofinetuning"
+    },
+    {
+      "date": "2025-03-10T11:32:40",
+      "text": "https://github.com/ErgoDevs/Ergo-Bounties"
+    },
+    {
+      "date": "2025-03-13T06:46:12",
+      "text": "The stateless was virtually Nil power on a tester for me... worked quite well. So with nipopow should be able to point mobile wallet to node for submission of transactions, yes?"
+    },
+    {
+      "date": "2025-03-18T09:31:16",
+      "text": "it is... working on syncing the one-off bounties (EF/DevDAO) that aren't in a repo)"
+    },
+    {
+      "date": "2025-05-27T11:03:08",
+      "text": "/t 1 erg"
+    },
+    {
+      "date": "2025-07-21T14:10:55",
+      "text": "Update LithosProtocol:\n\n- Finished storage rent contract testing\n\n- Tested all but the most complex NISP Fraud Proof contracts\n\n- Started work on difficulty contract, which is storing miner diffs on-chain to prevent difficulty fraud (miners setting their 'd' value after already mining)\n\n- Initial work on emission contract for LIT token, and configuration contracts which will control a small set of parameters for the pool.\n\n- Initial research underway on the information/pathways needed to implement Lithos BTC on Braid. \n\n(Whitepaper work in progress from chepurnoy )"
+    },
+    {
+      "date": "2025-08-22T13:27:37",
+      "text": "/t 5 love"
+    },
+    {
+      "date": "2025-09-01T14:26:45",
+      "text": "CodeUTXO.com has a few MCP. The repo is open as well (I'll search for link)"
+    },
+    {
+      "date": "2025-09-02T08:50:43",
+      "text": "@dadreboi did this one get kicked during the devDAO implementation?"
+    },
+    {
+      "date": "2025-09-04T16:05:35",
+      "text": "Sounds similar to the shark ai repo, no? Training on ergoscript and open repos?"
+    },
+    {
+      "date": "2025-09-04T18:29:18",
+      "text": "Is there a discord bridge for CC or only tg?"
+    },
+    {
+      "date": "2025-09-22T12:14:44",
+      "text": "Some of the storage rent folks - HQ, Kras, Cheese could give you some input. They have collected a lot of inputs"
+    },
+    {
+      "date": "2025-10-03T04:28:00",
+      "text": "Ergo.watch and you can find chart"
+    },
+    {
+      "date": "2025-10-03T12:21:20",
+      "text": "Lessgo!!!!"
+    },
+    {
+      "date": "2025-10-09T20:32:39",
+      "text": "Yes, probably a decent starting place."
+    },
+    {
+      "date": "2025-10-09T20:37:05",
+      "text": "If you're curious about any of the protocols and associated github repos, I'd recommend deepwiki as a tool. I've loaded several repos into it for quick access by others."
+    },
+    {
+      "date": "2025-10-09T20:44:57",
+      "text": "Its a nice tool!!"
+    },
+    {
+      "date": "2025-10-14T05:42:03",
+      "text": "Could just mint USE$ (soonTM)"
+    },
+    {
+      "date": "2025-10-15T15:48:54",
+      "text": "even something for the non-devs :)  (like me)"
+    },
+    {
+      "date": "2025-10-15T19:33:51",
+      "text": "Yes, up until end. Try with git circles"
+    },
+    {
+      "date": "2025-10-22T12:47:11",
+      "text": "@NeuralYogi is the goat on this  (humbly suggesting)"
+    },
+    {
+      "date": "2025-10-24T10:47:49",
+      "text": "what gaps need to be filled? approach to filling, etc?"
+    },
+    {
+      "date": "2025-10-28T21:25:10",
+      "text": "Create the PR and should be good from there"
+    },
+    {
+      "date": "2025-10-29T12:35:30",
+      "text": "Thanks for posting that. Probably another instance we need to add to that monitor @dadreboi"
+    },
+    {
+      "date": "2025-10-29T16:12:33",
+      "text": "Yes, would be great. Have someone in mind or process? Again, non-dev willing to coordinate whatever."
+    },
+    {
+      "date": "2025-10-31T05:01:11",
+      "text": "These instructions may help, even if not on raspi\nhttps://github.com/TheStophe/ergo-full-node-raspi"
+    },
+    {
+      "date": "2025-11-04T09:48:23",
+      "text": "I had a few slow minutes so I setup the vote in paideia. It should close and fund quickly"
+    },
+    {
+      "date": "2025-11-04T17:54:42",
+      "text": "Put a bounty on it or put a plan together and try to get people interested. Money Talks"
+    },
+    {
+      "date": "2025-11-07T16:29:04",
+      "text": "All their repos have been added to deepwiki... great tool"
+    },
+    {
+      "date": "2025-11-12T07:52:34",
+      "text": "RosenBridge Defillama token mapping file updated to include Doge 🐕 (thanks @MDMTXO !!)\nhttps://github.com/DefiLlama/DefiLlama-Adapters/pull/17015\n\nhttps://defillama.com/protocol/rosen-bridge"
+    },
+    {
+      "date": "2025-11-15T13:09:22",
+      "text": "@NeuralYogi and @CheeseEnthusiast and @jumeijumei had some conversations about this... was focused on if could use AVL trees to store proof of prompt and datasets. iirc ... it was after a long day in CoSprings"
+    },
+    {
+      "date": "2025-11-18T15:58:42",
+      "text": "@BigPandaMX sent me address 😁\nPlease send to @kushti_ru \nHe was advising me to not run it through DevDAO 👍"
+    },
+    {
+      "date": "2025-11-18T16:01:30",
+      "text": "noted. Just wanted to close gap as I wasn't on for a while today.l 👍"
+    },
+    {
+      "date": "2025-11-19T09:48:26",
+      "text": "AGENTS.MD - Three Questions for Community Devs\n\n1. SCOPE PROBLEM\nFrom what I'm inferring from @Pgr456, PRs are touching files outside the bounty scope. Do we enforce \"only modify files related to your issue\" and auto-flag violations?\n\n2. REPO RULES  \nNode is tests-only. Seems needs to be in every major repo, no? Was reading that openAI has 88 different agent.md files, not saying we need that many but agree need more.\nSame strict rules or more permissive? Who decides - maintainers or org-wide standard?\n\n3. BOUNTY INTEGRATION\nShould bounty submissions require: AI disclosure, local testing confirmation by human, and scope compliance? Optional or mandatory for payment?"
+    },
+    {
+      "date": "2025-11-20T20:38:47",
+      "text": "Dumb question, but do the boxes have decent/good gpu? Are these heavier queries something a box with 2060S or 2080ti could handle better? I could donate some old cards"
+    },
+    {
+      "date": "2025-11-21T06:30:21",
+      "text": "Assumed this combo, but could gpu be added to augment cpu/ram?"
+    },
+    {
+      "date": "2025-11-21T06:37:40",
+      "text": "Okay, I'll go back to my corner 😜😁"
+    },
+    {
+      "date": "2025-11-22T05:45:39",
+      "text": "Latest duckpools dev update 🦆 :\n\nCompleted key works for Nov 21st deadline:\n\n- Deployed and audited upgraded proxy contracts with new fee structure\n- Refined borrow dashboard and transaction history UI\n- Launched database worker for v2 stats and API\n\nOur database needs to be resynced before the site can be fully opened. The sync should complete in about 24 hours, and we’ll post another announcement when you can check out our new dashboards and portfolio stats on the v2 site! ❤️"
+    },
+    {
+      "date": "2025-11-24T14:52:06",
+      "text": "Get to going @MGpai0 ... spending money for you"
+    },
+    {
+      "date": "2025-11-24T18:41:11",
+      "text": "Wonderful"
+    },
+    {
+      "date": "2025-12-03T06:34:36",
+      "text": "\"USE deployed! tokens ids and deployment transactions can be found in https://github.com/kushti/dexy-stable/pull/5/files#diff-1bb7cd44a124d1e9d567e5f820a2868b1f2ca643a1d83a40e08d959e36eaece2\n\""
+    },
+    {
+      "date": "2025-12-08T12:44:48",
+      "text": "Nice! the Claude projects folder is nice for normal LLM items as you can silo information and refer to things previously designed or developed."
+    },
+    {
+      "date": "2025-12-12T06:17:37",
+      "text": "[krasaviceblasen] Here is our latest dev update:\n**Quote Contract Template + documentation now available at :\n**<https://github.com/duckpools/logic-contracts>\nThis makes it easier to deploy new quote contracts for v2 pools, and gives quote contracts the flexibility to quote any source.\n**Interest Rate Contract Template + documentation here: **\n<https://github.com/duckpools/interest-contracts>\nv2 Token Test Pool release (going live tomorrow):\nThe v2 Token Test Pool will be open for public testing, including newly supported multi-collateral borrowing. You can use basically any Ergo token (or a combination of Ergo tokens) as collateral for loans.\nSmart Reserves documentation and UI aren’t ready yet, as multi-asset support has taken longer than expected. We’re starting on this now, and we’ll be able to add it to the live test pool without needing to redelopy it."
+    },
+    {
+      "date": "2025-12-13T19:22:31",
+      "text": "Faku"
+    },
+    {
+      "date": "2025-12-14T06:04:28",
+      "text": "Lessgo!!"
+    },
+    {
+      "date": "2025-12-25T17:53:23",
+      "text": "Cool, I can test this too... thought it was the audit tool at first 😁"
+    },
+    {
+      "date": "2026-01-02T16:09:37",
+      "text": "still showing private for me https://www.docdroid.com/4ZECPXv/main-pdf"
+    },
+    {
+      "date": "2026-01-02T17:01:15",
+      "text": "Yes, this works\nhttps://smallpdf.com/share-document#r=result&t=bd835c67aad82a55c11aaf0843f5e1ba&i=share"
+    },
+    {
+      "date": "2026-01-03T09:56:29",
+      "text": "what's best way to pull NFT images into a site/viewer? I'll start looking at some of the front ends but curious if there is a known, best practice way to do it"
+    },
+    {
+      "date": "2026-01-07T14:30:02",
+      "text": "4671 ERG between Paideia and Multi-Sig + 470ERG equivalent of PHP (donated)"
+    },
+    {
+      "date": "2026-01-07T20:43:01",
+      "text": "https://github.com/rustinmyeye/ErgoNodeAndroid\nThis runs the NiPoPoW Ergo Node on android mobile, yes? Was trying to locate the one I tested a while back.\nMobile wallet (terminus) can post transactions pointed at node, correct?"
+    },
+    {
+      "date": "2026-01-07T22:44:08",
+      "text": "hey @anon_br  and @pgr456  what's the latest on the Keystone integration?"
+    },
+    {
+      "date": "2026-01-08T11:13:55",
+      "text": "I'm guessing that's bad?"
+    },
+    {
+      "date": "2026-01-10T14:17:04",
+      "text": "I would've expected explorer to look at tokens based on tokenID (same tokenID included in both boxes) so the amount (sum tokenID) is calculating both. \nLooking at several explorer skins, none check GQL for all boxes with TokenID... just assume no one will deviate from EIP4.\nSeems a massive exploit vector... a hidden in plain sight box was created but flys under the radar due to explorer query standards"
+    },
+    {
+      "date": "2026-01-10T19:29:23",
+      "text": "I'm not familiar enough with how the DEX and Explorer show token counts, but the gql query works quickly to yield proper answer - perhaps have to run it to verify?"
+    },
+    {
+      "date": "2026-01-11T05:58:07",
+      "text": "The query is simple in gql... i tested it on your token example yesterday. On mobile so don't have my notes on me will send later"
+    },
+    {
+      "date": "2026-01-11T16:19:45",
+      "text": "FYI... this went down as well https://infra-p2p.ergoplatform.com/cgi-bin/dashboard.cgi ... perhaps add to list for redundancy :)"
+    },
+    {
+      "date": "2026-01-12T05:32:59",
+      "text": "Gtfo..."
+    },
+    {
+      "date": "2026-01-12T05:57:51",
+      "text": "Yes, but one hour is pretty fast from my recent experience. Different box, ram, etc."
+    },
+    {
+      "date": "2026-01-16T13:26:34",
+      "text": "link?"
+    },
+    {
+      "date": "2026-01-16T13:56:47",
+      "text": "Should be able to in general or trading. I think I can post from the Discord side. Sometimes the telegram bot is a little harsh"
+    },
+    {
+      "date": "2026-01-28T08:32:41",
+      "text": "@dadreboi"
+    },
+    {
+      "date": "2026-02-01T18:43:40",
+      "text": "Will create some bangers I'm sure 🙈💀"
+    },
+    {
+      "date": "2026-02-04T17:28:14",
+      "text": "https://github.com/Degens-World/sigmaverse\nyou can make all the changes to your heart's content here :)"
+    },
+    {
+      "date": "2026-02-07T17:12:48",
+      "text": "nice!!! @dadreboi has a script for loading wallets as well IIRC"
+    },
+    {
+      "date": "2026-02-08T06:58:46",
+      "text": "Have you broadcast with different node yet?"
+    },
+    {
+      "date": "2026-02-08T07:39:07",
+      "text": "Which you looking for? Are they not in repo?"
+    },
+    {
+      "date": "2026-02-08T07:46:43",
+      "text": "I have scripts... I'll send shortly"
+    },
+    {
+      "date": "2026-02-08T07:51:06",
+      "text": "Check all this... I've done it in last few weeks... asked to reuse that logic so *should work* but I'm on phone and cannot test 🙈"
+    },
+    {
+      "date": "2026-02-08T08:04:37",
+      "text": "Lol.... like I said, on phone"
+    },
+    {
+      "date": "2026-02-08T09:23:20",
+      "text": "Yes, I've used the py scripts in past weeks. It threw out the other option, which was a hallucination for sure. Deleted it so no one went down rabbit hole"
+    },
+    {
+      "date": "2026-02-08T09:42:07",
+      "text": "https://ergolabs.degens.world/tools\nMight be helpful as well"
+    },
+    {
+      "date": "2026-02-08T11:23:50",
+      "text": "This is the kind of tooling though that I've talked about I need to package up and put on a repo. I've had to create a lot of scripts to pull Various items from chain to do queries and other things Related to wallet viewing, nft collections, ergodex, dexy pools. Next step after repo is degen site where all easily searchable, etc"
+    }
+  ]
+}

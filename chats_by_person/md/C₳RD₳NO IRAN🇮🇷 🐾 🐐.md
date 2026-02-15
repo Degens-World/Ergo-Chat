@@ -1,0 +1,36 @@
+# C₳RD₳NO IRAN🇮🇷 🐾 🐐
+
+**Total messages:** 1
+
+---
+
+**2024-06-16T20:42:51**
+
+Hi
+I need help to run some TXs on testnet
+Can you help me with this: 
+
+
+
+from ergoplatform import ErgoTx
+tx = ErgoTx()
+# Set the sender address
+tx.set_sender("9epUjhJWgobZTCHxuSmtfK7w3UypeLQT2TREzExS7CzYYXYQahm")
+
+# Set the recipient address
+tx.set_recipient("9epUjhJWgobZTCHxuSmtfK7w3UypeLQT2TREzExS7CzYYXYQahm")
+
+# Set the amount
+tx.set_amount(10)
+
+# Set the fee
+tx.set_fee(1.0000000)
+
+# Sign tx
+tx.sign()
+
+# Send tx
+tx.send()
+
+---
+

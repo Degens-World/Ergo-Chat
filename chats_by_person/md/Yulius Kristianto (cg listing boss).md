@@ -1,0 +1,527 @@
+# Yulius Kristianto (cg listing boss)
+
+**Total messages:** 83
+
+---
+
+**2023-08-06T10:58:00**
+
+glad to join on this server
+
+---
+
+**2023-08-07T07:57:35**
+
+hello dont forget to take a look om my PR thanks https://github.com/ergoplatform/ergo-wallet-app/pull/174
+
+---
+
+**2023-08-07T08:08:24**
+
+thanks you sir. i will forwarded to ergo wallet app instance
+
+---
+
+**2023-08-07T08:09:30**
+
+email was sent to ergo as your suggestion
+
+---
+
+**2023-08-07T08:26:34**
+
+commented
+
+---
+
+**2023-08-07T08:27:17**
+
+thanks for your assistance sir
+
+---
+
+**2023-08-07T09:00:29**
+
+also on this PR needs help and must be reviewed by Ergo team . thanks https://github.com/ergoplatform/explorer-frontend/pull/194
+
+---
+
+**2023-08-07T09:03:04**
+
+yessir. thanks for heads up on wallet repo, workflow check has been successfully checked.
+
+---
+
+**2023-08-09T11:17:14**
+
+hello developer this is my update, dont forget to take a look on this PR https://github.com/anon-real/sigma-usd/pull/68
+
+---
+
+**2023-08-11T17:01:08**
+
+@LuivatraEP second PR was begins https://github.com/Luivatra/ergotipper-tokens/pull/16
+
+---
+
+**2023-08-11T21:25:59**
+
+@LuivatraEP here you go https://github.com/Luivatra/ergotipper-tokens/pull/15
+
+---
+
+**2023-08-14T16:56:49**
+
+@kushti_ru when this PR reviewed by team. I wait 3 weeks didnt get touch by team. https://github.com/ergoplatform/explorer-frontend/pull/194
+
+---
+
+**2023-08-14T16:58:07**
+
+Lets help to take over Mr Kusthi by review this PR.
+
+---
+
+**2023-08-16T10:54:59**
+
+my develpment updates - translate Rank My Wallet, Spectrum Finance, Comet Whitepaper, Duckpools Whitepaper, GreasyCEX whitepaper + mission paper to Bahasa Indonesia.
+
+---
+
+**2023-08-16T20:09:37**
+
+My Development Updates. 
+
+1. Added Quacks on Tipper Bot
+2. Added NFT Support on Tipper Bot
+3. Added GreasyCex Logo on Nautilus (unmerged)
+4. Translate Rank My Wallet
+5. Translate Comet WP
+6. Translate GreasyCex WP + Mission Paper
+7. Translate Spectrum Finance
+8. Translate Duckpools WP. 
+
+THANK YOU SO MUCH!!
+
+---
+
+**2023-08-18T10:59:31**
+
+Special Elite Mission completed https://github.com/Luivatra/ergotipper-tokens/pull/18
+
+---
+
+**2023-08-18T11:35:05**
+
+This PR is dedicated to the community, so they can do NFT trading, using the P2P method using tipper bots, so that they can get a full set of cards in the future.
+
+---
+
+**2023-08-20T10:48:08**
+
+my developers updates, help translation comet wallet to Indonesia https://github.com/TypChaos/Comet-wallet/pull/1
+
+---
+
+**2023-08-20T10:49:34**
+
+@kushti_ru the code is same with my PRs on Ergoplatform/ergo-wallet resources. and was tested bro.
+
+---
+
+**2023-08-21T08:48:00**
+
+@kushti_ru thanks for accepting my PRs on ergo explorer, this PR is also ready to serve on public.
+
+---
+
+**2023-08-21T08:48:00**
+
+hey @MrStahlfelge could you take a time to review this PR, and ran the workflow again. this PR is ready to serve on Ergo Wallet. Thanks https://github.com/ergoplatform/ergo-wallet-app/pull/174
+
+---
+
+**2023-08-21T09:56:02**
+
+yessir, you welcome my leader.
+
+---
+
+**2023-08-21T10:06:53**
+
+thanks you so much Mr Dmitry for merging my PRs. God Bless You
+
+---
+
+**2023-08-22T15:13:46**
+
+@kushti_ru and @glasgowm  my PRs on ergoexplorer frontend was merged by Dmitry yesterday, but i check on the web, i did'nt find a Indonesian language switcher on it bro.
+
+---
+
+**2023-08-22T15:14:43**
+
+Only see English and Russian
+
+---
+
+**2023-08-23T08:14:18**
+
+This PR is dedicated to the community, so they can do NFT trading, using the P2P method using tipper bots, so that they can get a full set of cards in the future. https://github.com/Luivatra/ergotipper-tokens/pull/18 (my updates on this week)
+
+---
+
+**2023-08-28T16:11:50**
+
+My Development updates, remove hotbit and add more exchange https://github.com/Eeysirhc/sigmabot/pull/79
+
+---
+
+**2023-08-29T10:42:57**
+
+when simon greasy
+
+---
+
+**2023-08-30T10:31:24**
+
+request review https://github.com/nautls/nautilus-wallet/pull/104
+
+---
+
+**2023-09-03T12:53:03**
+
+good night from indonesia Mr @kushti_ru God always blessing yourlife, keep healthy ya my lovely Ergo Team
+
+---
+
+**2023-09-05T12:17:46**
+
+this processor will make your mining rig happiness
+
+---
+
+**2023-09-05T12:17:46**
+
+KUSTHI PROCESSOR
+
+---
+
+**2023-09-20T08:20:48**
+
+my developers updates, added Gluon Token to the tipper bot https://github.com/Luivatra/ergotipper-tokens/pull/19
+
+---
+
+**2023-09-20T08:22:24**
+
+dont forget to review my PRs bro
+
+---
+
+**2023-12-04T07:47:11**
+
+waiting for merge from september until december 2023 https://github.com/Eeysirhc/sigmabot/pull/80
+
+---
+
+**2023-12-04T07:47:41**
+
+@nemo429 bro
+
+---
+
+**2023-12-11T07:10:20**
+
+@glasgowm hello sir, can you make me admin on ergonaut.space
+
+---
+
+**2023-12-11T07:10:27**
+
+my name is chris45new
+
+---
+
+**2023-12-11T07:11:15**
+
+i will finishing indonesian on it
+
+---
+
+**2023-12-11T07:12:44**
+
+Thanks you Mr Glasgow
+
+---
+
+**2023-12-13T07:28:24**
+
+my development updates, add icons for GCX and RSN Token on Nautilus Wallet. translate about Rosen Bridge in to Bahasa indonesia. add greasy cex token in to coinmarketleague.com site
+
+---
+
+**2023-12-14T08:49:40**
+
+@nemo429 are you woke up today.
+
+---
+
+**2023-12-14T08:50:20**
+
+just remember to add GreasyCEX icons as my PRs on nautilus to make @AustenMilbarge happiness. thanks you
+
+---
+
+**2023-12-17T14:42:34**
+
+Rosen Bridge Documentation in bahasa indonesia made by myself
+
+---
+
+**2023-12-17T14:42:59**
+
+Above is latest commit kusthi.
+
+---
+
+**2023-12-19T10:18:16**
+
+all is set today
+
+---
+
+**2023-12-19T10:20:42**
+
+done commander, wiki ergo on Bahasa Indonesia is restructured by my self today. looks fancy
+
+---
+
+**2023-12-20T11:15:58**
+
+my development updates: Management ergonaut.space wiki on Indonesian Instances https://ergonaut.space/id/home
+
+---
+
+**2023-12-20T11:16:58**
+
+by reconstructing the order according to the wiki's English instances
+
+---
+
+**2023-12-21T14:15:20**
+
+Kusthi kusthi go go gooo
+
+---
+
+**2023-12-24T14:38:06**
+
+Merry Christmas Kusthi Kusthi
+
+---
+
+**2024-01-11T11:29:40**
+
+Head over here https://github.com/ergoplatform/website/tree/master/i18n
+
+---
+
+**2024-01-11T11:36:10**
+
+Is an official website repo of ergo itself.
+
+---
+
+**2024-01-11T11:36:23**
+
+Click en.yaml
+
+---
+
+**2024-01-11T11:37:15**
+
+where is the new site repo sir?
+
+---
+
+**2024-01-11T11:48:46**
+
+https://github.com/ergoplatform/website/tree/master/content/en
+
+---
+
+**2024-01-11T11:48:59**
+
+Head over on content folder
+
+---
+
+**2024-01-11T11:50:07**
+
+https://github.com/ergoplatform/ergoweb/tree/master/content/locales
+
+---
+
+**2024-01-11T11:50:31**
+
+This the newest repo for ergo website
+
+---
+
+**2024-02-02T11:29:05**
+
+My Development Updates in this week: 
+
+1. Help Listing Comet on Coingecko
+2. Help Listing Ergo on Coinmarketleague
+Thanks You.
+
+---
+
+**2024-05-18T11:56:55**
+
+my development updates, added GIF in ergo tipperbot to make @AustenMilbarge and @kushti_ru happiness.  https://github.com/Luivatra/ergotipper-tokens/pull/43
+
+---
+
+**2024-05-18T14:53:46**
+
+@kushti_ru im here uncle 😊
+
+---
+
+**2024-05-18T14:53:46**
+
+why you are not on TG cant tip
+
+---
+
+**2024-05-21T03:26:02**
+
+thanks you luivatra for merging my pull request today
+
+---
+
+**2024-06-01T05:44:11**
+
+My Developer Updates Today is Updating Translations on Satergo Wallet in to Bahasa Indonesia and Malaysian.  https://github.com/Satergo/Satergo/pull/22
+
+---
+
+**2024-06-01T05:44:33**
+
+@mewtoshi here you goo
+
+---
+
+**2024-06-02T11:02:11**
+
+hello kusthi my an favorite ergo team
+
+---
+
+**2024-06-27T12:54:43**
+
+done commander
+
+---
+
+**2024-06-27T12:54:55**
+
+just arrived at my home
+
+---
+
+**2024-06-28T07:18:19**
+
+done, satergo translation
+
+---
+
+**2024-07-16T11:47:59**
+
+dont forget to merge my PRs in here bro
+
+---
+
+**2024-09-21T11:48:14**
+
+Added Bahasa Jawa (Javanese) on ergo explorer
+
+---
+
+**2024-09-21T13:13:08**
+
+I live in java island bro. My daily language is Javanese. Hehehe
+
+---
+
+**2024-09-21T13:16:22**
+
+Yes the most one of famous coffee is from java island. Temanggung and dampit coffee
+
+---
+
+**2024-09-21T13:17:10**
+
+Maybe I will do to add Javanese language on satergo. Hehehe
+
+---
+
+**2024-09-21T16:29:30**
+
+done commander  https://github.com/Satergo/Satergo/pull/24
+
+---
+
+**2024-09-21T16:29:42**
+
+@mewtoshi all is done
+
+---
+
+**2024-09-22T08:56:43**
+
+You welcome bro.
+
+---
+
+**2024-09-22T10:58:47**
+
+Let's review and merge to your codebase bro @mewtoshi thank you
+
+---
+
+**2025-02-13T11:18:02**
+
+Hello i am Yulius Kurniawan Kristianto want to update translations on Satergo Wallet Repos (14 February 2025)
+
+here is my translations updates:
+
+Indonesian
+Javanese
+Malaysian
+Thank You for the greatest assistance to my self https://github.com/Satergo/Satergo/pull/30
+
+---
+
+**2025-05-27T10:02:20**
+
+My PRs on Satergo was successful merged today. Thank Aberg
+
+---
+
+**2025-06-23T19:36:03**
+
+ergo manifesto Bahasa Malaysia (Melayu) has been launched today
+I re-translated the ergo manifesto from Indonesian to Malay (Malaysian official language), because both languages ​​have some similarities. link https://ergonaut.space/id/manifesto-malaysian
+
+---
+
+**2025-07-31T12:58:47**
+
+Sir don't forget to merge my pull request on Ergo wallet and explorer
+
+---
+

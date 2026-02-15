@@ -1,0 +1,14 @@
+=== Chat history for: Bruno Woltzenlogel Paleo ===
+=== Total messages: 3 ===
+
+[2025-12-01T02:33:08]
+Hi! Is there a list of "good first issues" on Ergo?
+
+[2025-12-01T02:34:06]
+Something similar to this (https://github.com/search?o=desc&q=org%3AStabilityNexus+label%3A%22good+first+issue%22++state%3Aopen+&s=created&type=issues&state=open) .
+
+[2025-12-01T02:37:43]
+I am aware of the bounty list (https://github.com/ErgoDevs/Ergo-Bounties/blob/main/data/all.md), but it seems that it is mostly for harder issues that people have struggled to solve (and therefore a bounty is needed for someone who manages to solve them).
+
+"Good first issues" on the other hand would be simpler issues that someone less familiarized with the code but willing to contribute would be able to take up.
+

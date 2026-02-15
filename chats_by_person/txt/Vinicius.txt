@@ -1,0 +1,15 @@
+=== Chat history for: Vinicius ===
+=== Total messages: 4 ===
+
+[2023-04-23T12:57:55]
+Hey everyone, I’m a front-end heavy full stack dev with a little over 5 years of experience. If anyone needs a hand I have around 4h a day free to help, I’m the most comfortable with React + tailwind in terms of strictly frontend and I can help bring some proof of concept UI to life.
+
+[2023-04-23T12:58:27]
+Any low hanging fruit?
+
+[2023-04-23T13:09:34]
+Are there any headless dapps with no UI yet and no one working on them already?
+
+[2023-04-23T13:17:38]
+Nice I’ll take a look ty guys
+

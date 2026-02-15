@@ -1,0 +1,66 @@
+{
+  "sender": "koukarin - Σ",
+  "total_messages": 15,
+  "messages": [
+    {
+      "date": "2022-10-16T02:15:52",
+      "text": "Hi everyone! I'm a dev beginner with low skills (but a lot of ideas! 😁)\nI've watched the first ergocript Deco lessons on Youtube and I thought about an innovative wallet.\nI'm quite sure it can be developed according the ergoscript rules but I would like to have confirmation that it's possible.\nInfinite thanks if you can take 5min to read and share your opinion 🙏:\nhttps://github.com/koukarin/Local-Economy-Wallet/blob/main/README.md"
+    },
+    {
+      "date": "2022-10-16T04:56:18",
+      "text": "Sorry if my “5min” looked like a trap 😅 it wasn’t my intention.\nWhat do you think about it? \nCould be done possibly?"
+    },
+    {
+      "date": "2022-10-16T05:32:49",
+      "text": "It is supplemental to the existing LETS and totally different.\n\nTo boost local economy in the history, often local currencies were created. But most of the time, local currencies face a lack of trust.\n\nSo, here the idea is to give a local component to a currency already existing on Ergo.\nIt creates incentives to trade with your neighbors and not with multinational companies."
+    },
+    {
+      "date": "2022-10-16T09:55:42",
+      "text": "Yes it is the principle. All the cities use erg (or even sigusd or whatever tokens). Fees are only applied if a user send erg (or sigusd or…) to another city."
+    },
+    {
+      "date": "2022-10-16T19:31:00",
+      "text": "Thanks for all your feedbacks. Very appreciated. 🙏 \nAnd I’m super excited to see that this idea seems promising.\nI will try to make this idea a reality (It will improve  my dev skills in the same times)."
+    },
+    {
+      "date": "2022-10-16T21:27:24",
+      "text": "Sure! It would be great to work with someone more experienced! We can talk about it in dm."
+    },
+    {
+      "date": "2023-05-29T05:24:50",
+      "text": "Hi everyone.\nI would like to send tx to ergo mobile wallets through link\n\nFor ex:\nergo:recipientaddress?amount=10\n\nIt opens the mobile app and build the tx waiting for user confirmation.\n\nHow can I do the same thing for tokens:\nergo:recipientaddress?token=tokenid?amount=10\n\nDoesn’t build all the tx, I have to do many things manually once the wallet app opens."
+    },
+    {
+      "date": "2023-05-29T05:33:10",
+      "text": "Thanks a lot !"
+    },
+    {
+      "date": "2023-05-29T06:30:05",
+      "text": "That’s exactly what I was looking for ! Thanks a lot 🙏"
+    },
+    {
+      "date": "2023-09-06T05:09:32",
+      "text": "Hi all,\nConcerning ergpy I had an issue last week for the Ergone reward distribution. It wasn’t the first time it happened:\nI send 5000 Ergone manually on the wallet I use for rewards distribution. (There was 1500 Ergone before)\n\nI build the tx for 5000ergone distribution and I have an error message telling me that I only have 1500 Ergone.\n\nThe only way to make it works is to send manually all the Ergone to the exact same address.\n\nThen the script is working well. \n\nI think ergpy misses some boxes…"
+    },
+    {
+      "date": "2023-09-06T05:10:18",
+      "text": "I love it and ergpy too 😁"
+    },
+    {
+      "date": "2023-09-06T06:19:31",
+      "text": "Sure mgpai, you are already everywhere in the ecosystem 😅"
+    },
+    {
+      "date": "2023-10-12T06:57:51",
+      "text": "Maybe I’m wrong but I guess a tx can be signed by one address only… so not possible.\n\nYou have to create one tx per address and sign each one.\nUse a for loop.\n\nFor sender_address in sender_address_list:\n Tx build\n Tx signed"
+    },
+    {
+      "date": "2023-10-12T07:08:32",
+      "text": "Mgpai (the goat 😁) doesn’t have time to improve ergpy…\n\nWe should do by ourselves 😉 but I’m not enough at ease with that…\n\nMy target is one day to create my first PR for ergpy."
+    },
+    {
+      "date": "2023-10-25T09:35:27",
+      "text": "ErgOne:\n\n- We decided to change the voting-for-content period from the first to the last day of each month. It was too complicated until now. All the front end and back end modification will be done before next week. So it will be active in November.\n- To incentive users to create content even if they don’t own any Ergone tokens, all users (sign-up + ergo address registered) will automatically have at least 1 point to submit a link to the protocol. But 0 free point for votes (in order to avoid cheaters). Then, if these users create good content and receive votes from other users ⇒ they’ll start to win some rewards at the beginning of the following month.\n- October Rewards will be distributed next week. The tx is built automatically but we want to validate its signature during the next 3 months to be sure everything is ok. (We use ergpy)"
+    }
+  ]
+}

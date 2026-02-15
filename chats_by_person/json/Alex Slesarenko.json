@@ -1,0 +1,74 @@
+{
+  "sender": "Alex Slesarenko",
+  "total_messages": 17,
+  "messages": [
+    {
+      "date": "2023-02-24T07:33:00",
+      "text": "which language you are using"
+    },
+    {
+      "date": "2023-02-24T07:33:57",
+      "text": "then you don't need to parse anything, use Appkit"
+    },
+    {
+      "date": "2023-02-24T07:35:46",
+      "text": "Ah, then you can use serializers from Sigma"
+    },
+    {
+      "date": "2023-02-24T07:41:33",
+      "text": "why you don't want to use existing serializers and just parse modifiers?"
+    },
+    {
+      "date": "2023-02-24T07:44:48",
+      "text": "oh, really?"
+    },
+    {
+      "date": "2023-02-24T07:45:40",
+      "text": "You will need to know the exact serialization format. There is this spec https://ergoplatform.org/docs/ErgoTree.pdf"
+    },
+    {
+      "date": "2023-02-24T07:47:27",
+      "text": "Then you can use latest (not yet released) version of Sigma, where ErgoScript compiler is separated from protocol implementation"
+    },
+    {
+      "date": "2023-02-24T07:49:36",
+      "text": "try the develop branch and see interpreter module. If you can assemble interpreter it should be all you need"
+    },
+    {
+      "date": "2023-02-24T07:50:16",
+      "text": "I mean something like sbt interpreter/assembly"
+    },
+    {
+      "date": "2023-02-24T07:51:34",
+      "text": "I'm haven't tried it though, may not work like this"
+    },
+    {
+      "date": "2023-02-24T07:55:24",
+      "text": "I highly respect all the efforts of digging deep into low level programming. But be wary of reinventing the wheel, especially when it is not necessary 🙂\nAnyway, Sigma sources is your best friend."
+    },
+    {
+      "date": "2023-02-24T07:59:17",
+      "text": "You need to look at SigmaBoolean.serializer and understand of how SigmaBoolean value is serialized. ProveDlog is one of the SigmaBoolean subclasses"
+    },
+    {
+      "date": "2023-02-24T08:00:09",
+      "text": "And you also can look at ContextExtensions serializer"
+    },
+    {
+      "date": "2023-02-24T08:01:10",
+      "text": "SigmaBoolean is a recursive data structure, you cannot skip its parsing easilly"
+    },
+    {
+      "date": "2023-02-24T08:03:29",
+      "text": "Look at the code, they are quite different."
+    },
+    {
+      "date": "2023-02-24T08:04:25",
+      "text": "SigmaBoolean is a boolean-like logic over sigma propositions."
+    },
+    {
+      "date": "2023-02-24T08:04:32",
+      "text": "Hence the name"
+    }
+  ]
+}

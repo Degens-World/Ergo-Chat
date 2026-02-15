@@ -1,0 +1,120 @@
+# Capt. Nemo
+
+**Total messages:** 17
+
+---
+
+**2021-12-31T10:29:45**
+
+https://github.com/capt-nemo429/nautilus-wallet/blob/master/src/mappers/assetLogoMapper.ts
+
+https://github.com/capt-nemo429/nautilus-wallet/tree/master/public/icons/assets
+
+---
+
+**2022-01-10T10:12:40**
+
+Do you mean the bip39 password?
+
+---
+
+**2022-01-10T10:14:12**
+
+What about something like “additional word” or “custom word”?
+
+---
+
+**2022-01-10T10:19:54**
+
+“Mnemonic extension” sounds good too
+
+---
+
+**2022-01-10T10:48:32**
+
+I’m going to use something like “mnemonic extension” with a tooltip with a brief explanation on Nautilus
+
+---
+
+**2022-08-26T08:45:52**
+
+What do you think about dropping address index? APIs can decode addresses on time and use ergoTree index to make queries.
+
+---
+
+**2022-08-26T08:50:16**
+
+For Nautilus, it is already ported to GraphQL. I need to query often for: Unspent boxes, balance, transactions history and mempool boxes.
+
+---
+
+**2022-08-26T08:52:15**
+
+No breaking changes here, when the api receives a query using address as a parameter, it will decode the address to its ErgoTree and perform the query
+
+---
+
+**2022-08-26T08:52:28**
+
+Just internal API changes are needed
+
+---
+
+**2022-08-26T09:09:42**
+
+Hmm, I see, can't they be replaced by ergoTree?
+
+Or maybe we can drop ergoTree index if it's more suitable. Address index is even more compact and I think that the cost of decoding an address is the same of encoding an ErgoTree.
+
+---
+
+**2022-08-26T09:10:38**
+
+I can adapt GraphQL server to that as well
+
+---
+
+**2022-08-26T09:12:23**
+
+Makes sense, less encoding work will be needed also
+
+---
+
+**2022-08-26T15:42:37**
+
+I agree, would be good to have a place for such discussions
+
+---
+
+**2022-09-26T13:02:24**
+
+https://github.com/capt-nemo429/fleet/blob/master/src/models/ergoAddress.ts#L183
+
+---
+
+**2023-09-27T08:10:15**
+
+### Nautilus Team Update
+
+- *Fleet SDK*
+  - ergographql-client package is mostly done, now adding unit tests.
+  - Added a custom fetch-based GraphQL client for the ergo-graphql client package, thus removing third part @urql/core dependency.
+
+- *Nautilus*
+  - v0.9.0 released.
+  - Improved signing flow for Ledger wallets.
+
+---
+
+**2023-10-12T11:41:51**
+
+Stealth addresses
+
+---
+
+**2023-12-06T06:02:31**
+
+Soon sir, already working on a major refactoring for manifest v3, but with a future mobile version in mind
+
+---
+

@@ -1,0 +1,74 @@
+# Sheetoshi
+
+**Total messages:** 7
+
+---
+
+**2025-07-16T22:45:05**
+
+hi I'm running node v5.0.25 and running into sync issues all of sudden. 
+
+I'm encountering the following errors within the logs...
+03:26:04.477 ERROR [f-indexer-dispatcher-5147] o.e.n.h.extra.IndexedToken - Box 48912586 not found in any segment of parent
+03:26:04.478 ERROR [f-indexer-dispatcher-5147] o.e.n.h.extra.IndexedToken - Box 48912586 not found in any segment of parent
+08:36:14.792 ERROR [f-indexer-dispatcher-5437] o.e.n.h.extra.ExtraIndexer - Unknown token d9a2cc8a09abfaed87afacfbb7daee79a6b26f10c6613fc13d3f3953e5521d1a
+19:33:12.233 ERROR [f-indexer-dispatcher-5920] o.e.n.h.extra.ExtraIndexer - Stopped extra indexer
+
+Any insight on what the root cause may be or if I can recover without having to resync?
+
+---
+
+**2025-07-17T00:31:49**
+
+going to resync so no worries
+
+---
+
+**2025-07-17T08:41:34**
+
+time to get on v6 😎
+
+---
+
+**2025-07-18T22:42:46**
+
+Took about 1.5 days to sync 6.0.0 full node on rasp pi vs 3+ days on 5.0.25. Nice!
+
+---
+
+**2025-11-25T11:54:44**
+
+hi I'm working on getting ergo explorer running locally atm. node and database have been synced but seeing a discrepancy with circulating supply on /info endpoint
+
+https://api.ergoplatform.com/info
+{
+  "version": "4",
+  "supply": 82428627000000000,
+  "transactionAverage": 6621,
+  "hashRate": 3403456708997
+}
+
+http://localhost:8080/api/v0/info
+{
+  "version": "4",
+  "supply": 93070680000000000,
+  "transactionAverage": 6635,
+  "hashRate": 3407998438071
+}
+
+is this data corruption or could it be due to something else?
+
+---
+
+**2025-11-25T12:27:56**
+
+does that mean it could be a version issue then?
+
+---
+
+**2025-11-26T09:04:57**
+
+EXPLORER_VERSION: 9.17.4
+
+---
+

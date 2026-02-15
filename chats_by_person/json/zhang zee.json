@@ -1,0 +1,358 @@
+{
+  "sender": "zhang zee",
+  "total_messages": 88,
+  "messages": [
+    {
+      "date": "2022-06-13T18:02:42",
+      "text": "hello, could anyone here help me ?I was wondering where can I test or debug my ergoscripts program?"
+    },
+    {
+      "date": "2022-06-13T19:03:12",
+      "text": "thank you sir"
+    },
+    {
+      "date": "2022-06-15T19:34:41",
+      "text": "is there any chinese developer here? need help with my ergoscript low-level question.can't properly describe them in english😂"
+    },
+    {
+      "date": "2022-06-15T22:50:38",
+      "text": "ok, In the ergoscript paper, the example of atomic exchange on a single blockchain. I think alice is the seller sells the token in exchange for ergo ,and bob is the buyer,but to in alice script,output is 60L token,while in bob script, output is 100 ergo. so when we sign the transaction with the two box as inputs,alice still get his token back,bob get 100ergo back ? do I misunderstand,or it's wrong in the paper?"
+    },
+    {
+      "date": "2022-06-15T22:56:17",
+      "text": "another question is propositionbytes of a box ,I don't know If I understand the right way. if the box is only belong to a individual,which can be described PK. the box propositionbytes is more like a property to tell whose box it is ,in which case box.propositionbytes== pk.propbytes?"
+    },
+    {
+      "date": "2022-06-15T22:58:52",
+      "text": "and the emission contract, does the genesis box have to be signed at every block? it's signed onchain or offchain?"
+    },
+    {
+      "date": "2022-06-15T23:00:29",
+      "text": "sorry to bring so many trivial questions"
+    },
+    {
+      "date": "2022-09-02T06:11:41",
+      "text": "19:11:03.689 INFO  [ctor.default-dispatcher-5] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(unknown,0.0.1,unknown-/37.156.20.158:9020,Some(/37.156.20.158:9020),Vector()),0,None)\n19:11:04.067 INFO  [ctor.default-dispatcher-5] s.c.n.NetworkController - Failed to connect to : /37.156.20.158:9020\njava.net.ConnectException: Connection refused\n  at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)\n  at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:777)\n  at akka.io.TcpOutgoingConnection$$anonfun$connecting$1.$anonfun$applyOrElse$4(TcpOutgoingConnection.scala:111)\n  at akka.io.TcpOutgoingConnection.akka$io$TcpOutgoingConnection$$reportConnectFailure(TcpOutgoingConnection.scala:53)\n  at akka.io.TcpOutgoingConnection$$anonfun$connecting$1.applyOrElse(TcpOutgoingConnection.scala:111)\n  at akka.actor.Actor.aroundReceive(Actor.scala:537)\n  at akka.actor.Actor.aroundReceive$(Actor.scala:535)\n  at akka.io.TcpConnection.aroundReceive(TcpConnection.scala:33)\n  at akka.actor.ActorCell.receiveMessage(ActorCell.scala:577)\n  at akka.actor.ActorCell.invoke(ActorCell.scala:547)\n  at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:270)\n  at akka.dispatch.Mailbox.run(Mailbox.scala:231)\n  at akka.dispatch.Mailbox.exec(Mailbox.scala:243)\n  at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n  at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020)\n  at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)\n  at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)\n  at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n19:11:08.710 INFO  [ctor.default-dispatcher-5] s.c.n.NetworkController - Connecting to peer: PeerInfo(PeerSpec(unknown,0.0.1,unknown-/213.239.193.208:9020,Some(/213.239.193.208:9020),Vector()),0,None)\n19:11:09.055 INFO  [ctor.default-dispatcher-5] s.c.n.NetworkController - Failed to connect to : /213.239.193.208:9020"
+    },
+    {
+      "date": "2022-09-02T06:11:58",
+      "text": "trying to setup a ergo testnet node locally"
+    },
+    {
+      "date": "2022-09-02T06:12:07",
+      "text": "has anyone met this problem?"
+    },
+    {
+      "date": "2022-09-02T06:12:34",
+      "text": "ping the peers seems ok"
+    },
+    {
+      "date": "2022-09-02T06:13:11",
+      "text": "4.0.41"
+    },
+    {
+      "date": "2022-09-02T06:13:54",
+      "text": "I use openjdk-11-jre"
+    },
+    {
+      "date": "2022-09-02T06:14:00",
+      "text": "would this be ok?"
+    },
+    {
+      "date": "2022-09-02T06:14:14",
+      "text": "thank you"
+    },
+    {
+      "date": "2022-09-02T06:14:50",
+      "text": "this version?"
+    },
+    {
+      "date": "2022-09-02T06:19:20",
+      "text": "also if I need to revise the peers port to 9021?"
+    },
+    {
+      "date": "2022-09-02T06:22:57",
+      "text": "but I don't know why they still connect 9020 after I change the port to 9021"
+    },
+    {
+      "date": "2022-09-02T06:27:21",
+      "text": "ok it's my wrongdoing"
+    },
+    {
+      "date": "2022-09-02T19:55:37",
+      "text": "can someone good heart sends me some testnet ergo"
+    },
+    {
+      "date": "2022-09-02T19:55:39",
+      "text": "3Wyo9cARuCzq5VpyrKUaVqNbYSRqMnM3JbqimaVUBcUCh4q5arBw"
+    },
+    {
+      "date": "2022-09-02T19:55:53",
+      "text": "i have trouble using ergofaucet because network"
+    },
+    {
+      "date": "2022-09-03T02:45:00",
+      "text": "😭😭"
+    },
+    {
+      "date": "2022-09-03T03:55:59",
+      "text": "+8"
+    },
+    {
+      "date": "2022-09-03T03:56:21",
+      "text": "beijing time"
+    },
+    {
+      "date": "2022-09-03T03:58:30",
+      "text": "and my local testnet node stuck here"
+    },
+    {
+      "date": "2022-09-03T03:58:51",
+      "text": "won't download the block infomation"
+    },
+    {
+      "date": "2022-09-03T04:27:03",
+      "text": "last valid date is 31.8.2022"
+    },
+    {
+      "date": "2022-09-03T04:27:27",
+      "text": "🤣no wonder I can not see the ergs you sent me"
+    },
+    {
+      "date": "2022-09-03T06:53:51",
+      "text": "frustrating"
+    },
+    {
+      "date": "2022-09-03T12:45:56",
+      "text": "mine is stucked"
+    },
+    {
+      "date": "2022-09-03T12:46:04",
+      "text": "testnet node"
+    },
+    {
+      "date": "2022-09-03T12:47:27",
+      "text": "your testnet?"
+    },
+    {
+      "date": "2022-09-03T12:47:50",
+      "text": "noice"
+    },
+    {
+      "date": "2022-09-03T12:49:19",
+      "text": "how can i use nautilus to connect ？"
+    },
+    {
+      "date": "2022-09-03T12:50:27",
+      "text": "im using nautilus testnet version"
+    },
+    {
+      "date": "2022-09-03T12:52:09",
+      "text": "ok  i need to do some research"
+    },
+    {
+      "date": "2022-09-03T12:53:34",
+      "text": "is this okay to use official testnet keys in your testnet"
+    },
+    {
+      "date": "2022-09-03T12:54:29",
+      "text": "okay address compatible"
+    },
+    {
+      "date": "2022-09-03T12:55:24",
+      "text": "but i see testnet address and mainnet address quite different at begining letters"
+    },
+    {
+      "date": "2022-09-03T12:56:26",
+      "text": "mainnet address starts with 9h,9i"
+    },
+    {
+      "date": "2022-09-03T12:56:40",
+      "text": "testnet does not"
+    },
+    {
+      "date": "2022-09-03T12:59:32",
+      "text": "i will sync your node tommorow,thank you very much."
+    },
+    {
+      "date": "2022-09-03T20:50:06",
+      "text": "how to mine on your own node?"
+    },
+    {
+      "date": "2022-09-03T20:51:44",
+      "text": "your node work functionally MGpai"
+    },
+    {
+      "date": "2022-09-03T22:03:16",
+      "text": "3Wyo9cARuCzq5VpyrKUaVqNbYSRqMnM3JbqimaVUBcUCh4q5arBw"
+    },
+    {
+      "date": "2022-09-03T22:03:32",
+      "text": "mgpai ,would you send me some ergs on your testnet?"
+    },
+    {
+      "date": "2022-09-03T22:04:36",
+      "text": "I failed setuping my mining server😢"
+    },
+    {
+      "date": "2022-09-03T22:28:48",
+      "text": "3WwJVzygjrKvdKGDUZSyZdemuK5F4xiQQFtauuHyd59tsC3k1bYp"
+    },
+    {
+      "date": "2022-09-03T22:28:54",
+      "text": "mgpai this address"
+    },
+    {
+      "date": "2022-09-03T22:28:58",
+      "text": "plz"
+    },
+    {
+      "date": "2022-09-04T04:36:09",
+      "text": "MGpai.  sir ,where to find  my address?"
+    },
+    {
+      "date": "2022-09-04T04:39:06",
+      "text": "my testnet address seems not the right form on your testnet"
+    },
+    {
+      "date": "2022-09-04T04:39:23",
+      "text": "my official testnet one"
+    },
+    {
+      "date": "2022-09-04T05:26:52",
+      "text": "what contract you are sending to?"
+    },
+    {
+      "date": "2022-09-04T05:27:21",
+      "text": "you means the erg along with comet?"
+    },
+    {
+      "date": "2022-09-12T01:00:47",
+      "text": "how to refer to oracle pools? the box have pool nft  has the current price?"
+    },
+    {
+      "date": "2022-09-12T01:02:44",
+      "text": "{\"items\":[{\"boxId\":\"58e24ddfaa693cd93969eb138bf6d33e43075545ef68519d90d3744b024b722e\",\"transactionId\":\"2ad78306c714b047cd35b00b882e2450fa67fac5f65c76004e820ca8ba9f0bce\",\"blockId\":\"bf64cc2825c351ac9b5a4b194f229cbeab96fe3442ce36f7d3fba402193f8cb9\",\"value\":6971000000,\"index\":0,\"globalIndex\":21521871,\"creationHeight\":836715,\"settlementHeight\":836717,\"ergoTree\":\"1014040004000e208c27dd9d8a35aac1e3167d58858c0a8b4059b277da790552e37eba22df9b903504000400040204020101040205a0c21e040204080500040c040204a0c21e0402050a05c8010402d806d601b2a5730000d602b5db6501fed9010263ed93e4c67202050ec5a7938cb2db63087202730100017302d603b17202d604e4c6b272027303000605d605d90105049590720573047204e4c6b272029972057305000605d606b07202860273067307d901063c400163d803d6088c720601d6098c720801d60a8c72060286029a72097308ededed8c72080293c2b2a5720900d0cde4c6720a040792c1b2a5720900730992da720501997209730ae4c6720a0605ea02d1ededededededed93cbc27201e4c6a7060e927203730b93db63087201db6308a793e4c6720104059db07202730cd9010741639a8c720701e4c68c72070206057e72030593e4c6720105049ae4c6a70504730d92c1720199c1a77e9c9a7203730e730f058c72060292da720501998c72060173109972049d9c720473117312b2ad7202d9010763cde4c672070407e4c6b2a5731300040400\",\"address\":\"NTkuk55NdwCXkF1e2nCABxq7bHjtinX3wH13zYPZ6qYT71dCoZBe1gZkh9FAr7GeHo2EpFoibzpNQmoi89atUjKRrhZEYrTapdtXrWU4kq319oY7BEWmtmRU9cMohX69XMuxJjJP5hRM8WQLfFnffbjshhEP3ck9CKVEkFRw1JDYkqVke2JVqoMED5yxLVkScbBUiJJLWq9BSbE1JJmmreNVskmWNxWE6V7ksKPxFMoqh1SVePh3UWAaBgGQRZ7TWf4dTBF5KMVHmRXzmQqEu2Fz2yeSLy23sM3pfqa78VuvoFHnTFXYFFxn3DNttxwq3EU3Zv25SmgrWjLKiZjFcEcqGgH6DJ9FZ1DfucVtTXwyDJutY3ksUBaEStRxoUQyRu4EhDobixL3PUWRcxaRJ8JKA9b64ALErGepRHkAoVmS8DaE6VbroskyMuhkTo7LbrzhTyJbqKurEzoEfhYxus7bMpLTePgKcktgRRyB7MjVxjSpxWzZedvzbjzZaHLZLkWZESk1WtdM25My33wtVLNXiTvficEUbjA23sNd24pv1YQ72nY1aqUHa2\",\"assets\":[{\"tokenId\":\"011d3364de07e5a26f0c4eef0852cddb387039a921b7154ef3cab22c6eda887f\",\"index\":0,\"amount\":1,\"name\":\"ERGUSD-NFT\",\"decimals\":0,\"type\":\"EIP-004\"}],\"additionalRegisters\":{\"R4\":{\"serializedValue\":\"058cae88e301\",\"sigmaType\":\"SLong\",\"renderedValue\":\"238095238\"},\"R5\":{\"serializedValue\":\"04e69166\",\"sigmaType\":\"SInt\",\"renderedValue\":\"836723\"},\"R6\":{\"serializedValue\":\"0e20f7ef73c4a4ab91b84bb0a2905108d534114472ec057be3a57a9dfc9b1fbd85c1\",\"sigmaType\":\"Coll[SByte]\",\"renderedValue\":\"f7ef73c4a4ab91b84bb0a2905108d534114472ec057be3a57a9dfc9b1fbd85c1\"}},\"spentTransactionId\":null,\"mainChain\":true}],\"total\":1}"
+    },
+    {
+      "date": "2022-09-12T01:02:50",
+      "text": "current price is 4.2"
+    },
+    {
+      "date": "2022-09-12T01:03:04",
+      "text": "which register store?"
+    },
+    {
+      "date": "2022-09-12T01:03:13",
+      "text": "R4?"
+    },
+    {
+      "date": "2022-09-12T01:04:02",
+      "text": "but it's rendered value is not even close"
+    },
+    {
+      "date": "2022-09-12T01:13:42",
+      "text": "thankyou sir ,specifically  r4 is the price?"
+    },
+    {
+      "date": "2022-09-12T02:14:02",
+      "text": "thank you very much"
+    },
+    {
+      "date": "2022-09-12T05:32:21",
+      "text": "hello, using appkit to mint token,how to get tokenId?"
+    },
+    {
+      "date": "2022-09-12T05:35:58",
+      "text": "the example in ergodoc or elsewhere?"
+    },
+    {
+      "date": "2022-09-12T06:08:57",
+      "text": "thanks,sir,  that works"
+    },
+    {
+      "date": "2022-09-16T02:10:45",
+      "text": "how to use fold in ergoscript if I have A = [1,2,3,4,5],I want to sum them all"
+    },
+    {
+      "date": "2022-09-16T02:11:10",
+      "text": "trivial question,but needs your help,plz"
+    },
+    {
+      "date": "2022-09-16T02:15:13",
+      "text": "is fold function here kind of same to reduce function?"
+    },
+    {
+      "date": "2022-09-16T02:16:13",
+      "text": "thank you very  much ,cheese"
+    },
+    {
+      "date": "2022-09-16T02:57:01",
+      "text": "by the way ,is there any ocacle build documents? is it possible to build a match results feed oracle, where I can get the footballs matches result onchain."
+    },
+    {
+      "date": "2022-09-16T02:57:28",
+      "text": "just asking for curiosity"
+    },
+    {
+      "date": "2022-09-16T05:20:57",
+      "text": "thank you greenhat. very helpful"
+    },
+    {
+      "date": "2022-10-03T21:22:33",
+      "text": "mgpai,goodwork"
+    },
+    {
+      "date": "2022-11-30T20:34:05",
+      "text": "so when the smartcontract was deployed onchain,it was digested to an address or something, there's no way to review the ergoscript except for the developer reveals their code?"
+    },
+    {
+      "date": "2022-11-30T20:34:36",
+      "text": "through the information that expolorer provides"
+    },
+    {
+      "date": "2022-11-30T21:00:26",
+      "text": "thankyou could  you show a simple example of ergotree to figure out what's going on?for example pinlock contract"
+    },
+    {
+      "date": "2022-11-30T21:01:00",
+      "text": "as far as I can understand ergo tree is some sorta string  that's unreadable"
+    },
+    {
+      "date": "2022-11-30T21:06:30",
+      "text": "so I'm trying to know if ergoscript can be public audited"
+    },
+    {
+      "date": "2022-11-30T21:07:13",
+      "text": "thankyou,I will try to"
+    },
+    {
+      "date": "2022-11-30T21:08:42",
+      "text": "I'd appreciate that"
+    },
+    {
+      "date": "2022-11-30T21:09:06",
+      "text": "so cardano is same with ergo in this part?"
+    },
+    {
+      "date": "2022-11-30T21:11:29",
+      "text": "they have this"
+    },
+    {
+      "date": "2022-11-30T21:12:29",
+      "text": "but I think it's kinda hard to put exact script on explorer,because there's so many rendered value in ergoscript😂"
+    },
+    {
+      "date": "2022-11-30T21:14:50",
+      "text": "yes,one parameter changed, the contract address changed.but thank you very much cheese"
+    },
+    {
+      "date": "2023-08-11T21:30:27",
+      "text": "is there a equation that how many liquidity token I can get when I diposit x and y token"
+    },
+    {
+      "date": "2023-08-11T21:30:41",
+      "text": "using spf protocal"
+    }
+  ]
+}

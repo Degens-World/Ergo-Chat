@@ -1,0 +1,24 @@
+=== Chat history for: Кирилл ===
+=== Total messages: 7 ===
+
+[2023-07-13T08:48:35]
+Hello! How can i get some testnet coins on faucet? I get 502 gateway error (https://testnet.ergofaucet.org/)
+
+[2023-07-13T09:09:36]
+Thank you!
+
+[2023-07-13T11:30:39]
+Is there any method to get raw transaction in serialized form (hex bytes) using Node API?
+
+[2023-07-13T11:31:49]
+I've tried this code in go, but resulting transaction can't be validated by /validateBytes method: https://github.com/pepenger/ergo-golang/blob/2523795a77e6e0b433e3e933c917c1e4ec0c628f/pkg/transaction/transaction.go#L306
+
+[2023-07-13T11:47:42]
+I want ot get the size of the transaction to use it on the getrecommendedfee method
+
+[2023-07-13T12:03:09]
+Yes, but appkit is for Java/Kotlin
+
+[2023-07-13T12:26:09]
+I want to use Go)
+
